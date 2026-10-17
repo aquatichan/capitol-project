@@ -1,0 +1,31 @@
+name,lat,lon,type,osm
+Chambers Academy,32.872627,-85.407448,school,node/358908320
+Drew Junior High School,32.84624,-85.20272,school,node/358910381
+Phillips High School,33.011512,-85.348836,school,node/358923689
+W.F.Burns Middle School,32.806519,-85.19633,school,node/358925837
+Valley High School,32.802352,-85.18133,school,node/358930930
+Chambers County High School,33.054011,-85.487452,school,node/358947764
+Five Points High School,33.017345,-85.34328,school,node/358947835
+Huguley Elementary School,32.834573,-85.228554,school,node/358947857
+Lafayette High School,32.899571,-85.396615,school,node/358947870
+Valley Haven School,32.807907,-85.210219,school,node/358947989
+Waverly Public School,32.735963,-85.581341,school,node/358969078
+Fairfax Elementary School,32.791241,-85.186885,school,node/358980810
+Lafayette-Lanier Elementary School,32.813484,-85.171983,school,node/358980826
+Lanett Central Elementary School,32.86735,-85.193831,school,node/358980829
+Lanett South Elementary School,32.861239,-85.192442,school,node/358980841
+Riverview Elementary School,32.79013,-85.164662,school,node/358980859
+Shawmut Elementary School,32.839851,-85.184941,school,node/358980871
+Southside School,32.88846,-85.395781,school,node/358981275
+Cusseta School,32.792352,-85.311334,school,node/358996383
+Plainview School,32.840405,-85.524396,school,node/358996570
+Eastside Elementary School,32.897904,-85.394392,school,node/358998712
+Standing Rock Community Center,33.07883,-85.252348,community_centre,node/9560821798
+Lafayette Pilot Public Library,32.897744,-85.39994,library,node/13667110141
+Lanett High School,32.855779,-85.197609,school,way/133168879
+Lanier High School,32.873263,-85.199539,school,way/133171270
+School (w330177433),32.872963,-85.406211,school,way/330177433
+Fire Station (w585747804),32.815549,-85.184357,fire_station,way/585747804
+School (w585748914),32.80915,-85.199469,school,way/585748914
+School (w991342334),32.839549,-85.18482,school,way/991342334
+Valley - H. Grady Bradshaw Chambers County Library,32.837991,-85.17797,library,way/1347337129

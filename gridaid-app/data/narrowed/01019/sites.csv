@@ -1,0 +1,21 @@
+name,lat,lon,type,osm
+Hatcher High School,34.15954,-85.686076,school,node/358914690
+Livingston Junior High School,34.142319,-85.761077,school,node/358918867
+Rinehart Junior High School,34.369812,-85.55524,school,node/358926143
+Alexis School,34.179262,-85.511904,school,node/358949490
+Cedar Bluff High School,34.219539,-85.604129,school,node/358949527
+Centre Elementary School,34.150096,-85.670242,school,node/358949542
+Centre Middle School,34.150929,-85.676908,school,node/358949544
+Cherokee County High School,34.163462,-85.659178,school,node/358949547
+Cherokee County Training School,34.222316,-85.609685,school,node/358949551
+Five Points School,34.491475,-85.521351,school,node/358949587
+Gaylesville High School,34.270926,-85.560239,school,node/358949597
+Sand Rock High School,34.240927,-85.767467,school,node/358949733
+Hardin Junior High School,34.097597,-85.498292,school,node/358998814
+Spring Garden High School,33.985378,-85.54246,school,node/358999133
+Cedar Bluff Fire Department,34.219678,-85.607989,fire_station,node/13946887611
+Centre Middle School,34.136128,-85.651208,school,way/355604852
+Cherokee County High School,34.164189,-85.657602,school,way/557483925
+Sand Rock Fire Department,34.238572,-85.767418,fire_station,way/1254210908
+Leesburg Fire Department,34.17933,-85.761403,fire_station,way/1254222094
+Cherokee County Public Library,34.149452,-85.676701,library,way/1347342989

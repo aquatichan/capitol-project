@@ -1,0 +1,1721 @@
+name,lat,lon,type,osm
+Bible Institute of Texas,29.682729,-95.141599,school,node/356700138
+Burnet School,29.750783,-95.031874,school,node/356701204
+Corpus Christi School,29.674675,-95.44133,school,node/356702796
+Dominion Montessori School,29.736062,-95.379661,school,node/356704784
+Fannin School,29.744968,-95.378949,school,node/356705541
+Harris County Youth Village,29.570494,-95.067932,school,node/356707514
+Lanier Junior High School,29.741918,-95.405087,school,node/356709720
+Montrose School,29.738032,-95.389084,school,node/356711547
+Our Lady of Fatima School,29.739512,-95.238421,school,node/356714070
+Pilgrim School,29.687392,-95.475306,school,node/356718805
+Saint Augustine School,29.678563,-95.237157,school,node/356720554
+Saint Frances Cabrini School,29.636376,-95.22214,school,node/356720569
+Saint James School,29.717174,-95.367438,school,node/356720610
+Saint Josephs School,29.725227,-95.001873,school,node/356720880
+Saint Mary School,29.719674,-95.368272,school,node/356720982
+Saint Pius V School,29.699254,-95.210102,school,node/356721095
+Mary Immaculate Preschool,29.906335,-95.479107,school,node/356743886
+Sacred Heart School,29.912166,-95.05854,school,node/356744852
+Christ the King School,29.794555,-95.379102,school,node/356749338
+Elmore High School,29.809393,-95.275213,school,node/356749553
+Johnson Memorial School,29.832261,-95.44864,school,node/356749880
+Memorial Hall School,29.798839,-95.511053,school,node/356750128
+Messiah School,29.768561,-95.412995,school,node/356750147
+Our Mother of Mercy School,29.780505,-95.329104,school,node/356750302
+Resurrection School,29.771894,-95.302436,school,node/356750404
+Assumption Catholic School,29.871891,-95.386882,school,node/356750476
+Saint Ambrose School,29.828837,-95.463274,school,node/356750477
+Saint Cecilias School,29.778839,-95.529943,school,node/356750478
+Saint Charles School,29.847562,-95.368914,school,node/356750480
+Saint Francis of Assisi School,29.80606,-95.310214,school,node/356750517
+Saint Mark School,29.79745,-95.494386,school,node/356750538
+Saint Rose of Lima School,29.819949,-95.415217,school,node/356750557
+Saint Theresa School,29.773267,-95.430293,school,node/356750558
+Settegast School,29.808837,-95.27688,school,node/356750641
+Spring Branch High School,29.795506,-95.511331,school,node/356750700
+Houston School,29.717718,-94.979094,school,node/356751590
+Elmore Middle School,29.810226,-95.276046,school,node/356797671
+Mickey Leland College Preparatory Academy for Young Men,29.776635,-95.334664,school,node/356798732
+Barbara Jordan High School,29.815789,-95.333936,school,node/356799014
+Alamo Elementary School,29.747449,-94.961594,school,node/356799273
+Alcott Elementary School,29.667152,-95.32972,school,node/356799279
+Alief Montessori Community School,29.712731,-95.591889,school,node/356799298
+McCardell Academy,29.771894,-95.341882,school,node/356801383
+Langston Early Child Development Center,29.78303,-95.341392,school,node/356801468
+Houston Gardens Elementary School,29.820694,-95.301091,school,node/356802075
+Impact Charter School,29.638288,-95.501054,school,node/356802113
+James B Havard Elementary School,29.806059,-95.195489,school,node/356802183
+Harvey Turner Elementary School,29.650381,-95.166364,school,node/356802540
+High Point Alternative School - Sheldon,29.84059,-95.185197,school,node/356802614
+Girls and Boys Prep Academy,29.65602,-95.525198,school,node/356802620
+Endeavor Schools,29.791429,-95.124788,school,node/356802683
+George I Sanchez - Alternative School,29.743006,-95.317993,school,node/356803034
+Spring Branch Education Center,29.794507,-95.511274,school,node/356805034
+Spring Branch School of Choice,29.794755,-95.511455,school,node/356805047
+Ser - Ninos Charter Elementary School,29.709119,-95.480775,school,node/356805153
+Shadowbriar Middle School,29.73777,-95.598866,school,node/356805176
+Ripley House Alternative School,29.751496,-95.32882,school,node/356805241
+Royalwood Elementary School,29.837447,-95.187988,school,node/356805276
+Sandpoint Elementary School,29.721063,-95.552999,school,node/356805323
+Raul Yzaguirre School for Success,29.665786,-95.310492,school,node/356805380
+High School for the Performing & Visual Arts,29.736959,-95.388426,school,node/356805489
+Oates Elementary School,29.793282,-95.256046,school,node/356805596
+Mount Hebron Academy,29.674675,-95.353827,school,node/356805694
+Saint Thomas the Apostle Episcopal School,29.545697,-95.088304,school,node/356859368
+Bay Area Montessori School House,29.550522,-95.116665,school,node/356859498
+Westminster Academy,29.548199,-95.115172,school,node/356859842
+Gloria Dei Christian School,29.547965,-95.089527,school,node/356859921
+Houston Learning Academy,29.536654,-95.11803,school,node/356860086
+Lord of Life Lutheran School,29.551301,-95.184,school,node/356860103
+Galloway Upper School,29.55037,-95.1169,school,node/356860269
+Baytown Christian Academy,29.7779,-94.9711,school,node/356866950
+Crosby Kindergarten,29.9122,-95.0539,school,node/356867026
+Lunar and Planetary Institute Rice University,29.5615,-95.0752,school,node/356867239
+Lunar Science Institute Rice University,29.561,-95.0747,school,node/356867243
+Memorial Hall School,29.811391,-95.465927,school,node/356867250
+Pasadena Fire Chief,29.713298,-95.201743,fire_station,node/368160241
+Houston Fire Department Station 9,29.776231,-95.360445,fire_station,node/368160461
+Highlands Volunteer Fire Department Station 2,29.819715,-95.027246,fire_station,node/368160626
+City of Southside Place Fire Department,29.714658,-95.433589,fire_station,node/368160634
+Crosby Fire Department Station 1,29.907289,-95.064697,fire_station,node/368160649
+Cy - Fair Volunteer Fire Department Station 5,29.839416,-95.642573,fire_station,node/368160694
+Humble Fire Marshal's Office,29.999112,-95.267036,fire_station,node/368160715
+Klein Volunteer Fire Department Station 2,29.99357,-95.490735,fire_station,node/368160719
+Pasadena Fire Department Station 2,29.703864,-95.200721,fire_station,node/368160736
+Pasadena Fire Department Station 3,29.69247,-95.170028,fire_station,node/368160737
+Alief Community Volunteer Fire Department,29.700477,-95.667627,fire_station,node/368160748
+Channelview Volunteer Fire Department Station 1,29.777245,-95.114253,fire_station,node/368160752
+Cy - Fair Volunteer Fire Department Station 9,29.892487,-95.639357,fire_station,node/368160756
+West I - 10 Volunteer Fire Department Station 2,29.77388,-95.729562,fire_station,node/368160759
+La Porte Fire Department Station 1,29.664292,-95.021609,fire_station,node/368160765
+Ponderosa Volunteer Fire Department,30.014207,-95.454748,fire_station,node/368160771
+Pasadena Fire Protection Service,29.687496,-95.207792,fire_station,node/368160772
+Champions Volunteer Fire Department,29.977455,-95.510857,fire_station,node/368160776
+Deer Park Fire Department,29.699574,-95.124223,fire_station,node/368160778
+Galena Park Fire Department Station 1,29.734151,-95.238774,fire_station,node/368160779
+Houston Fire Department Station 70,29.601941,-95.229118,fire_station,node/368160787
+South Houston Fire Department,29.665489,-95.238868,fire_station,node/368160790
+Jersey Village Fire Department,29.884308,-95.571298,fire_station,node/368160791
+Jacinto Fire Department,29.769051,-95.247866,fire_station,node/368160793
+Tomball Fire Department,30.09545,-95.616562,fire_station,node/368160802
+Cy - Fair Volunteer Fire Department Station 3,29.949031,-95.64936,fire_station,node/368160871
+Aldine Fire & Rescue - Logistics Center,29.933759,-95.373352,fire_station,node/368160886
+Sheldon Community Volunteer Fire / Rescue Station 2,29.858446,-95.136586,fire_station,node/368160903
+Northeast Fire / Rescue Department,30.016533,-95.306385,fire_station,node/368160911
+Seabrook Volunteer Fire Department,29.564918,-95.052116,fire_station,node/368160915
+Community Volunteer Fire Department,29.709727,-95.652544,fire_station,node/368160917
+Cypress Creek Fire Department - Station 22,29.952709,-95.600009,fire_station,node/368160918
+Baytown Fire Department Station 1,29.776632,-94.978067,fire_station,node/368160950
+Baytown Fire Department Station 2,29.728899,-94.996598,fire_station,node/368160951
+Baytown Fire Department Station 3,29.767493,-94.927365,fire_station,node/368160952
+Baytown Fire Department Station 5,29.77075,-95.031557,fire_station,node/368160954
+Webster Fire Department,29.533536,-95.114849,fire_station,node/368160972
+West I - 10 Volunteer Fire Department Station 5,29.827773,-95.720399,fire_station,node/368160976
+Pasadena Fire Department Station 4,29.683862,-95.207979,fire_station,node/368160981
+Highlands Volunteer Fire Department Station 1,29.815672,-95.058087,fire_station,node/368160982
+Nassau Bay Volunteer Fire Department,29.551823,-95.084789,fire_station,node/368160985
+Forest Bend Volunteer Fire Department Station 1,29.531611,-95.161152,fire_station,node/368161059
+Pasadena Fire Department Station 5,29.67204,-95.16328,fire_station,node/368161061
+Houston Fire Department Station 34,29.840194,-95.338847,fire_station,node/368161066
+Houston Fire Department Station 35,29.6741,-95.338,fire_station,node/368161067
+Houston Fire Department Station 38,29.790187,-95.467744,fire_station,node/368161070
+Houston Fire Department Station 40,29.710158,-95.320858,fire_station,node/368161072
+Houston Fire Department Station 25,29.71865,-95.353367,fire_station,node/368161073
+Houston Fire Department Station 29,29.684,-95.253706,fire_station,node/368161077
+Houston Fire Department Station 17,29.756991,-95.341345,fire_station,node/368161081
+Houston Fire Department Station 19,29.777217,-95.336118,fire_station,node/368161083
+Houston Fire Department Station 20,29.744118,-95.30085,fire_station,node/368161086
+Houston Fire Department Station 6,29.769581,-95.394261,fire_station,node/368161089
+Houston Fire Department Station 12,29.794641,-95.35287,fire_station,node/368161093
+Klein Volunteer Fire Department Station 5,30.096528,-95.542596,fire_station,node/368161105
+Klein Volunteer Fire Department Station 3,30.016106,-95.566038,fire_station,node/368161107
+Klein Volunteer Fire Department Station 4,30.015154,-95.530111,fire_station,node/368161108
+West University Place Fire Department,29.714956,-95.43805,fire_station,node/368161110
+Rosehill Fire Department,30.080585,-95.717791,fire_station,node/368161112
+Cy - Fair Volunteer Fire Department Station 10,29.910774,-95.58955,fire_station,node/368161113
+Cy - Fair Volunteer Fire Department Station 6,29.868879,-95.608035,fire_station,node/368161117
+Cy - Fair Volunteer Fire Department Station 8,29.880312,-95.687443,fire_station,node/368161118
+Channelview Volunteer Fire Department Station 2,29.7889,-95.118966,fire_station,node/368161126
+Cloverleaf Fire Department Station 1,29.779038,-95.171278,fire_station,node/368161128
+Pasadena Fire Marshal's Office,29.713298,-95.201743,fire_station,node/368161138
+Houston Fire Department Station 54,29.996079,-95.361902,fire_station,node/368161198
+Houston Fire Department Station 55,29.637559,-95.35617,fire_station,node/368161199
+Houston Fire Department Station 41,29.773904,-95.281902,fire_station,node/368161201
+Houston Fire Department Station 42,29.743591,-95.272695,fire_station,node/368161202
+Houston Fire Department Station 46,29.68593,-95.364345,fire_station,node/368161206
+Houston Fire Department Station 66,29.851974,-95.53989,fire_station,node/368161209
+Houston Fire Department - Station 65,30.020576,-95.103093,fire_station,node/368161210
+Houston Fire Department Station 67,29.863751,-95.436052,fire_station,node/368161212
+Houston Fire Department Station 73,29.672776,-95.570828,fire_station,node/368161215
+Houston Fire Department Station 60,29.733183,-95.524841,fire_station,node/368161219
+Houston Fire Department Station 61,29.625383,-95.267082,fire_station,node/368161225
+Houston Fire Department - Station 64,29.950897,-95.342067,fire_station,node/368161226
+Houston Fire Department Station 63,29.98439,-95.309467,fire_station,node/368161227
+Houston Fire Department Station 93,29.589898,-95.180531,fire_station,node/368161228
+Houston Fire Department Station 92,29.981045,-95.326089,fire_station,node/368161229
+Houston Fire Department Station 86,29.756287,-95.637845,fire_station,node/368161230
+Houston Fire Department Station 90,29.788928,-95.669493,fire_station,node/368161231
+Houston Fire Department Station 101,30.051614,-95.2277,fire_station,node/368161232
+Houston Fire Department Station 99,29.975504,-95.356976,fire_station,node/368161235
+Houston Fire Department Station 77,29.822347,-95.543816,fire_station,node/368161236
+Houston Fire Department Station 74,29.931589,-95.391541,fire_station,node/368161238
+Houston Fire Department Station 81,29.641458,-95.278509,fire_station,node/368161243
+Pasadena Fire Department Station 7,29.64042,-95.185074,fire_station,node/368161244
+Houston Fire Department Station 104,30.029376,-95.238568,fire_station,node/368161246
+Houston Fire Department Station 102,30.065687,-95.186989,fire_station,node/368161247
+Pasadena Fire Department Station 9,29.600077,-94.991374,fire_station,node/368161250
+Pasadena Fire Department Station 8,29.648734,-95.143086,fire_station,node/368161251
+Channelview Volunteer Fire Department,29.7767,-95.1141,fire_station,node/368161263
+South Houston Fire Station,29.666,-95.2391,fire_station,node/368161265
+Southeast Volunteer Fire Department,29.5866,-95.1975,fire_station,node/368161267
+City of Morgans Point Fire Department,29.6714,-95.0067,fire_station,node/368161271
+City of Deer Park Fire Department,29.6981,-95.1235,fire_station,node/368161272
+City of Jacinto Fire Department,29.7691,-95.2477,fire_station,node/368161275
+City of Piney Point Village Fire Department,29.7821,-95.5129,fire_station,node/368161280
+Fire Station Number 2,29.6308,-95.5208,fire_station,node/368161284
+Cy Fair Volunteer Fire Department,29.892394,-95.63955,fire_station,node/368161288
+Cy-Fair Volunteer Fire Station 3,29.9493,-95.6494,fire_station,node/368161289
+Highlands Volunteer Fire Department,29.8193,-95.0261,fire_station,node/368161293
+Harris County Fire Department,29.9412,-95.3957,fire_station,node/368161295
+Galena Park Fire Station,29.7341,-95.2383,fire_station,node/368161297
+Houston Fire Station Number 38,29.790191,-95.467704,fire_station,node/368161300
+Houston Fire Station Number 41,29.7733,-95.2826,fire_station,node/368161328
+Houston Fire Station Number 55,29.6402,-95.3568,fire_station,node/368161333
+Sheldon Community Volunteer Fire and Rescue Station,29.858331,-95.1366,fire_station,node/368161400
+Humble City Fire Department,29.998942,-95.266383,fire_station,node/368161434
+Little York Volunteer Fire Department,29.8894,-95.4001,fire_station,node/368161440
+Chaparral Genealogical Society Library,30.0997,-95.611,library,node/368161944
+Crosby Library,29.9207,-95.0634,library,node/368161949
+South Houston Public Library,29.666886,-95.224255,library,node/368161992
+Stratford Branch Library,29.821305,-95.062818,library,node/368161997
+Atascocita Library,30.004595,-95.15424,library,node/368162005
+Mae Hilty Memorial Library,29.665,-95.1499,library,node/368162115
+Klein Volunteer Fire Department Station 6,30.034845,-95.610775,fire_station,node/462587072
+CY-Fair VFD Station 11,29.908182,-95.696819,fire_station,node/1128966918
+"Harris County Public Library, CyFair branch",29.910037,-95.692368,library,node/1128969435
+Southeast Volunteer Fire Department,29.581601,-95.216283,fire_station,node/1146654488
+Fire Station (n1799737985),30.044469,-95.481626,fire_station,node/1799737985
+Big Little School,29.789451,-95.486024,school,node/1920554546
+School of the Woods,29.793673,-95.48552,school,node/1935628499
+HAM-TMC Library,29.711878,-95.396818,library,node/1975678661
+Clayton House,29.726169,-95.386079,library,node/2091700208
+Fire Station (n2164861639),29.999246,-95.356302,fire_station,node/2164861639
+Deer Park VFD Station #2,29.67969,-95.115228,fire_station,node/2272855403
+Robinson Elementary School,29.571429,-95.059963,school,node/2336544962
+Cy-Fair Volunteer Fire Department Communications Center,29.909298,-95.680964,fire_station,node/2433577815
+Advanced Technology Center & Library,29.732969,-94.977297,library,node/2615032500
+Sterling Municipal Library,29.736695,-94.979848,library,node/2615032532
+Club Summerwood,29.921121,-95.18572,community_centre,node/2642333041
+KIPP Dream,29.845403,-95.369212,school,node/2739347276
+The Shlenker School,29.677495,-95.488503,school,node/2802443617
+KIPP 3D,29.845319,-95.369214,school,node/3247844075
+KIPP Generations,29.845234,-95.369211,school,node/3247844076
+UHCL Neumann Library,29.582158,-95.09807,library,node/3717796608
+UTHSPH Library,29.705113,-95.398188,library,node/4259050522
+Windsong Trail,29.849057,-95.675664,community_centre,node/4306457398
+HPL Express,29.753407,-95.359542,library,node/4322627983
+Seabrook Community House,29.564067,-95.024775,community_centre,node/4405245689
+West University Community Building and Senior Center,29.71662,-95.437721,community_centre,node/4473446250
+Deer Park Library,29.683859,-95.122836,library,node/4636514589
+Deer Park Community Center,29.689138,-95.118656,community_centre,node/4636525837
+Jimmy Burke Activity Center,29.699199,-95.127786,community_centre,node/4640845253
+Ashrod Building,29.753548,-95.607204,community_centre,node/4725183393
+the commons,29.737697,-95.624173,community_centre,node/4725188790
+Ahead 29 Apartments,29.690566,-95.62815,community_centre,node/4728685193
+Chinese Baptist Church,29.7818,-95.50496,community_centre,node/5027253422
+Aristoi Classical Academy,29.816964,-95.816101,school,node/5244656609
+Eagle Springs Community Center,29.97778,-95.188195,community_centre,node/5261521016
+UnIted Christian School,29.678653,-95.41854,school,node/5604621803
+HCESD 48 Fire Station #5,29.816147,-95.738197,fire_station,node/5721141880
+Raul Yzaguirre School for Success,29.698019,-95.278331,school,node/6040497470
+Mirus Academy,29.787968,-95.82054,school,node/6144223917
+Fire Station (n6269418548),29.806581,-94.986128,fire_station,node/6269418548
+Grace Episcopal Church School & Office Entrance,29.673784,-95.444032,school,node/6503285221
+CCISD Teacher Center,29.517692,-95.138728,school,node/6656205004
+The Lodge,30.054652,-95.654731,community_centre,node/6970641071
+Seguin Elementary School,29.67846,-95.306117,school,node/7095227932
+Saint Elizabeth Ann Seton Catholic School,29.873267,-95.631316,school,node/7161431511
+Williford Parish Library,29.908773,-95.569391,library,node/7161448228
+City of Houston Fire Station 24,29.658029,-95.38997,fire_station,node/7229355385
+Library (n7308064370),29.898318,-95.566225,library,node/7308064370
+Moore Elementary,29.978652,-95.595811,school,node/8289059317
+Cypress Creek High School,29.966101,-95.565298,school,node/8289059318
+Woodson Research Center,29.71787,-95.400217,library,node/8436104216
+Brown Fine Arts Library,29.718284,-95.400378,library,node/8459553385
+Fire Station (n9834831312),29.993447,-95.374535,fire_station,node/9834831312
+휴스턴한인학교,29.804013,-95.50706,school,node/10128369138
+International Leadership of Texas Windmill Lakes-Orem High School,29.625068,-95.239301,school,node/10728018405
+"International Leadership of Texas, Orem K-8",29.626839,-95.334228,school,node/10728667105
+Shadowbriar Elementary School,29.737896,-95.598867,school,node/10905890651
+Harris County Law Library,29.762045,-95.360089,library,node/10958528087
+Tulsa Welding School & Technology Center,29.951017,-95.413119,school,node/11287331969
+Kiddie Academy,29.895188,-95.687168,school,node/11595849396
+Westfield Fire Department - Central Station,29.911914,-95.333573,fire_station,node/11898847239
+The Refuge,29.772934,-95.572036,community_centre,node/11916171349
+YES Prep North Central,29.914075,-95.356219,school,node/11985718717
+Richey Academy,29.99864,-95.417319,school,node/11992983282
+Cobb Sixth Grade Campus,29.821302,-95.180809,school,node/12389422701
+Heights High School Library,29.795018,-95.3939,library,node/12723761817
+"Carl Walker, Jr. Multi-purpose Center",29.779904,-95.32833,community_centre,node/12834780001
+House of J,29.748143,-95.338931,community_centre,node/12950445201
+Special Opportunities for Academic Restoration,29.709527,-95.60125,school,node/13051206006
+Language Institute for Newcomers,29.709352,-95.601255,school,node/13051206007
+Night High School,29.709465,-95.59988,school,node/13051206008
+The Branch School,29.791722,-95.578706,school,node/13055729625
+Audrey H Lawson Middle School,29.622401,-95.452902,school,node/13129755719
+FINS Swim School,29.996884,-95.17393,school,node/13253239901
+Northwest Volunteer Fire Department - Station 44,29.916419,-95.458527,fire_station,node/13261562338
+West Elementary School,30.041236,-95.714078,school,node/13296705955
+West Intermediate,30.039602,-95.714026,school,node/13296705956
+Tomball West High School,30.033289,-95.717844,school,node/13296705957
+The Roberts Family Training Field,29.90763,-95.399776,fire_station,node/13322036056
+Aldine Fire & Rescue - Station 11,29.933928,-95.373918,fire_station,node/13322082217
+Eternity Christian School and Childcare,29.915226,-95.440204,school,node/13325670232
+Eastex Fire Department - Station 16,29.92987,-95.295495,fire_station,node/13352231355
+Northwest Volunteer Fire Department - Station 43,29.92489,-95.505172,fire_station,node/13424443562
+Cullen Running Trails Center,29.767068,-95.447807,community_centre,node/13509390478
+Little York Fire Department - Station 82,29.935037,-95.454291,fire_station,node/13565684792
+Huffman Fire Department - Station 51,30.024924,-95.089853,fire_station,node/13812550910
+Community Centre (n13815526769),30.041189,-95.176341,community_centre,node/13815526769
+FINS Swim School,29.962768,-95.710578,school,node/13829158435
+FINS Swim School,30.042237,-95.543735,school,node/13829285170
+FINS Swim School,29.994757,-95.649063,school,node/13829287450
+Kid to Kid,29.996887,-95.173288,school,node/13885696198
+Baby Steps Learning Center,30.000298,-95.156409,school,node/13893068101
+Cosmetology & Barber School,30.00048,-95.156088,school,node/13893068802
+North Bend Elementary School,29.94765,-95.272228,school,node/14059801801
+Saigon Community Center,29.973684,-95.486693,community_centre,node/14130007961
+Guy M. Sconzo Early College High School,29.979977,-95.245614,school,node/14140416967
+Ballet Center of Houston,29.900818,-95.621024,school,node/14140687201
+School (w43545468),29.753529,-94.926982,school,way/43545468
+Cedar Bayou Junior High School,29.752037,-94.935042,school,way/43546512
+Gallegos Elementary School,29.733848,-95.29274,school,way/44601735
+Central Library,29.759434,-95.369979,library,way/44632294
+Fondren Library,29.718112,-95.400128,library,way/45191237
+Baker Sixth Grade Campus,29.662641,-95.084846,school,way/45263755
+Lomax Junior High School,29.681244,-95.083278,school,way/45263816
+Garden Villas Elementary School,29.661449,-95.304055,school,way/45765514
+Yates High School,29.723164,-95.35374,school,way/45767298
+Houston Fire Station Number 36;Houston Fire Department Station 36,29.657101,-95.280055,fire_station,way/46273801
+Dr. Kirk Lewis Career and Technical High School,29.628609,-95.17499,school,way/46367110
+Fire Station (w46510415),29.641453,-95.278497,fire_station,way/46510415
+Beverly Hills Intermediate School,29.607092,-95.225908,school,way/46766972
+Meador Elementary School,29.614569,-95.22761,school,way/46771772
+Billie and Kathleen Morris Middle School,29.612642,-95.229563,school,way/46771773
+Jessup School,29.628077,-95.250622,school,way/46824011
+Mitchell Elementary School,29.607348,-95.276585,school,way/46911255
+Bellfort Elementary School,29.672967,-95.283755,school,way/46940673
+Lewis Elementary School,29.66576,-95.28245,school,way/47007343
+Brookline Elementary,29.698217,-95.314773,school,way/47089629
+Clear Lake City-County Freeman Branch Library,29.55795,-95.119339,library,way/47234853
+Gregg Elementary School,29.673777,-95.308649,school,way/47272377
+Golfcrest Elementary School,29.688688,-95.295412,school,way/47634031
+Cristo Rey Jesuit College Preparatory School of Houston,29.663964,-95.3095,school,way/48043964
+Hartman Middle School,29.673477,-95.302139,school,way/48045336
+Cornelius Elementary School,29.678089,-95.294138,school,way/48045337
+Edison Middle School,29.741815,-95.30051,school,way/48050784
+Franklin Elementary School,29.739227,-95.29755,school,way/48050786
+J Harris Elementary School,29.718796,-95.277047,school,way/48131896
+Milby High School,29.710646,-95.276232,school,way/48131931
+Deady Middle School,29.704343,-95.279386,school,way/48131938
+Sanchez Elementary School,29.703269,-95.284485,school,way/48131941
+Park Place Elementary School,29.689362,-95.27326,school,way/48137619
+Memorial Middle School,29.778837,-95.552519,school,way/48331834
+Bendwood Elementary School,29.776719,-95.559083,school,way/48359815
+Rucker Elementary School,29.69412,-95.24174,school,way/48553810
+Pasadena High School,29.709062,-95.212878,school,way/48603308
+Kruse Elementary School,29.708091,-95.210574,school,way/48603312
+Jackson Intermediate School,29.706171,-95.211049,school,way/48603316
+Stevenson Middle School,29.6712,-95.245272,school,way/48660045
+Frostwood Elementary School,29.764572,-95.543259,school,way/48976738
+The School at Saint George Place,29.735975,-95.472671,school,way/49001115
+The School at St. George Place,29.736052,-95.472614,school,way/49001116
+Bonner Elementary School,29.676591,-95.259983,school,way/50154289
+Patterson Elementary School,29.68238,-95.242308,school,way/50163343
+Houston Fire Department Station 72,29.558055,-95.107052,fire_station,way/50459425
+Memorial High School,29.781073,-95.522167,school,way/50584755
+Spring Branch Memorial Branch Library,29.781006,-95.512424,library,way/50695079
+Richey Elementary School,29.702978,-95.22121,school,way/50897454
+Gardens Elementary School,29.699248,-95.19744,school,way/51133002
+Bobby Shaw Middle School,29.68954,-95.195284,school,way/51133188
+Felix Morales Elementary School,29.696751,-95.214751,school,way/51207932
+Red Bluff Elementary School,29.703886,-95.18656,school,way/51340638
+Deepwater Junior High School,29.702666,-95.160065,school,way/51341050
+De Walt School,29.669961,-95.021756,school,way/51518790
+La Porte Elementary School,29.657569,-95.018154,school,way/51556143
+La Porte High School,29.655622,-95.015244,school,way/51556144
+La Porte Junior High School,29.659925,-95.01775,school,way/51556160
+Rice School,29.697958,-95.420558,school,way/51899722
+MacArthur Elementary School - Houston,29.700897,-95.352338,school,way/51972122
+Southland School,29.703579,-95.365468,school,way/52019580
+Bondy Intermediate School,29.64494,-95.164118,school,way/52066500
+Park View Intermediate School,29.667298,-95.18276,school,way/52067891
+Fisher Elementary School,29.667238,-95.180336,school,way/52067892
+Jensen Elementary School,29.659938,-95.176006,school,way/52070782
+Bailey Elementary School,29.671615,-95.196705,school,way/52072177
+Smith Elementary School,29.667522,-95.214078,school,way/52072997
+Sam Houston Elementary School,29.785566,-95.16017,school,way/52158538
+De Zavala Elementary School,29.778315,-95.115263,school,way/52460258
+Channelview High School,29.795817,-95.121796,school,way/52461152
+Channelview ISD Annex,29.791458,-95.12187,school,way/52461153
+Holland Middle School,29.762661,-95.274073,school,way/53012571
+Pleasantville Elementary School,29.764033,-95.27196,school,way/53012574
+Whittier Elementary School,29.772534,-95.242864,school,way/53015361
+Galena Park Middle School,29.735461,-95.237762,school,way/53103455
+Galena Park Elementary School,29.735413,-95.239549,school,way/53103456
+Galena Park High School,29.738963,-95.236707,school,way/53103721
+MacArthur Elementary School,29.745216,-95.239112,school,way/53103722
+De Zavala Elementary School,29.737368,-95.289069,school,way/53193402
+Golden Acres Elementary School,29.669632,-95.161014,school,way/53264383
+Space Center Intermediate School,29.555784,-95.107359,school,way/53290686
+Clear Lake High School,29.58233,-95.107046,school,way/53801191
+Clear Lake City Elementary School,29.566552,-95.121773,school,way/53801976
+Baylor College of Medicine Biotech Academy at Rusk,29.753528,-95.344393,school,way/53848221
+Cullen Middle School,29.691624,-95.363629,school,way/53854322
+Clemente Martinez Elementary School,29.790605,-95.359621,school,way/54050191
+Dodson Elementary School,29.738591,-95.350186,school,way/54159522
+Lantrip Elementary School,29.74066,-95.335368,school,way/54357615
+Tijerina Elementary School,29.741117,-95.309812,school,way/54358172
+Young Scholars Academy,29.75203,-95.372324,school,way/55370931
+The Jung Center,29.726782,-95.391374,community_centre,way/55563503
+Baylor College of Medicine Academy at Ryan Middle School,29.73228,-95.362966,school,way/56065784
+Young Women's College Preparatory Academy,29.730495,-95.374489,school,way/56065787
+MacGregor Elementary School,29.727865,-95.380344,school,way/56065789
+Community Centre (w61130356),29.735199,-95.382846,community_centre,way/61130356
+Parker Williams Branch Library,29.585084,-95.215495,library,way/99022788
+Weber Elementary School,29.569562,-95.223082,school,way/99811148
+Deepwater Elementary School,29.706921,-95.16079,school,way/110164015
+Parkwood Elementary School,29.705779,-95.15733,school,way/110164016
+Katy Elementary School,29.791639,-95.822191,school,way/116288269
+Opportunity Awareness Center,29.797195,-95.810267,school,way/116290396
+Katy Junior High,29.80345,-95.81062,school,way/116290397
+Arthur Miller Career and Technology Center,29.795695,-95.808878,school,way/116290398
+Zelma Hutsell Elementary,29.802525,-95.814265,school,way/116290400
+Raines Academy,29.7972,-95.80876,school,way/116290401
+Diane Winborn Elementary,29.797853,-95.764379,school,way/116290970
+Robert King Elementary,29.798706,-95.787001,school,way/116290971
+Loraine Golbow Elementary,29.823243,-95.745575,school,way/116291037
+Morton Ranch Junior High,29.808678,-95.7432,school,way/116291038
+Morton Ranch Elementary,29.808279,-95.746628,school,way/116291039
+Morton Ranch High School,29.804709,-95.744975,school,way/116291041
+Sundown Elementary,29.801953,-95.725964,school,way/116291113
+Cardiff Junior High,29.829252,-95.705979,school,way/116291417
+Polly Ann McRoberts Elementary,29.823346,-95.721321,school,way/116291424
+Mayde Creek Elementary,29.805837,-95.702693,school,way/116291984
+Betty and Jean Schmalz Elementary,29.819986,-95.689831,school,way/116291985
+Mayde Creek Junior High,29.807605,-95.702582,school,way/116291987
+Bear Creek Elementary,29.845857,-95.637051,school,way/116292246
+Maurice Wolfe Elementary,29.779717,-95.643225,school,way/116292247
+Cimarron Elementary,29.765973,-95.771231,school,way/116294001
+Memorial Parkway Elementary,29.76473,-95.745976,school,way/116294318
+Goose Creek Memorial High School,29.82493,-94.971227,school,way/122030504
+Saint Thomas High School,29.763603,-95.407488,school,way/123419425
+Hillendahl Neighborhood Library,29.815612,-95.544793,library,way/123535308
+Spring Woods Middle School,29.807878,-95.534152,school,way/125438026
+Pine Shadows Elementary School,29.807171,-95.538176,school,way/125438028
+Shadow Oaks Elementary School,29.792016,-95.554666,school,way/125836658
+Houston Christian High School,29.820305,-95.560726,school,way/126160809
+Tiger Trail School,29.809787,-95.551871,school,way/126823532
+Spring Oaks Middle School,29.811698,-95.553108,school,way/126830770
+Northbrook Middle School,29.826171,-95.535278,school,way/128345863
+Cypress Falls High School,29.9185,-95.633309,school,way/128825697
+Cummings Elementary School,29.663763,-95.585369,school,way/129126584
+Longfellow Elementary School,29.686775,-95.432304,school,way/129809384
+Lamkin Elementary School,29.943779,-95.650081,school,way/129814508
+Arnold Middle School,29.939674,-95.651128,school,way/129814522
+Cy-Fair High School,29.942335,-95.65271,school,way/129814525
+Horn Elementary School,29.694046,-95.454257,school,way/129864714
+Woodview Elementary School,29.790582,-95.533043,school,way/129924989
+The Guthrie Center,29.813731,-95.560528,school,way/130916893
+Neff Early Learning Center,29.697538,-95.529161,school,way/131698072
+Neff Elementary School,29.700333,-95.531633,school,way/131698074
+Terrace Elementary School,29.81974,-95.550252,school,way/132085400
+YES Prep White Oak Campus,29.850325,-95.47212,school,way/134161212
+Houston Academy for International Studies,29.736874,-95.370076,school,way/137110658
+B H Hamblen Middle School,29.794058,-95.142594,school,way/143469975
+McMullan Primary School,29.797049,-95.140561,school,way/143469981
+Alice Johnson Junior High School,29.799106,-95.130294,school,way/144033126
+Furr High School,29.779394,-95.249067,school,way/144275855
+Judson Robinson Jr. Elementary,29.790145,-95.212703,school,way/144286915
+Sutton Elementary School,29.697499,-95.502267,school,way/144441162
+Long Academy,29.704194,-95.499188,school,way/144450538
+Cunningham Elementary School,29.717555,-95.469183,school,way/144450549
+Sugar Grove Academy Middle School,29.68757,-95.512997,school,way/144461704
+Bonham Elementary School,29.687611,-95.519546,school,way/144461723
+Herod Elementary School,29.683481,-95.487895,school,way/144908347
+Elrod Elementary School,29.671785,-95.501626,school,way/144915645
+Fondren Middle School,29.674616,-95.504224,school,way/144915646
+Halpin Early Childhood Center,29.661817,-95.502682,school,way/144919792
+The Parish School,29.81182,-95.571834,school,way/144938902
+Kirk Elementary School,29.849665,-95.595343,school,way/145007568
+Sherwood Elementary School,29.797641,-95.578842,school,way/145016722
+Varnett Public School,29.656446,-95.466666,school,way/145039102
+Milne Elementary,29.661179,-95.515552,school,way/145045299
+Westbury High School,29.649235,-95.480374,school,way/145045307
+Spring Forest Middle School,29.773234,-95.596164,school,way/145070873
+Meadow Wood Elementary School,29.771213,-95.596128,school,way/145070876
+Thornwood Elementary School,29.776069,-95.600585,school,way/145070881
+Walnut Bend Elementary School,29.747754,-95.563818,school,way/145332861
+Revere Middle School,29.74876,-95.560977,school,way/145332862
+Sneed Elementary School,29.724983,-95.543931,school,way/145336349
+Margaret Long Wisdom High School,29.729351,-95.498553,school,way/147080378
+Pilgrim Academy,29.729391,-95.493708,school,way/147080380
+Kinkaid School,29.748755,-95.510421,school,way/147086961
+Cook Middle School,29.905462,-95.568728,school,way/148326041
+Fall Creek Elementary School,29.930501,-95.27408,school,way/148360785
+Cypress Ranch High School,29.939289,-95.718889,school,way/150255480
+Smith Middle School,29.935582,-95.720983,school,way/150255482
+Warner Elementary School,29.935631,-95.716987,school,way/150255483
+Pershing Middle School,29.702413,-95.438656,school,way/150257576
+Mark Twain Elementary School,29.698587,-95.437917,school,way/150257594
+Hunters Creek Elementary School,29.778772,-95.497067,school,way/153915427
+Awty International School Houston,29.785764,-95.460637,school,way/154907157
+Mason Community Center,29.723749,-95.294704,community_centre,way/172832646
+Atascocita Volunteer Fire Department - Station 19,29.997768,-95.158996,fire_station,way/176265530
+Baker Montessori,29.747324,-95.399033,school,way/176359659
+Sheldon Community Volunteer Fire / Rescue Station 1,29.844256,-95.214489,fire_station,way/177239572
+C D Landolt Elementary School,29.536769,-95.168705,school,way/178236466
+Forest Bend Volunteer Fire Department Station 2,29.542232,-95.175277,fire_station,way/178244619
+Southeast Volunteer Fire Department,29.584733,-95.240633,fire_station,way/178255172
+Houston Fire Department Station 50,29.834464,-95.489871,fire_station,way/180766663
+J P Dabbs Elementary School,29.668353,-95.12068,school,way/182086473
+Crosby Fire Department Station 2,29.913959,-95.071862,fire_station,way/182105718
+North Shore Senior High School,29.81251,-95.173959,school,way/182736816
+Schultz Elementary School,30.099438,-95.543651,school,way/189601628
+Hildebrandt Intermediate School,30.098025,-95.523916,school,way/189602344
+Klein Oak High School,30.096836,-95.517975,school,way/189602351
+Clifton Middle School,29.842669,-95.478867,school,way/189740978
+Bleyl Middle School,29.963397,-95.581499,school,way/189876781
+School (w189876782),29.96436,-95.583816,school,way/189876782
+Barbara Bush Branch Library,30.01239,-95.509657,library,way/189891800
+Sammons Elementary School,29.921911,-95.450344,school,way/189899807
+Fairbanks Branch Library,29.871991,-95.541147,library,way/189903977
+Juergen's Hall Community Center,29.970313,-95.698561,community_centre,way/190512664
+Housman Elementary School,29.800189,-95.469994,school,way/190601002
+Westside Montessori School,29.755009,-95.62867,school,way/190840687
+Westside High School,29.753155,-95.637641,school,way/190840690
+Bunker Hill Elementary School,29.774328,-95.538914,school,way/190960486
+Atherton Elementary School,29.77982,-95.322061,school,way/191436480
+Wheatley High School,29.771536,-95.319492,school,way/191511611
+Rummel Creek Elementary School,29.774279,-95.570707,school,way/191621870
+Eisenhower Senior High School,29.882127,-95.470733,school,way/191640624
+Duchesne Academy of the Sacred Heart,29.778572,-95.485797,school,way/191743264
+Mata Intermediate School,29.675512,-95.601645,school,way/191955170
+Holub Middle School,29.673415,-95.602146,school,way/191955171
+Kennedy Elementary School,29.67162,-95.602473,school,way/191955173
+Anderson Elementary School,30.036784,-95.333516,school,way/192975261
+Reynolds Elementary School,29.651879,-95.375157,school,way/193018600
+Landis Elementary School,29.68575,-95.56165,school,way/193482784
+Pyburn Elementary School,29.761781,-95.221844,school,way/194786343
+Jacinto City Elementary School,29.765436,-95.236655,school,way/194787044
+Moody Memorial Library,29.707083,-95.540409,library,way/195680756
+Klein Intermediate School,29.895948,-95.466603,school,way/196856714
+Nitsch Elementary School,29.896125,-95.463325,school,way/196856715
+Evelyn Meador Branch Library,29.570361,-95.016577,library,way/196873677
+Caraway Intermediate School,29.87963,-95.456602,school,way/196879883
+Stovall EC/PK/K School,29.880361,-95.456681,school,way/196879894
+Houston Academy,29.874688,-95.44804,school,way/196887713
+Reece Academy,29.873472,-95.444307,school,way/196887723
+Carver High School,29.871869,-95.444808,school,way/196887724
+Lone Star College Career Center,29.871683,-95.445882,school,way/196887725
+Saint Mary's Seminary,29.775024,-95.477632,school,way/196934187
+Garden Oaks Montessori Magnet,29.822859,-95.413661,school,way/197059800
+Stevens Elementary School,29.827207,-95.446206,school,way/197076735
+St. Michael's Day School,29.830526,-95.440088,school,way/197081105
+Oak Forest Elementary School,29.828069,-95.436351,school,way/197081106
+Frank Black Middle School,29.828801,-95.439197,school,way/197081111
+Strake Jesuit College Preparatory,29.707063,-95.540093,school,way/197558957
+Saint Agnes Academy,29.706959,-95.542623,school,way/197558958
+McGovern-Stella Link Regional Library,29.698114,-95.439706,library,way/200077592
+Wilchester Elementary School,29.7824,-95.580509,school,way/200173148
+Clear Lake Intermediate School,29.56982,-95.133004,school,way/201309503
+Spring Shadows Elementary School,29.82073,-95.532821,school,way/201526007
+Emery Elementary School,29.853787,-95.713084,school,way/202606424
+McFee Elementary School,29.85708,-95.70766,school,way/202606432
+Cypress Lakes High School,29.854536,-95.703057,school,way/202606442
+Taylor High School,29.694553,-95.631324,school,way/204419677
+Forest Brook High School,29.850462,-95.29418,school,way/206155196
+Tomball Junior High School,30.111691,-95.631053,school,way/209955906
+Lone Star College-Tomball Community Library,30.110119,-95.643729,library,way/210276422
+South Belt Elementary,29.575618,-95.245108,school,way/210434855
+River Oaks Elementary School,29.747221,-95.420671,school,way/210881459
+Atascocita Springs Elementary School,29.965364,-95.184316,school,way/211752324
+HM Carroll Elementary School,29.867921,-95.206601,school,way/211786921
+Tomball Elementary School,30.10074,-95.627507,school,way/212456183
+Tomball Memorial High School,30.035716,-95.631653,school,way/213564598
+Salyards Middle School,30.004955,-95.757557,school,way/217640161
+North Shore Elementary School,29.791715,-95.168679,school,way/218452559
+North Shore Middle School,29.804263,-95.175497,school,way/218501674
+Saint Peter School,29.703202,-95.361991,school,way/218679382
+North Shore Ninth Grade Campus,29.790484,-95.183369,school,way/218733847
+Zotz Education Center,29.790556,-95.180024,school,way/218733850
+Cloverleaf Elementary School,29.776206,-95.17488,school,way/218744416
+Green Valley Elementary School,29.791573,-95.189793,school,way/218746115
+Saint Jerome School,29.820476,-95.510528,school,way/218806289
+Edgewood Elementary School,29.819695,-95.50848,school,way/218806303
+Northbrook High School,29.817459,-95.530064,school,way/218923244
+Thompson Elementary School,29.705058,-95.362862,school,way/219057000
+Peck Elementary School,29.70622,-95.334071,school,way/219057083
+Humble Elementary School,30.011836,-95.273082,school,way/219140682
+Foster Elementary School,30.042612,-95.223487,school,way/219413849
+Stude Community Center,29.778758,-95.385455,community_centre,way/222704120
+James F. Bay Elementary School,29.565524,-95.023664,school,way/223962105
+Baldwin Boettcher Branch Library,30.037613,-95.38096,library,way/224243901
+Rennell Elementary,29.924838,-95.707107,school,way/225471921
+Lone Star College-CyFair Library,29.91048,-95.692455,library,way/225600536
+Langham Creek High School,29.882096,-95.677193,school,way/225624965
+Holmsley Elementary School,29.886153,-95.67638,school,way/225624967
+Clark Community Center,29.848512,-95.375604,community_centre,way/225763368
+Memorial Elementary School,29.769699,-95.425684,school,way/228291988
+Houston Fire Department Station 8,29.751303,-95.37282,fire_station,way/228446604
+Lakewood Elementary School,30.002081,-95.598124,school,way/228535253
+Family History Research Center at the Clayton Library Campus,29.72555,-95.386603,library,way/229204474
+Alief ISD Center for Advanced Careers,29.732162,-95.593846,school,way/229727174
+Helms Elementary School,29.805367,-95.407032,school,way/230736629
+Heights High School,29.795069,-95.392119,school,way/230736630
+Energy Institute High School,29.714417,-95.358869,school,way/231640338
+Project Chrysalis Middle School,29.734178,-95.333362,school,way/231661238
+Austin High School,29.731637,-95.332043,school,way/231661239
+Bruce Elementary School,29.766626,-95.341211,school,way/231661581
+Julia Ideson Building,29.758957,-95.369153,library,way/232239869
+Houston Fire Department Station 76,29.699346,-95.596543,fire_station,way/233226180
+Wells Middle School,29.997226,-95.499144,school,way/233783319
+Moody Neighborhood Library,29.847597,-95.362845,library,way/238455593
+Houston Fire Department Station 4,29.866273,-95.489515,fire_station,way/239556598
+Cy - Fair Volunteer Fire Department Station 1,29.896511,-95.5369,fire_station,way/240353331
+Oak Forest Elementary,29.99961,-95.176757,school,way/241055587
+Atascocita Volunteer Fire Department,29.990865,-95.194035,fire_station,way/242514647
+Krimmel Intermediate School,30.076083,-95.530242,school,way/243580336
+Atascocita Volunteer Fire Department - Station 29,29.981288,-95.212854,fire_station,way/244843811
+Bellaire Fire Department,29.701753,-95.468391,fire_station,way/251660022
+Fire Station (w254557684),29.986083,-95.611923,fire_station,way/254557684
+School (w254557695),29.995973,-95.605734,school,way/254557695
+Northwest Branch Library,29.961762,-95.592152,library,way/254845916
+Mading Elementary School,29.659532,-95.327518,school,way/255673347
+Kingwood Branch Library,30.041943,-95.181614,library,way/258135310
+Ascension Episcopal School,29.738075,-95.552574,school,way/258645707
+Hamilton Middle School,29.804998,-95.397981,school,way/258648897
+Immanuel Lutheran School,29.797327,-95.394898,school,way/258681503
+Poe Elementary School,29.727212,-95.408,school,way/260532245
+Buffalo Creek Elementary School,29.81969,-95.524086,school,way/260581422
+Jackson Middle School,29.734773,-95.325542,school,way/261152288
+Cy - Fair Volunteer Fire Department Station 4,29.997664,-95.699423,fire_station,way/261793238
+Tanglewood Middle School,29.749157,-95.468602,school,way/262778793
+Teague Elementary School,29.639871,-95.179144,school,way/262778795
+Tegeler Career Center,29.638175,-95.179745,school,way/262778798
+Pasadena Memorial High School,29.63745,-95.174859,school,way/262778800
+Schultz Junior High School,30.078409,-95.918487,school,way/264674501
+Coop Elementary School,29.858677,-95.348685,school,way/265947396
+Houston Fire Department Station 49,29.791141,-95.544242,fire_station,way/265996275
+Labay Middle School,29.895951,-95.642918,school,way/267304579
+Lowery Elementary School,29.890465,-95.648903,school,way/267306110
+West Montessori of Copperfield,29.892473,-95.643852,school,way/267418439
+Benbrook Elementary School,29.826774,-95.481252,school,way/273184693
+Roosevelt Elementary School,29.818336,-95.373771,school,way/276501095
+Northwest Volunteer Fire Department Station 42,29.949285,-95.499425,fire_station,way/278710356
+Creekwood Middle School,30.058689,-95.189018,school,way/279670260
+Kingwood High School,30.046055,-95.193835,school,way/279671280
+Reynolds Elementary School,29.997885,-95.496122,school,way/286437717
+Milestone Montessori,29.757338,-95.401525,school,way/289888538
+Smith Elementary School,29.839297,-95.461665,school,way/289940455
+Durham Elementary School,29.835738,-95.417344,school,way/289943226
+Gray Elementary School,29.916204,-95.431798,school,way/290201677
+Carmichael Elementary School,29.928652,-95.487896,school,way/290201687
+Shotwell Middle School,29.927776,-95.482843,school,way/290201702
+Houston Independent School District Education Learning Center,29.869031,-95.265024,school,way/290533727
+Brill Elementary School,30.00355,-95.544415,school,way/290607131
+Briargrove Elementary School,29.749315,-95.491186,school,way/291799202
+Memorial Drive Elementary School,29.770996,-95.511604,school,way/291927416
+Swenke Elementary School,30.019067,-95.754558,school,way/292109924
+Keith Elementary School,30.00776,-95.745511,school,way/292112712
+Cypress Woods High School,29.971346,-95.681208,school,way/293769728
+A Robison Elementary School,29.972412,-95.685695,school,way/293769729
+Spillane Middle School,29.967423,-95.685447,school,way/293769730
+Farney Elementary School,29.984746,-95.675962,school,way/293794759
+Goodson Middle School,29.993059,-95.679595,school,way/293794760
+Landrum Middle School,29.814535,-95.491934,school,way/295925900
+Lion Lane School,29.814103,-95.491035,school,way/295925905
+Ridgecrest Elementary School,29.809806,-95.493755,school,way/295925907
+Treasure Forest Elementary School,29.805193,-95.479818,school,way/295925916
+Valley Oaks Elementary School,29.796149,-95.494367,school,way/295927519
+Leo A Rizzuto Elementary School,29.663272,-95.069318,school,way/296073005
+Sparks Elementary School,29.692903,-95.179005,school,way/296545492
+Lonnie B. Keller Middle School,29.687284,-95.167333,school,way/296545502
+Parks Elementary School,29.687749,-95.165336,school,way/296545503
+McNamara Elementary School,29.684402,-95.50449,school,way/297179279
+Deer Park Elementary School,29.685864,-95.114473,school,way/297368214
+Deer Park High School - South Campus,29.687987,-95.128486,school,way/297368218
+Scarborough High School,29.829116,-95.470829,school,way/297982413
+School (w300703309),29.708963,-95.208462,school,way/300703309
+Foerster Elementary School,29.639426,-95.498499,school,way/306687726
+Kuehnle Elementary School,30.040242,-95.504327,school,way/308094625
+Houston Fire Department Station 5,29.810273,-95.506261,fire_station,way/308771686
+Hollibrook Elementary School,29.826446,-95.507776,school,way/308776555
+Shadow Forest Elementary School,30.069258,-95.16463,school,way/308902708
+Hidden Hollow Elementary School,30.073527,-95.183051,school,way/308906423
+Katy Fire Department,29.791977,-95.824981,fire_station,way/309207220
+Worthing High School,29.656936,-95.366735,school,way/309979052
+Woodson Middle School,29.643733,-95.366787,school,way/309979057
+Pro-Vision Academy,29.654355,-95.360158,school,way/309979067
+Sterling High School,29.635824,-95.321929,school,way/310069129
+Codwell Elementary School,29.634175,-95.345549,school,way/310069135
+Thomas Middle School,29.639177,-95.331726,school,way/310069136
+Rhoads Elementary School,29.638433,-95.361913,school,way/310069139
+Law Elementary School,29.627697,-95.364305,school,way/310069146
+Frost Elementary School,29.620064,-95.33618,school,way/310069151
+West University Elementary School,29.715743,-95.43499,school,way/311355941
+Emmott Elementary School,29.916284,-95.593809,school,way/312064059
+Bayland Community Center,29.694995,-95.496417,community_centre,way/312674281
+Waltrip High School,29.818399,-95.432114,school,way/316491998
+Southwest Express,29.710997,-95.496213,library,way/317079705
+Houston Fire Department Station 68,29.677017,-95.528746,fire_station,way/317222090
+School (w317222099),29.678659,-95.526942,school,way/317222099
+Jim and JoAnn Fonteno Senior Education Center,29.69124,-95.500646,community_centre,way/317242524
+James Driver Community Center,29.875042,-95.333753,community_centre,way/317257278
+Aldine Community Fire Department,29.997987,-95.384053,fire_station,way/317766601
+Carnegie Neighborhood,29.782079,-95.358526,library,way/318004768
+Greenspoint Elementary School,29.959966,-95.398099,school,way/318127051
+Patrick Henry Middle School,29.868952,-95.362104,school,way/319501718
+J. Frank Dobie High School,29.590826,-95.250076,school,way/320851002
+Friendswood Fire Department Station 3,29.522611,-95.175642,fire_station,way/335570694
+Wedgewood Elementary School,29.529121,-95.182383,school,way/335581751
+P.H. Greene Elementary School,29.526555,-95.166462,school,way/335582065
+Brookside Intermediate School,29.520079,-95.166365,school,way/335605757
+Clear Lake City Recreation Center,29.5603,-95.120562,community_centre,way/335894395
+Sheldon Early Learning Center,29.864292,-95.134539,school,way/338295749
+Eliot Elementary School,29.781529,-95.306313,school,way/339227587
+Deerwood Elementary School,30.056438,-95.172899,school,way/340289227
+Francone Elementary School,29.932635,-95.565997,school,way/340992173
+Proctor Plaza Community Center,29.793265,-95.382542,community_centre,way/341444621
+Northampton Elementary School,30.09979,-95.519733,school,way/342991541
+Cypress Creek High School,29.964674,-95.566426,school,way/342994874
+Brookwood Elementary School,29.603008,-95.106593,school,way/343035691
+Jennie Reid Elementary School,29.652995,-95.081654,school,way/343081444
+Pasadena Fire Department Station 10,29.608429,-95.107553,fire_station,way/343365580
+White Elementary School,29.578725,-95.035475,school,way/343463029
+Bay Area Community Center,29.568477,-95.066815,community_centre,way/343696602
+David G. Burnet Elementary,29.746064,-95.31855,school,way/360562510
+Ninfa Laurenzo Early Childhood Center,29.746464,-95.31973,school,way/360562770
+Robinson-Westchase Neighborhood Library,29.728925,-95.571088,library,way/361586462
+MacGregor Park Fitness Center,29.70977,-95.339942,community_centre,way/363817957
+M.D. Anderson Library,29.720968,-95.342,library,way/364021610
+Smith Neighborhood Library,29.72272,-95.351726,library,way/364404173
+Change Happens CDC,29.729574,-95.353464,community_centre,way/364548319
+Westberry Engram Community Center,29.73005,-95.356176,community_centre,way/364548329
+J P Henderson Elementary,29.722947,-95.320427,school,way/364703971
+KIPP Explore Academy,29.725736,-95.322788,school,way/364703972
+Rise School of Houston,29.711372,-95.376906,school,way/366061235
+Wonderland Private School,29.702796,-95.345255,school,way/366249488
+Bellaire Library,29.701771,-95.469347,library,way/366501712
+Sanchez Charter School,29.715212,-95.311582,school,way/366878832
+Queen of Peace School,29.715304,-95.317891,school,way/366892300
+Blue Triangle Community Center,29.735865,-95.357193,community_centre,way/367137419
+Yellowstone Academy,29.737473,-95.356039,school,way/367137460
+Meyerland Performing and Visual Arts Middle School,29.668752,-95.474747,school,way/367718376
+Jenard Gross Elementary School,29.639342,-95.52817,school,way/368082319
+Robinson Community Center,29.716511,-95.381933,community_centre,way/368967751
+Clear Lake Christian School,29.580017,-95.151612,school,way/370228897
+The Kipling School,29.767693,-95.408867,school,way/371734545
+Acadian Ambulance,29.543679,-95.104822,fire_station,way/374336617
+Armand Bayou Elementary School,29.593464,-95.114115,school,way/374347365
+North Pointe Elementary School,29.60378,-95.135925,school,way/374812560
+Robert James Terry Library,29.722324,-95.359778,library,way/374982933
+Blacksbear Elementary School,29.729149,-95.362348,school,way/375100361
+Third Ward Multi-Services Center,29.728372,-95.361463,community_centre,way/375100378
+The Regis School of the Sacred Heart,29.79544,-95.476454,school,way/375488623
+Bear Branch Elementary School,30.05743,-95.203185,school,way/375879879
+Woodland Hills Elementary,30.058712,-95.213547,school,way/376611584
+Kingwood Middle School,30.05556,-95.210898,school,way/376613340
+Kingwood Community Center,30.05444,-95.185105,community_centre,way/376614874
+Greentree Elementary Scool,30.062303,-95.184431,school,way/376614876
+Elm Grove Elementary School,30.074047,-95.197977,school,way/376614877
+Riverwood Middle School,30.061056,-95.155449,school,way/376614881
+Houston Fire Department Station 103,30.05897,-95.156871,fire_station,way/376615213
+Willow Creek Elementary,30.05212,-95.151896,school,way/376615214
+Crespo Elementary School,29.699303,-95.289004,school,way/377018531
+Pine Forest Elementary,30.003849,-95.163122,school,way/377214873
+Houston Fire Department Station 2,29.762331,-95.481093,fire_station,way/377984502
+Carrillo Elementary School,29.72861,-95.311005,school,way/378373556
+Eastwood Academy,29.735396,-95.328153,school,way/378413470
+Houston Fire Station 18,29.735536,-95.331457,fire_station,way/378413471
+Briscoe Elementary School,29.72982,-95.29762,school,way/378600583
+Lovett Elementary School,29.683022,-95.469073,school,way/378815480
+Ingrando Community Center,29.706045,-95.287631,community_centre,way/379502120
+Melcher Library,29.706198,-95.289497,library,way/379669314
+Woodcreek Middle School,29.932163,-95.200723,school,way/385744219
+McPhail Hall,29.668326,-95.467346,community_centre,way/388945053
+Westlake Volunteer Fire Department,29.800811,-95.716231,fire_station,way/389744906
+Houston Fire Department Station 37,29.701737,-95.440665,fire_station,way/389891631
+College Park Elementary School,29.672554,-95.112078,school,way/390111137
+St. John XXIII High School,29.799992,-95.772169,school,way/390356870
+West I - 10 Volunteer Fire Department Station 4,29.801646,-95.768095,fire_station,way/390356872
+Shearn Elementary School,29.677499,-95.440834,school,way/394682342
+Outley Elementary School,29.728881,-95.598268,school,way/395301178
+Port Houston Elementary School,29.759808,-95.282895,school,way/396220502
+Pugh Elementary School,29.768295,-95.306849,school,way/396228437
+Bellaire High School,29.692121,-95.469859,school,way/396267256
+Bellaire High School Baseball and Softball Fields,29.712974,-95.456625,school,way/396267433
+Pin Oak Middle School,29.719374,-95.457699,school,way/396268357
+St. Mark's Episcopal School,29.706695,-95.438722,school,way/396270133
+Kolter Elementary School,29.6738,-95.467591,school,way/396270528
+Red Elementary School,29.666791,-95.455068,school,way/396272342
+Anderson Elementary School,29.648626,-95.487593,school,way/396283098
+Northbrook Club House,29.661834,-95.499595,community_centre,way/396534118
+Houston Fire Department Station 33,29.700178,-95.401386,fire_station,way/398200985
+Emancipation Community Center,29.735718,-95.364899,community_centre,way/398628439
+Youngblood Intermediate School,29.687374,-95.598914,school,way/399698442
+Spring Branch Middle School,29.781913,-95.515743,school,way/399713220
+Village Fire Department,29.780862,-95.514285,fire_station,way/399713222
+Petersen Elementary School,29.617592,-95.425135,school,way/400863558
+James Madison High School,29.629538,-95.436266,school,way/400863564
+Montgomery Elementary School,29.620371,-95.436601,school,way/400863567
+Hobby Elementary School,29.63507,-95.437214,school,way/400863570
+Grissom Elementary School,29.620554,-95.455213,school,way/400879354
+Welch Middle School,29.653237,-95.52945,school,way/401012917
+Best Elementary School,29.671896,-95.551973,school,way/401012928
+Ed White Elementary School,29.695926,-95.542812,school,way/401069636
+Bush Elementary School,29.701485,-95.55363,school,way/401069640
+Ashford Elementary School,29.7463,-95.597455,school,way/401069645
+School (w401069646),29.75003,-95.605051,school,way/401069646
+Fiest Elementary School,29.902193,-95.64502,school,way/401688332
+Ault Elementary School,29.998057,-95.744836,school,way/402007027
+Atascocita Middle School,29.992495,-95.160121,school,way/402035009
+Humble Middle School,29.979119,-95.210155,school,way/402256755
+Lucian Lockhard Elementary School,29.71745,-95.36613,school,way/404460150
+Community Learning Center,29.995608,-95.195408,school,way/404593201
+Bell Elementary School,29.643848,-95.54903,school,way/415542059
+Klentzman Intermediate,29.662977,-95.575011,school,way/415847719
+Southmayd Elementary School,29.710053,-95.289271,school,way/417291122
+James D. Eggers Instructional Support Center,30.035842,-95.171445,school,way/418400735
+Freeman Elementary School,29.646163,-95.231737,school,way/421355177
+Williams Elementary School,29.687187,-95.229182,school,way/422075922
+Duryea Elementary School,29.874634,-95.720988,school,way/425181135
+Itallian Cultural & Community Center,29.729007,-95.392233,community_centre,way/425207262
+Asia Society Texas Center,29.726278,-95.384677,community_centre,way/425207281
+Annunciation Orthodox School,29.73961,-95.393206,school,way/425224085
+West I - 10 Volunteer Fire Department Station 1,29.774344,-95.755337,fire_station,way/425335141
+Houston Fire Department Station 16,29.734605,-95.402346,fire_station,way/425632222
+Ulrich Intermediate School,30.019341,-95.572423,school,way/427849819
+Katherine Tyra Branch Library Bear Creek,29.833299,-95.657103,library,way/428990788
+Wilson Elementary School,29.847728,-95.676767,school,way/431448800
+Park Lakes Elementary School,29.944934,-95.250565,school,way/431591939
+Fonde Community Center,29.762983,-95.375008,community_centre,way/434293945
+Heritage Elementary School,29.672945,-95.096859,school,way/434813884
+City of Houston Fire Department - Arson,29.769599,-95.369622,fire_station,way/437398766
+School (w437702215),29.771138,-95.373017,school,way/437702215
+Crockett Elementary School,29.774033,-95.380244,school,way/438170394
+MECA,29.765815,-95.377562,community_centre,way/438715623
+Carnegie Vanguard High School,29.754385,-95.384833,school,way/438927606
+Milam Elementary School,29.7719,-95.412057,school,way/439745368
+Cactus Jack Cagle Community Center,30.090421,-95.41303,community_centre,way/440208792
+Atascocita High School,29.979705,-95.172394,school,way/440870857
+West I - 10 Volunteer Fire Department Station 3,29.758086,-95.733779,fire_station,way/441187696
+Maud Smith Marks Branch Library,29.757682,-95.733242,library,way/441187698
+Jones Futures Academy,29.675086,-95.342303,school,way/446415989
+Timbers Elementary School,29.990937,-95.171134,school,way/447226005
+Carl Wunsche Sr High School,30.079674,-95.427855,school,way/456272911
+Spring High School,30.054295,-95.428287,school,way/456272912
+Early College Academy,29.995954,-95.477552,school,way/456272914
+Dekaney High School,30.017568,-95.421189,school,way/456272915
+Bammel Middle School,30.002585,-95.445345,school,way/456272916
+Stelle Claughton Middle School,29.965992,-95.468155,school,way/456272917
+Twin Creeks Middle School,30.061407,-95.397816,school,way/456272918
+Dueitt Middle School,30.04446,-95.3535,school,way/456272919
+Westfield High School,30.005939,-95.447376,school,way/456272921
+Westfield Ninth Grade Center,30.006346,-95.450205,school,way/456272922
+Northgate Crossing Elementary,30.10228,-95.431684,school,way/456272923
+McNabb Elementary School,30.056187,-95.422658,school,way/456272924
+Gloria Marshall Elementary School,30.061209,-95.377951,school,way/456272925
+Helen Major Elementary School,30.006557,-95.458387,school,way/456272926
+Lewis Elementary School,29.966005,-95.474935,school,way/456272928
+Hoyland Elementary School,29.979752,-95.433569,school,way/456272930
+Heritage Elementary School,29.963203,-95.455355,school,way/456272932
+Eickenroht Elementary School,29.987272,-95.429942,school,way/456272933
+Cooper Elementary School,29.96835,-95.403568,school,way/456272934
+Benjamin F Clark Intermediate School,29.971925,-95.446935,school,way/456272935
+Bailey Middle School,30.068783,-95.363885,school,way/456272936
+Burchett Elementary School,30.066867,-95.364339,school,way/456272937
+Carolee Booker Elementary School,30.019334,-95.417598,school,way/456272938
+John Winship Elementary School,30.070261,-95.402234,school,way/456272939
+Pearl M Hirsch Elementary School,30.050273,-95.393304,school,way/456272940
+Deloras E Thompson Elementary School,29.969924,-95.465087,school,way/456272941
+Smith Elementary School,30.070287,-95.380215,school,way/456272942
+Salyers Elementary School,30.07155,-95.416669,school,way/456272943
+Ponderosa Elementary School,30.015959,-95.458797,school,way/456272944
+Meyer Elementary School,30.006006,-95.434449,school,way/456272945
+Joan Link Elementary School,29.954984,-95.46367,school,way/456272946
+Mildred Jenkins Elementary School,30.043537,-95.359456,school,way/456272947
+Benjamin F Clark Primary School,29.972472,-95.448947,school,way/456272948
+Beneke Elementary School,29.982994,-95.481235,school,way/456272949
+Bammel Elementary School,30.021387,-95.447869,school,way/456272950
+Alternative Education Center,30.048088,-95.534236,school,way/456403820
+Vistas High School,29.960561,-95.497474,school,way/456403822
+Klein Forest High School,29.966645,-95.499371,school,way/456403824
+Klein High School,30.017378,-95.522987,school,way/456403828
+Wunderlich Intermediate School,29.968167,-95.501414,school,way/456403831
+Strack Intermediate School,30.033497,-95.485937,school,way/456403833
+Klein Collins High School,30.062362,-95.479286,school,way/456403835
+Schindewolf Elementary School,30.065739,-95.478392,school,way/456403838
+Kleb Intermediate School,30.017087,-95.526703,school,way/456403856
+Doerre Intermediate School,30.030286,-95.549627,school,way/456403859
+Mueller Elementary School,30.081152,-95.530284,school,way/456403861
+Metzler Elementary School,30.11502,-95.550826,school,way/456403863
+Mahaffey Elementary School,30.09472,-95.571974,school,way/456403866
+Kreinhop Elementary School,30.06301,-95.475111,school,way/456403868
+Kohrville Elementary School,30.046717,-95.592288,school,way/456403872
+Theiss Elementary School,30.025128,-95.53986,school,way/456403873
+Zwink Elementary School,30.086399,-95.487435,school,way/456403875
+Roth Elementary School,30.066422,-95.490815,school,way/456403878
+Mittelstadt Elementary School,30.013105,-95.522662,school,way/456403880
+McDougle Elementary School,29.929502,-95.500755,school,way/456403882
+Lemm Elementary School,30.040211,-95.43789,school,way/456403884
+Krahn Elementary School,30.013218,-95.559412,school,way/456403886
+Klenk Elementary School,29.956517,-95.50618,school,way/456403888
+Kaiser Elementary School,29.971787,-95.493249,school,way/456403891
+Haude Elementary School,30.051701,-95.460762,school,way/456403893
+Hassler Elementary School,30.027036,-95.56545,school,way/456403895
+Grace England Early Childhood & Pre-K Center,29.930111,-95.50026,school,way/456403899
+French Elementary School,30.128851,-95.508433,school,way/456403900
+Frank Elementary School,30.059668,-95.566893,school,way/456403902
+Epps Island Elementary School,29.91551,-95.49789,school,way/456403904
+Eiland Elementary School,29.892126,-95.49183,school,way/456403906
+Blackshear Elementary School,30.035648,-95.584892,school,way/456403909
+Bernshausen Elementary School,30.091541,-95.58641,school,way/456403911
+Benignus Elementary School,30.071804,-95.534951,school,way/456403913
+Greenwood Forest Elementary School,29.969841,-95.502619,school,way/456403915
+Ehrhardt Elementary School,30.038731,-95.524394,school,way/456403917
+Benfer Elementary School,30.034954,-95.486147,school,way/456403919
+Aldine Education Center,29.93062,-95.359994,school,way/456460069
+Lane School,29.931943,-95.355413,school,way/456460070
+Victory Early College High School,29.868523,-95.46686,school,way/456460071
+Nimitz Senior High School,30.005434,-95.39108,school,way/456460072
+Hall Center for Education,29.935887,-95.355036,school,way/456460073
+Aldine Senior High School,29.917246,-95.408798,school,way/456460074
+Nimitz Ninth Grade School,30.006482,-95.388405,school,way/456460075
+MacArthur Ninth Grade School,29.900482,-95.332191,school,way/456460076
+Eisenhower Ninth Grade School,29.883958,-95.459333,school,way/456460077
+Benjamin O. Davis Senior High School,29.955049,-95.433637,school,way/456460078
+Davis Ninth Grade School,29.951992,-95.434013,school,way/456460079
+Aldine Ninth Grade School,29.91911,-95.410638,school,way/456460080
+Stovall Middle School,29.919478,-95.407776,school,way/456460081
+Lewis Middle School,30.017638,-95.410167,school,way/456460082
+MacArthur Senior High School,29.900819,-95.328649,school,way/456460083
+Hambrick Middle School,29.900927,-95.325141,school,way/456460084
+Grantham Academy,29.906865,-95.360887,school,way/456460085
+Drew Academy,29.865361,-95.4405,school,way/456460086
+Aldine Middle School,29.933209,-95.354474,school,way/456460087
+Teague Middle School,30.024128,-95.359918,school,way/456460089
+Parker Intermediate School,30.003788,-95.395331,school,way/456460090
+Marcella Intermediate School,29.934701,-95.395076,school,way/456460091
+Hill Intermediate School,29.894131,-95.451959,school,way/456460092
+Escamilla Intermediate School,29.892224,-95.312971,school,way/456460093
+Eckert Intermediate School,29.933987,-95.362846,school,way/456460094
+Worsham Elementary School,29.885641,-95.341022,school,way/456460095
+Thompson Elementary School,29.922283,-95.401697,school,way/456460096
+Stephens Elementary School,29.900996,-95.347962,school,way/456460097
+Plummer Middle School,29.948386,-95.438241,school,way/456460098
+Spence Elementary School,29.947366,-95.440395,school,way/456460099
+Smith Elementary School,29.862523,-95.47502,school,way/456460100
+Hoffman Middle School,29.862208,-95.477914,school,way/456460101
+Hinojosa Early Childhood Center,29.912223,-95.35929,school,way/456460102
+Reed Academy,29.912107,-95.361093,school,way/456460103
+Raymond Academy,29.910499,-95.360945,school,way/456460104
+Orange Grove Elementary School,29.889802,-95.326429,school,way/456460105
+Oleson Elementary School,29.904901,-95.324662,school,way/456460106
+Odom Elementary School,29.913867,-95.383717,school,way/456460107
+Magrill Elementary School,30.02393,-95.36218,school,way/456460111
+Rayford Intermediate School,30.025962,-95.364644,school,way/456460112
+Harris Elementary School,29.868008,-95.454201,school,way/456460114
+Goodman Elementary School,29.896834,-95.423738,school,way/456460115
+Ermel Elementary School,29.885239,-95.496853,school,way/456460117
+Dunn Elementary School,30.002913,-95.394197,school,way/456460118
+Cypresswood Elementary School,30.024297,-95.321522,school,way/456460119
+Lola Mae Carter Academy,29.918279,-95.4659,school,way/456460120
+Impact Leadership Academy at Wilson,29.91824,-95.468078,school,way/456460121
+Carroll Elementary School,29.887664,-95.403758,school,way/456460122
+Calvert Elementary School,29.947662,-95.362043,school,way/456460123
+Bussey Elementary School,29.923276,-95.409069,school,way/456460124
+Black Elementary School,29.929414,-95.40438,school,way/456460127
+Anderson Academy,29.868148,-95.43049,school,way/456460129
+Edward A Vines Early Childhood Center,29.866086,-95.454163,school,way/456460130
+Kujawa Elementary School,29.9235,-95.493389,school,way/456460131
+Kujawa Early Childood Center,29.924741,-95.495448,school,way/456460132
+Keeble Early Childhood Center,29.888772,-95.396189,school,way/456460133
+Jones Elementary School,30.013111,-95.306295,school,way/456460134
+Jones Early Childood Center,30.013118,-95.304024,school,way/456460135
+Garcia-Leza EE/PK/K School,29.892255,-95.311164,school,way/456460136
+De Santiago Early Childood Center,29.933984,-95.364752,school,way/456460137
+Dorothy Carlton Center,29.97223,-95.68247,school,way/456627018
+Alternative Learning Center East,29.934554,-95.565602,school,way/456627019
+Adaptive Behavior Center,29.934559,-95.564981,school,way/456627020
+Windfern School of Choice,29.934425,-95.573108,school,way/456627021
+Jersey Village High School,29.882214,-95.553792,school,way/456627022
+Cypress Springs High School,29.892438,-95.721666,school,way/456627023
+Cypress Ridge High School,29.892049,-95.603981,school,way/456627024
+Cypress Park High School,29.886004,-95.74287,school,way/456627025
+Truitt Middle School,29.870579,-95.631271,school,way/456627030
+Thornton Middle School,29.848026,-95.716227,school,way/456627031
+Kahla Middle School,29.866804,-95.660151,school,way/456627032
+Hopper Middle School,29.888736,-95.720809,school,way/456627033
+Hamilton Middle School,29.988403,-95.618199,school,way/456627034
+Dean Middle School,29.854931,-95.527471,school,way/456627035
+Campbell Middle School,29.935658,-95.57391,school,way/456627036
+Anthony Middle School,29.925841,-95.704584,school,way/456627037
+Yeager Elementary School,29.987862,-95.521946,school,way/456627038
+Woodard Elementary School,29.944028,-95.679305,school,way/456627039
+Willbern Elementary School,29.922003,-95.561299,school,way/456627040
+Walker Elementary School,29.870657,-95.730206,school,way/456627041
+Tipps Elementary School,29.852957,-95.669918,school,way/456627042
+Sheridan Elementary School,29.848525,-95.713333,school,way/456627043
+Sampson Elementary School,29.972739,-95.661289,school,way/456627044
+M Robison Elementary School,29.837562,-95.730976,school,way/456627045
+Postma Elementary School,29.908238,-95.701972,school,way/456627047
+Post Elementary School,29.882859,-95.551649,school,way/456627048
+Owens Elementary School,29.893159,-95.622071,school,way/456627049
+Moore Elementary School,29.97805,-95.595848,school,way/456627050
+Millsap Elementary School,29.954922,-95.629272,school,way/456627051
+Metcalf Elementary School,29.862908,-95.668655,school,way/456627052
+Watkins Middle School,29.846847,-95.660515,school,way/456627053
+Lieder Elementary School,29.84791,-95.661414,school,way/456627054
+Lee Elementary School,29.8643,-95.602491,school,way/456627055
+Jowell Elementary School,29.86747,-95.706455,school,way/456627056
+Alternative Learning Center West,29.869701,-95.706772,school,way/456627057
+Horne Elementary School,29.868033,-95.631298,school,way/456627058
+Hemmenway Elementary School,29.861588,-95.732217,school,way/456627061
+Hancock Elementary School,29.977859,-95.557531,school,way/456627062
+Hamilton Elementary School,29.985738,-95.614915,school,way/456627063
+Hairgrove Elementary School,29.882005,-95.607259,school,way/456627064
+Gleason Elementary School,29.902501,-95.556818,school,way/456627065
+Frazier Elementary School,29.901564,-95.519356,school,way/456627066
+Danish Elementary School,29.932079,-95.598667,school,way/456627067
+Copeland Elementary School,29.891717,-95.682339,school,way/456627068
+Black Elementary School,30.004268,-95.640691,school,way/456627069
+Aragon Middle School,29.904305,-95.665687,school,way/456627070
+Birkes Elementary,29.904434,-95.668742,school,way/456627071
+Bang Elementary School,29.902332,-95.573078,school,way/456627072
+Bane Elementary School,29.853511,-95.527477,school,way/456627074
+André Elementary School,29.897702,-95.720596,school,way/456627076
+Adam Elementary School,29.93851,-95.614503,school,way/456627077
+Wildcat Way School,29.777242,-95.559273,school,way/456856488
+Panda Path School,29.828763,-95.501105,school,way/456856489
+Bear Boulevard School,29.795093,-95.508893,school,way/456856490
+Stratford High School,29.773682,-95.604259,school,way/456856492
+Spring Branch Elementary School,29.80141,-95.515088,school,way/456856493
+Nottingham Elementary School,29.768138,-95.611698,school,way/456856494
+School (w457272314),29.709851,-95.600227,school,way/457272314
+Alief Learning Center,29.706318,-95.582311,school,way/457272320
+Kerr High School,29.691233,-95.636186,school,way/457272324
+Hastings Ninth Grade Center,29.705945,-95.598651,school,way/457272340
+Elsik Ninth Grade Center,29.705889,-95.602663,school,way/457272343
+Alief Hastings High School,29.709172,-95.597706,school,way/457272345
+Alief Elsik High School,29.709097,-95.602375,school,way/457272350
+Alief Early College High School,29.734221,-95.574506,school,way/457272354
+Olle Middle School,29.67687,-95.576249,school,way/457272364
+O'Donnell Middle School,29.709968,-95.632802,school,way/457272368
+Killough Middle School,29.694096,-95.617182,school,way/457272371
+Alief Middle School,29.70839,-95.594195,school,way/457272375
+Owens Intermediate School,29.701029,-95.569281,school,way/457272379
+Miller Intermediate School,29.717198,-95.655005,school,way/457272383
+Klentzman Intermediate School,29.66016,-95.568501,school,way/457272386
+Budewig Intermediate School,29.73124,-95.603905,school,way/457272389
+Youens Elementary School,29.710053,-95.594853,school,way/457272392
+Rees Elementary School,29.712735,-95.674578,school,way/457272395
+Albright Middle School,29.70777,-95.653461,school,way/457272399
+Petrosky Elementary School,29.704511,-95.653376,school,way/457272403
+Martin Elementary School,29.692553,-95.585128,school,way/457272407
+Mahanay Elementary School,29.709576,-95.61576,school,way/457272411
+Liestman Elementary School,29.692992,-95.616286,school,way/457272415
+Horn Elementary School,29.675911,-95.567182,school,way/457272419
+Holmquist Elementary School,29.718175,-95.657431,school,way/457272422
+Hicks Elementary School,29.687288,-95.628236,school,way/457272425
+Heflin Elementary School,29.722755,-95.618204,school,way/457272429
+Hearne Elementary School,29.70717,-95.632805,school,way/457272432
+Collins Elementary School,29.710409,-95.55487,school,way/457272437
+Chancellor Elementary School,29.710179,-95.576275,school,way/457272439
+Chambers Elementary School,29.698049,-95.566457,school,way/457272443
+Boone Elementary School,29.676948,-95.579573,school,way/457272447
+Alexander Elementary School,29.68703,-95.607825,school,way/457272451
+Summer Creek High School,29.926349,-95.208514,school,way/458352038
+Quest Early College High School,29.958664,-95.171323,school,way/458352039
+Humble High School,29.983067,-95.246709,school,way/458352040
+Timberwood Middle School,29.990269,-95.190972,school,way/458352041
+Ross Sterling Middle School,29.984503,-95.24877,school,way/458352042
+Summerwood Elementary School,29.927882,-95.17595,school,way/458352043
+River Pines Elementary School,29.969646,-95.24322,school,way/458352044
+Ridge Creek Elementary School,29.942158,-95.213622,school,way/458352045
+Oaks Elementary School,30.006156,-95.184406,school,way/458352046
+North Belt Elementary School,29.94041,-95.266448,school,way/458352047
+Maplebrook Elementary School,29.998847,-95.155558,school,way/458352048
+Lakeshore Elementary School,29.962736,-95.170534,school,way/458352049
+Lakeland Elementary School,29.989906,-95.25267,school,way/458352050
+Jack M Fields Senior Elementary School,29.966683,-95.262499,school,way/458352051
+Eagle Springs Elementary School,29.977952,-95.185229,school,way/458352052
+Harmony Science Academy,29.675804,-95.47915,school,way/460668432
+Frassati Catholic High School,30.087992,-95.48907,school,way/461414164
+La Porte Fire Department Station 4,29.630193,-95.019002,fire_station,way/464176159
+Condit Elementary School,29.703236,-95.46733,school,way/464726435
+Bracewell Neighborhood Library,29.601519,-95.245459,library,way/469217198
+Deer Park Fire Station 3,29.695673,-95.099515,fire_station,way/469281794
+San Jacinto Elementary School,29.701498,-95.107979,school,way/469801259
+Deer Park High School - North Campus,29.70722,-95.119209,school,way/469801269
+Wainwright Elementary School,29.823148,-95.469097,school,way/470309840
+Deer Park Junior High School,29.701709,-95.118792,school,way/471669009
+Katy Branch Library,29.80232,-95.817416,library,way/480899887
+Oak Forest Academy,29.816538,-95.432371,school,way/482900251
+Houston Fire Department Station 7,29.739254,-95.373608,fire_station,way/484640539
+Pope Elementary,29.959518,-95.739242,school,way/490600289
+The Montrose Center,29.736515,-95.384805,community_centre,way/490800930
+Ring Neighborhood Library,29.802661,-95.508032,library,way/497748965
+Greenwood Forest Clubhouse,29.977122,-95.509884,community_centre,way/502803233
+C.E. King High School,29.849624,-95.207747,school,way/503236461
+The Saint Constantine School,29.714931,-95.507944,school,way/506484516
+Davila Elementary School,29.713997,-95.284967,school,way/520052578
+East End Event Center,29.714166,-95.287139,community_centre,way/520151088
+African American History Research Center,29.754135,-95.380441,library,way/520282155
+St. John's School,29.740219,-95.428768,school,way/520285358
+Lamar High School,29.740244,-95.426298,school,way/520285359
+Houston Fire Department Station 23,29.716035,-95.279225,fire_station,way/520305342
+School (w520346697),29.709139,-95.375647,school,way/520346697
+Hartman Community Center,29.720931,-95.261711,community_centre,way/520370335
+Houston Gateway Academy Elite College Prep Bowie,29.714987,-95.287803,school,way/520406340
+Crosby Elementary School,29.913,-95.060269,school,way/520409775
+Barrett Primary School,29.88118,-95.048896,school,way/520414185
+Fonwood Early Childhood Center,29.854051,-95.264846,school,way/520430700
+Crosby High School,29.894399,-95.068848,school,way/520654828
+Crosby Middle School,29.89968,-95.066313,school,way/520658803
+Crosby Community Center,29.92233,-95.068381,community_centre,way/520667309
+Crosby Edith Fae Cook Cole Branch Library,29.920884,-95.067019,library,way/520687550
+Lakes on Eldridge North Community Association,29.856252,-95.59167,community_centre,way/520879338
+Community Centre (w521003294),29.856605,-95.613427,community_centre,way/521003294
+Klein Fire Dept. Station 5,30.082313,-95.54679,fire_station,way/521340418
+Community Centre (w521632581),29.839054,-95.64152,community_centre,way/521632581
+Kelso Elementary School,29.682002,-95.3339,school,way/521860133
+McMasters Elementary School,29.695014,-95.155282,school,way/521899395
+Love Elementary School,29.793291,-95.409098,school,way/526479867
+West University Library,29.716318,-95.437637,library,way/528725826
+Trafton Academy,29.66745,-95.457194,school,way/530002829
+Thomas A. Glazier Senior Education Center,29.832904,-95.653916,community_centre,way/531298831
+Korean Community Center,29.803921,-95.507,community_centre,way/532475026
+Billy Reagan K8 Educational Center,29.607626,-95.454222,school,way/533166473
+Wharton Dual Language Academy,29.754454,-95.390702,school,way/536914421
+Eastwood Community Center,29.742377,-95.325482,community_centre,way/537053101
+River Oaks Community Center,29.74187,-95.434016,community_centre,way/540429443
+D. Bradley McWilliams YMCA at Cypress Creek,29.98338,-95.570307,community_centre,way/543412653
+D. Bradley McWilliams YMCA at Cypress Creek Family Center,29.983251,-95.571924,community_centre,way/543412654
+Klein ISD Multipurpose Center,30.07597,-95.538345,school,way/547160265
+School (w549010733),29.864186,-95.682066,school,way/549010733
+Episcopal High School,29.714372,-95.457657,school,way/550433958
+The Post Oak School,29.714381,-95.456359,school,way/550433971
+Community Centre (w550773016),29.858916,-95.679032,community_centre,way/550773016
+Bear Creek Plantation Community Center,29.866279,-95.706115,community_centre,way/553866472
+St. Thomas,29.685517,-95.464759,school,way/554288607
+Foster Elementary School,29.6924,-95.360377,school,way/555982084
+Nelda Sullivan Middle School,29.677049,-95.222609,school,way/556772856
+South Schaver Elementary School,29.681412,-95.210529,school,way/556839471
+Grimes Elementary School,29.657742,-95.347682,school,way/557370645
+The Groves Amenity Center,29.968164,-95.174129,community_centre,way/560403873
+wonderlikewander,29.743315,-95.369694,community_centre,way/564738238
+Community Centre (w566863698),29.819554,-95.510289,community_centre,way/566863698
+Crawford Annex,29.737061,-95.373433,school,way/567580027
+SBISD South Transitional Campus,29.781944,-95.583316,school,way/569488657
+Patricia E. Paetow High School,29.843827,-95.776919,school,way/570570878
+Fire Station (w572476840),29.780986,-95.514287,fire_station,way/572476840
+Braeburn Elementary School,29.695563,-95.487816,school,way/584689493
+Northside High School,29.783591,-95.358361,school,way/585167455
+Marshall Middle Academy of Fine Arts,29.781792,-95.356962,school,way/585167460
+Ketelsen Elementary School,29.780767,-95.361985,school,way/585167463
+Ross Elementary School,29.80113,-95.341294,school,way/585213330
+Looscan Elementary School,29.795332,-95.358467,school,way/585213334
+Ryan Professional Development Center,29.796607,-95.352775,school,way/585213337
+Klein Cain High School,30.015097,-95.574494,school,way/586405223
+Wildwood Elementary School,30.029654,-95.639529,school,way/592782555
+Oakcrest Intermediate School,30.034748,-95.639963,school,way/592782564
+Willow Creek Elementary School,30.030835,-95.608981,school,way/592835632
+Northpointe Intermediate School,30.03204,-95.609724,school,way/592835637
+Canyon Pointe Elementary School,30.030705,-95.627412,school,way/592835658
+Willow Wood Junior High,30.02731,-95.605846,school,way/592854408
+Scarborough Elementary School,29.871968,-95.336335,school,way/595231699
+Richard & Meg Weekley Community Center,29.900097,-95.704189,community_centre,way/596248942
+Stehlik Intermediate School,29.916632,-95.422657,school,way/597011002
+Donaldson Child Nutrition Center,29.93049,-95.358561,school,way/597510669
+Klein ISD Annex,30.014575,-95.52387,school,way/597823497
+Mead Middle School,29.911068,-95.338988,school,way/597865001
+Vardeman EC/PK/K School,29.907886,-95.339842,school,way/597865008
+Providence Classical School,30.037552,-95.53014,school,way/598987166
+Houston Hillel,29.725983,-95.402308,community_centre,way/599085216
+Tom Bass Community Center,29.589562,-95.353729,community_centre,way/600849951
+Christia Adair Community Center,29.5892,-95.347694,community_centre,way/601724828
+Matzke Elementary School,29.960975,-95.56822,school,way/601755409
+Cy - Fair Volunteer Fire Department Station 2,29.939536,-95.589535,fire_station,way/602201967
+Cypress Christian School,29.951553,-95.586786,school,way/602246015
+Ross S. Sterling High School,29.773679,-94.969559,school,way/602549166
+Ursula Stephens Elementary,29.8075,-95.723093,school,way/603021499
+T H McDonald Junior High School,29.825991,-95.745253,school,way/603037755
+Reed Elementary School,29.894211,-95.526546,school,way/603465254
+Station 72,30.09904,-95.513631,fire_station,way/604742142
+Creekside Park Junior High School,30.138257,-95.555412,school,way/606747518
+Creekview Elementary School,30.14282,-95.556375,school,way/606747519
+Oak Village Middle School,29.898335,-95.291666,school,way/607170039
+Keahey Elementary School,29.898276,-95.296842,school,way/607170040
+Whispering Pines Elementary School,29.973877,-95.213601,school,way/607387985
+C.E. King Middle School,29.848388,-95.212286,school,way/607429197
+L.E. Monahan Elementary School,29.855259,-95.203256,school,way/607429205
+Purple Sage Elementary School,29.818563,-95.193264,school,way/607441541
+Lomax Middle School,29.632484,-95.174533,school,way/607497589
+Turner Elementary School,29.644658,-95.166319,school,way/607497598
+Fairmont Elementary School,29.64512,-95.13676,school,way/608139301
+Fairmont Junior High School,29.640524,-95.129441,school,way/608139374
+Memorial Private High School,29.774485,-95.598122,school,way/608428081
+British International School of Houston,29.799849,-95.737585,school,way/608494295
+Community Centre (w608693184),29.781075,-95.599593,community_centre,way/608693184
+Lycée International de Houston,29.789705,-95.661053,school,way/608778870
+Queens Intermediate School,29.677614,-95.229205,school,way/609996624
+Sam Rayburn High School,29.679364,-95.180936,school,way/610071901
+School (w610071903),29.681154,-95.18245,school,way/610071903
+Barrick Elementary School,29.874324,-95.370564,school,way/610316043
+Shadydale Elementary School,29.849707,-95.311783,school,way/610621455
+Chatham Elementary School,29.834087,-95.308876,school,way/610621457
+Kashmere High School,29.822039,-95.315093,school,way/610628249
+Isaacs Elementary School,29.794802,-95.317841,school,way/610628251
+Terrell Alternative School,29.829252,-95.322194,school,way/610628254
+Kashmere Gardens Elementary School,29.804929,-95.317985,school,way/610628257
+Sanderson Elementary School,29.824231,-95.319647,school,way/610628260
+Fonwood Elementary School,29.870287,-95.303144,school,way/610628262
+Fleming Middle School,29.79249,-95.320834,school,way/610628265
+Covenant Academy,29.947807,-95.649809,school,way/610631584
+Rosehill Elementary,30.083913,-95.703196,school,way/610632680
+Abecrombie Academy,30.020346,-95.534176,school,way/610871906
+Tomball Intermediate School,30.093123,-95.621578,school,way/610871909
+Kingwood Music School,30.056952,-95.18712,school,way/610888759
+Saint Anne School,29.743644,-95.411636,school,way/611285119
+Metropolitan Multi-Services Center,29.752185,-95.400079,community_centre,way/611307466
+Cimarron Elementary School,29.780672,-95.192802,school,way/611316320
+Woodland Acres Middle School,29.764127,-95.200142,school,way/611316323
+Carroll Schochler Elementary School,29.790308,-95.14325,school,way/611316324
+Viola Cobb Elementary School,29.790331,-95.141482,school,way/611316356
+Creekside Forest Elementary School,30.143052,-95.513637,school,way/614902812
+Sheldon Elementary School,29.863477,-95.133643,school,way/615567752
+School (w616418265),30.092448,-95.63083,school,way/616418265
+Tomball High School,30.110887,-95.62699,school,way/616947562
+Dogan Elementary School,29.785064,-95.328371,school,way/617271230
+Sherman Elementary School,29.779408,-95.352218,school,way/617271431
+High School Ahead Academy Middle School,29.844465,-95.402023,school,way/617432904
+Saint Pius X High School,29.843096,-95.413759,school,way/617432917
+KIPP Houston PNC Opportunity Campus,29.829383,-95.459725,school,way/617439823
+Osborne Elementary School,29.876042,-95.416387,school,way/617489498
+John F. Ward Elementary School,29.581733,-95.135493,school,way/618354090
+Whitcomb Elementary School,29.55973,-95.129818,school,way/618552865
+Clear Lake High School - 9th Grade Center,29.57938,-95.110065,school,way/618559331
+Falcon Pass Elementary,29.576393,-95.111668,school,way/618559336
+Lomax Elementary School,29.68143,-95.069028,school,way/618991190
+DPISD Education Support Center,29.683276,-95.130236,school,way/619455250
+Pomeroy Elementary School,29.697277,-95.183871,school,way/619457946
+Mae Smythe Elementary,29.675766,-95.18633,school,way/619460923
+Pasadena School for Accelerated Learning,29.677895,-95.191751,school,way/619460926
+Deer Park High School - Wolters Campus,29.70873,-95.120159,school,way/619496075
+Groves Elementary School,29.955272,-95.187375,school,way/619563195
+West Lake Middle School,29.955253,-95.191215,school,way/619563199
+T. H. Rogers School,29.751282,-95.480834,school,way/620133194
+KIPP,29.70631,-95.502051,school,way/620138010
+Energized for Excellence Academy,29.695912,-95.490069,school,way/620139015
+Sharpstown High School,29.684842,-95.515561,school,way/620141768
+Sharpstown International School,29.69878,-95.531731,school,way/620145414
+Smith Elementary School,29.66287,-95.578172,school,way/620159061
+Julia C. Hester House,29.779171,-95.32026,community_centre,way/620393221
+R Martinez Elementary School,29.773559,-95.297067,school,way/620426040
+Scroggins Elementary School,29.78108,-95.298376,school,way/620426041
+Wesley Elementary School,29.86138,-95.419233,school,way/620982261
+Booker T Washington High School,29.823508,-95.397909,school,way/620982268
+M. C. Williams Middle School,29.854218,-95.424588,school,way/620982271
+Highland Heights Elementary School,29.849127,-95.420841,school,way/620982272
+Durkee Elementary School,29.866457,-95.392565,school,way/620982993
+Armandina Farias Early Childhood Center,29.865756,-95.392645,school,way/620982994
+Fonville Middle School,29.871579,-95.389922,school,way/623455790
+Joe E. Moreno Elementary School,29.87473,-95.389963,school,way/623455794
+Newport Elementary School,29.941586,-95.079894,school,way/623555690
+Drew Intermediate School,29.866808,-95.063795,school,way/623555730
+Travis Elementary School,29.776647,-95.034847,school,way/623561702
+Bonnie P Hopper Primary School,29.822189,-95.054058,school,way/623561703
+Highlands Elementary School,29.820211,-95.05508,school,way/623561704
+Highlands Junior High School,29.821239,-95.039817,school,way/623561706
+Baytown Junior High School,29.777448,-95.033376,school,way/623561709
+West Briar Middle School,29.760295,-95.629934,school,way/626738322
+Barbara Bush Elementary School,29.759829,-95.632383,school,way/626738325
+St. John Paul II Catholic School,29.761184,-95.633967,school,way/626738341
+Rodgriguez Elementary School,29.718943,-95.47797,school,way/628664323
+The Fay School,29.766515,-95.459416,school,way/628941009
+YES Prep Southeast,29.639545,-95.207244,school,way/630319250
+Veritas Christian Academy of Houston,29.702828,-95.473333,school,way/630343302
+School (w630617667),29.718063,-95.480015,school,way/630617667
+Amigos por Vida School,29.722384,-95.479463,school,way/630630808
+Fire Station (w634277763),29.981103,-95.607505,fire_station,way/634277763
+Laurel Park Community Center,30.064096,-95.541746,community_centre,way/649291202
+"Merlin D. Griggs, Sr. Early Childhood/Pre-Kindergarten/Kindergarten Campus",29.959985,-95.394832,school,way/653177262
+Community Centre (w653977850),29.856767,-95.699304,community_centre,way/653977850
+School (w655427221),29.915564,-95.63146,school,way/655427221
+Community Centre (w656357464),29.911757,-95.700281,community_centre,way/656357464
+Moody Community Center,29.794089,-95.365193,community_centre,way/656608667
+Harris Elementary School,29.769066,-95.22157,school,way/656815615
+Oates Elementary School,29.793077,-95.252434,school,way/656821375
+César E. Chávez High School,29.687934,-95.25572,school,way/656841068
+Hockley Community Center,30.032332,-95.861845,community_centre,way/658986533
+South Houston Intermediate School,29.657251,-95.241862,school,way/659529128
+Walter Matthys Elementary School,29.658386,-95.24022,school,way/659529134
+South Houston Elementary School,29.663251,-95.244405,school,way/659529156
+Community Centre (w659638366),29.897964,-95.709023,community_centre,way/659638366
+Almeda Elementary School,29.600048,-95.418397,school,way/660310839
+Houston Fire Department Station 21,29.67043,-95.432828,fire_station,way/662095731
+Windsor Village Elementary School,29.617641,-95.471196,school,way/665963519
+Bowen Early Childhood Center,30.023778,-95.112248,school,way/666202027
+Huffman Middle School,30.039935,-95.059376,school,way/666202031
+Huffman Intermediate School,30.025194,-95.112772,school,way/666202040
+May Community Center,30.058356,-95.062722,community_centre,way/666202041
+Copeland Elementary School,30.024681,-95.112655,school,way/666202049
+Hargrave High School,30.042171,-95.058791,school,way/666202050
+Seabrook Intermediate School,29.572392,-95.017338,school,way/666779701
+Clear View Education Center,29.531254,-95.120541,school,way/666779707
+McWhirter Elementary School,29.534458,-95.120022,school,way/666779711
+Clear Brook High School,29.547841,-95.186865,school,way/666950904
+Moore Elementary School,29.59381,-95.246563,school,way/666970032
+Melillo Middle School,29.582662,-95.248046,school,way/666970036
+Burnett Elementary School,29.591429,-95.200907,school,way/667029331
+Thompson Intermediate School,29.595736,-95.215633,school,way/667029334
+Stuchbery Elementary School,29.595246,-95.217229,school,way/667029354
+Frazier Elementary School,29.58885,-95.22741,school,way/667029363
+Hancock Elementary School,29.630332,-95.240882,school,way/667042601
+International Leadership of Texas Windmill Lakes K-8,29.625238,-95.241624,school,way/667042605
+School (w667042609),29.610471,-95.263769,school,way/667042609
+Atkinson Elementary School,29.608486,-95.239728,school,way/667042614
+DeAnda Elementary School,29.624906,-95.279562,school,way/667042617
+School (w667042618),29.616301,-95.252893,school,way/667042618
+Sunny Side Elementary School,29.670086,-95.371156,school,way/667254780
+Whidby Elementary School,29.6822,-95.375108,school,way/667280129
+Attucks Middle School,29.66708,-95.363548,school,way/667280130
+Hartsfield Elementary School,29.694494,-95.342954,school,way/667284013
+Normandy Crossing Elementary School,29.78211,-95.208939,school,way/668336885
+Sinclair Elementary School,29.794192,-95.428776,school,way/668348491
+Field Elementary School,29.801421,-95.388785,school,way/668469569
+Browning Elementary School,29.797096,-95.379002,school,way/668469571
+Jefferson Elementary School,29.805499,-95.370837,school,way/668469572
+Travis Elementary School,29.788808,-95.37491,school,way/668469577
+Harvard Elementary School,29.786106,-95.395799,school,way/668469579
+Hogg Middle School,29.789837,-95.386064,school,way/668469586
+Herrera Elementary School,29.822635,-95.366906,school,way/668469587
+Pearl Hall Elementary School,29.652195,-95.221362,school,way/668503031
+Miller Intermediate School,29.649901,-95.196944,school,way/668503032
+Young Elementary School,29.6473,-95.197418,school,way/668503035
+Roberts Middle School,29.611036,-95.192943,school,way/668524720
+South Houston High School,29.652302,-95.212259,school,way/668524722
+Garfield Elementary School,29.636147,-95.232015,school,way/668524748
+Genoa Elementary School,29.622138,-95.20156,school,way/668524753
+Earnesteen Milstead Middle School,29.639349,-95.220778,school,way/668524756
+Bayshore Elementary School,29.631853,-95.029264,school,way/668542502
+Lamar Elementary School,29.73946,-94.969965,school,way/668687374
+George Washington Carver Elementary School,29.728511,-94.972816,school,way/668687391
+Robert E. Lee High School,29.731283,-94.983813,school,way/668687393
+Horace Mann Junior High School,29.724495,-94.958202,school,way/668687395
+Ashbel Smith Elementary School,29.733005,-94.961521,school,way/668687413
+Lorenzo De Zavala Elementary School,29.723638,-94.956016,school,way/668687420
+Alamo Elementary School,29.793362,-94.962419,school,way/668766588
+James Bowie Elementary School,29.744256,-94.946171,school,way/668766598
+Crockett Elementary School,29.774417,-94.954404,school,way/668770203
+Dr. Antonio Banuelos Elementary School,29.812208,-94.986843,school,way/668773027
+Harlem Elementary School,29.801507,-95.010463,school,way/668773028
+Stephen F Austin Elementary School,29.765851,-94.92853,school,way/668773031
+Victoria Walker Elementary School,29.812776,-94.984839,school,way/668773035
+Gentry Junior High School,29.795564,-94.942261,school,way/668947516
+N-14: Library,29.810773,-95.181923,library,way/669713847
+Ortiz Middle School,29.663301,-95.286793,school,way/670320949
+Independence Heights Community Center,29.818477,-95.390901,community_centre,way/670541160
+Burrus Elementary School,29.817294,-95.390425,school,way/670541164
+San Jacinto Intermediate School,29.684998,-95.158104,school,way/670586808
+Melrose Community Center,29.87701,-95.373587,community_centre,way/670748449
+Fondren Elementary School,29.628088,-95.498386,school,way/670813646
+Houston Fire Department Station 30,29.81917,-95.36079,fire_station,way/671190399
+Hoover Elementary School,29.869297,-95.705303,school,way/671273785
+Roberts Elementary School,29.711608,-95.411875,school,way/671838881
+Library Service Center,29.656802,-95.443361,library,way/671838892
+Hardy Community Center,29.874809,-95.367181,community_centre,way/672168541
+Community Centre (w672198880),30.07382,-95.199862,community_centre,way/672198880
+Community Centre (w672198881),30.0741,-95.199604,community_centre,way/672198881
+Community Centre (w672198885),30.074744,-95.201316,community_centre,way/672198885
+Henington-Alief Regional Library,29.692328,-95.587009,library,way/672633829
+Houston Fire Department Station 15,29.802836,-95.386677,fire_station,way/674527210
+Shape Community Center,29.72908,-95.366388,community_centre,way/677125167
+Atascocita Branch Library,30.004601,-95.154226,library,way/679972464
+School (w679972499),29.99557,-95.161173,school,way/679972499
+Community Centre (w685076013),29.828727,-95.732516,community_centre,way/685076013
+Evelyn Rubenstein Jewish Community Center,29.67407,-95.484574,community_centre,way/686578725
+Chinese Community Center,29.712854,-95.554492,community_centre,way/686579558
+Tracy Gee Community Center,29.726064,-95.55349,community_centre,way/686585373
+Liberty Island Community Center,29.679613,-95.573778,community_centre,way/686587024
+UTHealth Recreation Center,29.690734,-95.39799,community_centre,way/686588753
+Baker-Ripley Neighborhood Center,29.710851,-95.497523,community_centre,way/688074729
+Our Texas,29.725347,-95.414367,community_centre,way/688200621
+Dechaumes Elementary School,29.861007,-95.37713,school,way/691265215
+Waller Junior High School,30.064405,-95.924241,school,way/692536016
+Fire Station (w706801522),30.045074,-95.481308,fire_station,way/706801522
+School (w708347959),29.518111,-95.136788,school,way/708347959
+Spring Woods High School,29.81089,-95.547451,school,way/725188194
+Houston Fire Department Station 31,29.828524,-95.40246,fire_station,way/725713303
+Banff School,29.97728,-95.53848,school,way/733128596
+Centennial Elementary,29.943656,-95.185002,school,way/744107507
+Kendall Library & Community Center,29.773042,-95.620587,community_centre,way/746967233
+High Meadows Branch Library,29.902277,-95.327188,library,way/760076916
+Galena Park Library,29.732694,-95.239907,library,way/762998372
+Hội Trường Mẫu Tâm,29.68587,-95.585243,community_centre,way/765321390
+First Filipino American United Methodist Community Center,29.685184,-95.585927,community_centre,way/765321453
+Wells Elementary School & Sprague Middle School,29.928693,-95.759161,school,way/765402655
+Bridgeland High School,29.933024,-95.76003,school,way/765402656
+Sharpstown Community Center,29.708761,-95.509929,community_centre,way/766374054
+Saint Elizabeth Ann Seton Catholic Church & Schools,29.872477,-95.631599,school,way/766792999
+Kolbe Hall,29.908398,-95.569599,community_centre,way/766795098
+Saint Martha Activity Center,30.065415,-95.210075,community_centre,way/766800772
+Family Life Center,30.064865,-95.210363,community_centre,way/766800775
+Saint Martha Catholic Church Faith Formation Campus,30.064876,-95.20993,school,way/766800787
+The Monarch School,29.823752,-95.53796,school,way/769010974
+Cherryhurst Community Center,29.744426,-95.398145,community_centre,way/769978371
+Catherine Bethke Elementary,29.839097,-95.780812,school,way/785070496
+Fire Station (w787118366),29.827781,-95.720427,fire_station,way/787118366
+Community Centre (w788337865),29.855997,-95.699146,community_centre,way/788337865
+Community Centre (w791112554),29.941108,-95.68511,community_centre,way/791112554
+Samuel Mathews Park Community Center,30.118334,-95.595602,community_centre,way/798417533
+James Andrew Jackson Intermediate School,29.699979,-95.200004,school,way/814437322
+Fire Station (w820135279),29.868043,-95.126527,fire_station,way/820135279
+Burbank Elementary School,29.844502,-95.373068,school,way/820173490
+Collier Regional Library,29.840666,-95.482697,library,way/825336209
+Fire Station (w827764471),30.024934,-95.089862,fire_station,way/827764471
+Houston Fire Department Station 58,29.857078,-95.383524,fire_station,way/835673719
+Aldine Branch Library,29.920775,-95.407737,library,way/842428471
+Mount Ararat Academy,29.850409,-95.413982,school,way/843695913
+Lanier Theological Library,29.977528,-95.549219,library,way/845518094
+Houston Fire Department Station 96,29.96946,-95.540955,fire_station,way/845520751
+Carverdale Community Center,29.847742,-95.539258,community_centre,way/847038016
+Leonel J. Castillo Community Center,29.778251,-95.367059,community_centre,way/847975171
+Houston Fire Department Station 78,29.779203,-95.619535,fire_station,way/848661741
+Finnigan Park Community Center,29.769627,-95.319643,community_centre,way/849180266
+YET Center,29.769256,-95.31974,community_centre,way/849180269
+Pokrova Hall,29.890532,-95.398407,community_centre,way/849310943
+Houston Fire Station Number 53;Houston Fire Department Station 53,29.776017,-95.187001,fire_station,way/849324889
+North Channel Branch Library,29.811025,-95.156997,library,way/849326573
+Houston Fire Department - Arson Division,29.791302,-95.43071,fire_station,way/849618550
+Bowie Elementary School,29.82715,-95.338662,school,way/852287251
+STATION 39,29.999588,-95.189936,fire_station,way/856229761
+Hofius Intermediate School,30.115411,-95.548396,school,way/858287572
+Burbank Middle School,29.839698,-95.370721,school,way/859440709
+K2 Academy & K2 Campus,29.993568,-95.613892,school,way/859782198
+Gregory - Lincoln Education Center,29.756499,-95.384865,school,way/861171421
+The Woodlands Fire Station #7,30.147093,-95.549314,fire_station,way/862150826
+The Woodlands Preparatory School,30.15688,-95.545741,school,way/862155810
+Berry Elementary School,29.836877,-95.349635,school,way/864164334
+Janowski Elementary School,29.830452,-95.37056,school,way/864166861
+I. T. Holleman Elementary,30.056875,-95.909898,school,way/864690228
+Michael R. Null Middle School,29.885069,-95.21661,school,way/864747160
+Garrett Elementary School,29.884202,-95.220142,school,way/864747174
+C. E. King High School,29.877481,-95.199881,school,way/864747176
+Sheldon Lake Elementary School,29.873908,-95.194107,school,way/864747209
+Francis Elementary School,29.953759,-95.286888,school,way/866389416
+Autum Ridge Middle School,29.944394,-95.213444,school,way/867008273
+Garcia Middle School,29.892942,-95.442979,school,way/871426268
+Christian Community Service Center,29.736866,-95.432713,community_centre,way/874831859
+Community Centre (w874831860),29.736667,-95.432684,community_centre,way/874831860
+Shady Lane Community Center,29.85981,-95.34249,community_centre,way/875650673
+Lincoln Park Community Center,29.880309,-95.424773,community_centre,way/878542174
+"J. Robinson, Sr. Community Center",29.76356,-95.270643,community_centre,way/882078621
+Scout Building,29.716433,-95.434132,community_centre,way/882398791
+School (w890872348),29.898163,-95.61963,school,way/890872348
+Oak Forest Neighborhood Library,29.827571,-95.434016,library,way/894454185
+Edgewood Community Center,29.666835,-95.331733,community_centre,way/902118392
+Bessie Swindle Community Center,29.632319,-95.367637,community_centre,way/902135697
+Looscan Neighborhood Library,29.742818,-95.44203,library,way/902290196
+Walter Neighborhood Library,29.709806,-95.520876,library,way/910770838
+Station 76,30.121499,-95.551784,fire_station,way/918050096
+Station 70,30.095029,-95.455614,fire_station,way/918050100
+Station 78,30.087608,-95.433738,fire_station,way/918050102
+Station 71,30.071012,-95.424376,fire_station,way/918050104
+Station 77,30.044004,-95.455399,fire_station,way/918050106
+Station 74,30.055077,-95.392606,fire_station,way/918050109
+Station 73,30.040508,-95.356073,fire_station,way/918050110
+Station 75,30.070088,-95.479125,fire_station,way/918066666
+Shepard-Acres Homes Neighborhood Library,29.871013,-95.437319,library,way/925201721
+Houston Fire Department Station 22,29.730572,-95.28464,fire_station,way/931703045
+YES Prep East End,29.716377,-95.275086,school,way/931719131
+Children's Academy,29.984399,-95.203279,school,way/936866852
+Arab American Cultural and Community Center,29.656425,-95.56607,community_centre,way/938549717
+Octavia Fields Branch Library,29.980457,-95.260039,library,way/939555571
+Fire Station (w941098540),30.020589,-95.103104,fire_station,way/941098540
+Barrett Station/Riley Chambers Community Center,29.867261,-95.075073,community_centre,way/942832607
+San Jacinto Community Center,29.819805,-95.066263,community_centre,way/942834910
+Little York Fire Department - Station 81,29.907124,-95.401624,fire_station,way/943428006
+Community Centre (w948606701),29.946224,-95.681196,community_centre,way/948606701
+McReynolds Middle School,29.77151,-95.31172,school,way/957220178
+Bonnette Junior High School,29.680004,-95.133754,school,way/962030343
+Carpenter Elementary School,29.679972,-95.135985,school,way/962030345
+Houston Fire Department Station 11,29.779382,-95.417659,fire_station,way/974192624
+Harper Alternative School,29.829755,-95.411425,school,way/975863361
+Evolution Academy,30.067283,-95.452633,school,way/977069725
+Candlelight Community Center,29.836102,-95.436785,community_centre,way/978908787
+Almeda Community Center,29.600715,-95.417074,community_centre,way/979683778
+Jungman Neighborhood Library,29.738425,-95.481374,library,way/984919941
+Flores Neighborhood Library,29.750217,-95.334857,library,way/988588873
+Cunningham Middle School,29.803124,-95.200078,school,way/1009712745
+Tice Elementary School,29.80418,-95.199449,school,way/1009712746
+Mandarin Immersion Magnet School,29.737306,-95.472223,school,way/1013862580
+Highland Community Center,29.854689,-95.457218,community_centre,way/1021776804
+Montie Beach Community Center,29.800214,-95.378727,community_centre,way/1022930009
+Houston Fire Department Station 28,29.733896,-95.476873,fire_station,way/1023522246
+La Porte Fire Department Station 2,29.663955,-95.085854,fire_station,way/1026636452
+Houston Fire Department Station 27,29.776903,-95.304576,fire_station,way/1026895315
+Tuttle Neighborhood Library,29.776165,-95.307747,library,way/1026895497
+Houston Fire Department Station 13,29.832231,-95.451381,fire_station,way/1026897995
+Houston Fire Department Station 62,29.798078,-95.437731,fire_station,way/1027211940
+Houston Fire Department Station 39,29.812794,-95.318635,fire_station,way/1032712063
+Johnson Elementary School,29.920972,-95.303175,school,way/1035887349
+George H.W. Bush Community Center,30.011925,-95.510206,community_centre,way/1038298244
+Texas Can Academy,29.658146,-95.257584,school,way/1042446875
+Woodland Community Center,29.783338,-95.370432,community_centre,way/1055089769
+Houston Fire Department Station 26,29.681815,-95.305015,fire_station,way/1060981137
+McNair Volunteer Fire Department,29.802757,-95.021719,fire_station,way/1061943339
+DeZavala Community Center,29.73786,-95.288227,community_centre,way/1062138300
+Leon Grayson / Baldree Community Center,29.782429,-95.179652,community_centre,way/1064214879
+Houston Fire Department Station 82,29.657934,-95.511422,fire_station,way/1065983128
+Sagemont Community Center,29.599912,-95.217069,community_centre,way/1066710765
+Fox Elementary School,30.078465,-95.491068,school,way/1068005101
+Heights Fire Department,29.792363,-95.398753,fire_station,way/1069916719
+Freed Community Center,29.796699,-95.472235,community_centre,way/1070617145
+Trini Mendenhall Community Center,29.795776,-95.484143,community_centre,way/1070632437
+Houston Fire Department Station 51,29.70529,-95.504893,fire_station,way/1071299083
+Heights Neighborhood Library,29.794734,-95.397291,library,way/1072142595
+Milroy Community Center,29.792663,-95.399587,community_centre,way/1072142625
+Love Community Center,29.792694,-95.407796,community_centre,way/1072142777
+Linkwood Community Center,29.68739,-95.43368,community_centre,way/1073734776
+Houston Fire Department Station 45,29.805207,-95.263913,fire_station,way/1074383702
+Houston Fire Department Station 69,29.750975,-95.558724,fire_station,way/1076585987
+Steve Radack Community Center,29.83206,-95.690623,community_centre,way/1077264674
+Lansdale Community Center,29.699433,-95.528118,community_centre,way/1078372155
+Sunnyside Community Center,29.66881,-95.372163,community_centre,way/1080551584
+Meadowcreek Community Center,29.680034,-95.243349,community_centre,way/1080857345
+Houston Fire Department Station 56,29.870902,-95.305807,fire_station,way/1081950533
+Scenic Woods Regional Library,29.869857,-95.301091,library,way/1081950825
+Townwood Community Center,29.621499,-95.429654,community_centre,way/1083304727
+Vinson Neighborhood Library,29.614152,-95.433593,library,way/1083308969
+Windsor Village Community Center,29.617681,-95.474239,community_centre,way/1083315692
+The Commons Amenity Center Bridge Creek,29.915952,-95.737858,community_centre,way/1083328771
+Cavalcade Community Center,29.800573,-95.332786,community_centre,way/1083939899
+McCrane-Kashmere Gardens Neighborhood Library,29.806245,-95.316643,library,way/1083941615
+Stanaker Neighborhood Library,29.740071,-95.303079,library,way/1083950961
+Houston Fire Department Station 32,29.849664,-95.265454,fire_station,way/1084301167
+Mancuso Neighborhood Library,29.668157,-95.310293,library,way/1085219647
+Orissa Culture Center,29.612564,-95.376548,community_centre,way/1085497546
+Cloverleaf Volunteer Fire Department Station 2,29.805674,-95.192277,fire_station,way/1087513394
+Houston Fire Department Station 44,29.778097,-95.218134,fire_station,way/1087972231
+Houston Fire Department Station 57,29.773065,-95.580406,fire_station,way/1088924993
+Platou Community Center,29.653794,-95.479128,community_centre,way/1088937194
+Houston Fire Department Station 43,29.828268,-95.284031,fire_station,way/1089305909
+Hobart Taylor Community Center,29.815058,-95.27776,community_centre,way/1089307767
+Clinton Community Center,29.743605,-95.261913,community_centre,way/1090220528
+Gauranga Hall,29.81849,-95.423723,community_centre,way/1091733830
+Baytown Fire Department Station 4,29.735473,-94.954816,fire_station,way/1098161034
+Freed-Montrose Neighborhood Library,29.745303,-95.390774,library,way/1098887698
+Turquoise Center,29.654641,-95.546122,community_centre,way/1098995389
+Hackberry Community Center,29.693157,-95.60353,community_centre,way/1099236638
+Community Centre (w1099286642),29.691374,-95.597296,community_centre,way/1099286642
+Philippine Community Center,29.655878,-95.537231,community_centre,way/1099471493
+Walker Neighborhood Library,29.653418,-95.482067,library,way/1099700363
+Robert M. Beren Academy,29.65336,-95.452507,school,way/1100676564
+Parker Elementary School,29.665597,-95.483424,school,way/1100989290
+Bethel’s Christian Academy,29.640145,-95.501946,school,way/1102477271
+Houston Fire Station Number 48,29.653371,-95.481085,fire_station,way/1103947405
+Tuffly Community Center,29.790651,-95.331535,community_centre,way/1105962157
+Community Centre (w1106648645),29.83043,-95.537211,community_centre,way/1106648645
+India House,29.656813,-95.533011,community_centre,way/1106723739
+Institute of Hispanic Culture of Houston,29.737063,-95.427098,community_centre,way/1106856360
+Alief Neighborhood Center,29.702541,-95.58891,community_centre,way/1109715995
+School (w1118750800),29.545703,-95.163353,school,way/1118750800
+School (w1120081779),29.887688,-95.819708,school,way/1120081779
+School (w1120167169),29.899605,-95.071727,school,way/1120167169
+Brosnahan Elementary,29.832549,-95.726295,school,way/1120281583
+Harvey Brown Elementary School,29.816412,-95.136074,school,way/1120917259
+School (w1123144772),30.013622,-95.28308,school,way/1123144772
+North Forest High School,29.867791,-95.25961,school,way/1123567011
+Waller High School,30.076771,-95.912335,school,way/1123574374
+Lance Corporal Anthony Aguirre Junior High,29.808356,-95.156204,school,way/1124201299
+Cravens Early Childhood Academy,29.851293,-95.199848,school,way/1124246317
+Houston Fire Department Station 75,29.744819,-95.605443,fire_station,way/1173765360
+School (w1173765368),29.745718,-95.618387,school,way/1173765368
+La Porte Fire Department Station 3,29.67501,-95.047059,fire_station,way/1176643915
+BHA Houston,30.075719,-95.504364,school,way/1195313777
+Community Centre (w1198166086),29.959884,-95.673162,community_centre,way/1198166086
+Johnson Neighborhood Library,29.658782,-95.370818,library,way/1209506647
+South Houston Branch Library,29.666891,-95.22419,library,way/1213094002
+Second Baptist School: University Model,29.754832,-95.529037,school,way/1225994172
+Community Centre (w1225996551),29.745055,-95.569737,community_centre,way/1225996551
+White Oak Conference Center,29.875272,-95.475024,community_centre,way/1226061411
+Houston Fire Department Station 59,29.625238,-95.464797,fire_station,way/1227098711
+Community Centre (w1231194579),30.05385,-95.582364,community_centre,way/1231194579
+Bastian Elementary School,29.668481,-95.349219,school,way/1232223419
+Kipp,29.6354,-95.491585,school,way/1232297333
+Meyer Park Charter,29.638471,-95.484778,school,way/1232297334
+Accelerated Interdisciplinary Academy,29.636287,-95.484773,school,way/1232297335
+School (w1233448650),29.691137,-95.50812,school,way/1233448650
+Harmony Science Academy City Place,30.085461,-95.456452,school,way/1236139151
+Houston Fire Department Station 47,29.631733,-95.413708,fire_station,way/1240852481
+Community Centre (w1242384417),29.75445,-95.577392,community_centre,way/1242384417
+Braeburn Glen Civic Center,29.677893,-95.531787,community_centre,way/1244285864
+School (w1256914415),29.777402,-95.334879,school,way/1256914415
+Fire Station (w1263441518),30.071225,-95.423994,fire_station,way/1263441518
+Administrative Building & Community Center,29.687631,-95.384527,community_centre,way/1267584188
+Houston Fire Department Station 3,29.737914,-95.438362,fire_station,way/1276245532
+Settegast Community Center,29.753027,-95.343987,community_centre,way/1277953371
+Northland Christian School,29.985871,-95.490828,school,way/1279722051
+Hilliard Elementary School,29.838115,-95.268186,school,way/1284179040
+Community Centre (w1286895673),30.049594,-95.507812,community_centre,way/1286895673
+Ray Daily Elementary School,29.753901,-95.615636,school,way/1288435034
+Garden Villas Community Center,29.664132,-95.295096,community_centre,way/1289748277
+Charlton Community Center,29.687661,-95.2741,community_centre,way/1300772251
+Park Place Regional Library,29.687801,-95.275207,library,way/1301650408
+Community Centre (w1303116770),30.03005,-95.622815,community_centre,way/1303116770
+Community Centre (w1306464465),29.98988,-95.717823,community_centre,way/1306464465
+Tomball Fire Station 5,30.058705,-95.662023,fire_station,way/1306723079
+Fire Station (w1309476359),29.556814,-95.149349,fire_station,way/1309476359
+Francis Scott Key Middle School,29.812005,-95.330274,school,way/1314725529
+Barbara Jordan Career Center,29.812056,-95.333111,school,way/1314725530
+La Porte Branch Library,29.658593,-95.019737,library,way/1316238792
+Yeshiva Torat Emet,29.654933,-95.511465,school,way/1326139703
+Tinsley Elementary,29.658766,-95.499641,school,way/1326188732
+Valley West Elementary School,29.663172,-95.526231,school,way/1327046084
+Horizon Leadership Academy,29.654179,-95.547001,school,way/1328613617
+Houston Fire Department Station 71,29.581943,-95.127842,fire_station,way/1328660926
+Nathaniel Q. Henderson Elementary School,29.769399,-95.321494,school,way/1330756885
+River Oaks Baptist School,29.743848,-95.442668,school,way/1336600361
+Cypress Christian School,29.937101,-95.784215,school,way/1340046259
+St. Andrew's Presbyterian Children's Place,29.724867,-95.429544,school,way/1341148875
+Memorial Hills Community Improvement Association,30.025415,-95.391597,community_centre,way/1341507514
+Klein Fire Department,30.039858,-95.53784,fire_station,way/1346672230
+Channelview Volunteer Fire Department Station 3,29.789514,-95.140023,fire_station,way/1348170890
+International Leadership of Texas Westpark K-8,29.700687,-95.657399,school,way/1349329207
+Klein Volunteer Fire Department Station 7,30.038236,-95.504595,fire_station,way/1352448940
+Houston Fire Department Station 83,29.72655,-95.577722,fire_station,way/1353272571
+Sue McGown Elementary School,29.925657,-95.739142,school,way/1355821175
+McReavy Elementary School,29.935175,-95.780031,school,way/1356014665
+"Sam Houston Math, Science and Technology Center",29.849104,-95.3611,school,way/1360442509
+Michael E. DeBakey High School for Health Professions,29.704929,-95.408297,school,way/1360442510
+Pasadena Fire Department Station 6,29.583007,-95.057501,fire_station,way/1365897804
+Cy-Fair Volunteer Fire Department Station 7,29.992461,-95.737595,fire_station,way/1366636953
+"International Leadership Of Texas, Katy K-8",29.803065,-95.794241,school,way/1367373175
+Faith West Academy,29.805193,-95.795233,school,way/1367373176
+Olga Leonard Elementary,29.813464,-95.782117,school,way/1367373213
+Blossom Heights School,29.724315,-95.517497,school,way/1375905628
+Piney Point Elementary School,29.724953,-95.521689,school,way/1384822025
+Godwin Community Center,29.672867,-95.469885,community_centre,way/1385492932
+Burnett Bayland Community Center,29.714706,-95.478121,community_centre,way/1386019757
+YES Prep Gulfton Secondary,29.706751,-95.498175,school,way/1386631938
+Montessori Learning Institute,29.691203,-95.495703,school,way/1387398939
+Montessori Learning Institute,29.688022,-95.493305,school,way/1387399451
+Felix Fraga Academic Campus,29.752553,-95.332247,school,way/1393280665
+East Early College High School,29.752074,-95.333519,school,way/1393280670
+Hines Caldwell Elementary School,29.626746,-95.472557,school,way/1394087977
+Askew Elementary School,29.75224,-95.577352,school,way/1394578142
+BakerRipley Head Start,29.658263,-95.497833,school,way/1396131370
+Houston Fire Department Station 52,29.635101,-95.229664,fire_station,way/1396459093
+Tomball Administrative Offices and Fire Station 1,30.094396,-95.628758,fire_station,way/1408941374
+Mangum-Howell Community Center,29.922189,-95.45593,community_centre,way/1409601884
+Mariner Montessori School,29.733669,-95.485906,school,way/1410746935
+Islamic Education Center,29.74192,-95.50011,school,way/1411067643
+Mark White Elementary,29.741954,-95.509805,school,way/1411226966
+St. Francis Episcopal School,29.740968,-95.524164,school,way/1411647655
+Kipp SHINE Prep,29.669378,-95.566249,school,way/1412802123
+SER-Niños Elementary II,29.706755,-95.485765,school,way/1413546752
+Houston Fire Department Station 10,29.706591,-95.551943,fire_station,way/1415504964
+Benavidez Elementary School,29.717316,-95.492162,school,way/1416666168
+Marian Community Center,29.65978,-95.523792,community_centre,way/1417904711
+Step By Step Christian School,30.086878,-95.610389,school,way/1420088586
+Emerson Elementary School,29.726555,-95.533997,school,way/1420691079
+Mistral Early Childhood Center,29.701348,-95.49173,school,way/1425207563
+Fire Station (w1425756576),29.997709,-95.159077,fire_station,way/1425756576
+Community Centre (w1425973370),29.967268,-95.163435,community_centre,way/1425973370
+Étoile Academy Charter School,29.709536,-95.499735,school,way/1426337490
+Alexander Deussen Senior Center,29.917319,-95.151233,community_centre,way/1427415075
+Barbara Jordan Community Center,29.899807,-95.293988,community_centre,way/1427416431
+El Franco Lee Senior/Community Center,29.598366,-95.251622,community_centre,way/1427417454
+J.D. Walker Community Center,29.806506,-95.017478,community_centre,way/1427420799
+Martin L. Flukinger Community Center,29.775493,-95.120616,community_centre,way/1427421176
+Deputy Darren Almendarez Community Center,29.87457,-95.334678,community_centre,way/1427422204
+Pep Mueller Community Center,29.914666,-95.381112,community_centre,way/1427423006
+East Harris County Activity Center,29.66054,-95.125733,community_centre,way/1427423634
+Alief – David M. Henington Regional Library,29.70269,-95.589068,library,way/1427578622
+Crestmont Community Center,29.636136,-95.345366,community_centre,way/1427587394
+Beverly Hills Community Center,29.613945,-95.235667,community_centre,way/1427588922
+Lakewood Community Center,29.840277,-95.267837,community_centre,way/1427588923
+Tidwell Community Center,29.851557,-95.304176,community_centre,way/1427590770
+Young Neighborhood Library,29.69839,-95.337136,library,way/1427591955
+Galena Park Branch Library,29.743495,-95.23702,library,way/1427605724
+Jacinto City Branch Library,29.772493,-95.239922,library,way/1427606057
+Kendall Community Center,29.772976,-95.620596,community_centre,way/1427622846
+Kendall Neighborhood Library,29.773044,-95.620587,library,way/1427622847
+Red Apple Pre School and Day Care,29.682934,-95.515485,school,way/1428327942
+Beau and Merfish Teen Center,29.680218,-95.468767,community_centre,way/1430408932
+Westbury Christian School,29.667504,-95.494964,school,way/1435429605
+St. Vincent de Paul,29.704877,-95.428533,school,way/1436831246
+School (w1443567560),29.66751,-95.329619,school,way/1443567560
+Russell & Cindie Faldyn Elementary School,29.829935,-95.815807,school,way/1445436549
+Bill & Cindy Haskett Junior High School,29.829491,-95.820404,school,way/1445436557
+School (w1453020261),30.006363,-95.548725,school,way/1453020261
+School (w1453792237),30.021988,-95.565791,school,way/1453792237
+Harmony School of Execellence (Katy Elementary),29.867092,-95.770998,school,way/1457926923
+Heathlake Community Clubhouse,29.755782,-95.593166,community_centre,way/1458949893
+Kings River Pool House,30.018935,-95.173068,community_centre,way/1468603639
+Alfred & Ann Boudny Elementary School,29.879933,-95.806197,school,way/1471080126
+School (w1481979649),29.624864,-95.219215,school,way/1481979649
+Klein Fire Department,30.043229,-95.536265,fire_station,way/1489189698
+School (w1491688451),29.871458,-95.778293,school,way/1491688451
+Jessie Lee Pumphrey Elementary School,29.828086,-94.987766,school,way/1492451101
+E. F. Green Junior High School,29.825545,-94.975598,school,way/1492451104
+School (w1495364556),30.023974,-95.813347,school,way/1495364556
+School (w1495750489),29.866443,-95.771643,school,way/1495750489
+Gateway Academy Elite College Prep,29.587246,-95.240758,school,way/1498653980
+The Emery/Weiner School,29.675634,-95.438304,school,way/1499110319
+Mary Alice Cure Elementary,30.07545,-95.920297,school,way/1501066644
+Smith Andrews Agriculture Science Complex,30.07616,-95.917981,school,way/1501066645
+School (w1502559285),29.728235,-95.000751,school,way/1502559285
+School (w1517224773),29.84219,-95.777794,school,way/1517224773
+STEP Charter School Bissonnet,29.679307,-95.525496,school,way/1520527108
+KIPP,29.637662,-95.37028,school,way/1525957781
+STEP Charter School West Airport Campus,29.642103,-95.525065,school,way/1528815906
+St. Francis de Sales Catholic School,29.700652,-95.529064,school,way/1529506189
+School (w1530118127),29.57099,-95.060449,school,way/1530118127
+Humble Christian School,29.95312,-95.268793,school,way/1548741416
+Missouri City Fire Station 2,29.630333,-95.51878,fire_station,way/1549714571
+School (w1550006609),29.718027,-95.609287,school,way/1550006609
+School (w1550006610),29.714496,-95.610046,school,way/1550006610
+Jefferson Early Learning Center,29.702715,-95.63243,school,way/1551150818
+Woodland Acres Elementary School,29.764671,-95.199155,school,way/1551615365
+HCC WestLoop Library,29.721015,-95.45728,library,way/1562083449
+James E Taylor High School,29.777479,-95.731788,school,relation/1985374
+Nottingham Country Elementary,29.776831,-95.726863,school,relation/1985375
+Jeanette Hayes Elementary,29.754614,-95.73545,school,relation/1988038
+Memorial Parkway Junior High,29.757537,-95.735782,school,relation/1988039
+SBISD Transitional Campus,29.814535,-95.503598,school,relation/2710896
+Cedar Brook Elementary School,29.812017,-95.503558,school,relation/2710898
+Westwood Elementary School,29.810958,-95.557659,school,relation/3089324
+Hazel Pattison Elementary,29.755453,-95.71524,school,relation/4281846
+Lyons Elementary School,29.855762,-95.367007,school,relation/4298067
+Garland McMeans Junior High,29.740934,-95.739557,school,relation/4439570
+Jack and Sharon Rhoads Elementary,29.829926,-95.71614,school,relation/7635622
+Holbrook Elementary School,29.857359,-95.498541,school,relation/7843869
+YES Prep Northline,29.851707,-95.385429,school,relation/8095972
+Franz Elementary,29.806449,-95.739575,school,relation/8725296
+Westchester Academy for International Studies,29.780838,-95.58358,school,relation/10312934
+Northline Elementary School,29.85084,-95.386917,school,relation/11485863
+Mayde Creek High School,29.806816,-95.697362,school,relation/13117566
+Saint Christopher School,29.803414,-95.523487,school,relation/13996016
+Concordia Lutheran High School,30.097265,-95.605136,school,relation/17383633
+West Memorial Junior High,29.77812,-95.760387,school,relation/18631065
+West Memorial Elementary,29.77792,-95.762221,school,relation/18631066
+Houston City College Central Campus,29.737441,-95.375857,school,relation/19033683
+Holy Ghost School,29.704279,-95.47698,school,relation/19128005
+Doherty Library,29.736436,-95.393164,library,relation/19228750
+ComQuest Academy Charter High School,30.100196,-95.612945,school,relation/19282503
+Saint Thomas More School,29.668725,-95.494307,school,relation/19328331
+Timber Creek Elementary School,30.137877,-95.548429,school,relation/20992697

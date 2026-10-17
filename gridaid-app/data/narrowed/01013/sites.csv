@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Lomax-Hannon Junior College,31.814875,-86.612474,school,node/358918984
+R L Austin High School,31.645158,-86.730251,school,node/358925571
+South Butler Academy,31.620715,-86.742195,school,node/358929282
+South Side High School,31.814042,-86.624418,school,node/358929304
+Bragg Hill School,31.902928,-86.787757,school,node/358946185
+Butler County Area Vocational School,31.813764,-86.625807,school,node/358946193
+Georgiana High School,31.642936,-86.742195,school,node/358946264
+Liberty School,31.827097,-86.704143,school,node/358946288
+Mount Zion School,31.780988,-86.540805,school,node/358946321
+Pine Flat School,31.821819,-86.866091,school,node/358946344
+Pine Level School,31.688213,-86.894423,school,node/358946347
+Industry School,31.604049,-86.611636,school,node/358997204
+Greenville Public Library,31.829042,-86.624141,library,node/367931454
+Rose Library,31.635714,-86.743306,library,node/367931470
+Greenville Middle School,31.838383,-86.626165,school,node/2737310522
+Spring Creek Volunteer Fire Dept,31.943716,-86.460384,fire_station,node/7963520775
+Greenville Fire Department,31.830044,-86.623043,fire_station,way/268391581
+Community Center,31.82949,-86.610594,community_centre,way/956433294
+Greenville Middle School,31.83551,-86.624775,school,way/956437735
+Greenville Public Library,31.832128,-86.627244,library,way/956443034
+Community Centre (w956960817),31.815797,-86.626908,community_centre,way/956960817
+School (w956960830),31.837146,-86.651747,school,way/956960830
+School (w994078379),31.813926,-86.626159,school,way/994078379
+McKenzie High School,31.544999,-86.7159,school,relation/19857756

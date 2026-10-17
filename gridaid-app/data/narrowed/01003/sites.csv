@@ -1,0 +1,165 @@
+name,lat,lon,type,osm
+Antioch School,31.175175,-87.814995,school,node/358905478
+Baldwin County Training School,30.59246,-87.902623,school,node/358905696
+Bellefontaine School,30.708801,-87.548873,school,node/358905988
+Blackwater School,30.617137,-87.715822,school,node/358906635
+Foley School,30.391587,-87.691375,school,node/358911526
+Frisco School,31.014626,-87.734713,school,node/358912228
+Halls Fork School,30.947128,-87.617486,school,node/358914085
+Johnson School,30.522139,-87.901659,school,node/358917233
+Langham Lottie School,31.114344,-87.6361,school,node/358918022
+Little River School,31.281004,-87.757494,school,node/358918761
+Little Rock School,30.413531,-87.728043,school,node/358918795
+Loxley School,30.62547,-87.78388,school,node/358919068
+Majors Creek School,31.130176,-87.831661,school,node/358919301
+New Life School,30.946016,-87.763881,school,node/358922161
+Pine Grove School,30.846575,-87.760547,school,node/358924049
+Springhill School,30.476862,-87.79249,school,node/358929473
+Tate School,31.236839,-87.755827,school,node/358929874
+Whitehouse Forks School,30.804909,-87.82666,school,node/358931616
+Bay Minette Area Vocational School,30.86213,-87.783325,school,node/358945220
+Bay Minette Grammer School,30.890185,-87.774714,school,node/358945228
+Bay Minette Middle School,30.862686,-87.784714,school,node/358945233
+Bromley School,30.751577,-87.894717,school,node/358945275
+Center School,30.523805,-87.868048,school,node/358945288
+Christ the King School,30.599915,-87.903327,school,node/358945301
+Fairhope K Center,30.52075,-87.905271,school,node/358945362
+Coastal Alabama Community College,30.851575,-87.779159,school,node/358945376
+Grove School,30.486306,-87.789434,school,node/358945450
+Hurricane School,30.836575,-87.878328,school,node/358945471
+Point Clear School,30.472696,-87.912493,school,node/358945606
+Rosinton School,30.619359,-87.67971,school,node/358945625
+CF Taylor Alternative School,30.552416,-87.699154,school,node/358945691
+Cross Roads School,30.835742,-87.862216,school,node/358969785
+Elberta High School,30.41992,-87.599428,school,node/358969790
+Loxley Elementary School,30.624636,-87.751656,school,node/358969802
+Loxley Junior High School,30.624636,-87.752212,school,node/358969805
+Silverhill Elementary School,30.543249,-87.753322,school,node/358969817
+Stapleton Elementary School,30.742411,-87.79027,school,node/358969821
+Summerdale Junior High School,30.488529,-87.695543,school,node/358969823
+Vaughn Junior High School,31.030736,-87.859717,school,node/358969826
+Jeanes School,30.502139,-87.903604,school,node/358974405
+Boykin Junior High School,31.146842,-87.877218,school,node/358981409
+Bay Minette Fire Department,30.867921,-87.780273,fire_station,node/367931155
+Rosinton Fire / Rescue,30.618455,-87.678303,fire_station,node/367931159
+Huggers Landing / Oyster Bay Volunteer Fire Department,30.292464,-87.73392,fire_station,node/367931163
+Elsanor Volunteer Fire Department,30.568061,-87.618961,fire_station,node/367931172
+Spanish Fort Fire Department,30.670092,-87.892399,fire_station,node/367931185
+Stapleton Volunteer Fire Department,30.753954,-87.790962,fire_station,node/367931193
+Robertsdale Fire Department,30.554454,-87.713889,fire_station,node/367931197
+Summerdale Fire Department,30.486973,-87.700387,fire_station,node/367931209
+Bay Minette Station 70,30.879719,-87.781272,fire_station,node/367931211
+Pine Grove Volunteer Fire Department,30.840596,-87.751467,fire_station,node/367931216
+Stockton Fire Department,31.014444,-87.84706,fire_station,node/367931219
+Daphne Fire Station # 2,30.637408,-87.910296,fire_station,node/367931222
+Gateswood Volunteer Fire Department,30.708079,-87.547885,fire_station,node/367931223
+Fish Rive - Marlow Fire / Rescue Department,30.475338,-87.795668,fire_station,node/367931228
+Tensaw Volunteer Fire Department,31.175615,-87.815984,fire_station,node/367931232
+Crossroads Volunteer Fire Department,30.834696,-87.861232,fire_station,node/367931251
+Magnolia Springs Fire Department,30.403355,-87.770204,fire_station,node/367931278
+Lottie Volunteer Fire Department,31.095575,-87.639061,fire_station,node/367931313
+Elberta Volunteer Fire Department,30.416059,-87.600906,fire_station,node/367931319
+Rabun Volunteer Fire Department,30.915362,-87.776221,fire_station,node/367931407
+Bon Secour Volunteer Fire Department,30.331921,-87.716708,fire_station,node/367931412
+Silverhill Volunteer Fire Department,30.545943,-87.751574,fire_station,node/367931419
+Bay Minette Public Library,30.882051,-87.776725,library,node/367931436
+Fairhope Public Library,30.524361,-87.906382,library,node/367931437
+Summerdale Community Center,30.488529,-87.703321,community_centre,node/367931978
+Gulf Shores Fire Station,30.24451,-87.717442,fire_station,node/1910738256
+Elsanor School,30.567285,-87.62434,school,node/4739153022
+The Palms,30.294206,-87.629242,community_centre,node/5769662297
+The Sands,30.294937,-87.62896,community_centre,node/5839373556
+The Port,30.293288,-87.628015,community_centre,node/5839373693
+Spanishfort Fire Station 2,30.676754,-87.841091,fire_station,node/7552023880
+Bayshore Christian School,30.560262,-87.893076,school,node/7631191976
+Barnwell Volunteer Fire / Rescue,30.422159,-87.876085,fire_station,node/9928372784
+Belforest Volunteer Fire Department,30.597046,-87.834935,fire_station,node/12954832000
+Robertsdale Public Library,30.553902,-87.711985,library,way/40431584
+Foley Middle School,30.408064,-87.688339,school,way/189966346
+Foley Elementary School,30.408582,-87.690529,school,way/189966347
+Bay Minette Grammar School,30.889716,-87.773428,school,way/236739172
+Lillian Volunteer Fire Department,30.410469,-87.443676,fire_station,way/361791814
+Loxley Civic Center,30.62806,-87.756623,community_centre,way/362090122
+Loxley Elementary School,30.613593,-87.757037,school,way/362090130
+Robertsdale High School,30.541998,-87.705606,school,way/362091450
+Fire Station (w362490940),30.626285,-87.619914,fire_station,way/362490940
+Fire Station (w362678160),30.233505,-87.932734,fire_station,way/362678160
+Fort Morgan Fire Department,30.252376,-87.816217,fire_station,way/362678163
+Elsanor Fire Rescue,30.560032,-87.582287,fire_station,way/363406554
+Foley High School,30.381093,-87.689676,school,way/366849315
+Spanish Fort Public Library and Community Center,30.6717,-87.895083,library,way/381484869
+Daphne Middle School,30.617116,-87.872031,school,way/512126128
+Gulf Shores Fire Station 2,30.244502,-87.717526,fire_station,way/565142103
+Gulf Shores Station 4,30.311425,-87.695906,fire_station,way/568271085
+Fire Station 1,30.272124,-87.689406,fire_station,way/568503926
+Gulf Shores - Thomas B. Norton Public Library,30.272027,-87.690074,library,way/568503927
+Senior Activity Center,30.293048,-87.577582,community_centre,way/605974873
+Orange Beach Public Library,30.293102,-87.577052,library,way/605974874
+Orange Beach Community Center,30.294874,-87.560512,community_centre,way/605982579
+Fire Station 2,30.294016,-87.559806,fire_station,way/605985794
+Heron Pointe,30.296708,-87.627078,community_centre,way/609117005
+Fire Station 1,30.283944,-87.583897,fire_station,way/617582925
+Fire Station 5,30.291402,-87.626953,fire_station,way/617747390
+FIRE STATION 3,30.302249,-87.524242,fire_station,way/637371797
+Fire Station (w679051449),30.247223,-87.69273,fire_station,way/679051449
+Ono North Recreational Center,30.293064,-87.498477,community_centre,way/724594456
+Harriet Cockrell Center,30.295045,-87.486874,community_centre,way/724594463
+FIRE STATION 4,30.295107,-87.485556,fire_station,way/724594474
+Josephine Volunteer Fire Department,30.324213,-87.538413,fire_station,way/802035982
+Fire Station (w802035983),30.324247,-87.538664,fire_station,way/802035983
+Foley Public Library,30.406916,-87.679046,library,way/964724487
+School (w988088616),30.583568,-87.728245,school,way/988088616
+School (w1018915380),30.551171,-87.697781,school,way/1018915380
+Silverhill Community Center,30.542277,-87.748398,community_centre,way/1088038268
+Central School,30.54647,-87.726821,school,way/1088039102
+Delta Elementary School,30.790098,-87.849185,school,way/1291326796
+Fire Station (w1291327861),30.802165,-87.8354,fire_station,way/1291327861
+Mathis Elementary,30.385914,-87.693964,school,way/1317027583
+School (w1317027590),30.419668,-87.743911,school,way/1317027590
+Daphne Public Library,30.617609,-87.906903,library,way/1343901002
+Fairhope Public Library,30.523484,-87.901416,library,way/1343901263
+Oscar Johnson Memorial Library,30.545217,-87.752585,library,way/1343901312
+Summerdale - Marjorie Younce Snook Public Library,30.487675,-87.701806,library,way/1343901539
+Elberta Public Library,30.415137,-87.597647,library,way/1343901707
+Magnolia Springs Public Library,30.405338,-87.770243,library,way/1343901867
+Loxley Public Library,30.619716,-87.75282,library,way/1343902213
+Baldwin Preparatory Academy,30.708125,-87.782226,school,way/1409533851
+Fire Station (w1410094544),30.592319,-87.893452,fire_station,way/1410094544
+Swift Consolidated Elementary School,30.316326,-87.728064,school,way/1428313860
+Stockton School,31.010756,-87.849048,school,way/1467375699
+Lillian Perdido Bay Library,30.409262,-87.445332,library,way/1488995083
+Daphne High School,30.638396,-87.864025,school,way/1513813256
+St. Michael Catholic High School,30.554282,-87.838368,school,way/1531107053
+Saint Benedict Catholic School,30.411217,-87.600523,school,relation/9516500
+Saint Patrick Catholic School,30.562394,-87.715718,school,relation/9522337
+Fire Station (r19281563),30.664427,-87.855096,fire_station,relation/19281563
+Spanish Fort Elementary School,30.674515,-87.903018,school,relation/19281577
+Rockwell Elementary School,30.677892,-87.847838,school,relation/19281868
+Spanish Fort High School,30.689118,-87.856523,school,relation/19281873
+Spanish Fort Middle School,30.715212,-87.854444,school,relation/19282008
+Fire Station (r19282010),30.716929,-87.853795,fire_station,relation/19282010
+Stonebridge Elementary School,30.677469,-87.805106,school,relation/19287614
+W. J. Carroll Intermediate School,30.592582,-87.901717,school,relation/19288187
+Daphne Elementary Schoool,30.612337,-87.904722,school,relation/19288581
+Bayside Academy,30.602224,-87.911002,school,relation/19288583
+Belforest Elementary,30.602925,-87.828949,school,relation/19291841
+Daphne East Elementary Schoool,30.614414,-87.870608,school,relation/19294032
+Daphne Fire Station 5,30.597016,-87.853828,fire_station,relation/19294294
+Baldwin County Virtual School,30.584846,-87.899913,school,relation/19295311
+Timothy M. Lennicx Fire Station 4,30.556206,-87.890064,fire_station,relation/19295327
+Fairhope West Elementary School,30.529738,-87.900774,school,relation/19307605
+Marietta Johnson School of Organic Education,30.509895,-87.900941,school,relation/19310132
+Fairhope Middle School,30.49556,-87.882056,school,relation/19310844
+Fairhope High School,30.498419,-87.8831,school,relation/19310845
+Fairhope East Elementary School,30.525493,-87.875493,school,relation/19767110
+Fairhope Academy,30.470436,-87.878106,school,relation/20029177
+J. Larry Newton Elementary School,30.473815,-87.856342,school,relation/20029183
+Bay Minette Middle School,30.886458,-87.795134,school,relation/20124899
+Baldwin County High School,30.893598,-87.794692,school,relation/20124937
+Perdido Junior High School,31.005674,-87.622761,school,relation/20126984
+Gulf Shores Elementary/Middle School,30.26948,-87.679246,school,relation/20710721
+Gulf Shores High School,30.269127,-87.674957,school,relation/20710722
+Orange Beach Fire Station No. 3,30.289579,-87.622799,fire_station,relation/20712211
+Orange Beach Middle-High School,30.288434,-87.617311,school,relation/20712213
+Orange Beach Elementary School,30.296824,-87.557351,school,relation/20726494
+Gulf Shores High School,30.324185,-87.655254,school,relation/21261214

@@ -1,0 +1,462 @@
+name,lat,lon,type,osm
+District of Columbia Fire and Emergency Medical Services Engine Company 6,38.907691,-77.016108,fire_station,node/306011118
+DC Fire Department Engine Company No. 1,38.905433,-77.049753,fire_station,node/306011599
+DC Fire Department Engine Co. 3,38.895818,-77.010947,fire_station,node/306020851
+DC Fire Department Engine Co. 11/Truck Co. 6,38.932277,-77.033029,fire_station,node/306499334
+DC Fire Department Engine Co. 15,38.864849,-76.986076,fire_station,node/306507109
+Saint Augustine School,38.918297,-77.033327,school,node/358954684
+Bundy School,38.908723,-77.017199,school,node/358954721
+Evans Middle School,38.890141,-76.919871,school,node/358954774
+Garnet-Patterson S.T.A.Y. Opportunity Academy,38.91765,-77.0257,school,node/358954811
+National Trade and Professional School,38.896501,-76.928585,school,node/358954917
+Our Lady Queen of Peace School,38.88323,-76.94778,school,node/358954927
+Sacred Heart Seminary,38.948457,-76.993185,school,node/358954953
+Saint Francis Xavier School,38.873149,-76.968629,school,node/358954970
+Saint Vincents Home and School,38.923167,-76.99692,school,node/358955002
+Perry Street Prep,38.936914,-76.978609,school,node/358955015
+Catholic Sisters College,38.943167,-76.994976,school,node/358955310
+Fletcher Johnson Education Complex,38.88402,-76.93366,school,node/358955508
+Lincoln Middle School,38.929169,-77.035532,school,node/358955544
+Senate Page School,38.893794,-77.001015,school,node/358955603
+Thomson Elementary School,38.903517,-77.028416,school,node/358955628
+Randle Highlands Elementary,38.87024,-76.96441,school,node/358955890
+Richardson Elementary School,38.891962,-76.925113,school,node/358955896
+Shadd Elementary School,38.889442,-76.921304,school,node/358955901
+Webb Elementary School,38.907985,-76.981293,school,node/358955964
+Wheatley Education Campus,38.90397,-76.98865,school,node/358955968
+Woodridge Elementary School,38.929556,-76.966086,school,node/358955976
+Immaculate Conception School,38.90746,-77.02235,school,node/358956434
+Powell Recreation Center,38.930132,-77.036057,community_centre,node/358956715
+Saint Francis de Sales School,38.92867,-76.97496,school,node/358956839
+Saint Ann's Academy,38.946948,-77.080089,school,node/358958604
+Green Valley Senior Citizens Center,38.925945,-76.971642,community_centre,node/358958631
+Lasalle Elementary School,38.95985,-76.99962,school,node/358958716
+McKinley Technology High School,38.914889,-77.00452,school,node/358958723
+Stevens Elementary School,38.90314,-77.04699,school,node/358958753
+Backus Recreation Center,38.954,-76.996643,community_centre,node/358959532
+Hardy Recreation Center,38.909913,-77.08499,community_centre,node/358959558
+Chevy Chase Community Center,38.965111,-77.075256,community_centre,node/358959568
+Bell Adult Education Center,38.929502,-77.035457,school,node/358959794
+Almas Temple,38.902775,-77.03132,community_centre,node/358959871
+Hill Center at the Old Naval Hospital,38.88298,-76.993142,community_centre,node/358960313
+Marshall Education Center,38.928445,-76.956086,school,node/358960429
+Langley Elementary School,38.91507,-77.00593,school,node/358960536
+World Public Charter School of Washington,38.89796,-77.01495,school,node/358960547
+Buena Vista Academy,38.892544,-76.942925,school,node/358960552
+Auguste Montessori School,38.95349,-77.070813,school,node/358960575
+For Love of Children Learning Center,38.89916,-77.02261,school,node/358960608
+Rhema Christian Center School,38.94466,-76.97817,school,node/358960610
+National Presbyterian School,38.941592,-77.081898,school,node/358960615
+Holy Temple Christian Academy,38.88389,-76.99047,school,node/358960622
+Clara Muhammad School,38.863407,-76.991881,school,node/358960624
+Tots Developmental School,38.93996,-77.03044,school,node/358960629
+Hyde Leadership Public Charter School,38.908507,-77.020736,school,node/358960634
+The Children's House of Washington,38.90784,-77.06206,school,node/358960645
+Hamilton Alternative School,38.907347,-76.981156,school,node/358960652
+Naylor Road School,38.86927,-76.9715,school,node/358960661
+Arts and Technology Public Charter School,38.89251,-76.94293,school,node/358960666
+Associates for Renewal in Education Public Charter School,38.90936,-77.01047,school,node/358960671
+Center City Public Charter School,38.96318,-77.02826,school,node/358960679
+Preparatory School of the District,38.963795,-77.005879,school,node/358960684
+Georgetown Montessori School,38.902834,-77.062257,school,node/358960689
+Nannie Helen Burroughs School,38.89716,-76.92902,school,node/358960691
+Annunciation School,38.929899,-77.076648,school,node/358960705
+Our Lady of Victory School,38.915999,-77.094481,school,node/358960708
+Ideal Learning Center,38.95221,-77.03428,school,node/358960710
+Village Learning Center Public Charter School,38.897408,-76.946056,school,node/358960719
+School for Arts in Learning Public Charter School,38.90398,-77.03707,school,node/358960721
+First Rock Baptist Church Christian School,38.87994,-76.93962,school,node/358960728
+The Children's Guild,38.920709,-76.972186,school,node/358961268
+Hope Community Primary Charter School,38.927,-76.9946,school,node/358961362
+Immaculate Conception Boys School,38.9075,-77.0224,school,node/358961379
+Jewels of Ann School,38.9401,-76.9757,school,node/358961388
+KIPP,38.8428,-76.9998,school,node/358961402
+Latin American Youth Center,38.927638,-77.03334,community_centre,node/358961440
+Luke Moore Academy Senior High School at Evans,38.890602,-76.921037,school,node/358961461
+Lynn Carols Academy of Early Learning,38.956848,-77.016312,school,node/358961463
+Maya Angelou See Forever Primary Charter School Evans Campus,38.8903,-76.9206,school,node/358961469
+Academy for Learning Through the Arts Primary Charter School,38.9186,-77.0355,school,node/358961610
+Armstrong Preparatory Center For Early Learning,38.902205,-77.014139,school,node/358961626
+Arts and Technology Academy Primary Charter School,38.892,-76.9252,school,node/358961634
+Bridges Academy,38.9644,-77.0274,school,node/358961646
+Capitol Hill Cooperative Nursery School,38.885196,-76.999851,school,node/358961664
+Cesar Chavez Primary Charter School for Public Policy Parkside Campus,38.901427,-76.949133,school,node/358961673
+CHOICE Academy Middle School,38.9368,-76.9786,school,node/358961693
+Community Academy Primary Charter School-Amos 2 Campus,38.9605,-77.0316,school,node/358961711
+Community Child Development Center,38.905,-76.9283,school,node/358961725
+District of Columbia Preparatory Academy Primary Charter School,38.9247,-76.996,school,node/358961730
+Davids Stars Child Development Center,38.9248,-77.0403,school,node/358961734
+Friendship Primary Charter School Collegiate Academy at Carter G Woodson School,38.8975,-76.9463,school,node/358961790
+Friendship Primary Charter School Woodridge Campus,38.929484,-76.966495,school,node/358961798
+Friendship Public Charter School,38.9295,-76.9665,school,node/358961802
+Our Redeemer Preshool and Infant Center,38.9438,-76.9791,school,node/358961822
+Preparatory School For Early Learning,38.932152,-77.039082,school,node/358961850
+Saint Columbas Episcopal Church Nursery School,38.948201,-77.082686,school,node/358961887
+Saint Pauls Lutheran Church Nursery School,38.9537,-77.0703,school,node/358961894
+School for Arts In Learning Primary Charter School Lower Division,38.9039,-77.0369,school,node/358961897
+Septima Clark Primary Charter School,38.8806,-76.9347,school,node/358961915
+The French Maternal School,38.9095,-77.0621,school,node/358961950
+The Learning Academy,38.8698,-76.982,school,node/358961955
+Ujamaa School,38.911,-77.0233,school,node/358961974
+Washington Academy Primary Charter School - PABC Campus,38.8711,-76.9638,school,node/358961981
+Washington Science and Technology Academy,38.9318,-76.9712,school,node/358962000
+Zion Baptist Church Nursery and Kindergarten,38.950207,-77.037728,school,node/358962012
+District of Columbia Fire and Emergency Medical Services - Fire Prevention Division,38.89512,-77.01587,fire_station,node/367141870
+Riggs Library,38.906956,-77.07265,library,node/367142107
+Paul Himmelfarb Health Sciences Library,38.9003,-77.0506,library,node/367142114
+Howard University School of Business Library,38.924221,-77.022166,library,node/367142119
+Rita Bright Family and Youth Center,38.922056,-77.032389,community_centre,node/367142184
+Metropolitan Police Boys and Girls Clubs,38.929016,-77.072832,community_centre,node/367142224
+Mexican Cultural Institute,38.925528,-77.036102,community_centre,node/367142763
+West End Neighborhood Library,38.903905,-77.050962,library,node/559147425
+DC Fire Dept. Engine Co. 5,38.911527,-77.068438,fire_station,node/804064065
+Oyster Adams Bilingual Middle School - Adams Campus,38.917309,-77.044377,school,node/809402594
+E.L. Haynes Public Charter School,38.934319,-77.024241,school,node/829740230
+Mason Law Library,38.943561,-77.06402,library,node/849605150
+Goethe-Institut,38.912807,-77.031631,community_centre,node/921894917
+Kendall Demonstration Elementary School,38.908774,-76.989451,school,node/939484645
+Saint John Grand Lodge Masons,38.93272,-76.990839,community_centre,node/3000491345
+Hattie Holmes Senior Wellness Center,38.956381,-77.017122,community_centre,node/3010902613
+DC Scholars,38.889478,-76.921744,school,node/3308728241
+Washington Ethical Society,38.985197,-77.036727,community_centre,node/3441462900
+Community College Preparatory Academy,38.862737,-76.992614,school,node/3688609911
+National Library Service for the Blind,38.941057,-77.028456,library,node/3778100923
+Waltajjii Oromoo Oromo Center,38.942113,-77.023918,community_centre,node/3781083663
+Mary's Center,38.939182,-77.024987,community_centre,node/3781127057
+Hillcrest Recreation Center,38.858806,-76.962617,community_centre,node/3847448952
+McKinley Middle School,38.915215,-77.00485,school,node/4037025869
+DCFD Station 13,38.882815,-77.017803,fire_station,node/4076119232
+DC scholars Public Charter School,38.889464,-76.921314,school,node/4212711990
+The DC Center,38.917757,-77.03224,community_centre,node/4350322328
+Latin American Montessori Bilingual School,38.937177,-76.978145,school,node/5143342822
+Department of Geography and Environment,38.899374,-77.046331,school,node/5180526946
+Northwest One Neighborhood Library,38.903992,-77.013862,library,node/6124413520
+The Goodwill Excel Center,38.897966,-77.041505,school,node/6376387700
+Kiplinger Research Library,38.902572,-77.022684,library,node/6751327454
+The Society of the Cincinnati Library,38.910653,-77.047541,library,node/7926548972
+Interior Library,38.893777,-77.043121,library,node/7945524482
+Joint Base Anacostia Bolling Station 41,38.84361,-77.012387,fire_station,node/8097533191
+Sojourner Truth Montessori,38.937621,-76.978552,school,node/8196678375
+Breakthrough Montessori,38.973376,-77.014504,school,node/9140696279
+Briya Public Charter School,38.952781,-77.00746,school,node/9556519759
+Bridges Public Charter School,38.953139,-77.00745,school,node/9556519760
+Azerbaijan Trade & Cultural Center,38.905536,-77.065316,community_centre,node/11327854135
+Moorland Spingarn Research Center,38.922315,-77.019519,library,node/11455863277
+Deanwood Neighborhood Library,38.90847,-76.932005,library,node/12230210063
+Bell Multicultural Senior High School,38.929315,-77.035839,school,node/12434117865
+YouthBuild Public Charter School,38.931313,-77.036831,school,node/12434117871
+Spanish Cultural Center,38.925064,-77.036047,community_centre,node/12670743087
+Briya Charter School,38.940011,-77.023574,school,node/12887674857
+Capital Village Public Charter School,38.923636,-76.996016,school,node/13360530154
+Our City,38.90035,-76.98684,community_centre,node/14011492857
+Washington Leadership Academy,38.92796,-76.998756,school,node/14246662913
+Shirley Chisholm Elementary School,38.880288,-76.992115,school,way/4721372
+Raymond Education Campus,38.936313,-77.026197,school,way/45850028
+Washington DC Fire and EMS Station,38.876931,-77.011179,fire_station,way/48036846
+Southwest Neighborhood Library,38.878677,-77.0158,library,way/48037323
+Southeast Neighborhood Library,38.884057,-76.996519,library,way/48039099
+Jefferson Middle School,38.879844,-77.022937,school,way/48040333
+Edward Bennett Williams Law Library,38.89873,-77.013052,library,way/48040887
+Marriott Hospitality Primary Charter High School,38.895135,-77.023293,school,way/48041293
+Hospitality Public Charter School,38.89503,-77.02323,school,way/48041308
+DCFD Fire Station Engine 2,38.89707,-77.019478,fire_station,way/48041477
+Martin Luther King Jr. Memorial Library,38.898691,-77.024766,library,way/48041501
+DC Fire Department Engine Co. 16,38.903311,-77.030016,fire_station,way/48056837
+Latin American Montessori Bilingual Public Charter School,38.950996,-77.034227,school,way/48082935
+Shepherd Elementary School,38.98476,-77.034167,school,way/48207507
+DCFD - Engine 10 & Truck 13,38.901613,-76.986715,fire_station,way/55325024
+Digital Pioneers Academy,38.880694,-76.99064,school,way/55330571
+DC Fire Department Engine Co. 18,38.883254,-76.994596,fire_station,way/55333016
+A. Kiger Savoy Elementary School,38.862822,-76.993668,school,way/55366073
+Thurgood Marshall Academy,38.862319,-76.993826,school,way/55366083
+The Washington School for Girls,38.858114,-76.982102,school,way/55376877
+Benning Terrace Community Center,38.880604,-76.936913,community_centre,way/55388260
+Capitol View Neighborhood Library,38.888954,-76.929577,library,way/55412808
+Rosedale Neighborhood Library,38.897622,-76.97908,community_centre,way/65734078
+Holy Trinity School,38.90746,-77.069956,school,way/66347515
+School (w66348022),38.908094,-77.064533,school,way/66348022
+Jacob Burns Law Library,38.898863,-77.045247,library,way/66409257
+"Library of Congress, James Madison Memorial Building",38.886738,-77.004691,library,way/66418868
+"Library of Congress, John Adams Building",38.888491,-77.002798,library,way/66418878
+Cornell in Washington,38.908378,-77.048467,school,way/66678713
+Theological College,38.930773,-76.999555,school,way/66678719
+Elsie Whitlow Stokes Public Charter School,38.935158,-76.99004,school,way/66678727
+Les Aspin Center for Government,38.890065,-76.999199,school,way/66678744
+Jelleff Recreation Center,38.915701,-77.066828,community_centre,way/66692077
+Dumbarton Oaks Research Library,38.915177,-77.06419,library,way/66692166
+Georgetown Library,38.913398,-77.06602,library,way/66692910
+Washington Studio School,38.914306,-77.047744,school,way/66789838
+Northeast Branch Library,38.894405,-76.996428,library,way/66793685
+Two Rivers Public Charter School,38.906727,-77.00018,school,way/66796517
+Hayes Senior Wellness Center,38.902893,-76.999186,community_centre,way/66796650
+International Headquarters - Order of the Eastern Star,38.91226,-77.041313,community_centre,way/66834291
+Friendship Recreation Center,38.942457,-77.088101,community_centre,way/66905749
+DC Fire Department Engine Co. 31,38.954214,-77.069891,fire_station,way/66972899
+Festival Center,38.925282,-77.038153,community_centre,way/67069744
+"Edlavitch Jewish Community Center of Washington, D.C.",38.910879,-77.035951,community_centre,way/67087151
+DC Fire Dept. Engine Co. 9,38.917297,-77.037526,fire_station,way/67110575
+Kennedy Recreation Center,38.908989,-77.021544,community_centre,way/67232513
+Washington Navy Yard Fire Station 42,38.875786,-76.995263,fire_station,way/67260119
+JBAB Library,38.840998,-77.019453,library,way/67266485
+JBAB Youth Center,38.842171,-77.019937,community_centre,way/67266638
+DC Fire Department Engine Co. 33,38.830888,-77.005148,fire_station,way/67292436
+Bellevue (William O. Lockridge) Neighborhood Library,38.831254,-77.009411,library,way/67348147
+Engine Company 25,38.843192,-77.000772,fire_station,way/67453934
+Friendship Southeast Elementary & Middle Academy,38.847583,-76.997001,school,way/67455216
+Folger Shakespeare Library,38.88939,-77.002794,library,way/67460587
+VIDA Senior Center,38.923061,-77.04442,community_centre,way/67462144
+DC Fire Department Engine Co. 21,38.924771,-77.042215,fire_station,way/67463198
+DC Fire Department Engine Co. 29 Truck 5,38.915596,-77.093502,fire_station,way/67596879
+Columbia Heights Community Center,38.925147,-77.035061,community_centre,way/68134231
+Mount Pleasant Library,38.930495,-77.037231,library,way/68304890
+Chevy Chase Branch Library,38.965569,-77.075413,library,way/68513384
+Petworth Library,38.942191,-77.026137,library,way/70071166
+Upshur Recreation Center,38.943318,-77.032301,community_centre,way/70071210
+San Miguel School,38.983142,-77.0262,school,way/71000448
+Fire Station (w71001116),38.973402,-77.026513,fire_station,way/71001116
+Takoma Elementary Recreation Center,38.975503,-77.022612,community_centre,way/71001137
+Juanita E. Thornton/Shepherd Park Neighborhood Library,38.980341,-77.026967,library,way/71427805
+Fort Stevens Recreation Center,38.970262,-77.031152,community_centre,way/71462760
+Riggs LaSalle Recreation Center,38.960328,-76.999308,community_centre,way/74265845
+Eckles Memorial Library,38.918202,-77.08922,library,way/91600559
+Palisades Neighborhood Library,38.918382,-77.097175,library,way/91600622
+DC Fire Department Engine Co. 28,38.936345,-77.059403,fire_station,way/91789418
+Takoma Park Neighborhood Library,38.974436,-77.020157,library,way/91814281
+Takoma Children's School,38.9733,-77.01437,school,way/91817645
+Georgetown Visitation Preparatory School,38.910158,-77.071115,school,way/105819495
+Duke Ellington School of the Arts,38.913155,-77.070191,school,way/105822340
+Hyde-Addison Elementary School,38.908328,-77.064782,school,way/105825206
+Rose L. Hardy Middle School,38.915774,-77.068673,school,way/105882789
+Paul Public Charter School,38.961432,-77.025085,school,way/121511256
+Washington DC Fire & EMS Station,38.923393,-77.025061,fire_station,way/121777219
+School Without Walls at Francis Stevens,38.9077,-77.052274,school,way/121782029
+Bruce Monroe at Park View Elementary School,38.93437,-77.021372,school,way/121954254
+E.L. Haynes Public Charter High School,38.945164,-77.022612,school,way/121955011
+Brookland Middle School,38.93884,-76.991052,school,way/121962472
+Takoma Elementary School,38.975087,-77.022778,school,way/121962591
+School (w124129563),38.900952,-76.971958,school,way/124129563
+School (w124145067),38.907832,-76.981479,school,way/124145067
+Inspired Teaching Demonstration School at Shaed Elementary,38.923718,-77.002773,school,way/124681171
+Stanton Elementary School,38.858465,-76.969088,school,way/128005878
+Plummer Elementary School,38.887055,-76.939704,school,way/129059035
+Tenley-Friendship Branch Library,38.9476,-77.079909,library,way/130432619
+Archbishop Carroll High School,38.940843,-77.006463,school,way/132601741
+Kelly Miller Middle School,38.893344,-76.932135,school,way/132669106
+School (w132671327),38.890565,-76.921064,school,way/132671327
+Beers Elementary School,38.864788,-76.955875,school,way/132776199
+Moten Elementary School,38.856319,-76.982957,school,way/132777988
+KIPP,38.856281,-76.988706,school,way/132778492
+Excel Academy,38.860096,-76.995295,school,way/132781452
+Anacostia High School,38.870145,-76.983671,school,way/132781612
+Lawrence E. Boone Elementary School,38.872286,-76.974202,school,way/132781681
+Kimball Elementary School,38.882911,-76.957378,school,way/132782520
+Kramer Middle School,38.871708,-76.979889,school,way/132892231
+Simon Elementary School,38.836082,-76.999723,school,way/132894061
+Hart Middle School,38.837489,-76.997202,school,way/132894617
+Leckie Education Campus,38.827983,-77.013397,school,way/132896120
+Patterson Elementary School,38.826752,-77.00806,school,way/132896123
+Garfield Elementary School,38.851908,-76.97015,school,way/133125493
+Bard High School Early College DC,38.879039,-76.937424,school,way/133235119
+Malcolm X Elementary School,38.841523,-76.984027,school,way/133240309
+Hendley Elementary School,38.828608,-76.999124,school,way/133438813
+Turner Elementary School,38.847913,-76.97999,school,way/133498534
+Ron Brown College Preparatory High School,38.906736,-76.932718,school,way/133914969
+Houston Elementary School,38.905371,-76.930618,school,way/133914973
+Lorraine H. Whitlock Elementary School,38.896942,-76.933336,school,way/133945986
+River Terrace Education Campus,38.895414,-76.958581,school,way/134084696
+Benning Elementary School,38.891011,-76.945284,school,way/134090896
+Sousa Middle School,38.884147,-76.952765,school,way/134193269
+CW Harris Elementary School,38.883945,-76.925672,school,way/134604671
+Smothers Elementary School,38.893706,-76.938505,school,way/135126683
+Thomas Elementary School,38.907881,-76.941225,school,way/135133929
+Martin Luther King Junior Elementary School,38.842504,-76.998046,school,way/135363999
+KIPP,38.841318,-76.994631,school,way/135364007
+School (w136462396),38.839878,-76.992864,school,way/136462396
+Nalle Elementary School,38.886138,-76.931651,school,way/136556653
+John Burroughs Elementary School,38.933602,-76.977944,school,way/138672563
+Winston Elementary School,38.857603,-76.962798,school,way/142741176
+Watha T. Daniel-Shaw Neighborhood Library,38.91237,-77.022479,library,way/170684255
+Walker Jones Education Campus,38.904228,-77.013294,school,way/183795326
+Capitol Hill Day School,38.882295,-77.003117,school,way/196929886
+J O Wilson Elementary School,38.902965,-76.997295,school,way/219704596
+Founders Library,38.922271,-77.019345,library,way/226022474
+Early Learning Center,38.921298,-77.020655,school,way/226022486
+Howard University Middle School for Math and Science Primary Charter School,38.92289,-77.019036,school,way/226023220
+Louis Stokes Health Sciences Library,38.919793,-77.018758,library,way/226023235
+Francis L. Cardozo Education Campus,38.92149,-77.028395,school,way/239075610
+Cleveland Park Library,38.933797,-77.057852,library,way/254967228
+Drew Elementary School,38.896129,-76.919833,school,way/294823624
+School (w294829801),38.905323,-76.930298,school,way/294829801
+Anacostia Neighborhood Library,38.866017,-76.978544,library,way/294873334
+Deanwood Recreation Center,38.90834,-76.93245,community_centre,way/294949066
+Cornerstone Bible Church School,38.867024,-76.981997,school,way/295091899
+DC Fire Department Engine Co. 30,38.89069,-76.933433,fire_station,way/295129372
+"DC Fire Department Engine Co. 19 ""Southeast Soldiers""",38.871596,-76.966987,fire_station,way/295818812
+DC Fire Department Engine Co. 32,38.852636,-76.97138,fire_station,way/295820309
+School (w295825409),38.864612,-76.955607,school,way/295825409
+Takoma Community Center,38.9693,-77.01803,community_centre,way/295832867
+Lamond-Riggs/Lillian J. Huff Neighborhood Library,38.955157,-76.999608,library,way/295891020
+Friendship Blow Pierce Elementary & Middle,38.897927,-76.976196,school,way/296077570
+Emery Heights Community Center,38.95874,-77.027645,community_centre,way/296200875
+Randall Hyland Private School,38.873012,-76.936074,school,way/296212433
+Eckington Community Center,38.914006,-77.007855,community_centre,way/296214555
+Sela Public Charter School,38.963875,-77.007365,school,way/296238817
+Lamond Recreation Center,38.967726,-77.00823,community_centre,way/296239425
+DC Fire Department Engine Co. 17,38.932318,-76.989927,fire_station,way/296252750
+Saint Anthony Catholic School,38.931876,-76.991324,school,way/296253085
+Benning Stoddert Recreation Center,38.888889,-76.948171,community_centre,way/296457160
+School of Educational Evolution and Development Primary Charter School,38.887303,-76.946412,school,way/296457494
+School (w296469611),38.896859,-76.933403,school,way/296469611
+DC Fire Department Engine Co. 26,38.924824,-76.98676,fire_station,way/296507400
+Barnard Elementary School,38.947972,-77.018453,school,way/296907601
+Mundo Verde Bilingual Public Charter School,38.943033,-76.994421,school,way/296924949
+Institute of Our Lady of Mount Carmel Child Development Center (scrilli),38.9436,-76.994782,school,way/296924962
+Benning Neighborhood Library,38.894121,-76.947815,library,way/297194602
+Langdon Park Recreation Center,38.926813,-76.975811,community_centre,way/297219563
+Woodridge Branch Library,38.927431,-76.978642,library,way/297219913
+DC Fire Department Engine Co. 12,38.919899,-76.999141,fire_station,way/297401965
+Carlos Rosario School Sonia Gutierrez Campus,38.918324,-76.99855,school,way/297402283
+District of Columbia Fire and Emergency Medical Services Engine Company 14,38.948866,-77.008293,fire_station,way/297527532
+Park View Recreation Center,38.935013,-77.021379,community_centre,way/297544632
+Sulpician Seminary,38.930675,-76.999799,school,way/297568760
+Tree of Life Community Primary Charter School,38.920769,-76.977701,school,way/297681857
+McKinley Technology Education Campus,38.914367,-77.004583,school,way/308239198
+Miner Elementary School,38.897699,-76.982772,school,way/313026639
+Kingsman Academy Public Charter School,38.895672,-76.986322,school,way/313026640
+Robert Brent Elementary School,38.884777,-77.001505,school,way/313026651
+DC Fire Department Engine Co. 23;District of Columbia Fire and Emergency Medical Services Engine Company 23,38.898584,-77.047629,fire_station,way/331160766
+Georgetown Day School,38.95223,-77.08351,school,way/342133631
+Seaton Elementary School,38.910394,-77.02524,school,way/343628676
+Gonzaga College High School,38.901511,-77.010402,school,way/373690691
+Roosevelt High School,38.943462,-77.027944,school,way/374760133
+Dunbar High School,38.90791,-77.014011,school,way/395651303
+Anacostia Community Boathouse,38.87862,-76.975782,community_centre,way/401678649
+The Community Building,38.877959,-76.999165,community_centre,way/503287187
+Eliot-Hine Middle School,38.892629,-76.978578,school,way/508025624
+Eastern High School,38.890935,-76.979014,school,way/508025625
+Payne Elementary School,38.884731,-76.984717,school,way/508025626
+Ludlow - Taylor Elementary School,38.898529,-76.997308,school,way/520458207
+The Hill Preschool,38.88507,-77.001086,school,way/574918952
+Francis A. Gregory Neighborhood Library,38.864884,-76.954211,library,way/653670446
+MWAA Northern River Rescue Station,38.852551,-77.032024,fire_station,way/655490174
+Levine Music DC Campus NW,38.94297,-77.056274,school,way/729682969
+Fort McNair Fire Station,38.868369,-77.015818,fire_station,way/732099139
+Washington International School - Tregaron Campus,38.931916,-77.060667,school,way/740088563
+Armstrong Public Charter School,38.909129,-77.013663,school,way/806169612
+Jackson-Reed High School,38.949573,-77.076921,school,way/817935599
+Edgewood Recreation Center,38.924835,-77.001846,community_centre,way/833065059
+John Eaton Elementary School,38.933023,-77.065817,school,way/840257706
+Luke C. Moore Opportunity Academy,38.93195,-76.99218,school,way/852564051
+Engine Company 27,38.903336,-76.940951,fire_station,way/893122330
+Saint John's College High School,38.963114,-77.054513,school,way/915595169
+Rocketship Legacy Prep,38.870431,-76.9403,school,way/979549651
+Ida B. Wells Middle School,38.966493,-77.019138,school,way/979550657
+Benjamin Banneker Academic High School,38.911831,-77.024978,school,way/989675715
+Whittier Elementary School,38.965825,-77.018954,school,way/1005055302
+Coolidge High School,38.967425,-77.018538,school,way/1005055303
+School (w1020301824),38.929267,-76.966134,school,way/1020301824
+Ballou STAY,38.838622,-77.001703,school,way/1021773475
+DC Bilingual Public Charter School,38.9548,-77.00656,school,way/1037398958
+Fort Stanton Recreation Center,38.857629,-76.978928,community_centre,way/1054243848
+Achievement Prep,38.834593,-76.992739,school,way/1130673828
+Saint Peter School,38.883541,-77.001525,school,way/1130926162
+Lafayette Elementary School,38.966573,-77.068014,school,way/1131236744
+Ingenuity Prep Public Charter School,38.823848,-77.003161,school,way/1131289516
+Saint Thomas More Catholic Academy,38.825329,-77.000304,school,way/1131619242
+Early Childhood Academy Public Charter School,38.831585,-76.99136,school,way/1131694668
+City Center Public Charter Schools Congress Heights Campus,38.841491,-77.00455,school,way/1131760850
+Kuumba Preparatory School of the Arts,38.842069,-77.002649,school,way/1131762005
+School (w1131783757),38.847705,-76.997806,school,way/1131783757
+Friendship Technology Preparatory Acadamy,38.848295,-76.996448,school,way/1131783758
+John Hayden Johnson Middle School,38.850698,-76.983922,school,way/1131816703
+DC Prep Anacostia Elementary Campus,38.864646,-76.984775,school,way/1132992250
+School (w1138162738),38.832847,-76.996865,school,way/1138162738
+Maret School,38.928127,-77.060315,school,way/1138955471
+Dupont Park Adventist School,38.869546,-76.948151,school,way/1148916425
+Key Elementary School,38.926643,-77.100547,school,way/1149416124
+The River School,38.917674,-77.097925,school,way/1149423108
+The Lab School of Washington,38.915584,-77.092453,school,way/1149430582
+Alice Deal Middle School,38.95353,-77.074992,school,way/1149443647
+Friendship Public Charter School Chamberlain Campus,38.879429,-76.986744,school,way/1149449858
+Peabody Elementary School,38.892669,-77.000034,school,way/1149453007
+Maury Elementary School,38.892683,-76.988796,school,way/1149457603
+Monument Academy Public Charter School,38.896599,-76.977763,school,way/1149487483
+Stuart-Hobson Middle School,38.896729,-77.000051,school,way/1149492296
+Capitol Hill Montessori at Logan,38.898337,-77.002774,school,way/1149493995
+Two Rivers Public Charter School,38.901111,-76.971266,school,way/1149500848
+DC Fire Department Engine Co. 20,38.944997,-77.078428,fire_station,way/1149556089
+Saint Albans School,38.928335,-77.071237,school,way/1176304460
+Beauvoir Elementary School,38.930045,-77.067539,school,way/1176304483
+KIPP DC Shaw Campus,38.910252,-77.018008,school,way/1189759333
+School (w1216869920),38.882952,-76.957483,school,way/1216869920
+Center City Public Charter Schools Capitol Hill Campus,38.889226,-76.983253,school,way/1263827726
+Milton Gottesman Jewish Day School of the Nation's Capital,38.963902,-77.03575,school,way/1265256001
+Reservoir Park Recreation Center,38.923177,-77.010069,community_centre,way/1292621802
+Ben Murch Elementary School,38.952708,-77.070852,school,way/1314719491
+Janney Elementary School,38.947295,-77.080978,school,way/1314719493
+Lafayette-Pointer Recreation Center,38.967735,-77.066919,community_centre,way/1316298562
+Sheridan School,38.946676,-77.070491,school,way/1319280239
+Brightwood Elementary School,38.960927,-77.030574,school,way/1321656140
+Integrated Design and Electronics Academy Primary Charter School,38.904131,-76.936904,school,way/1321668186
+Phoebe Hearst Elementary School,38.94072,-77.071692,school,way/1321873927
+Sidwell Friends Middle School,38.940188,-77.074127,school,way/1321941472
+Oyster-Adams Bilingual School,38.923614,-77.057122,school,way/1328205361
+Van Ness Elementary School,38.877019,-76.999064,school,way/1328432538
+Edmund Burke School,38.942369,-77.061755,school,way/1329125922
+Horace Mann Elementary School,38.934032,-77.087426,school,way/1333850321
+Parkmont School,38.950046,-77.036862,school,way/1337212317
+Capital City Public Charter School,38.96193,-77.012236,school,way/1337832535
+Friendship Ideal Elementary and Middle,38.965164,-77.010113,school,way/1337834290
+Langdon Elementary School,38.925049,-76.977448,school,way/1339080848
+Parklands-Turner Neighborhood Library,38.846103,-76.981097,library,way/1339752053
+Roots Public Charter School,38.956888,-77.010147,school,way/1342772406
+Stoddert Elementary School,38.923091,-77.079237,school,way/1344849243
+School (w1348803005),38.914101,-77.005124,school,way/1348803005
+Truesdell Elementary School,38.953579,-77.024774,school,way/1354889492
+School (w1354889493),38.943418,-77.030429,school,way/1354889493
+Aidan Montessori School,38.926181,-77.055607,school,way/1360938885
+Powell Elementary School,38.941339,-77.031658,school,way/1365063534
+Bancroft Elementary School,38.93479,-77.040621,school,way/1371648186
+Ketcham Elementary School,38.865791,-76.984097,school,way/1375945851
+The Field School,38.920592,-77.087607,school,way/1384808517
+Lowell School,38.985013,-77.038703,school,way/1391495076
+Dorothy I. Height Elementary School,38.944519,-77.030444,school,way/1420783238
+Ross Elementary School,38.912382,-77.039547,school,way/1422767991
+H D Cooke Elementary School,38.923816,-77.038425,school,way/1422768041
+Sacred Heart School,38.932363,-77.03747,school,way/1426327240
+MacFarland Middle School,38.9436,-77.027474,school,way/1433945399
+St. Coletta of Greater Washington,38.886846,-76.976071,school,way/1434708607
+Marie Reed Elementary School,38.919269,-77.040482,school,way/1441690472
+The Next Step Public Charter Scool,38.928474,-77.035808,school,way/1445422210
+DC Fire Department Engine Company 24,38.952231,-77.026707,fire_station,way/1464232162
+District of Columbia International Public Charter School,38.973001,-77.034099,school,way/1466081313
+Meridian Public Charter School,38.918549,-77.030016,school,way/1479031723
+Cleveland Elementary School,38.915151,-77.022646,school,way/1479329593
+Mary McLeod Bethune Day Academy PCS,38.92928,-76.986711,school,way/1486492759
+Carlos Rosario International Public Charter School,38.926268,-77.028108,school,way/1492800550
+Burrville Elementary School,38.900238,-76.923944,school,way/1501346358
+School (w1501346359),38.896455,-76.919846,school,way/1501346359
+School (w1501346360),38.892247,-76.924706,school,way/1501346360
+HD Woodson High School,38.897066,-76.923643,school,way/1501346361
+Milton School South Campus,38.94803,-77.035881,school,way/1503394826
+Washington Yu Ying Public Charter School,38.941412,-77.003647,school,way/1504276288
+Washington Latin Public Charter School Cooper Campus,38.942144,-77.006541,school,way/1504276294
+Noyes Elementary School,38.924947,-76.991611,school,way/1504689987
+CenterCityPCS - Petworth Campus,38.943741,-77.020856,school,way/1527339700
+School (w1527648399),38.844489,-76.986425,school,way/1527648399
+Prospect Learning Center,38.8976,-76.993204,school,way/1537964268
+Meyer Elementary School,38.92282,-77.026191,school,way/1547365568
+School (w1553175887),38.906786,-77.00022,school,way/1553175887
+Lab School of Washington,38.910105,-77.084036,school,way/1561026796
+Saint Patrick's Episcopal Day School,38.909771,-77.088925,school,way/1561229935
+Garrison Elementary School,38.913379,-77.028477,school,way/1564799592
+"Library of Congress, Thomas Jefferson Building",38.888683,-77.004646,library,relation/1029374
+John K. Mullen of Denver Memorial Library,38.933647,-76.997885,library,relation/3424612
+White Friars Hall School,38.944761,-76.982589,school,relation/3942928
+Saint Anselms Abbey School,38.947507,-76.9843,school,relation/3942929
+Washington Latin Public Charter School,38.954006,-77.014037,school,relation/13176831
+John Lewis Elementary School,38.951344,-77.032222,school,relation/15583702
+Blessed Sacrament School,38.967977,-77.074744,school,relation/18260359
+National Cathedral School,38.931749,-77.071732,school,relation/18357024
+Thomas Elementary School,38.901025,-76.952514,school,relation/20989390
+Saint Patrick's Episcopal Day School,38.915996,-77.089521,school,relation/21424816

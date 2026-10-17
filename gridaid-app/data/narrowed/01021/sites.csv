@@ -1,0 +1,29 @@
+name,lat,lon,type,osm
+Adair School,32.840404,-86.623593,school,node/358905190
+Chestnut Grove School,33.037621,-86.860267,school,node/358908468
+Vermont School,32.734296,-86.798597,school,node/358930968
+Chilton County High School,32.821793,-86.612481,school,node/358949188
+Chilton County Vocational Skills Center,32.832071,-86.658316,school,node/358949196
+Chilton County Vocational Technical School,32.832348,-86.673594,school,node/358949198
+Clanton Elementary School,32.840682,-86.639982,school,node/358949203
+Cooper School,32.780683,-86.542201,school,node/358949213
+Isabella High School,32.829015,-86.786375,school,node/358949235
+Thorsby High School,32.913457,-86.716651,school,node/358949295
+Verbena Junior High School,32.762906,-86.517478,school,node/358949310
+Verbena High School,32.749017,-86.508867,school,node/358969643
+Maplesville High School,32.803183,-86.878322,school,node/358992307
+Stanton Christian School,32.734573,-86.894711,school,node/358994137
+Jemison Community Center,32.942111,-86.763085,community_centre,node/13593850200
+Maplesville Public Library,32.788463,-86.871178,library,node/13654591402
+John And Margo Gibson Youth Center,32.83972,-86.634794,community_centre,node/13720828267
+Clanton Fire Station No. 2,32.80423,-86.589416,fire_station,node/13968574004
+Liberty Christian Academy,32.84263,-86.62785,school,node/13974791894
+Vrbena Fire Station,32.75294,-86.510524,fire_station,node/14235667316
+Community Centre (n14235667319),32.752767,-86.510089,community_centre,node/14235667319
+Chilton County Board of Education,32.868848,-86.622359,school,way/373964804
+Chilton - Clanton Public - Maplesville Branch,32.840938,-86.624765,library,way/849985263
+School (w987740834),32.824841,-86.611078,school,way/987740834
+Chilton - Clanton Public - Jemison Branch Library,32.958692,-86.74632,library,way/1343608845
+Jemison High School,32.964457,-86.749053,school,way/1515746264
+Jemison Fire Department,32.95872,-86.745849,fire_station,way/1529392323
+Jemison Elementary & Intermediate Schools,32.983317,-86.72969,school,way/1530944301

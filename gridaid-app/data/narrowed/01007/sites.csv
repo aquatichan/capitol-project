@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Banks School,33.151785,-87.188608,school,node/358905736
+Blake School,33.12623,-87.17583,school,node/358906650
+Enterprise School,33.171229,-87.181941,school,node/358910985
+Green Pond Christian School,33.221145,-87.1262,school,node/358968996
+Briarfield Fire Rescue,33.005768,-87.005001,fire_station,node/13348593773
+West Blocton Volunteer Fire Department,33.117911,-87.114175,fire_station,node/13524847417
+Brierfield Fire Rescue,33.035362,-86.911773,fire_station,node/13963070360
+Bibb County Alternative School,33.114101,-87.131591,school,node/13968284692
+Lawley Community Center,32.863133,-86.950371,community_centre,node/14095170795
+Lawley Fire Department,32.863128,-86.950427,fire_station,node/14095170798
+Eoline Fire Department,32.993662,-87.231511,fire_station,way/817916260
+Bibb County High School,32.947775,-87.142708,school,way/846259437
+Brent-Centreville Public Library,32.945239,-87.150464,library,way/846395067
+Brent Elementary School,32.942789,-87.162183,school,way/956319525
+Centreville Elementary School;Centreville Middle School,32.943426,-87.114921,school,way/956684687
+Centreville Fire Department,32.949892,-87.137203,fire_station,way/957131246
+Cahaba Academy,32.976104,-87.120379,school,way/958675337
+West Blocton Elementary School,33.114126,-87.125534,school,way/959237157
+West Blocton High School,33.113103,-87.128297,school,way/959237178
+West Blocton Middle School,33.112066,-87.130769,school,way/959237196
+Allen P Howison Elementary School,32.901101,-86.905851,school,way/974983182
+Bibb County Career Academy,33.051487,-87.135877,school,way/988871409
+Woodstock Community Library,33.205402,-87.153925,library,way/998143965
+Woodstock School,33.209885,-87.137592,school,way/1012509654

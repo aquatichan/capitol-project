@@ -1,0 +1,88 @@
+name,lat,lon,type,osm
+Norwood Elementary School,33.682603,-85.836354,school,node/358922433
+All Saints Elementary School,33.663437,-85.84441,school,node/358957954
+Donoho School,33.65316,-85.789686,school,node/358957959
+Anniston Center Gadsden State Junior College,33.665937,-85.825521,school,node/358957969
+Blue Mountain Elementary School,33.688436,-85.838854,school,node/358958031
+Brutonville Junior High School,33.789267,-85.863856,school,node/358958040
+Duke School Adult Training Center,33.85519,-85.900072,school,node/358958147
+Eulaton Elementary School,33.646214,-85.913023,school,node/358958193
+Golden Springs Elementary School,33.632133,-85.775809,school,node/358958263
+Grayton Junior High School,33.79871,-85.966636,school,node/358958270
+Mechanicsville Elementary School,33.654826,-85.86191,school,node/358958375
+Sacred Heart Parish Educational Center,33.66927,-85.813298,school,node/358958502
+Weaver Elementary School,33.75495,-85.814274,school,node/358958608
+Pleasant Valley High School,33.884822,-85.816633,school,node/358969497
+Bethune High School,33.932879,-85.610239,school,node/358988308
+Hawkins School,33.615937,-85.956913,school,node/358988948
+Webb School,33.920934,-85.72552,school,node/358990393
+Piedmont Elementary School,33.927121,-85.614712,school,node/358990420
+Calhoun County Training School,33.620938,-85.845243,school,node/358992996
+Choccolocco Elementary School,33.662049,-85.697184,school,node/358993016
+Gadsden State Community College-Harry M. Ayers Campus,33.622883,-85.802186,school,node/358993076
+Trinity Christian Academy,33.588994,-85.873854,school,node/358993140
+Parkwood Elementary School,33.691491,-85.865244,school,node/358999010
+Southside Elementary School,33.917601,-85.608017,school,node/358999127
+Norwood Hodges Community Center,33.632067,-85.783707,community_centre,node/367932010
+Friendship Community Center,33.585043,-85.786159,community_centre,node/1252105745
+Fire Station (n1252155708),33.666645,-85.825435,fire_station,node/1252155708
+Tenth Street Elementary School,33.658144,-85.808733,school,node/1253704244
+Jacksonville Christian Academy,33.804928,-85.772812,school,node/1253740794
+Anniston Fire Department Station No. 3,33.715486,-85.792488,fire_station,node/1253844561
+Jacksonville Fire Department,33.812032,-85.760081,fire_station,node/1253844613
+Jacksonville State University-McClellan,33.709812,-85.793234,school,node/1270873692
+Pleasant Valley Elementary School,33.8855,-85.810805,school,node/1275550125
+Piedmont Middle School,33.92749,-85.614249,school,node/1280990215
+Angel Station Fire Dept.,33.837329,-85.839067,fire_station,node/2155684608
+Piedmont Benevolence Center,33.906784,-85.608604,community_centre,node/4374546386
+Alexandria Fire,33.77147,-85.88177,fire_station,node/5048449743
+School (n7291748578),33.661737,-85.841899,school,node/7291748578
+School (n7291749984),33.661499,-85.820063,school,node/7291749984
+School (n7291798965),33.708457,-85.822721,school,node/7291798965
+School (n7291829058),33.665636,-85.859088,school,node/7291829058
+Fire Station (n11257487538),33.669797,-85.840406,fire_station,node/11257487538
+Community Centre (n11257488319),33.680312,-85.855332,community_centre,node/11257488319
+Carver Community Center,33.662104,-85.838913,community_centre,node/11257494568
+Fire Station (n12855598379),33.595019,-85.879579,fire_station,node/12855598379
+Oxford High School,33.610927,-85.831011,school,way/78563925
+Anniston High School,33.661449,-85.82026,school,way/78573800
+Walter Wellborn High School,33.652024,-85.881229,school,way/79328483
+Houston Cole Library,33.824238,-85.763086,library,way/112318057
+Jacksonville High School,33.788417,-85.776197,school,way/112382430
+Oxford Elementary School,33.593017,-85.867821,school,way/115937704
+White Plains High School,33.746648,-85.685837,school,way/116067613
+White Plains Elementary School,33.724174,-85.672966,school,way/116067628
+Cobb Elementary School,33.661791,-85.8418,school,way/116068950
+School (w116069087),33.633331,-85.83387,school,way/116069087
+Anniston Area Vocational Technical School,33.660019,-85.820114,school,way/116071386
+Anniston Middle School,33.708214,-85.822411,school,way/116077450
+Piedmont City High School,33.928192,-85.622247,school,way/200884452
+Weaver High School,33.747369,-85.832134,school,way/226511024
+Alexandria High School,33.77558,-85.886343,school,way/355621345
+Alexandria Elementary School,33.776044,-85.884146,school,way/355621346
+Saks High School,33.702595,-85.835087,school,way/355644607
+Saks Elementary School,33.702026,-85.832201,school,way/355644609
+Calhoun County EXCEL Academy,33.700982,-85.833902,school,way/355644610
+Randolph Park Elementary School,33.665563,-85.859091,school,way/355644612
+Walter Wellborn Elementary School,33.651156,-85.87882,school,way/356708461
+Ohatchee High School,33.786198,-86.001664,school,way/356709938
+Ohatchee Elementary School,33.78808,-86.002202,school,way/356709939
+A Way Out Day Program,33.655954,-85.830087,community_centre,way/404006355
+Kitty Stone Elementary School,33.790888,-85.780163,school,way/436150784
+CREATE,33.587544,-85.852862,school,way/440813076
+Jacksonville Public Library,33.815051,-85.761877,library,way/613547221
+School (w780940204),33.631916,-85.775613,school,way/780940204
+School (w780942040),33.658083,-85.808746,school,way/780942040
+School (w995603610),33.801632,-85.758551,school,way/995603610
+Bynum Community Center,33.615217,-85.964751,community_centre,way/1103586151
+Coldwater Elementary School,33.602938,-85.935485,school,way/1176506929
+Hobson City Public Library,33.619995,-85.842717,library,way/1177338281
+Lyles Memorial Library,33.656852,-85.82798,library,way/1335171447
+Ohatchee Public Library,33.78224,-86.038539,library,way/1347200290
+Carver Branch Library,33.662059,-85.839175,library,way/1347200681
+Oxford Public Library,33.609236,-85.835365,library,way/1347342175
+Piedmont Public Library,33.923771,-85.613326,library,way/1347342947
+DeArmanville Elementary School,33.627461,-85.746235,school,relation/18997267
+C. E. Hanna Elementary School,33.598176,-85.87694,school,relation/20421412
+Oxford Middle School,33.596127,-85.87579,school,relation/20421543
+Constantine Elementary School,33.632821,-85.834261,school,relation/20421547

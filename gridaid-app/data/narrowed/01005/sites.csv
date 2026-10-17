@@ -1,0 +1,32 @@
+name,lat,lon,type,osm
+Center Ridge School,31.958491,-85.545499,school,node/358908229
+Comer High School,32.075433,-85.322994,school,node/358909123
+Old Louisville School,31.788861,-85.552528,school,node/358910179
+Robinson School,31.908492,-85.594111,school,node/358926391
+Barbour County Training School,31.881827,-85.462163,school,node/358945736
+Clio High School,31.707942,-85.616608,school,node/358945759
+Eufaula High School,31.898216,-85.151321,school,node/358945770
+McClains School,31.968212,-85.581611,school,node/358945806
+Mount Scilla School,31.989601,-85.448552,school,node/358945813
+Wallace High School,31.868153,-85.446066,school,node/358981314
+Blue Springs High School,31.66211,-85.48855,school,node/358998560
+Bluff City Elementary School,31.868217,-85.151599,school,node/358998566
+Freemont Junior High School,31.79933,-85.240768,school,node/358998777
+Van Buren Elementary School,31.887105,-85.137432,school,node/358999193
+Western Heights Elementary School,31.887383,-85.159655,school,node/358999249
+Eufaula High School,31.919098,-85.138968,school,node/4890215136
+Texasville Community Center,31.710822,-85.425564,community_centre,node/11188069803
+Texasville Fire Department,31.713955,-85.424337,fire_station,node/11188069805
+Fire Station (n13920026229),31.767067,-85.17396,fire_station,node/13920026229
+Fire Station (n14058650183),31.802364,-85.165234,fire_station,node/14058650183
+Barbour County High School,31.867661,-85.4463,school,way/988670438
+School (w988675318),31.778577,-85.550528,school,way/988675318
+School (w988708546),31.882157,-85.461381,school,way/988708546
+Bakerhill Fire/Rescue,31.77377,-85.3078,fire_station,way/1207533465
+Louisville Fire Dept,31.783869,-85.555552,fire_station,way/1207578404
+Clayton Fire Dept,31.877411,-85.449261,fire_station,way/1207578412
+Barbour County Elementary School,31.78016,-85.554145,school,way/1207791827
+Town and County Library,31.881121,-85.449365,library,way/1217629362
+Louisville Public Library,31.783991,-85.55554,library,way/1344412447
+Eufaula Carnegie Library,31.895096,-85.145164,library,way/1344412751
+Eufaula Fire Department,31.802355,-85.165233,fire_station,way/1545691798

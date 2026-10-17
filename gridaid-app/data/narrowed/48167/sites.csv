@@ -1,0 +1,188 @@
+name,lat,lon,type,osm
+Franklin Roosevelt School,29.399956,-94.898534,school,node/356705987
+Elizabeth Cowen Elementary School,29.381923,-95.106154,school,node/356723622
+Woodrow Wilson Alternative Education School,29.398567,-94.898533,school,node/356727978
+Central High School,29.298848,-94.805196,school,node/356731358
+Crosby High School,29.339124,-95.007147,school,node/356732654
+Goliad School,29.296348,-94.79964,school,node/356735171
+Accelerated Instructional Model High School,29.299261,-94.788528,school,node/356745796
+Stewart School,29.346624,-95.02187,school,node/356746917
+Travis School,29.280364,-94.817085,school,node/356747630
+Bayou Road Elementary School,29.366067,-94.970758,school,node/356753563
+College of the Mainland,29.394955,-95.000481,school,node/356753630
+David G. Burnet Elementary School,29.276626,-94.824085,school,node/356753647
+Galveston Catholic School,29.294564,-94.793792,school,node/356753674
+Galveston College Fort Crockett,29.274127,-94.817696,school,node/356753677
+Inter-City School,29.378567,-94.959646,school,node/356753708
+L A Morgan School,29.291904,-94.806029,school,node/356753729
+La Marque Junior High School,29.364123,-94.969369,school,node/356753741
+Lake Road Elementary School,29.378243,-94.980311,school,node/356753745
+Moody School,29.308292,-94.785473,school,node/356753776
+Our Lady of Fatima Catholic School,29.393705,-94.91733,school,node/356753795
+Saint Marys School,29.303673,-94.790075,school,node/356753829
+Trinity Episcopal School,29.302227,-94.792012,school,node/356753881
+William R Blocker Middle School,29.398567,-94.901867,school,node/356753904
+Westwood Elementary School,29.527913,-95.213211,school,node/356800109
+Bales Intermediate School,29.528774,-95.214685,school,node/356800128
+La Marque Middle School,29.366093,-94.971225,school,node/356800190
+League City Elementary School,29.509048,-95.088161,school,node/356800195
+League City Intermediate School,29.510348,-95.06534,school,node/356800200
+Lloyd R Ferguson Elementary School,29.532636,-95.049193,school,node/356800204
+Mainland Preparatory Academy,29.388845,-94.992425,school,node/356800209
+Morgan Elementary Magnet School,29.292119,-94.806361,school,node/356800218
+Kids First Head Start School,29.363632,-95.029866,school,node/356800227
+Roosevelt Wilson Elementary School,29.399947,-94.89847,school,node/356800240
+Coastal Village Elementary,29.306123,-94.778473,school,node/356800243
+R J Wollam Elementary School,29.393476,-95.10575,school,node/356800250
+Galveston Academy,29.29959,-94.788649,school,node/356800253
+Santa Fe Elementary School,29.384124,-95.106596,school,node/356800256
+Fritz Barnett Intermediate School,29.380678,-95.106114,school,node/356800262
+Accelerated Instruction Model Middle School,29.280516,-94.806296,school,node/356800283
+Stewart Elementary School,29.346654,-95.022778,school,node/356800289
+Walter Hall Elementary School,29.484924,-95.155488,school,node/356800299
+Clear Path Alternative School,29.509713,-95.086334,school,node/356800304
+Crosby Middle School,29.346056,-95.016201,school,node/356800310
+Inter City Elementary School,29.378589,-94.95912,school,node/356800342
+Austin Magnet Middle School,29.297936,-94.781851,school,node/356800401
+C W Cline Elementary School,29.512918,-95.195629,school,node/356800431
+Central Middle School,29.299221,-94.801211,school,node/356800442
+Friendwoods Christian School,29.488531,-95.212753,school,node/356859150
+Galveston County Juvenile Justice Alternative Education Program,29.37792,-95.10464,school,node/356859181
+Charles B Scott Elementary School,29.289567,-94.811711,school,node/356859270
+Country Meadows Montessori School,29.527603,-95.197438,school,node/356859336
+South Shore Montessori School,29.526311,-95.047845,school,node/356859411
+Friendswood Childrens House,29.531121,-95.209704,school,node/356859450
+Head Start Ziegler Satellite School,29.293478,-94.810208,school,node/356859549
+Abundant Life Christian School,29.380838,-95.018842,school,node/356859634
+Trinity Baptist Christian School,29.406377,-94.93683,school,node/356859709
+Saint Michael's Episcopal School,29.364228,-94.979349,school,node/356859769
+Galveston County Juvenile Justice Alternative Education Program,29.529121,-95.204,school,node/356859780
+Saint Mary School,29.514199,-95.078679,school,node/356859866
+Pine Drive Baptist Christian School,29.452651,-95.071939,school,node/356859877
+Galveston County Juvenile Justice Alternative Education Program,29.349587,-95.020696,school,node/356860017
+Hitchcock Special Education School,29.345726,-95.016231,school,node/356860077
+True Cross Elementary School,29.449683,-95.073907,school,node/356860215
+Devereux School,29.506681,-95.107511,school,node/356860303
+Faith Temple Christian School,29.512387,-95.090737,school,node/356860316
+Good Shepherd Episcopal School,29.515329,-95.19103,school,node/356860338
+Texas City Juvenile Justice Alternative Education Program,29.393024,-94.915062,school,node/356860411
+Galveston County Juvenile Justice Alternative Education Program,29.363029,-94.971371,school,node/356860421
+East End Preschool,29.304677,-94.788292,school,node/356860423
+Seaborne Conservation Corps,29.312932,-94.819075,school,node/356860460
+La Marque Independent School District Early Childhood Learning Center,29.363439,-94.969314,school,node/356860469
+Ed White Memorial High School,29.507589,-95.094686,school,node/356860493
+Galveston Fire Department Station 5,29.289032,-94.829188,fire_station,node/368160546
+Friendswood Fire Department Station 2,29.477133,-95.219636,fire_station,node/368160630
+Texas City Fire Department Station 3,29.393343,-95.002839,fire_station,node/368160685
+Friendswood Fire Marshal's Office,29.529415,-95.200643,fire_station,node/368160716
+Galveston Fire Department Station 8,29.142118,-95.045233,fire_station,node/368160718
+League City Fire Department,29.51114,-95.091519,fire_station,node/368160732
+Texas City Fire Department Station 2,29.392816,-94.908979,fire_station,node/368160741
+Santa Fe Fire / Rescue Department,29.374019,-95.092002,fire_station,node/368160746
+Texas City Fire Department Station 1,29.401277,-94.931263,fire_station,node/368160775
+Hitchcock Volunteer Fire Department,29.346672,-95.019642,fire_station,node/368160876
+Texas City Fire Department - Administration,29.401355,-94.931271,fire_station,node/368160906
+Galveston Fire Department Station 4,29.263727,-94.856763,fire_station,node/368160977
+La Marque Fire Department,29.3692,-94.971007,fire_station,node/368160989
+Dickinson Fire Department Station 1,29.462148,-95.049563,fire_station,node/368160996
+Bacliff Volunteer Fire Department,29.505984,-94.985114,fire_station,node/368161060
+Fire Station Number 2,29.4802,-95.2185,fire_station,node/368161285
+Camp County Public Library,29.513841,-94.989649,library,node/368161883
+Odyssey Academy,29.275648,-94.829435,school,node/499788924
+St. Vincent's House,29.3028,-94.799523,school,node/912923395
+Art and Pat Goforth Elementary School,29.510379,-95.062274,school,node/2330176161
+Helen Hall Public Library,29.504479,-95.093052,library,node/3628032151
+Fire Station,29.292637,-94.830663,fire_station,node/4605604301
+Westwood Recreation Center,29.479623,-95.168148,community_centre,node/7411672023
+Moody Medical Library,29.309812,-94.778357,library,node/9966567233
+Bauerschlag Elementary School,29.484986,-95.116366,school,node/11237334179
+Friendswood Community Center,29.529908,-95.199237,community_centre,node/12037868826
+Galveston Island Community Center,29.294196,-94.820088,community_centre,way/62128799
+Ball High School,29.287309,-94.811384,school,way/154423370
+League City Fire Marshal's Office,29.52612,-95.046105,fire_station,way/182793212
+Clear Springs High School,29.499895,-95.143203,school,way/210477679
+Calder Road Elementary,29.455759,-95.105913,school,way/219001408
+Education Village,29.510063,-95.023971,school,way/229200453
+Friendswood Public Library,29.528517,-95.200643,library,way/258794709
+Rosenberg Library,29.301163,-94.793042,library,way/261314166
+Darwin L. Gilmore Elementary School,29.483293,-95.138714,school,way/270766024
+Burnet Early Childhood University (Elementary school),29.264893,-94.838737,school,way/284036325
+Heights Elementary School,29.387531,-94.929194,school,way/338858197
+Northside Elementary School,29.404982,-94.923765,school,way/455812944
+Greta Oppe Elementary School,29.263428,-94.850279,school,way/457966949
+McGuire-Dent Recreation Center,29.287353,-94.793323,community_centre,way/472162013
+Clear Falls High School,29.509481,-95.024824,school,way/497207607
+Public Library,29.459738,-95.049493,library,way/519715517
+Hometown Heroes Park,29.491643,-95.070612,community_centre,way/519723471
+Station 5,29.451685,-95.096359,fire_station,way/519768204
+Hughes Road Elementary School,29.446184,-95.04851,school,way/520103962
+Dickinson Fire Department & EMS Central Station,29.46316,-95.042328,fire_station,way/520104139
+McAdams Junior High School,29.449618,-95.041934,school,way/520108448
+League City Fire Station 4,29.491451,-95.153303,fire_station,way/520356845
+Dickinson Fire Department Station 2,29.447046,-95.082602,fire_station,way/520366452
+San Leon Volunteer Fire Department,29.492966,-94.922726,fire_station,way/521042977
+Gladnieo Parker Elementary School,29.27342,-94.839041,school,way/528763247
+Santa Fe High School,29.393201,-95.142891,school,way/589283520
+Santa Fe Junior High School,29.382552,-95.107751,school,way/589325051
+Jamaica Beach Volunteer Fire Department,29.182291,-94.974742,fire_station,way/601178655
+Mossman Elementary School,29.5078,-95.024637,school,way/619261304
+Bayside Intermediate School,29.508533,-95.0232,school,way/619261308
+Clear Creek High School,29.525532,-95.072812,school,way/666779703
+Clear Creek Intermediate School,29.529027,-95.070681,school,way/666779705
+Lavace Stewart Elementary School,29.541948,-95.025795,school,way/666779710
+Creekside Intermediate School,29.496706,-95.141503,school,way/666950886
+Ross Elementary School,29.499793,-95.122973,school,way/666950890
+Bay Area Christian School,29.495372,-95.14897,school,way/666950902
+Dickinson High School,29.470075,-95.031099,school,way/672160266
+Dickinson ISD Administration,29.459097,-95.055941,school,way/672160267
+Jake Silbernagel Elementary School,29.479856,-95.045823,school,way/672160271
+Barber Middle School,29.469235,-95.022736,school,way/672160275
+Dickinson ISD Transportation,29.465018,-95.052466,school,way/672160276
+Texas City High School,29.391208,-94.91692,school,way/672182811
+Blocker Middle School,29.394623,-94.921107,school,way/672182817
+Calvin Vincent Early Childhood Center,29.395907,-94.921825,school,way/672182818
+Levi Fry Intermediate School,29.410328,-94.896786,school,way/672182829
+Simpson Education Support Center,29.394001,-94.919669,school,way/672182835
+Kohfeldt Elementary School,29.396456,-94.920612,school,way/672182839
+School (w673393013),29.399217,-94.899955,school,way/673393013
+San Leon Elementary School,29.494037,-94.954284,school,way/673397306
+Kenneth E Little Elementary School,29.510332,-94.991773,school,way/673397310
+School (w673495658),29.36709,-94.970478,school,way/673495658
+Friendswood Junior High,29.49359,-95.186375,school,way/673730695
+Friendswood High School,29.510872,-95.210029,school,way/675185814
+Lobit Education Village,29.440382,-95.109541,school,way/676287726
+Port Bolivar Volunteer Fire Department,29.381978,-94.760264,fire_station,way/773675963
+Crenshaw Elementary and Middle School,29.427156,-94.691117,school,way/773890653
+Hitchcock Public Library,29.34681,-95.020265,library,way/781179317
+League City Fire Station 2,29.484686,-95.114891,fire_station,way/805387736
+Galveston Fire Department Station 2,29.309325,-94.772447,fire_station,way/817683931
+Galveston Fire Department Station 1,29.300471,-94.796391,fire_station,way/878052168
+Kemah Volunteer Fire Department,29.539821,-95.018761,fire_station,way/961092410
+Santa Fe Fire & Rescue Station #1,29.377361,-95.100623,fire_station,way/974915772
+O'Connell College Preparatory School,29.29687,-94.790302,school,way/1054306211
+Simms Elementary School,29.389729,-94.989251,school,way/1111764222
+Hitchcock High School,29.346454,-95.031019,school,way/1111826010
+High Island Fire Department,29.563408,-94.392924,fire_station,way/1113464587
+I W and Eleanor Hyde Elementary School,29.526779,-95.041019,school,way/1119344940
+School (w1119651417),29.510155,-95.06411,school,way/1119651417
+Victory Lakes Intermediate School,29.473388,-95.089029,school,way/1121839361
+Florence Campbell Elementary School,29.476624,-95.176084,school,way/1121900476
+Windsong Intermediate School,29.4879,-95.214763,school,way/1121919964
+School (w1124781645),29.380873,-95.01884,school,way/1124781645
+Galveston Fire Department Station 7,29.210255,-94.938942,fire_station,way/1144959327
+Kemah Community Center,29.541042,-95.019437,community_centre,way/1188673897
+School (w1200160071),29.393997,-95.106132,school,way/1200160071
+Community Centre (w1234520803),29.406189,-95.049839,community_centre,way/1234520803
+Crystal Beach Fire / Rescue Department,29.455246,-94.642441,fire_station,way/1257218734
+Our Lady of Lourdes School,29.361183,-95.050834,school,way/1274649739
+League City Fire Station 6,29.503066,-95.033849,fire_station,way/1341610433
+Crosby Middle School,29.349107,-95.029701,school,way/1360459302
+School (w1452764128),29.297882,-94.781899,school,way/1452764128
+School (w1476937175),29.416756,-95.039258,school,way/1476937175
+School (w1476937184),29.390718,-94.994611,school,way/1476937184
+Bay Colony Elementary School,29.453867,-95.094596,school,way/1476937226
+Dunbar Middle School,29.477484,-95.063149,school,way/1477336122
+School (w1485776720),29.563489,-94.390705,school,way/1485776720
+School (w1524076627),29.512823,-95.195504,school,way/1524076627
+School (w1534201844),29.509092,-95.08808,school,way/1534201844
+La Marque High School,29.373831,-94.994345,school,relation/18715118
