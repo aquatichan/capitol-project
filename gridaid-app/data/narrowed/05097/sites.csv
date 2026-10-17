@@ -1,0 +1,22 @@
+name,lat,lon,type,osm
+Ben Craven Elementary School,34.556764,-93.637693,school,node/358995129
+Caddo Hills Elementary School,34.421069,-93.631553,school,node/358995175
+Mount Ida High School,34.557158,-93.637555,school,node/358995403
+Ode Maddox Elementary School,34.620159,-93.780758,school,node/358995499
+Oden High School,34.619893,-93.779884,school,node/358995518
+Grandview School,34.364262,-93.446853,school,node/359008219
+Caddo Hills High School,34.419664,-93.630923,school,node/359021830
+Mount Ida Elementary School,34.551607,-93.615336,school,node/359024161
+Caddo Gap Volunteer Fire Department Station,34.383815,-93.602086,fire_station,node/367129186
+Joplin Volunteer Fire Station,34.566868,-93.440355,fire_station,node/367129918
+Norman Volunteer Fire Department,34.458839,-93.684999,fire_station,node/367130033
+Oden Volunteer Fire Department Station 1,34.622489,-93.77831,fire_station,node/367130063
+Oden Pencil Bluff Volunteer Fire Department Station 2,34.630753,-93.740089,fire_station,node/367130064
+Pine Ridge Volunteer Fire Department,34.549042,-93.91432,fire_station,node/367130258
+Sims Volunteer Fire Department,34.659064,-93.69065,fire_station,node/367130274
+South Fork Volunteer Fire Department,34.530355,-93.528134,fire_station,node/367130326
+Sulphur Laverna Volunteer Fire Department Station 1,34.654191,-93.534469,fire_station,node/367130501
+Montgomery County Library,34.556057,-93.633293,library,node/1116337425
+School (w38492970),34.620284,-93.780272,school,way/38492970
+Sulphur Laverna Volunteer Fire Department Station 2,34.693744,-93.515721,fire_station,way/783333226
+Mount Ida Volunteer Fire Department,34.555661,-93.637258,fire_station,way/792393708

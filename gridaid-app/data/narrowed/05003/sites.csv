@@ -1,0 +1,39 @@
+name,lat,lon,type,osm
+Carousel School,33.116234,-91.958187,school,node/358968777
+Cooter School,33.182343,-92.009022,school,node/358969775
+Tillis High School,33.227342,-91.51651,school,node/358981863
+Wallace School,33.192343,-92.000689,school,node/358982836
+Hamburg Junior High School,33.208706,-91.794042,school,node/358993068
+Hamburg Upper Elementary School,33.224565,-91.790962,school,node/358993077
+Fountain Hill Elementary School,33.353446,-91.850131,school,node/358993089
+Fountain Hill High School,33.353119,-91.850372,school,node/358993092
+Forest Echoes Vocational Technical School,33.141511,-91.953187,school,node/358993158
+Hamburg High School,33.208306,-91.796663,school,node/358993169
+Portland Elementary School,33.236744,-91.503327,school,node/358993179
+Crossett High School,33.122503,-91.965089,school,node/358993215
+Wilmot Elementary School,33.061078,-91.570467,school,node/358993265
+Parkdale Elementary School,33.123734,-91.547898,school,node/358993269
+Anderson Elementary School,33.121333,-91.950213,school,node/359021780
+Calhoun Elementary School,33.126233,-91.958743,school,node/359021834
+Hastings Elementary School,33.131503,-91.958378,school,node/359021915
+Norman Junior High School,33.120896,-91.962497,school,node/359021949
+Price Elementary School,33.121234,-91.973465,school,node/359021979
+North Crossett Primary School,33.160229,-91.936341,school,node/359024303
+Allbritton Upper Elementary School,33.226037,-91.79178,school,node/359024305
+Noble Lower Elementary School,33.224484,-91.791406,school,node/359024306
+Hasting Alpha Alternative School,33.120897,-91.962495,school,node/359024423
+Crossett Fire Department,33.13144,-91.961127,fire_station,node/367129396
+Fountain Hill Fire Department,33.356378,-91.847797,fire_station,node/367129669
+Hamburg Fire Department,33.226588,-91.7957,fire_station,node/367129771
+North Crossett Fire Department Station 92,33.166322,-91.940683,fire_station,node/367130035
+Milo Fire Department,33.293904,-91.889786,fire_station,node/367130091
+Portland Fire Department,33.238665,-91.511769,fire_station,node/367130154
+Parkdale Fire Department,33.120864,-91.547043,fire_station,node/367130231
+Unity - Frost Prairie Fire Department Station 8,33.116913,-91.908311,fire_station,node/367130412
+West Crossett Fire Department Station 91,33.141046,-92.016429,fire_station,node/367130442
+Wilmot Volunteer Fire Department,33.059726,-91.572401,fire_station,node/367130804
+Paul Sullins Public Library,33.134289,-91.961243,library,node/367130954
+Montrose Fire Department Station 78,33.297573,-91.492717,fire_station,way/819080994
+School (w1135832554),33.207717,-91.795788,school,way/1135832554
+Daniel Intermediate School,33.1271,-91.963064,school,way/1389328685
+Hamburg Lower Elementary School,33.223849,-91.796307,school,way/1461752626

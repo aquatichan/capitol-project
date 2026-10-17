@@ -1,0 +1,61 @@
+name,lat,lon,type,osm
+Antioch School,34.222875,-86.693607,school,node/358905480
+Ebenezer School,34.278154,-86.931116,school,node/358910713
+Saint Bernard Preparatory School,34.174821,-86.814167,school,node/358927484
+West Elementary School,34.172877,-86.857224,school,node/358931426
+Baldwin School,34.188988,-86.91556,school,node/358945904
+Battleground School,34.304543,-86.999452,school,node/358945907
+Cold Springs High School,33.982047,-87.032226,school,node/358945941
+Cullman High School,34.188154,-86.842224,school,node/358945948
+Cullman Middle School,34.184806,-86.845234,school,node/358945951
+East Elementary School,34.173505,-86.835889,school,node/358945961
+Fairview High School,34.254818,-86.687774,school,node/358945975
+Garden City High School,34.012877,-86.750831,school,node/358946000
+Good Hope High School,34.103433,-86.879168,school,node/358946003
+Hanceville High School,34.061037,-86.761285,school,node/358946012
+Joppa Junior High School,34.297873,-86.558602,school,node/358946024
+Providence School,34.272875,-86.812501,school,node/358946112
+Sacred Heart School,34.177876,-86.841668,school,node/358946124
+Saint Pauls Lutheran School,34.17371,-86.838057,school,node/358946132
+Union Grove School,34.202318,-86.57138,school,node/358946149
+Vinemont High School,34.243987,-86.864725,school,node/358946158
+Welti Junior High School,34.141765,-86.740831,school,node/358946166
+West Point High School,34.237599,-86.96334,school,node/358946169
+New Prospect School,33.980935,-86.910834,school,node/358975995
+Sacred Heart College and Academy,34.184821,-86.826945,school,node/358977278
+Central School,34.224267,-87.009174,school,node/358992152
+Jones Chapel School,34.207601,-87.05362,school,node/358992167
+Logan Junior High School,34.142601,-87.006673,school,node/358992171
+Cullman County Vocational Center,34.222876,-86.856947,school,node/358995681
+Hanceville Fire Department #1,34.057704,-86.768924,fire_station,node/2649781511
+Walter Vol Fire Dept,34.120043,-86.676566,fire_station,node/3874909027
+Cold Springs Community Center/Senior Center,33.982109,-87.028904,community_centre,node/6710757785
+Holly Pond High School,34.176893,-86.619159,school,node/7807483119
+Holly Pond Elementary School,34.176454,-86.618819,school,node/7807483120
+Holly Pond Middle School,34.176237,-86.617383,school,node/7807483121
+Kelly Community Center,34.220812,-86.828622,community_centre,node/12351232682
+Providance Fire Dept,34.266142,-86.817754,fire_station,node/12351232684
+Hanceville Elementary School,34.060357,-86.762075,school,node/13943873596
+Hanceville Middle School,34.061194,-86.760308,school,node/13943873597
+Garden City Fire and Rescue,34.010416,-86.750399,fire_station,node/13950233964
+Cold Springs Volunteer Fire Department,33.981842,-87.034101,fire_station,node/13950244950
+Good Hope Fire Station 1,34.123026,-86.861538,fire_station,node/14255990413
+School (w601351907),34.186361,-86.842688,school,way/601351907
+School (w601352785),34.187111,-86.838577,school,way/601352785
+Cullman County Public Library,34.179059,-86.84207,library,way/608367263
+New Canaan Community Center,34.288219,-86.496171,community_centre,way/654481029
+Wallace State Community College Library,34.072879,-86.783564,library,way/897297875
+Brushy Pond Community Center/Senior Center,34.033821,-87.006019,community_centre,way/1015158201
+Wallace State Community College Workforce Training Center,34.132606,-86.840687,school,way/1294773742
+Cullman County Public - Hanceville Branch,34.059677,-86.767132,library,way/1347196637
+Cullman Public Libary - Garden City Branch Library,34.01029,-86.749928,library,way/1347196744
+Cullman County Public - Colony Branch Library,33.948295,-86.887034,library,way/1347196830
+Cullman Public Library - Guy Hunt Library - Holly Pond,34.179174,-86.622504,library,way/1347200007
+Cullman Fire Rescue Station 2,34.156612,-86.848801,fire_station,way/1378279401
+East Point Community Center,34.19017,-86.786903,community_centre,way/1378293348
+Baileyton Junior High School,34.261007,-86.61049,school,way/1455013668
+School (w1455018651),34.267693,-86.610867,school,way/1455018651
+School (w1455046829),34.177711,-86.618428,school,way/1455046829
+Holly Pond Fire Department,34.174744,-86.615005,fire_station,way/1455048650
+Baileyton Volunteer Fire Department,34.264195,-86.615035,fire_station,way/1455122296
+Baileyton Senior Center,34.264578,-86.615199,community_centre,way/1455122297

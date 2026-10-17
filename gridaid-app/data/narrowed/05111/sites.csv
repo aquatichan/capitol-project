@@ -1,0 +1,40 @@
+name,lat,lon,type,osm
+Red Oak School,35.596747,-90.393991,school,node/358979028
+Tulot School,35.600913,-90.484272,school,node/358982099
+Whitaker School,35.570636,-90.641776,school,node/358983355
+Wildwood School,35.468139,-90.518439,school,node/358983616
+East Poinsett County Elementary School,35.610358,-90.342044,school,node/358999736
+East Poinsett County High School,35.608583,-90.343076,school,node/358999740
+Normandy Elementary School,35.524804,-90.414824,school,node/358999880
+Weiner Elementary School,35.623943,-90.906017,school,node/358999908
+Weiner High School,35.622501,-90.905083,school,node/358999911
+Jernigan School,35.64369,-90.305377,school,node/359001379
+Central High School,35.675649,-90.660532,school,node/359011739
+Harrisburg High School,35.56362,-90.726577,school,node/359021114
+Harrisburg Elementary School,35.555109,-90.722258,school,node/359023779
+Harrisburg Middle School,35.563694,-90.725153,school,node/359023781
+Lepanto Elementary School,35.610395,-90.342218,school,node/359023784
+Central Volunteer Fire Department,35.66941,-90.659012,fire_station,node/367129305
+Fisher Volunteer Fire Department,35.491855,-90.973465,fire_station,node/367129446
+Weiner Fire Department Station 1,35.619918,-90.901143,fire_station,node/367130443
+Weiner Fire Department Station 2,35.618786,-90.898427,fire_station,node/367130444
+Poinsette County Library,35.563284,-90.71658,library,node/13544133038
+Library (w628829447),35.67185,-90.523034,library,way/628829447
+Marked Tree Volunteer Fire Station,35.531457,-90.422413,fire_station,way/1085716250
+Delta Vocational Technical School,35.526225,-90.440866,school,way/1085716928
+Marked Tree High School,35.527543,-90.421045,school,way/1085717004
+Trumann High School,35.673036,-90.532385,school,way/1297140101
+Trumann Elementary School,35.674879,-90.526005,school,way/1297143262
+Trumann Pre-K,35.674261,-90.524393,school,way/1297144289
+School (w1319964697),35.673551,-90.519527,school,way/1319964697
+School (w1426759634),35.483521,-90.357634,school,way/1426759634
+Goolsby Public Library,35.611469,-90.33081,library,way/1452914757
+School (w1461317696),35.524594,-90.414595,school,way/1461317696
+Marked Tree Senior Life Center,35.522473,-90.411899,community_centre,way/1461317703
+Tyronza Volunteer Fire Department,35.489003,-90.358306,fire_station,way/1461333302
+Truman Fire Department,35.689665,-90.52397,fire_station,way/1462906808
+Trumann Fire Station,35.670995,-90.518215,fire_station,way/1462906824
+Fire Station (w1476591014),35.563204,-90.715875,fire_station,way/1476591014
+School (w1476595721),35.562589,-90.725792,school,way/1476595721
+Fire Station (w1548627803),35.542384,-90.496656,fire_station,way/1548627803
+Lepanto Fire Department,35.607648,-90.330866,fire_station,way/1553243560

@@ -1,0 +1,99 @@
+name,lat,lon,type,osm
+Annunciation Academy,34.223154,-92.00764,school,node/358966713
+Barnes School,34.228431,-92.152923,school,node/358967151
+Broadmoor School,34.218709,-91.983195,school,node/358968239
+Dial Junior High School,34.189821,-92.015974,school,node/358970286
+Edmunds School,34.130099,-91.887913,school,node/358970535
+Eudora School,34.191487,-91.662072,school,node/358970666
+Hannaberry School,34.13871,-91.565958,school,node/358972044
+McClung School,34.478707,-91.866247,school,node/358975228
+Pastoria School,34.378152,-92.02653,school,node/358977820
+Sherrill School,34.371485,-91.945416,school,node/358980763
+Sunshine School,34.220931,-92.013474,school,node/358981520
+Vaster School,34.138432,-91.78152,school,node/358982633
+White Hall School,34.302875,-92.08681,school,node/358983406
+Belair Elementary School,34.215928,-91.970969,school,node/358990357
+Greenville Elementary School,34.219538,-92.028471,school,node/358990479
+Dollarway Middle School,34.238715,-92.02837,school,node/358990531
+Maranatha Christian School,34.24732,-92.068198,school,node/358990557
+Pinecrest Elementary School,34.240375,-92.064864,school,node/358990564
+James Metthews Elementary School,34.241209,-92.051808,school,node/358990571
+Southwood Elementary School,34.186208,-92.029861,school,node/358990585
+Pine Bluff Junior High School,34.187876,-92.005973,school,node/358990599
+Sulphur Springs School,34.179543,-92.124589,school,node/358990628
+Watson Chapel High School,34.188678,-92.0673,school,node/358990637
+Watson Chapel Junior High School,34.189862,-92.065938,school,node/358990639
+Redfield Junior High School,34.448535,-92.185115,school,node/358990646
+White Hall High School,34.284079,-92.110734,school,node/358990711
+Altheimer-Sherrill High School,34.32161,-91.837097,school,node/358990761
+Wabbaseka High School,34.356763,-91.795688,school,node/358990768
+Wabbaseka Elementary School,34.356485,-91.794577,school,node/358990771
+Barrett High School,34.383152,-91.945971,school,node/358996140
+Coleman High School,34.216209,-92.054308,school,node/359011785
+Martin High School,34.320097,-91.841801,school,node/359012481
+Saint Peters School,34.21408,-92.001689,school,node/359013425
+Walker High School,34.370097,-91.797355,school,node/359013940
+Walnut Grove School,34.331486,-91.789021,school,node/359014231
+Dollarway High School,34.240655,-92.056048,school,node/359021865
+Edgewood Elementary School,34.197038,-92.045141,school,node/359021877
+Forrest Park Elementary School,34.195658,-92.02153,school,node/359021892
+Gabe Meyer Elementary School,34.205654,-92.014862,school,node/359021897
+Indiana Street Elementary School,34.214205,-91.993492,school,node/359021917
+Lakeside Elementary School,34.214855,-92.008738,school,node/359021927
+Oak Park Elementary School,34.199971,-92.030996,school,node/359021960
+L L Owen Elementary School,34.19232,-92.064309,school,node/359021966
+Sam Taylor Elementary School,34.217038,-92.01708,school,node/359022012
+34th Avenue Fine and Performing Arts Magnet School,34.194897,-91.995021,school,node/359022015
+Townsend Park South Elementary School,34.240051,-92.028877,school,node/359022016
+Martin Elementary School,34.32116,-91.841466,school,node/359024200
+Broadmoor Elementary School,34.218399,-91.982975,school,node/359024203
+Jack Robey Junior High School,34.188778,-92.005273,school,node/359024205
+W T Cheney Elementary School,34.164568,-92.025737,school,node/359024207
+Coleman Elementary School,34.216064,-92.053163,school,node/359024208
+Hardin Elementary School,34.451569,-92.176221,school,node/359024209
+Gandy Elementary School,34.255603,-92.094445,school,node/359024212
+Altheimer Middle School,34.322,-91.841821,school,node/359024395
+Townsend Park North Elementary School,34.240476,-92.064937,school,node/359024452
+Thirty-fourth Avenue Fine and Performing Arts Magnet School,34.195,-91.995,school,node/359024454
+Pine Bluff Station 7,34.165192,-92.026201,fire_station,node/367128554
+Pine Bluff Station 6,34.245754,-92.062064,fire_station,node/367128555
+Highway 15 Volunteer Fire Department,34.086595,-92.005803,fire_station,node/367129694
+Hardin Fire Department,34.280014,-92.145486,fire_station,node/367129761
+Island Harbor Volunteer Fire Department,34.273991,-91.951804,fire_station,node/367129828
+Linwood Moscow Volunteer Fire Department,34.152793,-91.798055,fire_station,node/367130005
+Redfield Volunteer Fire Department Station 3,34.371646,-92.165962,fire_station,node/367130179
+Redfield Volunteer Fire Department Station 2,34.452023,-92.193168,fire_station,node/367130180
+Redfield Volunteer Fire Department Station 1,34.446989,-92.18431,fire_station,node/367130181
+Pine Bluff Fire Department,34.220442,-92.001613,fire_station,node/367130259
+Southeast Jefferson County Volunteer Fire Department,34.107804,-91.872323,fire_station,node/367130319
+Watson Chapel Volunteer Fire Department,34.1802,-92.121836,fire_station,node/367130470
+Tucker Volunteer Fire Station,34.44057,-91.953928,fire_station,node/367130508
+Wright - Pastoria Volunteer Fire Department,34.435586,-92.067662,fire_station,node/367130759
+White Hall Jr. High School,34.272521,-92.090972,school,node/2270716243
+Community Centre (n5885992774),34.237847,-92.039106,community_centre,node/5885992774
+Moody Elementary School,34.284405,-92.107243,school,node/12634148936
+Friendship Aspire Academy,34.189557,-92.022762,school,node/13682251902
+Donald W. Reynolds Community Services Center,34.227817,-92.005166,community_centre,way/485232752
+Matthews Elementary School,34.240289,-92.048958,school,way/671817734
+School (w672056883),34.238399,-92.029846,school,way/672056883
+School (w672056884),34.239877,-92.028803,school,way/672056884
+School (w672117978),34.216495,-92.053466,school,way/672117978
+School (w672122113),34.216341,-91.970432,school,way/672122113
+Fire Station (w672179643),34.152781,-91.798106,fire_station,way/672179643
+School (w672180494),34.321778,-91.838908,school,way/672180494
+School (w673118199),34.214699,-91.992072,school,way/673118199
+John B. Watson Library,34.242092,-92.022315,library,way/818591116
+Library (w1228946313),34.276172,-92.094787,library,way/1228946313
+White Hall Volunteer Fire Department,34.276138,-92.094083,fire_station,way/1229492991
+Library (w1229725146),34.209413,-92.025163,library,way/1229725146
+Taylor Elementary School,34.266375,-92.091541,school,way/1236961262
+Sherrill Volunteer Fire Department,34.384022,-91.950084,fire_station,way/1272375938
+School (w1288913712),34.195521,-92.021345,school,way/1288913712
+Pine Bluff Jefferson County Public Library,34.223431,-92.003728,library,way/1330411092
+School (w1485792975),34.222531,-92.004037,school,way/1485792975
+Fire Station (w1485798935),34.318611,-91.848363,fire_station,way/1485798935
+Wabbaseka Volunteer Fire Department,34.359894,-91.796301,fire_station,way/1485803460
+Humphery Community Center,34.417448,-91.707005,community_centre,way/1485806929
+School (w1562011886),34.231042,-92.015947,school,way/1562011886
+First Ward Elementary School,34.224346,-91.990534,school,way/1562552292
+Pine Bluff High School,34.220177,-92.009744,school,relation/21520187

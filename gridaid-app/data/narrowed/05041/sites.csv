@@ -1,0 +1,23 @@
+name,lat,lon,type,osm
+Wolff Project School,33.664276,-91.370397,school,node/358983848
+Reed Elementary School,33.880955,-91.499207,school,node/358995873
+Dumas Junior High School,33.884927,-91.487164,school,node/358995896
+Central Elementary School,33.888263,-91.489439,school,node/358995905
+Dumas High School,33.877159,-91.470442,school,node/358995913
+Delta Elementary School,33.778924,-91.281828,school,node/358995922
+McGehee Primary School,33.613999,-91.388452,school,node/358996009
+Desha Central High School,33.778995,-91.281505,school,node/359011896
+Delta High School,33.778719,-91.281786,school,node/359024239
+Dumas Fire Department,33.887568,-91.491215,fire_station,node/367129351
+Halley Volunteer Fire Department,33.535436,-91.324421,fire_station,node/367129769
+Kelso Rohwer Fire Department,33.796275,-91.271104,fire_station,node/367129914
+McGehee Fire Department Station 2,33.611783,-91.384781,fire_station,node/367130072
+Mitchellville Fire Department,33.905894,-91.498177,fire_station,node/367130093
+Watson Volunteer Fire Station 2,33.889933,-91.259037,fire_station,node/367130463
+Watson Volunteer Fire Department Station 1,33.895578,-91.255988,fire_station,node/367130464
+Dumas Public Library,33.885659,-91.485123,library,node/367130960
+School (w416109487),33.626989,-91.401094,school,way/416109487
+McGehee High School,33.646178,-91.385128,school,way/670754689
+Cornerstone Christian Academy,33.706909,-91.448441,school,way/729205755
+McGehee Public Library,33.628601,-91.399943,library,way/1443078853
+Arkansas City Fire Department,33.605207,-91.204211,fire_station,way/1522983665

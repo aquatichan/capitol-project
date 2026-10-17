@@ -1,0 +1,31 @@
+name,lat,lon,type,osm
+Saint Pauls High School,36.260622,-90.974844,school,node/358980197
+Oak Ridge Central Elementary School,36.362565,-91.20069,school,node/358989978
+Oak Ridge Central High School,36.362285,-91.20069,school,node/358989980
+Maynard Elementary School,36.419783,-90.899842,school,node/358990011
+Maynard High School,36.418123,-90.898581,school,node/358990017
+Pocahontas Middle School,36.280622,-90.984845,school,node/358990048
+Pocahontas High School,36.280808,-90.981952,school,node/358990050
+Biggers-Reyno High School,36.332311,-90.806178,school,node/358990062
+Black River Vocational Technical School,36.239764,-90.951323,school,node/358990079
+Dalton School,36.419786,-91.141796,school,node/359006292
+Surridge School,36.208123,-90.880396,school,node/359013714
+School Number 19,36.336176,-90.909565,school,node/359020836
+Biggers-Reyno Elementary School,36.363139,-90.752093,school,node/359023647
+Pocahontas Upper Elementary School,36.279368,-90.984544,school,node/359023649
+Pocahontas Junior High School,36.28046,-90.984712,school,node/359023650
+Dalton Volunteer Fire Department,36.419151,-91.141938,fire_station,node/367129422
+Maynard Volunteer Fire Department,36.424337,-90.900031,fire_station,node/367130081
+Pocahontas Volunteer Fire Station 1,36.262977,-90.969054,fire_station,node/367130146
+Pocahontas Volunteer Fire Station 3,36.27965,-90.988947,fire_station,node/367130158
+Reyno - Biggers Volunteer Fire Department,36.361314,-90.753373,fire_station,node/367130177
+Reyno - Biggers Volunteer Fire Department,36.331659,-90.808619,fire_station,node/367130191
+Warm Springs Volunteer Fire Station,36.48206,-91.050124,fire_station,node/367130456
+Water Valley Volunteer Fire Department,36.31064,-91.129613,fire_station,node/367130468
+Pocahontas Community Center,36.267379,-90.964645,community_centre,node/7098950665
+Pocahontas Elementary School,36.285899,-90.992104,school,node/12624542287
+O'Kean Volunteer Fire Station,36.166486,-90.814756,fire_station,way/675496747
+Ravenden Springs Volunteer Fire Department,36.318664,-91.226243,fire_station,way/1213720700
+School (w1419127906),36.361302,-91.201115,school,way/1419127906
+Alma Spikes Elementary School,36.271801,-90.981083,school,way/1452708711
+Randolph County Library,36.261808,-90.970859,library,way/1492860790

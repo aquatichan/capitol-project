@@ -1,0 +1,21 @@
+name,lat,lon,type,osm
+Anne Watson Elementary School,35.028122,-92.643199,school,node/358998610
+Perryville High School,35.008978,-92.794887,school,node/358998711
+Adona Volunteer Fire Department,35.037369,-92.89716,fire_station,node/367129016
+Bigelow Fire Station,35.000936,-92.62905,fire_station,node/367129181
+Cherry Hill Volunteer Fire Department,34.985424,-92.874142,fire_station,node/367129303
+Harris Brake Lake Fire Department Station 2,34.936987,-92.80739,fire_station,node/367129727
+Harris Brake Lake Fire Department Station 1,34.963648,-92.796452,fire_station,node/367129730
+Harris Brake Lake Fire Department Station 3,34.984043,-92.758054,fire_station,node/367129731
+Hollis Volunteer Fire Department,34.874454,-93.110398,fire_station,node/367129859
+Nimrod Volunteer Fire Station,34.959617,-93.063281,fire_station,node/367130008
+Perry Volunteer Fire Department,35.048214,-92.793916,fire_station,node/367130245
+Perryville Volunteer Fire Department Station,35.003656,-92.801967,fire_station,node/367130252
+Stony Point Volunteer Fire Station,35.077021,-92.603868,fire_station,node/367130488
+Williams Junction Volunteer Fire Department,34.880789,-92.768911,fire_station,node/367130808
+Max Milam Library,35.005041,-92.805456,library,way/585203779
+Casa Volunteer Fire Department,35.022251,-93.040729,fire_station,way/823498757
+Bigelow High School,34.998039,-92.632956,school,way/1135842065
+School (w1135842075),34.999486,-92.632727,school,way/1135842075
+Perryville Elementary School,35.008001,-92.806132,school,way/1137934604
+Houston Volunteer Fire Department,35.033767,-92.695042,fire_station,way/1245378267

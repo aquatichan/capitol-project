@@ -1,0 +1,71 @@
+name,lat,lon,type,osm
+Liberty School,35.081475,-92.305708,school,node/358974413
+Pine Street High School,35.097397,-92.433209,school,node/358978234
+Saint Joseph High School,35.086234,-92.437894,school,node/358979928
+Solomon Grove School,35.320914,-92.434323,school,node/358981099
+Greenbrier Middle School,35.231059,-92.389152,school,node/358993876
+Guy-Perkins Elementary School,35.323857,-92.323429,school,node/358993879
+Guy-Perkins High School,35.325637,-92.323309,school,node/358993881
+Mount Vernon Elementary School,35.226195,-92.130426,school,node/358993955
+Mount Vernon High School,35.226195,-92.129593,school,node/358993958
+Ida Burns Elementary School,35.095855,-92.454109,school,node/359023862
+Conway Junior High School,35.092329,-92.448958,school,node/359023865
+Preston and Florence Mattison Elementary School,35.088084,-92.398615,school,node/359023868
+Bob Courtway Middle School,35.095603,-92.411219,school,node/359023874
+Greenbrier Westside Elementary School,35.22428,-92.400569,school,node/359023875
+Greenbrier Junior High School,35.23093,-92.391299,school,node/359023877
+Mount Vernon-Enola High School,35.22613,-92.131718,school,node/359023879
+Vilonia Primary School,35.080657,-92.289054,school,node/359023881
+Greenbrier Eastside Elementary School,35.222968,-92.37945,school,node/359023886
+Beaverfork Volunteer Fire Department,35.1347,-92.401855,fire_station,node/367129149
+Cato Volunteer Fire Department,34.956599,-92.249315,fire_station,node/367129228
+Conway Fire Department Station 3,35.067418,-92.427955,fire_station,node/367129268
+Conway Fire Department Station 1,35.089802,-92.443094,fire_station,node/367129270
+Conway Fire Department Station 2,35.072839,-92.401314,fire_station,node/367129271
+Conway Fire Department Station 7,35.11342,-92.447077,fire_station,node/367129281
+Centerville Volunteer Fire Department,35.25314,-92.255669,fire_station,node/367129294
+East Cypress Fire Department,35.078386,-92.141732,fire_station,node/367129371
+Enola Volunteer Fire Department,35.195345,-92.203808,fire_station,node/367129570
+Greenbrier Volunteer Fire Department,35.234606,-92.387533,fire_station,node/367129655
+Greenbrier Volunteer Fire Station,35.173443,-92.399338,fire_station,node/367129656
+Highway 286 East Volunteer Fire Department,35.05874,-92.380815,fire_station,node/367129704
+Guy Volunteer Fire Department,35.324475,-92.336145,fire_station,node/367129753
+Holland Fire Department,35.182404,-92.280651,fire_station,node/367129862
+Liberty Volunteer Fire Department Station 2,35.104449,-92.356594,fire_station,node/367129997
+Liberty Volunteer Fire Department Station 1,35.078646,-92.317024,fire_station,node/367129998
+Mount Vernon Volunteer Fire Department,35.225365,-92.123715,fire_station,node/367130134
+Pine Village Volunteer Fire Department,34.986053,-92.434309,fire_station,node/367130262
+Saltillo Volunteer Fire Department,35.00258,-92.351251,fire_station,node/367130371
+Twin Groves Fire Station,35.322388,-92.433901,fire_station,node/367130519
+Wooster Volunteer Fire Department,35.205031,-92.457457,fire_station,node/367130758
+Frank Mitchell Intermediate School,35.068134,-92.235702,school,node/5981236952
+Missions Barber College,35.09323,-92.469943,school,node/13765006469
+Greenbrier High School,35.223298,-92.402916,school,way/261095613
+Torreyson Library,35.079951,-92.456852,library,way/462185012
+Mayflower Public Library,34.95949,-92.424966,library,way/553378332
+Mayflower Volunteer Fire Department,34.9597,-92.425023,fire_station,way/553378335
+Mayflower Elementary School,34.958109,-92.424443,school,way/553428747
+Conway High School,35.094416,-92.459143,school,way/585821786
+Community Centre (w628635306),35.320864,-92.434101,community_centre,way/628635306
+Olin C. Bailey Library,35.101488,-92.443178,library,way/672562555
+Mount Vernon - Enola Elementary School,35.197258,-92.199831,school,way/803479634
+Greenbrier Public Library,35.22285,-92.385362,library,way/848218020
+Springhill Elementary,35.181303,-92.410441,school,way/971895663
+Conway Public Library,35.103551,-92.450201,library,way/974130560
+Vilonia Municipal Fire Department,35.083835,-92.200324,fire_station,way/985214398
+Wescon Volunteer Fire Department,35.080935,-92.506908,fire_station,way/1293792430
+Conway Fire Department Station 5,35.083037,-92.506135,fire_station,way/1294576392
+Ruth Doyle Middle School,35.090704,-92.51865,school,way/1295797553
+Woodrow Cummins Elementary School,35.097525,-92.523257,school,way/1295797554
+Ellen Smith Elementary School,35.054941,-92.456966,school,way/1302166954
+Carolyn Lewis Elementary School,35.046877,-92.492642,school,way/1302166957
+Marguerite Vann Elementary School,35.076517,-92.470865,school,way/1302166961
+Carl Stuart Middle School,35.075922,-92.468854,school,way/1302166964
+Julia Lee Moore Elementary School,35.098074,-92.481184,school,way/1302166966
+Jim Stone Elementary School,35.084209,-92.500277,school,way/1302166968
+Sallie Cone Preschool,35.078208,-92.446714,school,way/1302166972
+City Event Center,35.223757,-92.385482,community_centre,way/1308460496
+Conway Fire Department Station 4,35.08715,-92.471233,fire_station,way/1331322270
+Story Library,35.08328,-92.445689,library,way/1336872660
+Hill Top Volunteer Fire Department,35.018102,-92.213434,fire_station,way/1412926103
+Theodore Jones Elementary School,35.102997,-92.414207,school,way/1514825140

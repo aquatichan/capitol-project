@@ -1,0 +1,167 @@
+name,lat,lon,type,osm
+Accident School,36.228132,-94.101035,school,node/358966527
+Hickory Creek School,36.228409,-94.033811,school,node/358972541
+Saint Vincent de Paul School,36.330852,-94.136466,school,node/358980294
+Sunshine School,36.315911,-94.300209,school,node/358981522
+Ozark Academy,36.238691,-94.499661,school,node/359009327
+Bentonville High School,36.350683,-94.195733,school,node/359010822
+Bonnie Grimes Elementary School,36.313581,-94.134899,school,node/359010833
+Decatur Elementary School,36.333968,-94.445775,school,node/359010886
+Decatur High School,36.333138,-94.445494,school,node/359010888
+Eastside Elementary School,36.312225,-94.108817,school,node/359010912
+Elmwood Junior High School,36.317719,-94.136418,school,node/359010914
+Gentry Elementary School,36.265635,-94.487716,school,node/359010950
+Gentry High School,36.257494,-94.495009,school,node/359010952
+Gentry Middle School,36.256126,-94.49482,school,node/359010953
+Grace F Hill Elementary School,36.342985,-94.142249,school,node/359010956
+Lowell Elementary School,36.258314,-94.134527,school,node/359011036
+Pea Ridge Elementary School,36.455353,-94.111845,school,node/359011215
+Pea Ridge Junior High School,36.45594,-94.123922,school,node/359011216
+R E Baker Elementary School,36.374868,-94.211678,school,node/359011234
+Siloam Springs Junior High School,36.175914,-94.542996,school,node/359011275
+Southside Elementary School,36.177303,-94.543274,school,node/359011281
+Sulphur Springs High School,36.477336,-94.461585,school,node/359011297
+Bayless School (Historic),36.48362,-93.949207,school,node/359011487
+Coal Gap School,36.365351,-93.924087,school,node/359011776
+Westside Elementary School,36.327714,-94.149934,school,node/359022032
+Southside East Elementary School,36.175897,-94.543383,school,node/359023600
+Southside West Elementary School,36.176832,-94.544147,school,node/359023603
+Reagan Elementary School,36.341134,-94.173839,school,node/359023604
+Frank Tillery Elementary School,36.332048,-94.123719,school,node/359023606
+Jones Elementary School,36.299664,-94.118972,school,node/359023609
+Pea Ridge Middle School,36.45454,-94.112668,school,node/359023617
+Benton County School of Art,36.334823,-94.158753,school,node/359023618
+Thomas Jefferson Elementary School,36.382513,-94.21662,school,node/359023620
+Old High Middle School,36.37352,-94.213777,school,node/359023624
+Sugar Creek Elementary School,36.383767,-94.216316,school,node/359023625
+Apple Glen Elementary School,36.375103,-94.189363,school,node/359023627
+Ardis Ann Middle School,36.371787,-94.250214,school,node/359023628
+Elm Tree Elementary School,36.372266,-94.249638,school,node/359023629
+Gentry Primary School,36.265419,-94.486505,school,node/359023632
+Grace Hill Charter Elementary School,36.343131,-94.142426,school,node/359023639
+Gentry Intermediate School,36.265639,-94.487716,school,node/359023641
+Central Park Elementary School,36.317783,-94.230139,school,node/359024420
+Mary Mae Jones Elementary School,36.355849,-94.204363,school,node/359024434
+Decatur Middle School,36.333972,-94.445825,school,node/359024455
+Elza R. Tucker Elementary School,36.271235,-94.13877,school,node/359024458
+Avoca Fire Station,36.399661,-94.070924,fire_station,node/367129053
+Bethel Heights Volunteer Fire Department,36.237518,-94.134614,fire_station,node/367129099
+Bentonville Fire Department Station 1,36.363642,-94.210842,fire_station,node/367129113
+Bentonville Fire Department Station 4,36.381243,-94.17797,fire_station,node/367129118
+Bentonville Fire Department Station 5,36.364566,-94.249177,fire_station,node/367129120
+Bentonville Fire Department Station 2,36.353869,-94.183927,fire_station,node/367129122
+Bella Vista Fire Department Station 1,36.475048,-94.248964,fire_station,node/367129129
+Beaver Lake Fire Department,36.323463,-94.025485,fire_station,node/367129139
+Beaver Lake Fire Department Prairie Creek,36.323471,-94.025585,fire_station,node/367129151
+Cave Springs Fire Station,36.263447,-94.231745,fire_station,node/367129223
+Centerton Fire Station,36.360564,-94.284503,fire_station,node/367129293
+Decatur Fire Station,36.336946,-94.459062,fire_station,node/367129327
+Gravette Fire Station,36.425145,-94.453632,fire_station,node/367129652
+Gentry Fire Department,36.263708,-94.490047,fire_station,node/367129675
+Gallatin Fire Station,36.20636,-94.427107,fire_station,node/367129685
+Highfill Fire Department,36.258553,-94.34996,fire_station,node/367129697
+Highway 94 East Fire Department,36.295839,-94.05326,fire_station,node/367129699
+Hickory Creek Volunteer Fire Department,36.244419,-94.03829,fire_station,node/367129716
+Lowell Fire Station 41,36.25708,-94.132678,fire_station,node/367129957
+Little Flock Fire Station,36.376925,-94.137357,fire_station,node/367130003
+Nebco Fire Department,36.4438,-93.982147,fire_station,node/367130022
+Northeast Benton County Fire Department Station 5,36.359814,-93.894518,fire_station,node/367130050
+Northeast Benton County Fire Department Station 2,36.41463,-93.936057,fire_station,node/367130052
+Northeast Benton County Fire Department Station 3,36.378136,-93.962254,fire_station,node/367130053
+Maysville Fire Station,36.404168,-94.60231,fire_station,node/367130082
+Piney Point Fire Department Station 1,36.27617,-93.98143,fire_station,node/367130136
+Piney Point Fire Department Station 3,36.266868,-93.947866,fire_station,node/367130138
+Piney Point Fire Department Station 2,36.273831,-93.912461,fire_station,node/367130139
+Rogers Fire Station 3,36.370103,-94.110808,fire_station,node/367130194
+Rogers Fire Department Station 1,36.33508,-94.115615,fire_station,node/367130196
+Rocky Branch Volunteer Fire Department Station,36.325328,-93.941685,fire_station,node/367130199
+Pea Ridge Fire Station,36.440774,-94.117011,fire_station,node/367130244
+Rogers Fire Station 6,36.280384,-94.17059,fire_station,node/367130355
+Rogers Fire Department / Emergency Medical Services,36.33499,-94.115637,fire_station,node/367130693
+Adult Wellness Center,36.337586,-94.147015,community_centre,node/1127233871
+Kirksey Middle School,36.297982,-94.119845,school,node/1127233874
+Shiloh Christian,36.312281,-94.187373,school,node/1127245678
+Decatur Northside Elementary,36.352531,-94.465934,school,node/1127255351
+Hunt Elementary School,36.216541,-94.158827,school,node/1127325946
+Bellview Elementary School,36.285384,-94.173656,school,node/1127339910
+Rogers New Tech High School,36.301729,-94.119206,school,node/1127348960
+Fire Station #2,36.311834,-94.141766,fire_station,node/1127350998
+Young Chefs Academy,36.317,-94.188722,school,node/1127359076
+Old Wire Elementary School,36.295888,-94.109678,school,node/1127364506
+Rogers Public Library,36.328096,-94.14306,library,node/1127394606
+Crossroads,36.335448,-94.116149,school,node/1127395831
+North Side Elementary School,36.342805,-94.121892,school,node/1127401644
+Rogers Activity Center,36.341411,-94.118862,community_centre,node/1127401666
+School (n1127426502),36.33305,-94.121932,school,node/1127426502
+Joe Mathias Elementary School,36.35005,-94.151217,school,node/1127440661
+Lingle Middle School,36.34252,-94.13312,school,node/1127461205
+Haas Hall Academy,36.331234,-94.117262,school,node/1127462192
+Rogers Fire Station 4,36.341235,-94.154132,fire_station,node/1127465112
+Rogers Fire Station 5,36.310024,-94.186003,fire_station,node/1127508100
+Oakdale Middel School,36.339009,-94.14223,school,node/1127592636
+Allen Elementary School,36.198846,-94.543452,school,node/1691988997
+Arkansas Arts Academy,36.331165,-94.121863,school,node/4229148187
+Pauline Whitaker Library,36.357498,-94.172767,library,node/4243240414
+Career Academy of Hair Design,36.355046,-94.146908,school,node/5291856460
+Community Centre (n5891544067),36.254194,-94.122613,community_centre,node/5891544067
+Goddard,36.287056,-94.164495,school,node/7115473940
+Fairview Elementary School,36.270082,-94.164689,school,node/7115473944
+Willowbrook Elementary,36.323034,-94.233397,school,node/8147151837
+Bright Field Middle School,36.323792,-94.234359,school,node/8147151838
+Fulbright Junior High School,36.320288,-94.235323,school,node/8147151839
+Osage Creek Elementary School,36.342066,-94.243054,school,node/8147506534
+Creekside Middle School,36.341692,-94.242331,school,node/8147506535
+Vaughn Elementary School,36.321755,-94.293086,school,node/10964164239
+Centerton Fire Department - Station 3,36.350387,-94.344031,fire_station,node/12288910684
+Ra-Ve Cultural Foundation,36.358111,-94.225048,community_centre,node/13099693664
+Garfield Elementary School,36.44854,-93.971588,school,way/183531290
+Bella Vista Fire Department Station 3,36.489682,-94.341471,fire_station,way/245557692
+Bella Vista Public Library,36.473514,-94.242864,library,way/246406845
+Riordan Hall,36.45406,-94.250142,community_centre,way/246561470
+Cooper Elementary School,36.437193,-94.23014,school,way/246572160
+Siloam Springs Fire Station 2,36.185097,-94.541763,fire_station,way/280222216
+Siloam Springs Fire Department Headquarters/ Station 1,36.195285,-94.526942,fire_station,way/280431456
+School (w378366757),36.415845,-94.446653,school,way/378366757
+Gravette High School,36.420933,-94.437666,school,way/378366758
+School (w378366759),36.417668,-94.44658,school,way/378366759
+School (w378366760),36.417583,-94.444295,school,way/378366760
+Bentonville Public Library,36.368003,-94.208262,library,way/424950621
+School (w468516271),36.381036,-94.29205,school,way/468516271
+Gentry Public Library,36.267358,-94.484627,library,way/484860380
+Siloam Springs Public Library,36.181799,-94.540455,library,way/506285729
+Rogers High School,36.299569,-94.149045,school,way/526557774
+Willis Shaw Elementary School,36.225275,-94.216697,school,way/532996324
+Farmer's Market,36.330039,-94.115925,community_centre,way/546636041
+School (w548010883),36.272794,-94.165586,school,way/548010883
+Rogers Heritage High School,36.322518,-94.123779,school,way/548197224
+School (w549389542),36.339484,-94.1423,school,way/549389542
+School (w549389545),36.343418,-94.142077,school,way/549389545
+Haas Hall Academy,36.344423,-94.198098,school,way/556370367
+Bella Vista Fire Department Station 2,36.459759,-94.205183,fire_station,way/557081284
+Hiwassee Fire Station,36.430995,-94.331519,fire_station,way/577878633
+School (w603189686),36.266696,-94.193587,school,way/603189686
+School (w625603926),36.374561,-94.190013,school,way/625603926
+School (w651787776),36.377079,-94.29782,school,way/651787776
+Bentonville West High School,36.376882,-94.297956,school,way/651787802
+Fire Station (w660570921),36.334807,-94.115652,fire_station,way/660570921
+School (w733419292),36.342627,-94.121853,school,way/733419292
+Bentonville Community Center,36.330905,-94.225586,community_centre,way/751973534
+School (w752848382),36.295164,-94.109797,school,way/752848382
+School (w762310332),36.335416,-94.116473,school,way/762310332
+Benton County XNA NWARA Fire and Rescue,36.279686,-94.302484,fire_station,way/804438809
+Sulphur Springs Fire Station,36.482588,-94.459408,fire_station,way/851364154
+Thaden Library,36.362549,-94.206437,library,way/1072902859
+Evening Star Elementary School,36.29075,-94.243899,school,way/1083885605
+Grimsley Junior High,36.346309,-94.301559,school,way/1122164030
+Siloam Springs Middle School,36.180037,-94.556813,school,way/1127361037
+Fire Station #9,36.219212,-94.212837,fire_station,way/1133931004
+Bentonville Fire Department Station 3,36.387668,-94.222669,fire_station,way/1151031581
+School (w1180523653),36.32128,-94.292896,school,way/1180523653
+Centerton Gmble Elementary School,36.381337,-94.291845,school,way/1182000956
+Centerton Fire Department - Station 1,36.357985,-94.293386,fire_station,way/1190848903
+Lowell Fire Station Number 2,36.261693,-94.171994,fire_station,way/1210813491
+Centerton Fire Department - Station 2,36.386914,-94.283466,fire_station,way/1290543829
+Fire Station (w1338164204),36.489963,-94.342834,fire_station,way/1338164204
+Walnut Farm Montessori School,36.385878,-94.163906,school,way/1452139230
+Iva Jane Peek Public Library,36.335919,-94.460945,library,relation/19175178
+Thaden School,36.362708,-94.205144,school,relation/20020747

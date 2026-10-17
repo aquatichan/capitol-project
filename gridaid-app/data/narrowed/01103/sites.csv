@@ -1,0 +1,72 @@
+name,lat,lon,type,osm
+Collins School,34.413707,-86.959729,school,node/358909092
+Lawrence Cove School,34.360454,-86.701986,school,node/358918132
+Leadus School,34.544259,-86.687774,school,node/358918148
+Somerville School,34.46926,-86.790834,school,node/358929262
+Woodland Mills School,34.481204,-86.689996,school,node/358931919
+Laceys Springs Elementary School,34.533147,-86.605548,school,node/358954127
+Park's Chapel Elementary School,34.558147,-86.578325,school,node/358954313
+Pleasant Hill School,34.553427,-87.082513,school,node/358954334
+Summit School,34.519538,-87.015843,school,node/358954425
+Union Hill School,34.47287,-86.622494,school,node/358954440
+F.E. Burleson Elementary School,34.457544,-86.922205,school,node/358954652
+Crestline Elementary School,34.439171,-86.947967,school,node/358954720
+Eva School,34.333534,-86.764332,school,node/358954777
+Falkville High School,34.366485,-86.913616,school,node/358954797
+Hartselle Jr. High School,34.435651,-86.932784,school,node/358954903
+Hartselle Intermediate School,34.431642,-86.930169,school,node/358954909
+Moulton Heights Junior High School,34.600648,-87.017232,school,node/358969085
+Ryan High School,34.34065,-86.610549,school,node/358969089
+Fairview School,34.448983,-86.843336,school,node/358974225
+Frances Nungester Elementary School,34.547641,-86.996912,school,node/358983090
+Grace Baptist Elementary School,34.598662,-86.971542,school,node/358983094
+Decatur City Head Start,34.575093,-86.990564,school,node/358984521
+Midway School,34.394541,-87.0564,school,node/358989339
+Neel Elementary School,34.467873,-87.060289,school,node/358992653
+Danville High School,34.41593,-87.094735,school,node/358992774
+Gravel Ridge School,34.489537,-86.738054,school,node/358994537
+Carver Elementary School,34.606759,-86.976119,school,node/358998614
+Cotaco High School,34.474537,-86.69833,school,node/358998663
+Moulton Heights Elementary School,34.592592,-87.025288,school,node/358998943
+Danville Volunteer Fire Station,34.414274,-87.089571,fire_station,node/4394025889
+Hartselle High School,34.455214,-86.922277,school,node/4629595024
+Barkley Bridge Elementary School,34.418879,-86.948746,school,node/4629632494
+Decatur Fire and Rescue 3,34.580699,-86.966613,fire_station,node/4712588413
+Fire Station (n10981814308),34.368197,-86.906853,fire_station,node/10981814308
+Community Action Partnership of North AL,34.575907,-86.98942,school,way/56284830
+Austinville Elementary School,34.568716,-86.99652,school,way/56286407
+Lakeview Elementary School,34.619978,-86.995895,school,way/77869954
+West Decatur Elementary School,34.597845,-86.997854,school,way/77870043
+Woodmead Elementary School,34.583432,-87.01512,school,way/77870048
+Oak Park Elementary School,34.588007,-86.965771,school,way/77875764
+Walter Jackson Elementary School,34.576826,-86.962891,school,way/77875774
+School (w77887436),34.547113,-86.99669,school,way/77887436
+Eastwood Elementary School,34.578254,-86.944848,school,way/77889339
+Gordon Bibb School,34.599296,-86.983947,school,way/449932660
+School (w472484790),34.586893,-86.993903,school,way/472484790
+Julian Harris Elementary,34.576672,-87.035056,school,way/473058560
+Priceville Elementary,34.534493,-86.879361,school,way/473433500
+Priceville Junior High School,34.527505,-86.899433,school,way/473436058
+Decatur and Wheeler Basin Regional Library,34.60595,-86.980831,library,way/474954474
+American Legion Post 15,34.558639,-86.975333,community_centre,way/475570270
+Benjamin Davis Elementary School,34.610858,-87.007176,school,way/480930118
+West Morgan Middle School,34.585682,-87.078445,school,way/564760122
+Albert P Brewer Area Vocational and High School,34.413166,-86.705453,school,way/564762000
+Priceville High School,34.549552,-86.897258,school,way/572190811
+William Bradford Huie Library,34.444255,-86.934812,library,way/668947344
+Austin Junior High School,34.579585,-87.008387,school,way/675676031
+Austin Middle School,34.559005,-87.019603,school,way/675685692
+Austin High School,34.565571,-87.050645,school,way/682143688
+Decatur High School,34.593364,-86.971339,school,way/682148507
+Fire Station (w970875097),34.444257,-86.93168,fire_station,way/970875097
+School (w988722760),34.419122,-86.948701,school,way/988722760
+School (w990063188),34.611386,-87.007066,school,way/990063188
+Eva School Campus,34.334522,-86.764479,school,way/1152570755
+School (w1172867512),34.596275,-87.065943,school,way/1172867512
+Hartselle Civic Center,34.430757,-86.936564,community_centre,way/1182618450
+Falkville Public Library,34.368663,-86.907631,library,way/1254162782
+Linda Duran Public Library,34.519409,-86.895596,library,way/1344406099
+Somerville Public Library,34.473614,-86.798879,library,way/1347196532
+Eva Public Library,34.331929,-86.758197,library,way/1347196544
+Decatur Fire Department - Station 5,34.560035,-87.017322,fire_station,way/1456552228
+Brindlee Mountain Volunteer Fire Department,34.470278,-86.568605,fire_station,way/1489341541

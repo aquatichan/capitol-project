@@ -1,0 +1,43 @@
+name,lat,lon,type,osm
+Carver School,33.409566,-93.078777,school,node/358968833
+Cleveland Avenue School,33.587058,-92.838496,school,node/358969543
+Lincoln High School,33.57567,-92.831552,school,node/358974424
+Nelson School,33.574281,-92.82044,school,node/358976539
+Bearden Elementary School,33.72735,-92.620682,school,node/358997053
+Bearden High School,33.730726,-92.621265,school,node/358997055
+Fairview Elementary School,33.531502,-92.842274,school,node/358997080
+Harmony Grove Elementary School,33.651733,-92.780371,school,node/358997106
+Harmony Grove High School,33.651696,-92.779611,school,node/358997109
+Stephens Elementary School,33.409567,-93.079137,school,node/358997143
+Stephens High School,33.413732,-93.071276,school,node/358997145
+Bearden Middle School,33.728573,-92.620683,school,node/359024264
+Chidester Elementary School,33.701798,-93.021611,school,node/359024267
+Bethesda Volunteer Fire Department,33.484821,-92.897946,fire_station,node/367129110
+Bearden Volunteer Fire Department,33.724675,-92.614933,fire_station,node/367129141
+Buena Vista Volunteer Fire Department Station 2,33.53265,-92.919614,fire_station,node/367129196
+Buena Vista Volunteer Fire Department Station 1,33.489735,-92.966233,fire_station,node/367129202
+Camden Fire Station 2,33.538094,-92.837102,fire_station,node/367129241
+Camden Fire Station 3,33.554075,-92.859639,fire_station,node/367129246
+Chidester Vounteer Fire Department,33.702757,-93.019498,fire_station,node/367129314
+East Camden Fire Department,33.611415,-92.738454,fire_station,node/367129358
+Elliott Volunteer Fire Department Station,33.457724,-92.82847,fire_station,node/367129579
+Frenchport Volunteer Fire Department,33.467357,-92.780111,fire_station,node/367129663
+Ouachita County Volunteer Fire Department Fire District 1 Amy Station 5,33.715545,-92.806804,fire_station,node/367130207
+Ouachita County Volunteer Fire Department Fire District 1 Harmony Grove Station 1,33.653348,-92.777431,fire_station,node/367130210
+Ouachita County Volunteer Fire Department Fire District 1 Pine Lake Station 3,33.64554,-92.817301,fire_station,node/367130211
+Ouachita County Volunteer Fire Department Fire District 1 Lakeside Station 2,33.578249,-92.738061,fire_station,node/367130212
+Standard Volunteer Fire Department,33.374337,-92.677912,fire_station,node/367130300
+Upper White Oak Volunteer Fire Department Station,33.668416,-93.090143,fire_station,node/367130411
+Two Bayou Volunteer Fire Department Substation,33.587072,-92.880529,fire_station,node/367130417
+Two Bayou Volunteer Fire Department,33.55859,-92.987842,fire_station,node/367130418
+Stephens Fire Station,33.411194,-93.071045,fire_station,node/367130489
+Stephens Fire Department,33.411201,-93.071052,fire_station,node/367130776
+Hubert Joseph Purifoy VFW Post 4554,33.612567,-92.760374,community_centre,node/13998719499
+Louann Volunteer Fire Department,33.392069,-92.792003,fire_station,way/533412447
+School (w879816940),33.649768,-92.78018,school,way/879816940
+Camden Fire Station 1,33.586715,-92.831579,fire_station,way/1326256640
+Ivory Primary School,33.591273,-92.849508,school,way/1327532510
+Camden High School,33.593552,-92.848196,school,way/1327532515
+Camden Whiteside School,33.596111,-92.848772,school,way/1327532516
+Camden Fairview Intermediate School,33.581058,-92.830786,school,way/1327532517
+Camden Fairview High School,33.551529,-92.853983,school,relation/7701035

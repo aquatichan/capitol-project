@@ -1,0 +1,28 @@
+name,lat,lon,type,osm
+Clear Creek School,36.198686,-93.787138,school,node/358969510
+Huntsville High School,36.08086,-93.734429,school,node/359001270
+Kingston Elementary School,36.054372,-93.516535,school,node/359001283
+Kingston High School,36.05404,-93.516353,school,node/359001288
+Watson Primary School,36.089267,-93.741178,school,node/359001311
+Watson Intermediate School,36.088237,-93.740802,school,node/359023666
+Boston - Pettigrew Volunteer Fire Department,35.827007,-93.621205,fire_station,node/367129161
+Bohannan Mount Volunteer Fire Department,36.073594,-93.830356,fire_station,node/367129165
+Clifty Volunteer Fire Station,36.234666,-93.795121,fire_station,node/367129318
+Forum / Alabam Fire Station 2,36.153562,-93.681208,fire_station,node/367129667
+Forum / Alabam Fire Station 1,36.177267,-93.715188,fire_station,node/367129668
+Japton Volunteer Fire Department,35.959465,-93.805894,fire_station,node/367129833
+Hindsville Volunteer Fire Department,36.146132,-93.859752,fire_station,node/367129851
+Kingston Fire Department,36.04979,-93.517596,fire_station,node/367129910
+Marble Fire Department,36.138376,-93.586528,fire_station,node/367129942
+Smyrna Volunteer Fire Department,36.137003,-93.779281,fire_station,node/367130270
+Wesley Volunteer Fire Department,36.027395,-93.919634,fire_station,node/367130441
+Witter - Aurora Volunteer Fire Department,35.949274,-93.690976,fire_station,node/367130794
+Loy Community Building,36.005292,-93.559177,community_centre,node/12335184430
+Huntsville Fire Station 1,36.086344,-93.740279,fire_station,way/384667166
+Huntsville Fire Department #2,36.111799,-93.712455,fire_station,way/687525370
+Madison County Library,36.09509,-93.737538,library,way/687738848
+Saint Paul Elementary School,35.822806,-93.764566,school,way/1421263178
+St. Paul Public Library,35.823902,-93.764347,library,way/1421263192
+Saint Paul Fire Department,35.822853,-93.767365,fire_station,way/1421263232
+Saint Paul High School,35.82328,-93.765459,school,way/1421263234
+Kingston Community Library,36.050453,-93.51788,library,way/1551569949

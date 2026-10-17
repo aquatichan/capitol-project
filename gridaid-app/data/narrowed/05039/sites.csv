@@ -1,0 +1,19 @@
+name,lat,lon,type,osm
+Fordyce High School,33.819418,-92.434035,school,node/358990951
+Fordyce Middle School,33.818661,-92.433439,school,node/358990956
+Sparkman Elementary School,33.915382,-92.853775,school,node/358990962
+Sparkman High School,33.9162,-92.851435,school,node/358990964
+Fordyce Elementary School,33.820514,-92.433288,school,node/359024460
+Carthage Volunteer Fire Department,34.075119,-92.554714,fire_station,node/367129232
+Cooterneck Volunteer Fire Station,33.872199,-92.409834,fire_station,node/367129280
+Holly Springs Fire Station,33.81743,-92.710624,fire_station,node/367129865
+Manning Rural Volunteer Fire Station,34.023436,-92.822583,fire_station,node/367129940
+Ouachita Area Fire Station,33.852873,-92.827925,fire_station,node/367130208
+Sparkman Fire Station - Old Station,33.915879,-92.84826,fire_station,node/367130306
+Sparkman Fire Department,33.91679,-92.847462,fire_station,node/367130311
+Temperance Hill Volunteer Fire Department,33.815305,-92.523478,fire_station,node/367130481
+Tulip - Princeton Fire Department,33.981985,-92.624358,fire_station,node/367130510
+Fordyce Senior Citizens Center,33.816406,-92.410148,community_centre,way/1158560451
+Dallas County Library,33.815631,-92.408394,library,way/1158561296
+Fordyce Fire Department,33.811922,-92.412908,fire_station,way/1463961176
+School (w1463970628),33.816552,-92.414335,school,way/1463970628

@@ -1,0 +1,79 @@
+name,lat,lon,type,osm
+Beulah Springs School,33.258182,-92.492926,school,node/358967784
+Crossroads School,33.202348,-92.37681,school,node/358970006
+Gill School,33.142627,-92.339864,school,node/358971351
+Golden School,33.087355,-92.545428,school,node/358971472
+Payne School,33.205402,-92.297085,school,node/358977861
+Smackover Training School,33.352624,-92.735716,school,node/358980985
+Union High School,33.233076,-92.539497,school,node/358982365
+Union School,33.15957,-92.268195,school,node/358982419
+Barton Junior High School,33.215093,-92.668198,school,node/358988292
+Carver School,33.218741,-92.667101,school,node/358988359
+Christian Fellowship School,33.198186,-92.664045,school,node/358988368
+East High School,33.206519,-92.647378,school,node/358988406
+Fairview School,33.200686,-92.655156,school,node/358988435
+Holy Redeemer Catholic Elementary School,33.210686,-92.676823,school,node/358988592
+Johnson Child Development Center,33.193742,-92.650989,school,node/358988609
+Junction City Elementary School,33.021542,-92.726105,school,node/358988616
+Junction City High School,33.019467,-92.728291,school,node/358988618
+Mont Holly Elementary School,33.299849,-92.945163,school,node/358988686
+Mount Holly High School,33.301617,-92.951336,school,node/358988689
+Norphlet Elementary School,33.310125,-92.660157,school,node/358988737
+Oil Belt Vocational Technical School,33.21874,-92.616265,school,node/358988747
+Rock Island School,33.188464,-92.671545,school,node/358988856
+Smackover Elementary School,33.365717,-92.729226,school,node/358988921
+Smackover High School,33.366144,-92.730762,school,node/358988923
+Smith Learning Center,33.195686,-92.648766,school,node/358988925
+South Arkansas Development Center for Children and Family,33.218741,-92.652378,school,node/358988933
+South Side School,33.198376,-92.660904,school,node/358988942
+Strong Elementary School,33.105407,-92.355976,school,node/358988956
+Strong High School,33.106368,-92.355632,school,node/358988959
+Union Elementary School,33.232633,-92.539711,school,node/358988989
+West High School,33.216519,-92.684879,school,node/358989061
+Fairview School,33.109578,-92.632932,school,node/359008030
+Norphlet High School,33.310681,-92.661066,school,node/359020546
+Hugh Goodwin Elementary School,33.221368,-92.661674,school,node/359022057
+Morning Star Elementary School,33.240962,-92.675157,school,node/359022058
+Murmil Heights Elementary School,33.192516,-92.641197,school,node/359022059
+Retta Brown Elementary School,33.21569,-92.642375,school,node/359022062
+Watson Elementary School,33.199297,-92.647378,school,node/359022063
+Yocum Math & Science Academy,33.209322,-92.674764,school,node/359022065
+Mount Holly Elementary School,33.301459,-92.949806,school,node/359024309
+West Woods Charter Elementary School,33.227877,-92.683673,school,node/359024310
+Rogers Middle School,33.206519,-92.647655,school,node/359024312
+El Dorado High School,33.216428,-92.685195,school,node/359024314
+Gardner-Strong Elementary School,33.102069,-92.355385,school,node/359024318
+Barton Middle School,33.21513,-92.66849,school,node/359024320
+Washington Middle School,33.206329,-92.647479,school,node/359024451
+Calion Volunteer Fire Department,33.330245,-92.542002,fire_station,node/367129248
+Cairo Volunteer Fire Station,33.225122,-92.869124,fire_station,node/367129257
+Faircrest Volunteer Fire Department,33.11644,-92.649823,fire_station,node/367129474
+El Dorado Fire Station 3,33.233326,-92.667506,fire_station,node/367129516
+El Dorado Fire Station 2,33.207359,-92.648507,fire_station,node/367129518
+El Dorado Fire Station 1,33.212881,-92.665829,fire_station,node/367129530
+Hibanks Volunteer Fire Department,33.111967,-92.562086,fire_station,node/367129715
+Lawson - Urbana Volunteer Fire Department,33.196864,-92.481223,fire_station,node/367129871
+Norphlet Volunteer Fire Station,33.316113,-92.662741,fire_station,node/367130032
+Old Union Volunteer Fire Department,33.229349,-92.541558,fire_station,node/367130057
+Mount Holly Volunteer Fire Department,33.305047,-92.958744,fire_station,node/367130111
+Parkers Chapel Volunteer Fire Department,33.17351,-92.71084,fire_station,node/367130232
+Smackover Volunteer Fire Station,33.364057,-92.723399,fire_station,node/367130272
+Three Creeks Volunteer Fire Department,33.056071,-92.906368,fire_station,node/367130528
+Samckover Branch Union County Library,33.364568,-92.725438,library,node/367130674
+Barton Library,33.222919,-92.658174,library,node/367130677
+School (n2723975197),33.233046,-92.539528,school,node/2723975197
+West Side Christian School,33.209597,-92.694199,school,node/9270941212
+El Dorado High School,33.199976,-92.693768,school,node/13151018994
+Parkers Chapel High School,33.16744,-92.721968,school,way/221956869
+Parkers Chapel Elementary School,33.168407,-92.721412,school,way/221956870
+Parkers Chapel School,33.169402,-92.72164,school,way/221956873
+Union bus turnaround spot,33.233511,-92.539398,school,way/266901422
+School (w522270147),33.105895,-92.355175,school,way/522270147
+Northwest Elementary School,33.228457,-92.675379,school,way/700664929
+Volunteer Fire Department,33.224103,-92.957323,fire_station,way/1004794313
+South Arkansas Community College Library,33.209583,-92.667643,library,way/1208532527
+School (w1525924356),33.019865,-92.728791,school,way/1525924356
+Huttig Community Center,33.037863,-92.187321,community_centre,way/1525938830
+Huttig Volunteer Fire Department,33.040634,-92.183541,fire_station,way/1525938831
+Strong Volunteer Fire Department,33.110628,-92.358361,fire_station,way/1525938841
+Strong Public Library,33.109816,-92.35863,library,way/1525938842

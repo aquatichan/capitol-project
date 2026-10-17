@@ -1,0 +1,27 @@
+name,lat,lon,type,osm
+Mount Olive School,34.070377,-91.898747,school,node/358976008
+Wells Bayou School,33.921213,-91.653739,school,node/358983180
+Wells Bayou School,33.926769,-91.612904,school,node/358983185
+Grady High School,34.072812,-91.70103,school,node/358989707
+Grady Elementary School,34.07593,-91.68907,school,node/358989709
+Star City High School,33.94216,-91.84007,school,node/358989751
+Star City Middle School,33.941098,-91.840581,school,node/358989753
+Gould Elementary School,33.987063,-91.566493,school,node/358989775
+Gould High School,33.985992,-91.557288,school,node/358989778
+Gould Middle School,33.986153,-91.556463,school,node/359024236
+Cornerville Fire Station,33.844707,-91.935491,fire_station,node/367129291
+Cummings Volunteer Fire Station,34.066946,-91.578427,fire_station,node/367129414
+Grady Fire Department,34.079419,-91.700556,fire_station,node/367129583
+Gould Fire Department Station,33.988487,-91.56371,fire_station,node/367129594
+Glendale Volunteer Fire Department,33.96057,-91.95899,fire_station,node/367129611
+Glendale Fire Department Substation,33.923087,-91.920297,fire_station,node/367129613
+Garnett Volunteer Fire Department,33.863895,-91.803967,fire_station,node/367129688
+Mountain Home Fire Department (Substation of Garnett Volunteer Fire Department),33.85859,-91.848005,fire_station,node/367130133
+Southeast Lincoln County Fire Department,33.864748,-91.657926,fire_station,node/367130317
+Wells Bayou Volunteer Fire Department,33.925131,-91.641695,fire_station,node/367130439
+Grady Public Library,34.0801,-91.700962,library,node/367130642
+School (w623159652),33.985963,-91.556831,school,way/623159652
+School (w670772447),33.986972,-91.567103,school,way/670772447
+Star City Library,33.939632,-91.842553,library,way/754885752
+Brown Elementary School,33.945519,-91.837765,school,way/873342567
+Star City Fire Station,33.944219,-91.844333,fire_station,way/1451775061

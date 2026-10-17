@@ -1,0 +1,4 @@
+name,lat,lon,type,osm
+Fire Station (n2058153261),59.231781,-135.447924,fire_station,node/2058153261
+Haines Borough Public Library,59.233825,-135.448176,library,way/195365261
+Haines School,59.234767,-135.453969,school,way/1093562751

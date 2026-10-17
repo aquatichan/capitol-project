@@ -1,0 +1,6 @@
+name,lat,lon,type,osm
+Petersburg Volunteer Fire & Rescue,56.809466,-132.943432,fire_station,node/1286891963
+Mitkof Middle School,56.814969,-132.955924,school,node/1286943501
+Stedman Elementary School,56.814188,-132.952845,school,node/1286943534
+Petersburg High School,56.814805,-132.954927,school,node/1286943566
+Petersburg Public Library,56.810644,-132.955597,library,way/556512049

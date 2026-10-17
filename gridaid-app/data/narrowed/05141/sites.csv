@@ -1,0 +1,45 @@
+name,lat,lon,type,osm
+Austin School,35.537024,-92.798777,school,node/358967000
+Southside Schools,35.430079,-92.3871,school,node/358981134
+Alread Elementary School,35.633316,-92.680499,school,node/359004957
+Alread High School,35.633601,-92.680709,school,node/359004962
+Clinton High School,35.587533,-92.459856,school,node/359004982
+Clinton Junior High School,35.587411,-92.458583,school,node/359004991
+Scotland Elementary School,35.523037,-92.613418,school,node/359005042
+Scotland High School,35.523557,-92.613427,school,node/359005044
+Shirley Elementary School,35.660556,-92.311134,school,node/359005047
+Shirley High School,35.659499,-92.313057,school,node/359005049
+South Side Elementary School,35.429719,-92.387522,school,node/359005051
+South Side High School,35.428633,-92.388392,school,node/359005057
+Archer Valley School,35.6998,-92.779055,school,node/359006637
+Oak Ridge School,35.635356,-92.780999,school,node/359009230
+Zion Hill School,35.658412,-92.811556,school,node/359010218
+Clinton Intermediate School,35.583307,-92.459456,school,node/359024467
+Fairfield Bay Volunteer Rescue,35.619721,-92.259953,fire_station,node/367128687
+Alread - Community Volunteer Fire Department Station 2,35.641563,-92.588971,fire_station,node/367129011
+Alread - Community Volunteer Fire Department Station 1,35.633685,-92.699241,fire_station,node/367129012
+Bee Branch Volunteer Fire Department,35.449047,-92.393662,fire_station,node/367129148
+Burnt Ridge Fire Department,35.58562,-92.410863,fire_station,node/367129192
+Burnt Ridge Fire Station Banner Mountain Sub Station,35.619694,-92.355956,fire_station,node/367129193
+Botkinburg Volunteer Fire Department,35.660674,-92.473357,fire_station,node/367129218
+Clinton Volunteer Fire Station 3,35.600493,-92.441973,fire_station,node/367129264
+Clinton Volunteer Fire Department 1,35.593618,-92.45917,fire_station,node/367129266
+Clinton Volunteer Fire Station 2,35.557844,-92.458226,fire_station,node/367129267
+Choctaw Fire Department,35.525919,-92.440857,fire_station,node/367129308
+Chimes Volunteer Fire Department,35.698622,-92.73818,fire_station,node/367129309
+Dennard Volunteer Fire Department,35.756512,-92.523802,fire_station,node/367129334
+Culpepper Fire Department,35.521884,-92.515797,fire_station,node/367129407
+Damascus Volunteer Fire Department,35.370714,-92.409542,fire_station,node/367129419
+Fairfield Bay Volunteer Fire Department Station 2,35.574705,-92.298811,fire_station,node/367129469
+Fairfield Bay Volunteer Fire Department Station 1,35.619751,-92.25997,fire_station,node/367129472
+Gravesville Volunteer Fire Station,35.393371,-92.351398,fire_station,node/367129651
+Highway 110 Volunteer Fire Department,35.743742,-92.442268,fire_station,node/367129691
+Morganton Volunteer Fire Department,35.472958,-92.339113,fire_station,node/367130112
+Shirley Fire Department Station 2,35.682503,-92.352973,fire_station,node/367130279
+Scotland Volunteer Fire Department,35.495421,-92.614494,fire_station,node/367130364
+Walnut Grove Volunteer Fire Department,35.566786,-92.540084,fire_station,node/367130404
+Chimes Volunteer Fire Department Station 1,35.698559,-92.7383,fire_station,node/367130765
+Fairfield Bay Library,35.610089,-92.262311,library,node/12962301449
+Van Buren County Public Library,35.5852,-92.446878,library,way/469484992
+Maintanance Department,35.586522,-92.46009,school,way/1322947470
+Fairfield Bay Community Center,35.610096,-92.265259,community_centre,way/1410612949

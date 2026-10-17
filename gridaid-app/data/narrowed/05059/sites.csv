@@ -1,0 +1,53 @@
+name,lat,lon,type,osm
+Fairview School,34.286761,-92.759055,school,node/358970760
+Gifford School,34.393704,-92.745444,school,node/358971318
+Ouachita High School,34.239372,-92.962893,school,node/358977680
+Bismarck Elementary School,34.315536,-93.174843,school,node/359000411
+Bismarck High School,34.315475,-93.177826,school,node/359000414
+Glen Rose Elementary School,34.454541,-92.730176,school,node/359000467
+Glen Rose High School,34.455034,-92.73045,school,node/359000470
+Magnet Cove High School,34.445372,-92.83573,school,node/359000488
+Malvern High School,34.355653,-92.805053,school,node/359000492
+Malvern Junior High School,34.349813,-92.796558,school,node/359000494
+Ouachita Elementary School,34.242264,-92.964082,school,node/359000508
+Ouachita Vocational Technical School,34.378704,-92.821836,school,node/359000510
+Wilson Elementary School,34.378083,-92.816544,school,node/359000544
+Magnet Cove Elementary SChool,34.44898,-92.837114,school,node/359021940
+Smith Elementary School,34.357037,-92.792112,school,node/359021998
+Bismarck Middle School,34.315458,-93.176287,school,node/359024194
+L. C. Smith Elementary School,34.357315,-92.792112,school,node/359024197
+Malvern Elementary School,34.357122,-92.792024,school,node/359024431
+Glen Rose Middle School,34.454802,-92.730297,school,node/359024465
+Bonnerdale Volunteer Fire Department,34.376019,-93.400111,fire_station,node/367129154
+Bismarck Fire Department Main,34.268345,-93.143353,fire_station,node/367129184
+Glen Rose Volunteer Fire Department Military Road Station,34.467538,-92.763936,fire_station,node/367129615
+Glen Rose Volunteer Fire Department Gifford Station,34.400428,-92.742005,fire_station,node/367129681
+Glen Rose Volunteer Fire Department Main,34.442128,-92.725327,fire_station,node/367129682
+Magnet Cove Volunteer Fire Department,34.446219,-92.831331,fire_station,node/367129952
+Lono - Rolla Volunteer Fire Department Substation 3,34.208335,-92.707587,fire_station,node/367129967
+Lono - Rolla Volunteer Fire Department Station 1,34.212281,-92.762136,fire_station,node/367129969
+Lono - Rolla Volunteer Fire Department Substation 2,34.266769,-92.688246,fire_station,node/367129970
+New De Roche Fire Department,34.327697,-93.05821,fire_station,node/367130019
+Morning Star Fire Department Station 3,34.459753,-92.895922,fire_station,node/367130116
+Point Cedar Volunteer Fire Station,34.330682,-93.300269,fire_station,node/367130159
+Rockport Mount Willow Volunteer Fire Department,34.387021,-92.826278,fire_station,node/367130186
+Ouachita Fire Department Donaldson Station,34.237551,-92.922843,fire_station,node/367130213
+Ouachita Fire Department,34.240058,-92.964458,fire_station,node/367130214
+Ouachita Fire Department Station 3 Substation,34.229335,-93.0052,fire_station,node/367130216
+Perla Volunteer Fire Department,34.364431,-92.78567,fire_station,node/367130246
+Southwest Rural Community Volunteer Fire Department Main,34.332379,-92.927325,fire_station,node/367130309
+Southwest Rural Community Volunteer Fire Department Substation,34.312534,-92.979288,fire_station,node/367130312
+South Malvern Volunteer Fire Department,34.329635,-92.835332,fire_station,node/367130328
+Malvern Fire Department,34.358611,-92.808889,fire_station,node/367130600
+North Malvern Fire Station,34.377037,-92.817113,fire_station,node/367130605
+South Malvern Volunteer Fire Substation,34.327035,-92.793049,fire_station,node/367131563
+Fire Station (w674548212),34.327699,-93.058287,fire_station,way/674548212
+School (w674548685),34.313859,-93.177603,school,way/674548685
+School (w1228038908),34.315094,-93.177017,school,way/1228038908
+football,34.314207,-93.178141,school,way/1228038916
+basketball court,34.314648,-93.176362,school,way/1228648289
+Donaldson School,34.232202,-92.915454,school,way/1475290864
+Malvern-Hot Springs County Library,34.364111,-92.811918,library,way/1475305956
+School (w1475308771),34.356697,-92.791928,school,way/1475308771
+Library (w1481456544),34.364258,-92.812152,library,way/1481456544
+Library (w1481456546),34.364688,-92.812358,library,way/1481456546

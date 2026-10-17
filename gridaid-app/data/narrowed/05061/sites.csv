@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Dierks Elementary School,34.121501,-94.018526,school,node/358993411
+Dierks High School,34.119059,-94.030277,school,node/358993413
+Mineral Springs Elementary School,33.879183,-93.919985,school,node/358993489
+Mineral Springs High School,33.879019,-93.918689,school,node/358993492
+Nashville Elementary School,33.955664,-93.848029,school,node/358993510
+Umpire Elementary School,34.277765,-94.052193,school,node/358993622
+Umpire High School,34.277557,-94.052644,school,node/358993625
+Brushy School,34.253164,-93.984916,school,node/359007408
+Henry School,34.288163,-93.943527,school,node/359008334
+Joann Walters Elementary School,34.121246,-94.018506,school,node/359024215
+Nashville Junior High School,33.954006,-93.854188,school,node/359024217
+Nashville High School,33.956088,-93.851742,school,node/359024218
+Nashville Primary School,33.95731,-93.856466,school,node/359024220
+Athens Fire Department,34.315571,-93.976681,fire_station,node/367129085
+Cottonshed Volunteer Fire Department,33.806134,-93.962707,fire_station,node/367129285
+Dierks Volunteer Fire Department,34.119493,-94.018607,fire_station,node/367129336
+County Line Rural Volunteer Fire Department,33.92469,-93.938248,fire_station,node/367129375
+Nashville Volunteer Fire Department,33.948536,-93.845977,fire_station,node/367130020
+Mineral Springs Volunteer Fire Station,33.87484,-93.922025,fire_station,node/367130090
+Umpire Volunteer Fire Department,34.249041,-94.04732,fire_station,node/367130414
+Tollette Volunteer Fire Department,33.815374,-93.899506,fire_station,node/367130544
+Toland Heights Fire Station,33.912028,-93.869199,fire_station,node/367130547
+Center Point Volunteer Fire Department,34.028221,-93.94828,fire_station,way/286682193
+Saratoga Volunteer Fire Department,33.751892,-93.904268,fire_station,way/1366477650

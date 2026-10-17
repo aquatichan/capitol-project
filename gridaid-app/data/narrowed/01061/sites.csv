@@ -1,0 +1,42 @@
+name,lat,lon,type,osm
+Malvern School,31.14601,-85.530489,school,node/358919325
+Oak Grove School,31.087678,-85.775489,school,node/358922575
+Fadette School,31.048513,-85.523545,school,node/358941305
+High Bluff School,31.144065,-85.744378,school,node/358941330
+Midway School,31.134621,-85.858547,school,node/358941357
+Mount Carmel School,31.17073,-86.000496,school,node/358941364
+Pleasant Home School,31.00768,-85.781322,school,node/358941388
+Post Oak School,31.062956,-85.767989,school,node/358941393
+Carver Junior High School,31.021847,-85.513267,school,node/358941395
+Red Bug School,31.190728,-86.083832,school,node/358941398
+Roney School,31.064901,-85.81549,school,node/358941405
+Weeks School,31.151563,-86.117166,school,node/358941441
+Coffee Springs High School,31.170809,-85.909384,school,node/358949850
+Hartford High School,31.1074,-85.7016,school,node/358949883
+Samson High School,31.117398,-86.049385,school,node/358949896
+Coffee Springs Elementary School,31.171113,-85.909137,school,node/358960546
+Geneva Rescue Squad,31.034019,-85.863735,fire_station,node/367931237
+Geneva Fire Department,31.032178,-85.867693,fire_station,node/367931239
+Hartford Rescue Squad,31.104483,-85.69489,fire_station,node/367931247
+Coffee Springs Volunteer Fire Department,31.166616,-85.910507,fire_station,node/367931285
+Malvern Community Volunteer Fire / Rescue,31.136304,-85.51993,fire_station,node/367931302
+Geneva County High School,31.095877,-85.70011,school,node/11199135814
+James A Mulkey Elementary School,31.050342,-85.886184,school,node/11283436074
+Geneva County Elementary School,31.094785,-85.700559,school,node/13007106109
+Fire Station (n13946502802),31.010621,-85.744119,fire_station,node/13946502802
+Samson Housing Authority Community Building,31.11434,-86.052076,community_centre,way/794894108
+Bellwood Volunteer Fire Department,31.17693,-85.789551,fire_station,way/894244870
+Samson City Fire Department,31.112275,-86.047096,fire_station,way/1023621261
+Slocomb Public Library,31.107071,-85.593956,library,way/1065026923
+Geneva High School,31.043639,-85.880926,school,way/1087754031
+Slocomb Fire Department,31.103095,-85.591603,fire_station,way/1203284994
+Geneva County Schools,31.094987,-85.699269,school,way/1208692646
+McGregor-McKinney Public Library,31.09843,-85.696516,library,way/1208692647
+John Hughes Community Center,31.098819,-85.696445,community_centre,way/1208692651
+Fire Station (w1240090830),31.097598,-85.696438,fire_station,way/1240090830
+Samson Public Library,31.116729,-86.045676,library,way/1344409588
+Geneva - Emma Knox Kenan Library,31.035304,-85.86516,library,way/1344409953
+Samson Elementary School,31.124788,-86.045061,school,way/1518991029
+Fadette Volunteer Fire / Rescue,31.045425,-85.536806,fire_station,way/1539509542
+Slocomb Elementary School,31.106377,-85.598497,school,relation/20752675
+Slocomb High School,31.100421,-85.600839,school,relation/20752685

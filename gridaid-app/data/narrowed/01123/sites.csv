@@ -1,0 +1,28 @@
+name,lat,lon,type,osm
+Tallapoosa Academy,32.817905,-85.719123,school,node/358929850
+Zana Training School,33.028733,-85.721069,school,node/358932056
+Alexander City Christian Academy,32.945123,-85.937464,school,node/358950580
+Dadeville Elementary School,32.823738,-85.762458,school,node/358950664
+Daviston High School,33.050235,-85.645756,school,node/358950686
+Hackneyville High School,33.060953,-85.93302,school,node/358950763
+New Site High School,33.03401,-85.77996,school,node/358950838
+Lyman Ward Military Academy,32.802906,-85.660511,school,node/358974941
+Smith School,32.522636,-85.810512,school,node/358987105
+Edward Bell High School,32.798739,-85.650788,school,node/358988038
+Union Academy,32.695964,-85.854959,school,node/359001682
+Eagle Creek Volunteer Fire Department Station 1,32.914365,-85.7523,fire_station,node/2761432891
+Eagle Creek Volunteer Fire Department Station 2,32.944291,-85.748644,fire_station,node/2761439250
+Jacksons' Gap Volunteer Fire Department,32.886847,-85.811944,fire_station,node/13946541958
+Daviston Volunteer Fire Department,33.052666,-85.640352,fire_station,node/13946555541
+Reeltown High School,32.603305,-85.802547,school,way/669565472
+Reeltown Elementary School,32.602577,-85.805186,school,way/669566923
+Alexander City Middle School,32.945188,-85.948935,school,way/780267877
+Russell High School,32.937953,-85.950395,school,way/780271221
+Jim Pearson Elementary School,32.93143,-85.929844,school,way/780595617
+William L Radney Elementary School,32.929537,-85.97284,school,way/780598040
+Nathaniel Stephens Elementary School,32.955711,-85.948893,school,way/780600082
+Dadeville High School,32.829308,-85.755116,school,way/1163097113
+Tallassee Community Public Library,32.534315,-85.884392,library,way/1347339416
+Adelia M. Russell Library,32.941194,-85.954245,library,way/1347350320
+Dadeville Public Library,32.831508,-85.765719,library,way/1347350464
+Horseshoe Bend Regional Library,32.831645,-85.765726,library,way/1347350465

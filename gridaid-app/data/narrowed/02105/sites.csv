@@ -1,0 +1,9 @@
+name,lat,lon,type,osm
+Dermott O'Toole Memorial Library,57.78097,-135.228369,library,node/11321159322
+Klukwan Community/School Library,59.400455,-135.895748,library,node/13012395457
+Hoonah School,58.108977,-135.441715,school,way/243845478
+Tenakee Springs Independent Learning Center,57.780856,-135.223307,school,way/689389562
+Tenakee Volunteer Fire Department,57.779948,-135.220806,fire_station,way/979954219
+Gustavus Volunteer Fire Department,58.41282,-135.74023,fire_station,way/1220063219
+Gustavus Community Center,58.411954,-135.732734,community_centre,way/1220063240
+Gustavus Public Library,58.418524,-135.711913,library,way/1292914517

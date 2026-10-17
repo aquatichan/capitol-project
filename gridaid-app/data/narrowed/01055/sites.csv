@@ -1,0 +1,88 @@
+name,lat,lon,type,osm
+Attalla School,34.026208,-86.085252,school,node/358905577
+Blessed Martin De Porres School,34.025986,-86.007704,school,node/358906667
+Carver High School,34.023243,-86.014246,school,node/358907901
+Gadsden Middle School,34.006102,-86.011373,school,node/358910173
+Dwight Elementary School,34.031208,-86.043862,school,node/358910524
+Gaston High School,34.068708,-85.926359,school,node/358912514
+Highland School,34.081473,-85.989362,school,node/358915611
+Norris High School,34.026764,-86.081085,school,node/358922397
+Oak Park School,34.017042,-86.042751,school,node/358922612
+Pilgrims Rest School,33.915654,-86.01386,school,node/358923857
+South Gadsden School,34.010097,-86.026639,school,node/358929289
+Vocational School,34.025097,-85.996361,school,node/358931010
+J L Wagner Elementary School,34.004264,-85.980527,school,node/358931025
+Attalla Elementary School,34.026208,-86.085252,school,node/358956254
+Coosa Christian Academy,34.058708,-85.92497,school,node/358956474
+Coosa Christian School,33.992317,-86.051372,school,node/358956480
+Attalla Elementary School,33.998851,-86.126201,school,node/358956513
+Donehoo Elementary School,33.998709,-85.983305,school,node/358956542
+East Gadsden School,33.988709,-85.967749,school,node/358956614
+Eura Brown Elementary School,33.973987,-86.023861,school,node/358956729
+Gadsden State Technical Institute,34.025097,-85.996361,school,node/358957013
+Gallant Elementary School,33.998986,-86.247478,school,node/358957028
+Glencoe Elementary School,33.958185,-85.932336,school,node/358957060
+Glencoe High School,33.967645,-85.935511,school,node/358957076
+Glencoe Middle School,33.968987,-85.935248,school,node/358957083
+Hokes Bluff Elementary School,33.996292,-85.868874,school,node/358957153
+Hokes Bluff Middle School,33.995268,-85.87025,school,node/358957170
+Keener Elementary School,34.161206,-85.950527,school,node/358957251
+Oscar W Adams Elementary School,34.001209,-85.961637,school,node/358957436
+Thompson Elementary School,34.038986,-85.969693,school,node/358957777
+West End High School,34.063708,-86.30248,school,node/358957897
+Whitesboro Elementary School,34.164817,-86.068585,school,node/358957924
+Gadsden Center University of Alabama,34.011418,-85.999214,school,node/358969152
+Carlisle Elementary School,34.118151,-86.118586,school,node/358998606
+Ivalee Elementary School,34.03593,-86.125253,school,node/358998863
+Stowers Hill Elementary School,34.013431,-86.103863,school,node/358999148
+Turkeytown Elementary School,34.083708,-85.871636,school,node/358999176
+Walnut Park Elementary School,34.010653,-86.056084,school,node/358999210
+Cave Spring Community Center,34.080652,-86.063307,community_centre,node/367932015
+Gadsden Fire Department,33.971811,-86.078481,fire_station,node/1839436941
+Carver High School (Historical Museum),34.023243,-86.014246,school,node/2432041137
+Etowah Middle School,33.995062,-86.113678,school,node/7292348998
+Fire Station (n11002570744),33.997075,-86.048271,fire_station,node/11002570744
+Etowah MIddle School,34.017001,-86.098293,school,node/12309711792
+City of Gadsden Fire Department,34.010284,-86.004458,fire_station,node/13120534662
+Elliott Community Center,34.023442,-86.049733,school,way/79309969
+Emma Sansom Middle School,34.023025,-86.036912,school,way/79309995
+General Forrest Middle School (Historical),34.023886,-86.033414,school,way/79310005
+Gadsden High School (Historical),34.012681,-86.022294,school,way/79310032
+George W. Floyd Elementary School,34.02648,-86.03322,school,way/79367809
+School (w79410122),33.998433,-86.126158,school,way/79410122
+School (w79410311),34.026474,-86.084943,school,way/79410311
+Gadsden City High School,33.994476,-86.037378,school,way/112648202
+Sardis High School,34.176515,-86.122251,school,way/244377933
+Cory Middle School (historical),34.000547,-85.970874,school,way/244648839
+Litchfield Middle School,34.001075,-85.965368,school,way/244648841
+School (w244648842),33.995782,-85.869489,school,way/244648842
+Westbrook Christian School,33.96564,-86.06256,school,way/262231632
+John S. Jones Elementary School,33.944637,-86.059699,school,way/323819550
+Rainbow Middle School,33.947921,-86.063263,school,way/323819554
+Southside High School,33.920054,-86.033646,school,way/560592782
+Southside Elementary School,33.916321,-86.020058,school,way/560592790
+Etowah High School,33.995446,-86.111122,school,way/560593404
+R.A. Mitchell Elementary School,34.039299,-86.019752,school,way/591912123
+Rufus Ford Library,33.991906,-85.86655,library,way/603196310
+Duck Springs Elementary School,34.143489,-86.000047,school,way/675577067
+School (w780993814),33.996129,-86.111907,school,way/780993814
+Etowah County Vocational School,33.996236,-86.104822,school,way/965330898
+School (w985221115),34.000185,-85.967176,school,way/985221115
+School (w995035252),34.005064,-85.988078,school,way/995035252
+Sardis Middle School,34.176378,-86.118357,school,way/1062216178
+School (w1067203288),33.996328,-86.10546,school,way/1067203288
+Library (w1115005510),33.958141,-85.932618,library,way/1115005510
+Striplin Elementary School,34.007873,-86.010251,school,way/1184569716
+Glencoe Public Library,33.955795,-85.934412,library,way/1206872222
+Hokes Bluff High School,34.013407,-85.868427,school,way/1328293803
+West End Elementary School,34.031652,-86.264093,school,way/1331463254
+Westside Public Library,34.054597,-86.307562,library,way/1346452149
+Sardis City Public Library,34.174512,-86.122433,library,way/1347199414
+Southside Public Library,33.922785,-86.022957,library,way/1347200361
+Rainbow City Public Library,33.949877,-86.046629,library,way/1347200383
+Hoyt Warsham Alabama City Branch Library,34.022338,-86.045669,library,way/1347200433
+Gadsden - Etowah County Public Library,34.012645,-86.009259,library,way/1347200435
+Gadsden - Etowah County Public - East Gadsden Branch,34.002234,-85.985027,library,way/1347200446
+Attalla - Etowah County Public Library,34.024319,-86.087742,library,way/1347343643
+Fire Station (w1427239960),34.010262,-86.004422,fire_station,way/1427239960
+Saint James Catholic School,34.023701,-85.988866,school,relation/2594631

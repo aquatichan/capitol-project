@@ -1,0 +1,40 @@
+name,lat,lon,type,osm
+Carroll High School,31.46128,-85.625215,school,node/358907853
+Flowers School,31.45628,-85.633549,school,node/358911518
+Skipperville School,31.566278,-85.544661,school,node/358929024
+D.A. Smith Middle School,31.453224,-85.652993,school,node/358929158
+Dale County Christian School,31.422863,-85.57308,school,node/358943858
+Echo Junior High School,31.479336,-85.462992,school,node/358943884
+Long School,31.559056,-85.550494,school,node/358974893
+Ariton High School,31.602388,-85.722441,school,node/359001837
+Harry N Mixon Elementary School,31.434891,-85.646326,school,node/359001878
+Joseph W Lisenby Elementary School,31.471002,-85.626882,school,node/359001892
+M Thompkins Early Childhood Center,31.46378,-85.65966,school,node/359001909
+Newton Elementary School,31.330172,-85.595769,school,node/359001952
+Daleville Volunteer Fire Department,31.300595,-85.716914,fire_station,node/367931174
+Napier Field Volunteer Fire Department,31.314467,-85.451129,fire_station,node/367931238
+Midland City Volunteer Fire Department,31.31823,-85.494645,fire_station,node/367931276
+Level Plains Volunteer Fire Department,31.302143,-85.768033,fire_station,node/367931284
+Ozark Dale County Library,31.462682,-85.639511,library,node/14088026387
+Ozark Fire Department Dowling Station,31.463092,-85.640873,fire_station,node/14088492204
+Clopton Community Center,31.610019,-85.42832,community_centre,way/99255736
+Dale County High School,31.320712,-85.50515,school,way/422900769
+Midland City Elementary School,31.319422,-85.498116,school,way/422900774
+Pinckard Volunteer Fire Department,31.310781,-85.54163,fire_station,way/555844119
+Midland City Senior Center,31.317834,-85.494613,community_centre,way/556036699
+South Dale Middle School,31.316266,-85.547003,school,way/556263722
+Dothan Regional Airport Fire Department,31.319247,-85.452581,fire_station,way/955906800
+Windham Elementary School,31.311227,-85.715763,school,way/984454565
+School (w986484443),31.602128,-85.721645,school,way/986484443
+Ellis D. Parker Elementary School,31.338917,-85.719341,school,way/1020694383
+Vivian B. Adams School,31.449829,-85.584471,school,way/1022410194
+Center Library,31.331736,-85.712305,library,way/1117025358
+Technical Library,31.333881,-85.711973,library,way/1133613069
+Ozark Fire Department Station 3,31.439344,-85.645834,fire_station,way/1180554291
+Midland City - Mary Berry Brown Memorial Library,31.317752,-85.49493,library,way/1344408008
+Newton Public Library,31.331046,-85.595889,library,way/1344408156
+Daleville Public Library,31.315652,-85.706382,library,way/1344408673
+Billy Adkins Community Center,31.317733,-85.708347,community_centre,way/1344408687
+Ozark Fire Department Chancey Station,31.412595,-85.680117,fire_station,way/1548953067
+Mary Berry Brown Memorial Library,31.317756,-85.494917,library,relation/7937550
+Daleville High School,31.315962,-85.709009,school,relation/21018896

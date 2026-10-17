@@ -1,0 +1,33 @@
+name,lat,lon,type,osm
+Acorn School,34.637605,-94.207988,school,node/358994526
+Mena High School,34.58025,-94.221078,school,node/358994609
+Van-Cove Elementary School,34.383442,-94.366878,school,node/358994656
+Van-Cove High School,34.432329,-94.416047,school,node/358994658
+Wickes Elementary School,34.299037,-94.335939,school,node/358994673
+Wickes High School,34.29741,-94.335301,school,node/358994676
+Eureka School,34.653993,-94.057983,school,node/359011951
+Saint Joseph School,34.586495,-94.243544,school,node/359013370
+School Number 47,34.245111,-94.339931,school,node/359020838
+Louise Durham Elementary School,34.588816,-94.250456,school,node/359021870
+Acorn Elementary School,34.63762,-94.207675,school,node/359024167
+Acorn High School,34.637088,-94.207127,school,node/359024171
+Van Cove Elementary School,34.380637,-94.369334,school,node/359024174
+Wickes Middle School,34.298424,-94.335997,school,node/359024176
+Acorn Fire Station District 6,34.642201,-94.204191,fire_station,node/367129019
+Board Camp Station Fire District 8,34.537175,-94.093685,fire_station,node/367129162
+Big Fork Fire Department District 9,34.477145,-93.964218,fire_station,node/367129178
+Cove Volunteer Fire Station 3,34.445826,-94.407298,fire_station,node/367129387
+Grannis Fire Station 1,34.240081,-94.334111,fire_station,node/367129603
+Hatfield Station Fire District 4,34.487256,-94.377816,fire_station,node/367129711
+Ink Station Fire District 12,34.589571,-94.123902,fire_station,node/367129818
+Mena Fire Department,34.584013,-94.238021,fire_station,node/367130097
+Potter Station Fire District 13,34.55053,-94.302804,fire_station,node/367130155
+Shady Station Fire District 10,34.450008,-94.122467,fire_station,node/367130287
+Shady Grove Fire And Rescue,34.593181,-94.292662,fire_station,node/367130290
+School (n13920823051),34.382975,-94.386787,school,node/13920823051
+School (w628820741),34.298398,-94.337091,school,way/628820741
+Hatfield Library,34.483422,-94.375843,library,way/1155336483
+Vandervoort Fire Station District 14,34.381607,-94.36491,fire_station,way/1195241460
+Polk County Library,34.584598,-94.240636,library,way/1456029583
+Holly Harshman Elementary School,34.582481,-94.219668,school,way/1460921361
+Wickes Fire Department Station 2,34.303175,-94.336672,fire_station,way/1527598008

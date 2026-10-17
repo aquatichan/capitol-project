@@ -1,0 +1,62 @@
+name,lat,lon,type,osm
+Homer High School,59.651731,-151.527973,school,node/466509252
+School (n1742395645),59.812653,-151.082628,school,node/1742395645
+Kachemak Selo School,59.794635,-151.073938,school,node/2092941603
+Voznesenka School,59.794244,-151.09655,school,node/2092941643
+Kachemak City Volunteer Fire Department,59.666958,-151.452912,fire_station,node/2110763750
+Anchor Point Fire Station,59.780015,-151.836646,fire_station,node/2113579756
+Port Graham School,59.351525,-151.832217,school,node/2113988715
+Bear Creek Volunteer Fire Department,60.169022,-149.402506,fire_station,node/4358446800
+Moose Pass School,60.487682,-149.368215,school,node/4359195213
+Seward Senior Center,60.104432,-149.441714,community_centre,node/4360920347
+Grace Lutheran School,60.50902,-151.161765,school,node/4464177690
+Fire Station (n6654377097),60.490621,-149.370578,fire_station,node/6654377097
+City of Kenai Fire Department,60.55958,-151.249695,fire_station,node/9883605704
+West Homer Elementary & Big Fireweed Academy,59.644159,-151.567973,school,node/10164067817
+Susan B. English School,59.442225,-151.713521,school,node/12634208042
+Homer Public Library,59.643851,-151.531033,library,way/160436334
+Homer Middle School,59.643196,-151.555204,school,way/160519119
+McNeil Canyon Elementary School,59.745959,-151.25787,school,way/193838454
+Kachemak Emergency Services,59.74396,-151.260861,fire_station,way/193838456
+West Homer Elementary,59.643627,-151.567859,school,way/203195443
+Homer Education and Recreation Complex,59.642575,-151.553019,community_centre,way/203215850
+Homer Volunteer Fire Department,59.648581,-151.529401,fire_station,way/203225615
+Homer Flex School,59.649784,-151.519146,school,way/212666172
+Homer Head Start,59.638808,-151.510727,school,way/217452936
+Fireweed Academy,59.649308,-151.523677,school,way/217493813
+"Central Emergency Services, Kasilof Station",60.306694,-151.269633,fire_station,way/221548314
+Nikolaevsk Station,59.809094,-151.622295,fire_station,way/223092492
+Alaska Bible Institute,59.664634,-151.508992,school,way/350190517
+Skyview Middle School,60.458109,-151.100595,school,way/351056330
+Ninilchik Community Library,60.041769,-151.674154,library,way/353643913
+"Central Emergency Services, Sterling Station",60.53718,-150.800201,fire_station,way/355399823
+Sterling Elementary School,60.537241,-150.797126,school,way/355399825
+Anchor Point Senior Center,59.780336,-151.844706,community_centre,way/355520190
+Hope School,60.917889,-149.622036,school,way/363617232
+Anchor Point Public Library,59.780172,-151.832024,library,way/425871400
+K-Beach Fire Station,60.508517,-151.276361,fire_station,way/431449585
+Cooper Landing Community Library,60.493579,-149.823862,library,way/459549077
+Cooper Landing Community Center,60.493406,-149.823411,community_centre,way/459549078
+Nikolaevsk Elementary & High School,59.810976,-151.613076,school,way/492078539
+Soldotna Public Library,60.492272,-151.073363,library,way/508271615
+Moose Pass Public Library,60.487724,-149.370056,library,way/528945442
+School (w573756553),60.735255,-151.295865,school,way/573756553
+Rescue 21,59.603271,-151.424153,fire_station,way/593196726
+Central Emergency Services,60.483005,-151.072316,fire_station,way/641778238
+Lowell Point Volunteer Fire Department,60.072643,-149.445453,fire_station,way/728768376
+Seward Community Library & Museum,60.102572,-149.437679,library,way/790915045
+Kalifornsky Beach Elementary School,60.486232,-151.141692,school,way/805997366
+Seldovia Public Library,59.438763,-151.714069,library,way/859885782
+Nikiski Fire Station #2,60.728821,-151.303234,fire_station,way/859887467
+Hope Community Library,60.918518,-149.641633,library,way/1003563184
+Paul Banks Elementary,59.652583,-151.506345,school,way/1092748657
+School (w1093003284),60.133058,-149.436123,school,way/1093003284
+School (w1093003285),60.13196,-149.442366,school,way/1093003285
+School (w1093003286),60.129565,-149.443719,school,way/1093003286
+School (w1093124900),60.491412,-151.098037,school,way/1093124900
+Soldotna Elementary School,60.491596,-151.06936,school,way/1093124921
+School (w1093149754),60.457333,-151.10168,school,way/1093149754
+School (w1093154592),60.56169,-151.214439,school,way/1093154592
+School (w1231198095),59.776451,-151.834269,school,way/1231198095
+School (w1286333607),60.917482,-149.622348,school,way/1286333607
+Kenai Public Library,60.55886,-151.247942,library,way/1415961380

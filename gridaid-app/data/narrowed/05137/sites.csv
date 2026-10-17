@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Mountain View Elementary School,35.860185,-92.087125,school,node/358999943
+Mountain View High School,35.860141,-92.084959,school,node/358999947
+Rural Special Elementary School,35.753565,-92.288073,school,node/358999952
+Timbo Elementary School,35.874337,-92.317594,school,node/358999954
+Timbo High School,35.875593,-92.317657,school,node/358999957
+Tri-County Elementary School,35.958407,-92.218488,school,node/358999959
+Rural Special High School,35.754321,-92.288132,school,node/359021991
+Allison Sylamore Volunteer Fire Station 5,36.007013,-92.116982,fire_station,node/367128998
+Allison Sylamore Volunteer Fire Station 4,35.919445,-92.052834,fire_station,node/367129000
+6th District Fire Department,35.816917,-91.908724,fire_station,node/367129024
+Allison Sylamore Volunteer Fire Station 2,35.902726,-92.107002,fire_station,node/367129029
+Allison Sylamore Volunteer Fire Station 1,35.954693,-92.107069,fire_station,node/367129034
+Ben Fire Department,35.724955,-91.938042,fire_station,node/367129135
+Dodd Mountain Fire Station 3,35.845272,-92.135243,fire_station,node/367129337
+Fifty-Six Volunteer Fire Department Substation,35.954674,-92.221038,fire_station,node/367129449
+Fifty-Six Volunteer Fire Department Main Station,35.954912,-92.217895,fire_station,node/367129451
+Fox Fire Department Station 3,35.829957,-92.301367,fire_station,node/367129659
+Fox Fire Department Station 1,35.747646,-92.283146,fire_station,node/367129660
+Fox Fire Station 2,35.789418,-92.330155,fire_station,node/367129661
+Fox Fire Department Station 4,35.794602,-92.299896,fire_station,node/367129662
+Iron Mountain Volunteer Fire Station,35.806354,-91.994905,fire_station,node/367129826
+Melrose Volunteer Fire Department,35.750941,-91.852244,fire_station,node/367130079
+Mountain View Fire Department East End Station,35.856975,-92.085087,fire_station,node/367130126
+Sunnyland Volunteer Fire Department,35.804386,-92.208413,fire_station,node/367130478
+Sunnyland Volunteer Fire Department Station 2,35.837565,-92.208441,fire_station,node/367130479
+Timbo Fire Department,35.875878,-92.317415,fire_station,node/367130540
+Melrose Fire Department,35.75091,-91.852089,fire_station,node/367130702
+Timbo Fire And Rescue - Happy Hollow,35.862499,-92.223447,fire_station,node/367130707
+Timbo Fire And Rescue - Onia,35.91933,-92.32837,fire_station,node/367130710
+Timbo Fire And Rescue - Newnata,35.889407,-92.252131,fire_station,node/367130712
+Pleasant Grove Fire And Rescue,35.82608,-91.915976,fire_station,node/367130715
+Timbo Fire And Rescue Station 5,35.888832,-92.368365,fire_station,node/367130762
+Mountain View Fire DEpartment City Hall Station,35.868656,-92.121065,fire_station,way/1057054930

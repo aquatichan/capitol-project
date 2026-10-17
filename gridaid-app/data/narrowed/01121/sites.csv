@@ -1,0 +1,66 @@
+name,lat,lon,type,osm
+Avondale School,33.182893,-86.266641,school,node/358905604
+Kings Chapel School,33.392609,-86.314422,school,node/358917666
+Pine Hill School,33.332334,-86.193029,school,node/358924105
+Childersburg High School,33.276502,-86.34831,school,node/358964336
+Fayetteville High School,33.146506,-86.409145,school,node/358964371
+Lincoln High School,33.605937,-86.117751,school,node/358964505
+Linder School,33.252892,-86.206084,school,node/358964514
+Marble City Christian School,33.158172,-86.278586,school,node/358964526
+Pittard Vocational School,33.318168,-86.198029,school,node/358964610
+Sycamore Junior High School,33.257892,-86.213307,school,node/358964712
+Sylacauga High School,33.176505,-86.251363,school,node/358964727
+Talladega County Elementary School,33.606492,-86.11914,school,node/358964739
+Winterboro High School,33.320945,-86.197196,school,node/358964787
+Jones View School,33.44483,-86.224419,school,node/358974468
+Wheatley High School,33.276224,-86.364422,school,node/358978660
+Charles R Drew Middle School,33.623992,-86.125529,school,node/358985097
+Chandler Springs School,33.303446,-86.013579,school,node/358988462
+Hillside School,33.516773,-85.982468,school,node/358989043
+Silver Run School,33.54705,-85.896077,school,node/358990163
+Trammells School,33.119562,-86.22164,school,node/358990304
+Alabama School for the Deaf,33.432053,-86.097749,school,node/358993354
+Central Elementary School,33.436984,-86.098974,school,node/358993391
+Hal Henderson Elementary School,33.440664,-86.107194,school,node/358993457
+Ophelia S Hill Elementary School,33.545939,-85.944967,school,node/358993471
+Main Avenue Grammar School,33.162894,-86.248585,school,node/358993509
+Talladega Area Vocational School,33.588715,-86.076638,school,node/358993640
+B. B. Comer Memorial Elementary School,33.178086,-86.257376,school,node/358998649
+Idalia Elementary School,33.506495,-86.140806,school,node/358998861
+Sylacauga City School Bus holding,33.171227,-86.260252,school,node/358999165
+A H Watwood Elementary School,33.265669,-86.356366,school,node/358999219
+Indian Valley Elementary School,33.192616,-86.229696,school,node/358999378
+Mountainview Elementary School,33.180671,-86.238585,school,node/358999381
+Nicholls-Lawson Middle School,33.187672,-86.240017,school,node/4115804349
+Oxford Fire,33.557407,-85.878212,fire_station,node/5048380702
+B. B. Comer Memorial High School,33.179092,-86.257873,school,node/9008395819
+B. B. Comer Memorial Kindergarden,33.178245,-86.258981,school,node/9008395820
+Fire Station (n12855465711),33.585224,-85.798606,fire_station,node/12855465711
+Childersburg Elementary School,33.300374,-86.349981,school,way/356755608
+Pinecrest School,33.155193,-86.270883,school,way/592486514
+Helen Keller School of Alabama,33.426799,-86.117487,school,way/639471494
+EH Gentry Technical Facility,33.425356,-86.119326,school,way/639471495
+Savery Library,33.433943,-86.112112,library,way/822885787
+Munford High/Middle School,33.524152,-85.948673,school,way/931961572
+Munford Elementary School,33.524624,-85.94435,school,way/931961573
+School (w974103161),33.179847,-86.258098,school,way/974103161
+Fire Station (w974155257),33.171933,-86.251794,fire_station,way/974155257
+Zora Ellis Junior High School,33.43265,-86.093267,school,way/985186519
+School (w985526183),33.265646,-86.356547,school,way/985526183
+School (w986367645),33.431505,-86.098546,school,way/986367645
+C L Salter Elementary School,33.455689,-86.081848,school,way/989237237
+Talladega High School,33.422837,-86.07726,school,way/989237254
+Raymond L Young Elementary School,33.410032,-86.115801,school,way/989237257
+Graham Elementary School,33.43105,-86.094698,school,way/989237260
+Alabama School for the Blind,33.433625,-86.089394,school,way/989725971
+Talladega County Central High School,33.491162,-86.159279,school,way/990142816
+Stemley Road Elementary School,33.508429,-86.140749,school,way/990148607
+School (w1011803928),33.273767,-86.342134,school,way/1011803928
+Lincoln High School,33.634426,-86.102086,school,way/1079858920
+Lincoln Elementary School,33.637323,-86.100728,school,way/1079858921
+Munford Public Library,33.530426,-85.953085,library,way/1347341876
+Lincoln Public Library,33.604249,-86.123003,library,way/1347343715
+Childersburg - Earle A. Rainwater Memorial Library,33.277699,-86.355517,library,way/1347345916
+Sylacuga - B. B. Comer Memorial Library,33.172054,-86.250262,library,way/1347346174
+Talladega Public Library,33.433765,-86.099435,library,way/1347350979
+School (w1560329974),33.427799,-86.077966,school,way/1560329974

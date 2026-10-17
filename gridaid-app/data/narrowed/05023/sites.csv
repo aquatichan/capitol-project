@@ -1,0 +1,39 @@
+name,lat,lon,type,osm
+Concord Elementary School,35.663494,-91.847157,school,node/359005798
+Heber Springs Elementary School,35.498076,-92.038977,school,node/359005826
+Heber Springs High School,35.496749,-92.038759,school,node/359005829
+Heber Springs Middle School,35.497385,-92.036805,school,node/359005833
+Quitman Elementary School,35.37869,-92.222092,school,node/359005878
+Quitman High School,35.37952,-92.222092,school,node/359005879
+R-T45/p124,35.543412,-91.957092,school,node/359005891
+West Side Elementary School,35.580161,-92.166663,school,node/359005896
+Wilburn Elementary School,35.503239,-91.888615,school,node/359005899
+Wilburn High School,35.503139,-91.889585,school,node/359005902
+West Side High School,35.58052,-92.165627,school,node/359022026
+Concord High School,35.664089,-91.846065,school,node/359023778
+Wilburn Rescue,35.507916,-91.890541,fire_station,node/367128670
+Quitman Rescue,35.384353,-92.216327,fire_station,node/367128672
+Concord Volunteer Fire Department,35.665577,-91.848844,fire_station,node/367129273
+Drasco Volunteer Fire Department,35.631442,-91.946779,fire_station,node/367129340
+Cove Creek Volunteer Fire Department Main Station,35.444607,-92.145453,fire_station,node/367129381
+Cove Creek Volunteer Fire Department Station 2,35.510207,-92.178848,fire_station,node/367129383
+Cove Creek Volunteer Fire Department Station 3,35.462665,-92.095759,fire_station,node/367129385
+Greers Ferry Fire Department Station 3,35.541948,-92.230808,fire_station,node/367129646
+Greers Ferry Fire Department Station 4,35.586703,-92.076166,fire_station,node/367129648
+Greers Ferry Fire Department Station 1,35.577372,-92.17753,fire_station,node/367129649
+Greers Ferry Fire Department Station 2,35.585557,-92.12693,fire_station,node/367129650
+Heber Springs Volunteer Fire Department,35.491743,-92.040052,fire_station,node/367129709
+Hopewell Volunteer Fire Department,35.398374,-92.068536,fire_station,node/367129838
+Prim Volunteer Fire Department Station 2,35.691884,-92.108622,fire_station,node/367130163
+Quitman Volunteer Fire Department,35.385007,-92.215895,fire_station,node/367130174
+Pine Snag Volunteer Fire Department Station 3,35.432241,-91.887273,fire_station,node/367130261
+Pine Snag Volunteer Fire Department Main Station,35.423808,-91.915996,fire_station,node/367130263
+Pine Snag Volunteer Fire Department Station 2,35.457036,-91.92791,fire_station,node/367130264
+Tumbling Shoals Ida Volunteer Fire Department,35.542657,-91.959216,fire_station,node/367130512
+Tumbling Shoals Ida Volunteer Fire Department Station 2,35.594225,-91.925484,fire_station,node/367130513
+Tumbling Shoals Volunteer Fire Department,35.594185,-91.925563,fire_station,node/367130767
+Wilburn Volunteer Fire Department,35.50791,-91.890516,fire_station,node/367130809
+Community Centre (n13195271333),35.514061,-92.026441,community_centre,node/13195271333
+Cleburne County Library,35.491451,-92.040731,library,way/485602602
+School (w945583640),35.664175,-91.845605,school,way/945583640
+School (w1349810605),35.49736,-92.038228,school,way/1349810605

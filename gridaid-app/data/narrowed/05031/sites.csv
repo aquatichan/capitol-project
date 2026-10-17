@@ -1,0 +1,82 @@
+name,lat,lon,type,osm
+Prospect School,35.849519,-90.6415,school,node/358978796
+Gray Memorial School,35.789243,-90.672056,school,node/358997242
+Brookland High School,35.908347,-90.580496,school,node/358997253
+Brookland Elementary School,35.909086,-90.581278,school,node/358997256
+Jonesboro High School,35.824515,-90.707052,school,node/358997282
+Brookland East School,35.91785,-90.453161,school,node/358997398
+Buffalo Island Central West Elementary School,35.889795,-90.353157,school,node/358997407
+Nettleton Elementary School,35.813409,-90.648722,school,node/358997440
+Nettleton High School,35.812575,-90.649551,school,node/358997443
+Valley View Elementary School,35.776081,-90.74014,school,node/358997474
+Blessed Sacrament Catholic School,35.818927,-90.694868,school,node/358997605
+Riverside East Elementary School,35.758107,-90.343378,school,node/358997643
+Riverside High School,35.820443,-90.454148,school,node/358997645
+Hackaberry School,35.722021,-90.321211,school,node/359001373
+Bono School,35.90674,-90.804004,school,node/359010738
+Riverside Junior High School,35.758164,-90.342273,school,node/359011741
+Annie Camp Middle School,35.829242,-90.711501,school,node/359014271
+Buffalo Island Central High School,35.888924,-90.351257,school,node/359014280
+Valley View High School,35.778564,-90.739164,school,node/359022019
+North Elementary School,35.849797,-90.697334,school,node/359022070
+South Elementary School,35.82354,-90.719189,school,node/359022072
+Visual and Performing Arts Shool,35.822757,-90.688666,school,node/359022075
+Sixth Grade Academic Center School,35.831508,-90.702892,school,node/359023729
+Douglas Macarthur Junior High School,35.824301,-90.690883,school,node/359023731
+Kindergarten Center School,35.829529,-90.711594,school,node/359023732
+Fox Meadow Elementary School,35.787601,-90.676978,school,node/359023733
+Nettleton Junior High School,35.812528,-90.648449,school,node/359023735
+Brookland Intermediate School,35.908867,-90.580433,school,node/359024411
+Raider Open Door Academy,35.813621,-90.649244,school,node/359024441
+Bono Fire Department Bono Station,35.90782,-90.799233,fire_station,node/367129156
+Bono Fire Department Center Hill Station,35.9483,-90.74797,fire_station,node/367129157
+Cash Fire Department,35.796852,-90.934316,fire_station,node/367129226
+Caraway Volunteer Fire Department,35.757744,-90.319447,fire_station,node/367129230
+Egypt Volunteer Fire Department,35.867644,-90.945105,fire_station,node/367129527
+Lake City Volunteer Fire Main Station,35.816708,-90.444304,fire_station,node/367129895
+Philadelphia Fire Department Station 1,35.922629,-90.711037,fire_station,node/367130250
+Philadelphia Fire Department Station 2,35.966256,-90.701749,fire_station,node/367130255
+Southridge Fire Department Station 1,35.743166,-90.66526,fire_station,node/367130313
+Southridge Fire Department Station 2,35.721516,-90.665162,fire_station,node/367130314
+Valley View Fire Department,35.808408,-90.80677,fire_station,node/367130429
+Westside Station / Bono Fire Department,35.853492,-90.802401,fire_station,node/367130782
+Earl Bell Community Center,35.831567,-90.70301,community_centre,node/5931597769
+Riverside West Elementary,35.81923,-90.452356,school,node/13194852222
+McAdams Library,35.819665,-90.443496,library,node/13194878255
+Black Oak Community Center,35.835308,-90.367726,community_centre,node/13387071934
+Craighead County Law Library,35.838669,-90.705972,library,node/13577455047
+Brookland Intermediate School,35.925051,-90.57164,school,node/14166701879
+Annie Camp Junior High School,35.830175,-90.728041,school,way/318030099
+Westside Middle School,35.856623,-90.806476,school,way/327288073
+Westside Elementary School,35.855235,-90.807455,school,way/327289010
+Westside High School,35.855625,-90.803898,school,way/327289788
+MicroSociety Magnet School,35.838836,-90.720226,school,way/449611793
+Dean B. Ellis Library,35.840914,-90.67945,library,way/474781095
+Riverside East Campus,35.758026,-90.342485,school,way/546027209
+Tuggle School Grounds,35.831216,-90.700883,school,way/547284197
+Allen Park Community Center,35.813173,-90.656459,community_centre,way/559601447
+Jonesboro Fire Department Station 1,35.854541,-90.660585,fire_station,way/582619936
+Bay Fire Department Station 2,35.741693,-90.549478,fire_station,way/629604780
+Community Centre (w629605191),35.744955,-90.560472,community_centre,way/629605191
+Bay School District,35.747766,-90.565737,school,way/629607113
+Lake City Fire Protection District Dixie Station,35.93809,-90.451848,fire_station,way/1224694363
+Brookland Volunteer Fire Department Station 2,35.904927,-90.582073,fire_station,way/1249054254
+Brookland Middle School,35.915167,-90.583991,school,way/1253859502
+Brookland Elementary School,35.912027,-90.584601,school,way/1253859633
+Booker T Washington Community Center,35.836181,-90.694572,community_centre,way/1271185881
+Senior Center,35.832034,-90.703866,community_centre,way/1395948482
+Craighead County Jonesboro Public Library,35.833365,-90.707589,library,way/1413542278
+Jonesboro Fire Department Station 2,35.828196,-90.72128,fire_station,way/1414101029
+School (w1435569225),35.81935,-90.453925,school,way/1435569225
+Kohn Library,35.890035,-90.342742,library,way/1436301536
+School (w1446436874),35.823491,-90.718498,school,way/1446436874
+Jonesboro Fire Department Station 3,35.817116,-90.666231,fire_station,way/1449273329
+Jonesboro Fire Department Station 4,35.796357,-90.691572,fire_station,way/1449273330
+Jonesboro Fire Department Station 5,35.806547,-90.742566,fire_station,way/1449273331
+Jonesboro Fire Department Station 6,35.846966,-90.694444,fire_station,way/1449273333
+Black Oak Volunteer Fire Department,35.834987,-90.368291,fire_station,way/1459623677
+Fire Station (w1459633324),35.891467,-90.342081,fire_station,way/1459633324
+School (w1462138321),35.888867,-90.352492,school,way/1462138321
+Fire Station (w1476602627),35.743666,-90.565634,fire_station,way/1476602627
+Jonesboro Fire Department Station 7,35.807032,-90.579171,fire_station,way/1502549529
+Monette Senior Life Center,35.884438,-90.345127,community_centre,way/1509916434

@@ -1,0 +1,38 @@
+name,lat,lon,type,osm
+Ballrock School,34.355097,-87.857533,school,node/358905715
+Enterprise School,34.413707,-87.632806,school,node/358910987
+Pleasant Hill School,34.40954,-87.786421,school,node/358924694
+Phil Campbell Elementary School,34.349347,-87.710391,school,node/358948318
+Phil Campbell High School,34.34928,-87.707538,school,node/358948321
+Russellville High School,34.525094,-87.739477,school,node/358948404
+Westside Elementary School,34.526168,-87.743936,school,node/358948493
+Frankfort Junior High School,34.556874,-87.845489,school,node/358958694
+Posey School,34.556483,-87.922537,school,node/358976852
+East Franklin Junior High School,34.383986,-87.576415,school,node/358992263
+Rocky Glen Elementary School,34.510094,-87.614751,school,node/358999051
+Union Junior High School,34.378708,-87.573637,school,node/358999185
+Russellville Elementary,34.524432,-87.743691,school,node/2623884797
+Russellville Middle School,34.528948,-87.739013,school,node/2623949617
+Red Bay Fire Station,34.439932,-88.143327,fire_station,node/2634006181
+Hodges Fire Station,34.328257,-87.926293,fire_station,node/2634189816
+Gravel Hill Volunteer Fire Department,34.360345,-87.811437,fire_station,node/4925072600
+Russellville Fire Station #2,34.52231,-87.715268,fire_station,node/12779333561
+A.W. Todd Center,34.503969,-87.732306,community_centre,way/288390076
+Russellville Fire Station 1,34.493459,-87.735879,fire_station,way/288390081
+Red Bay - Weatherford Public Library,34.440545,-88.140985,library,way/333164825
+Fire Station (w333164828),34.439928,-88.143318,fire_station,way/333164828
+Fire Station (w333165903),34.377126,-88.0605,fire_station,way/333165903
+Community Centre (w333165904),34.377197,-88.061295,community_centre,way/333165904
+Community Centre (w333166221),34.3338,-87.929449,community_centre,way/333166221
+Fire Station (w333166222),34.328259,-87.926295,fire_station,way/333166222
+Russellville City Schools,34.529064,-87.739447,school,way/452081957
+Russellville City Schools,34.524513,-87.741022,school,way/452081958
+Belgreen Schools,34.47446,-87.865506,school,way/452088197
+Red Bay Schools,34.434993,-88.136957,school,way/452090700
+Vina Schools,34.378297,-88.057004,school,way/452098691
+Phil Campbell Schools,34.349325,-87.709317,school,way/452104814
+Tharptown Junior High,34.384927,-87.599778,school,way/452106442
+Russellville Public Library,34.50467,-87.729303,library,way/745424596
+Fire Station (w877911768),34.352203,-87.705678,fire_station,way/877911768
+Tharptown Fire Department,34.525424,-87.623154,fire_station,way/1431561938
+Tharptown Elementary/High School,34.526867,-87.619837,school,way/1431731586

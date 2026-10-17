@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Central Elementary School,36.407001,-90.585672,school,node/358993303
+Clay County Central High School,36.26329,-90.29847,school,node/358993308
+Corning High School,36.418543,-90.580035,school,node/358993315
+Park Elementary School,36.409231,-90.593442,school,node/358993318
+Piggott Middle School,36.381172,-90.179543,school,node/358993638
+Piggott Elementary School,36.381182,-90.18531,school,node/358993645
+Piggott High School,36.381012,-90.179406,school,node/358993652
+Rector Elementary School,36.263171,-90.299232,school,node/359023663
+Rector High School,36.26305,-90.29814,school,node/359023664
+Corning Volunteer Fire Department Station,36.4093,-90.579493,fire_station,node/367129290
+Greenway Fire Station,36.337945,-90.220172,fire_station,node/367129645
+Knobel Fire Station,36.31974,-90.600836,fire_station,node/367129908
+McDougal Volunteer Fire Station,36.434196,-90.39333,fire_station,node/367130087
+Pollard Volunteer Fire Department,36.43061,-90.26796,fire_station,node/367130160
+Rector Volunteer Fire Department,36.258706,-90.292301,fire_station,node/367130182
+Piggott Volunteer Fire Department Station 2,36.382256,-90.189387,fire_station,node/367130253
+Piggott Volunteer Fire Department Station 1,36.385438,-90.192147,fire_station,node/367130256
+Saint Francis Volunteer Fire Department,36.455785,-90.139034,fire_station,node/367130379
+Success Volunteer Fire Department,36.452876,-90.722037,fire_station,node/367130496
+Piggott Library,36.383798,-90.194661,library,node/367130948
+Corning Library,36.406728,-90.584834,library,node/367130953
+Community Centre (w779735483),36.258317,-90.284476,community_centre,way/779735483
+Peach Orchard Community Center,36.280269,-90.663162,community_centre,way/798780632
+Peach Orchard Volunteer Fire Department Station 1,36.28044,-90.664016,fire_station,way/798780633

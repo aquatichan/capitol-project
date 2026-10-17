@@ -1,0 +1,40 @@
+name,lat,lon,type,osm
+Bethlehem School,34.459533,-86.01331,school,node/358970927
+Blake School,34.499253,-85.75858,school,node/358970936
+Davenport Chapel School,34.564251,-85.61441,school,node/358970983
+Moon Lake School,34.56702,-85.568999,school,node/358971149
+Ruhama Junior High School,34.354257,-85.738022,school,node/358971349
+Collinsville High School,34.253984,-85.868189,school,node/358971680
+Crossville High School,34.290295,-85.996281,school,node/358971693
+De Kalb Annex School,34.48842,-85.839416,school,node/358971696
+De Kalb Vocational School,34.488976,-85.840249,school,node/358971715
+Fyffe High School,34.449255,-85.90414,school,node/358971742
+Henagar Junior High School,34.634251,-85.768582,school,node/358971754
+Ider School,34.712026,-85.675525,school,node/358971771
+Sylvania School,34.564252,-85.814694,school,node/358971871
+Grove Oak School,34.439533,-86.052477,school,node/358994503
+Center Point Junior High School,34.212316,-86.060807,school,node/358998621
+Rainsville Civic Center,34.483976,-85.824137,community_centre,node/367931547
+Fire Station (n6376254438),34.440383,-85.722874,fire_station,node/6376254438
+Fire Station (n6376254456),34.452579,-85.709543,fire_station,node/6376254456
+Fire Station (n6376301579),34.451049,-85.685157,fire_station,node/6376301579
+Fischer Rescue Squad,34.464456,-85.646528,community_centre,node/6376301581
+Fyffe Senior Center,34.453108,-85.905835,community_centre,node/6376600457
+Fire Station (n6376600460),34.452626,-85.909949,fire_station,node/6376600460
+Fire Station (n9903143731),34.569186,-85.615579,fire_station,node/9903143731
+Fort Payne Middle School,34.490789,-85.668311,school,way/474271090
+Williams Avenue Elementary School,34.455936,-85.706817,school,way/474271091
+Plainview School,34.482427,-85.823262,school,way/474450841
+The Collinsville Schools,34.255016,-85.868625,school,way/884952299
+School (w985860593),34.460737,-85.702637,school,way/985860593
+R.L. Hadden Memorial Library,34.630896,-85.74466,library,way/1077751790
+DeKalb County Schools Early Learning Center,34.482578,-85.819324,school,way/1245471835
+Rainsville Public Library,34.488512,-85.832382,library,way/1347335905
+DeKalb County Public Library,34.445413,-85.720317,library,way/1347336019
+Ider Public Library,34.696738,-85.668412,library,way/1347336634
+Collinsville Public Library,34.263939,-85.860437,library,way/1347343058
+Crossville Public Library,34.287157,-85.992354,library,way/1347343178
+Geraldine Public Library,34.358432,-86.006424,library,way/1347343428
+Fort Payne High School,34.487153,-85.674319,school,way/1509606791
+Hammondville Volunteer Fire Deptartment,34.579401,-85.628251,fire_station,way/1526562138
+Geraldine School,34.351087,-86.002661,school,relation/21086136

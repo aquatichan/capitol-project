@@ -1,0 +1,107 @@
+name,lat,lon,type,osm
+Cedar Grove School,33.239004,-86.854989,school,node/358908080
+Chelsea Middle School,33.33467,-86.635772,school,node/358908432
+New Hope School,33.361499,-86.733321,school,node/358922131
+Valley Grove School,33.120952,-86.797488,school,node/358930928
+Vincent School,33.372054,-86.371645,school,node/358930995
+Nottingham Junior High School,33.363444,-86.350811,school,node/358964597
+Calera Middle School,33.100181,-86.754165,school,node/358965477
+Columbiana Middle School,33.185116,-86.615817,school,node/358965494
+Shelby County Board of Education,33.180383,-86.602255,school,node/358965506
+Inverness Elementary School,33.409718,-86.700968,school,node/358965543
+Kingdom School,33.15845,-86.557204,school,node/358965558
+Montevallo Elementary School,33.103354,-86.860074,school,node/358965584
+Calera Middle School,33.143729,-86.78721,school,node/358965636
+Shelby County Area Vocational Center,33.177894,-86.630539,school,node/358965638
+Shelby County High School,33.179283,-86.599983,school,node/358965639
+Shelby Elementary School,33.10734,-86.593871,school,node/358965640
+Shelby Training School,33.154839,-86.598038,school,node/358965649
+Wilsonville Elementary School,33.236772,-86.485258,school,node/358965750
+Calera Elementary School,33.108052,-86.749942,school,node/358969672
+Coosa Valley Academy,33.335111,-86.430535,school,node/358969678
+Calera Christian School,33.095397,-86.75832,school,node/358973998
+Thompson Middle School,33.220348,-86.832941,school,node/467411563
+Helena Middle School,33.275752,-86.871911,school,node/472489386
+Helena Intermediate School,33.292162,-86.866487,school,node/506853007
+Fire Station (n761566608),33.360374,-86.737028,fire_station,node/761566608
+Chelsea Intermediate School,33.334365,-86.636588,school,node/1740781083
+Cahaba Valley Fire Station 181,33.409368,-86.663568,fire_station,node/2104812896
+Cahaba Valley Fire Station 185,33.370054,-86.665621,fire_station,node/2104885263
+Cahaba Valley Fire Station 183,33.408386,-86.630109,fire_station,node/2104886073
+Wilsonville Fire Department Station 2,33.228358,-86.483085,fire_station,node/3633262735
+Kingdom Fire Department,33.162392,-86.549349,fire_station,node/3633286304
+Fourmile Fire Department,33.235488,-86.558598,fire_station,node/3633286305
+Hoover Fire Dept Station 3,33.353821,-86.804053,fire_station,node/4232233871
+Oak Mountain Intermediate School,33.363785,-86.735254,school,node/4710484716
+Elvin Hill Elementary School,33.175841,-86.598919,school,node/5476901021
+Hilltop Montessori,33.411662,-86.628837,school,node/6456331722
+Alabaster Fire Department #3,33.23355,-86.811847,fire_station,node/9104583509
+Our Lady of the Valley Catholic School,33.358558,-86.735282,school,node/9575505216
+Montevallo Fire Station #1,33.104423,-86.857335,fire_station,node/11195056054
+Pelham Fire Station 3,33.299352,-86.745391,fire_station,node/12758832449
+Harpersville Community Center,33.341912,-86.439715,community_centre,node/13946866089
+Harpersville Public Library,33.341813,-86.439738,library,node/13946866090
+Vincent Fire Department,33.376304,-86.416756,fire_station,node/13946909745
+Carmichael Library,33.104335,-86.861956,library,way/38765013
+Pelham High School,33.312768,-86.821343,school,way/39659667
+Robert F Bumpus Middle School,33.330503,-86.854553,school,way/244071800
+School (w244071802),33.330981,-86.854793,school,way/244071802
+Indian Springs School,33.338519,-86.771893,school,way/338056497
+Berry Middle School,33.395514,-86.732303,school,way/408779597
+Hoover Fire Station 7,33.415826,-86.664203,fire_station,way/469115397
+Shelby County Public Library,33.179695,-86.609077,library,way/471837962
+Chelsea Fire Station,33.349923,-86.631062,fire_station,way/471866325
+City Hall / Westover Public Library,33.358586,-86.519007,library,way/472099418
+Wilsonville Fire Station 1,33.236063,-86.484857,fire_station,way/472139728
+Wilsonville Public Library,33.235614,-86.484681,library,way/472139730
+Roy Downs Memorial Calera Library,33.096688,-86.768158,library,way/472146325
+Pelham Fire Station 04,33.2602,-86.739706,fire_station,way/472170483
+Helena Public Library,33.289067,-86.842802,library,way/492593543
+School (w492784579),33.275197,-86.872242,school,way/492784579
+Helena High School,33.27716,-86.868679,school,way/492784583
+School (w492784584),33.292289,-86.866978,school,way/492784584
+Columbiana Fire Department,33.175926,-86.606736,fire_station,way/569492470
+Vincent Elementary School,33.360799,-86.426079,school,way/592490466
+Vincent Middle/High School,33.383608,-86.415612,school,way/592491281
+Mt Laurel Library,33.409181,-86.629663,library,way/619600147
+Chelsea High School,33.333329,-86.680846,school,way/619852079
+Cahaba Valley Fire & EMR District Station 185,33.370026,-86.665581,fire_station,way/619865893
+Thompson Elementary School,33.224647,-86.824421,school,way/620984802
+Thompson Intermediate School,33.226109,-86.824832,school,way/620984803
+School (w620984804),33.224711,-86.827047,school,way/620984804
+Thompson Middle School,33.217165,-86.837945,school,way/620984805
+Pelham Public Library,33.306488,-86.806662,library,way/621840383
+Joseph Bruno Montessori Academy,33.359959,-86.731681,school,way/631066691
+Spain Park High School,33.39213,-86.730933,school,way/643032403
+Pelham Park Middle School,33.30685,-86.807658,school,way/677970451
+Thompson High School,33.222746,-86.84698,school,way/705620357
+Creek View Elementary School,33.226192,-86.864049,school,way/779658921
+Meadow View Elementary School,33.176715,-86.807841,school,way/779660719
+North Shelby Fire Station,33.384059,-86.730529,fire_station,way/823920541
+Harpersville Fire Department,33.335582,-86.439536,fire_station,way/833658327
+Calera High School,33.091826,-86.767225,school,way/860902083
+Riverchase Elementary School,33.359446,-86.812592,school,way/863539367
+Hoover Fire Station 3,33.353685,-86.804294,fire_station,way/864022732
+Riverchase Career Connection Center,33.346924,-86.808976,school,way/870907319
+Pelham High School,33.310793,-86.821872,school,way/875525003
+Pelham Oaks Elementary School,33.309839,-86.78939,school,way/885719004
+Vandiver Volunteer Fire Departement,33.473443,-86.5111,fire_station,way/922050416
+Vandiver-Sterrett Senior Center,33.473572,-86.511024,community_centre,way/922050417
+Community Centre (w928998890),33.185515,-86.81818,community_centre,way/928998890
+Alabaster Fire House 3,33.233406,-86.811894,fire_station,way/984792732
+Helena Elementary School,33.290384,-86.846659,school,way/993453705
+Bell Brown Career Technical Center,33.177896,-86.630101,school,way/996657294
+School (w997185403),33.143228,-86.787719,school,way/997185403
+School (w1047201414),33.395592,-86.733139,school,way/1047201414
+Helena Fire Station 1,33.289387,-86.84303,fire_station,way/1175952024
+Parnell Memorial Library,33.100772,-86.858709,library,way/1340863006
+Alabaster - Albert L. Scott Library,33.244813,-86.826985,library,way/1343608991
+Chelsea Public Library,33.347718,-86.629628,library,way/1343614498
+North Shelby County Library,33.364654,-86.716555,library,way/1343614516
+Vincent - Lallouse Mcgraw Public Library,33.386826,-86.410569,library,way/1347345855
+Montevallo Middle School,33.093977,-86.867138,school,way/1411383150
+Waterford Clubhouse,33.160817,-86.726016,community_centre,way/1469944057
+Community Centre (w1481027323),33.151953,-86.769659,community_centre,way/1481027323
+Carlea Fire Station No. 1,33.102457,-86.754428,fire_station,way/1527696576
+School (w1544027083),33.393202,-86.688555,school,way/1544027083
+Hoover Fire Station #7,33.401754,-86.714004,fire_station,way/1568404547

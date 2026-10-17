@@ -1,0 +1,142 @@
+name,lat,lon,type,osm
+Goins Elementary School,33.240673,-87.481671,school,node/358912908
+Holy Spirit School,33.17373,-87.527783,school,node/358916086
+Mount Union School,33.222061,-87.205831,school,node/358921248
+Tuscaloosa Academy,33.245118,-87.540006,school,node/358930524
+West End Elementary School,33.204285,-87.581674,school,node/358931435
+Twentieth Street Elementary School,33.19373,-87.570562,school,node/358932146
+Brewer-Porch Childrens Center,33.187063,-87.481949,school,node/358967561
+Brookwood Elementary School,33.259966,-87.315171,school,node/358967568
+Brookwood High School,33.258172,-87.317778,school,node/358967574
+First Wesleyan Academy,33.232062,-87.535006,school,node/358967933
+Oakhill Special Education Facility,33.177897,-87.506116,school,node/358968245
+Pearsons Academy,33.202341,-87.560007,school,node/358968256
+Tuscaloosa Area Career Center,33.167923,-87.538338,school,node/358968455
+Tuscaloosa Area Vocational School,33.175953,-87.520283,school,node/358968558
+Vance Elementary School,33.175764,-87.239307,school,node/358968645
+Jemison Elementary School,33.185675,-87.557506,school,node/358974407
+Collins-Riverside Middle School,33.218788,-87.570497,school,node/358977041
+Maxwell Elementary School,33.116232,-87.479726,school,node/358984267
+Holt Elementary School,33.23984,-87.496949,school,node/358998850
+Matthews Elementary School,33.220471,-87.571059,school,node/358998911
+Myrtlewood Elementary School,33.094566,-87.689732,school,node/358998964
+Oakdale Elementary School,33.190119,-87.601119,school,node/358998997
+Skyland Elementary School,33.169008,-87.531395,school,node/358999089
+Walker Elementary School,33.464716,-87.633599,school,node/358999204
+Holy Cross Lutheran Child Development Center,33.20541,-87.517452,school,node/359002906
+Holy Spirit High School,33.173611,-87.528611,school,node/359007125
+Davis-Emerson Middle School,33.195278,-87.454722,school,node/359007257
+Tuscaloosa Fire Station Number 5,33.191389,-87.559722,fire_station,node/367931432
+Rock Quarry Middle School,33.265956,-87.513503,school,node/1650516660
+Rock Quarry Elementary School,33.265562,-87.512763,school,node/1650516992
+Englewood Hull Volunteer Fire Station,33.078163,-87.555945,fire_station,node/2534474554
+Hoole Special Collections Library,33.211105,-87.543188,library,node/2665476029
+WBWB Main Office,33.303511,-87.453705,library,node/2799418805
+Samantha Volunteer Fire Department,33.465221,-87.631871,fire_station,node/6554209806
+University Place Elementary / Middle School,33.19315,-87.53854,school,node/11044117617
+The Capitol School,33.20728,-87.57449,school,node/12406062658
+Sipsey Valley Fire Department - Station No. 1,33.256483,-87.752816,fire_station,node/12978570840
+Coaling Fire Department,33.172207,-87.346416,fire_station,node/13520390961
+Vance Library,33.175447,-87.234908,library,node/13520423606
+Tuscaloosa Fire Station Number 7,33.166037,-87.538142,fire_station,node/13585710529
+Hagler Volunteer Fire Department,33.036457,-87.33896,fire_station,node/13818574182
+Carolls Creek Fire Department,33.326817,-87.581236,fire_station,node/13822350834
+Westwood Elementary School,33.247959,-87.685026,school,node/13830820776
+City Of Tuscaloosa Fire Station No. 8,33.193444,-87.599729,fire_station,node/13831017074
+Fosters Station,33.094021,-87.690905,fire_station,node/13831057685
+Fire Station (n13919978984),33.274505,-87.133431,fire_station,node/13919978984
+Fire Station No. 5,33.186066,-87.513421,fire_station,node/13951236101
+Tuscaloosa Fire Rescue Station #11,33.174271,-87.24843,fire_station,node/13962231833
+First Assembly Youth,33.169269,-87.487837,community_centre,node/13962416970
+Lloyd Wood Education Center,33.232043,-87.581778,school,node/14094931609
+Holy Spirit Catholic High School,33.173375,-87.528585,school,way/79095457
+Cottondale Elementary School,33.185872,-87.456631,school,way/79095472
+Davis-Emerson Middle School,33.196359,-87.45648,school,way/79107232
+School (w79119477),33.219697,-87.571527,school,way/79119477
+School (w79119666),33.176218,-87.520305,school,way/79119666
+Northridge High School,33.247086,-87.528083,school,way/79122854
+Martin Luther King Junior Elementary School,33.190861,-87.578909,school,way/79382593
+Central Elementary School,33.199618,-87.575851,school,way/79382642
+Central High School,33.197837,-87.547536,school,way/89748208
+Tuscaloosa Public Library,33.215556,-87.561947,library,way/102096432
+Fire Station (w120758816),33.229042,-87.569378,fire_station,way/120758816
+Northport Community Center,33.223336,-87.578054,community_centre,way/121124908
+Amelia Gayle Gorgas Library,33.211761,-87.546049,library,way/130596789
+Belk Activity Center,33.176497,-87.510584,community_centre,way/153253567
+University of Alabama Student Center,33.21441,-87.545682,community_centre,way/200167122
+Echola VFD,33.3445,-87.790216,fire_station,way/218119628
+Rodgers Library,33.213495,-87.542775,library,way/259106040
+Riverside Commons,33.218294,-87.544206,community_centre,way/260947061
+Angelo Bruno Business Library,33.211082,-87.549291,library,way/260949491
+McLure Education Library,33.210479,-87.549044,library,way/260949784
+Weaver Branch Library,33.196511,-87.573333,library,way/396654580
+Fosters Fire Department,33.094054,-87.690931,fire_station,way/461648901
+Tuscaloosa Career & Technology Academy,33.186959,-87.578983,school,way/511106314
+Tuscaloosa Fire Station #3,33.241974,-87.532199,fire_station,way/547258644
+Fire Station (w553185473),33.191325,-87.559745,fire_station,way/553185473
+Phelps Activity Center,33.264739,-87.510091,community_centre,way/560416503
+Brookwood High School,33.257387,-87.311926,school,way/597904634
+Tuscaloosa Magnet K-8,33.21458,-87.525071,school,way/607986845
+American Christian Academy,33.198881,-87.507545,school,way/610639103
+William H. Sheppard Library,33.199427,-87.5845,library,way/611885979
+Tuscaloosa Fire Station #1,33.19923,-87.563448,fire_station,way/611931256
+Fire Station (w615680905),33.205919,-87.532085,fire_station,way/615680905
+Arcadia Elementary School,33.198838,-87.487587,school,way/615995081
+Tuscaloosa Fire Station Number 4,33.207176,-87.504012,fire_station,way/616199091
+The Alberta School of Performing Arts,33.208213,-87.502153,school,way/616199106
+Huntington Place Elementary School,33.301831,-87.592306,school,way/616454874
+Holt High School,33.219543,-87.476445,school,way/617716347
+Tuscaloosa County High School,33.307237,-87.608591,school,way/620508660
+Northside Middle School,33.46606,-87.63007,school,way/620512066
+Walker Elementary School,33.466119,-87.634324,school,way/620512067
+Northside High School,33.470149,-87.633458,school,way/620512068
+Verner Elementary School,33.242896,-87.527503,school,way/620512685
+Northridge Middle School,33.253027,-87.52865,school,way/620512687
+Echols Middle School,33.234356,-87.579436,school,way/620514979
+Northport Elementary School,33.309919,-87.611949,school,way/620515338
+Hillcrest High School,33.130206,-87.538104,school,way/620516543
+Hillcrest Middle School,33.132914,-87.540889,school,way/620516544
+Westlawn Middle School,33.197993,-87.57585,school,way/620518011
+Sipsey Valley Middle/High School,33.193394,-87.734983,school,way/620519737
+Tuscaloosa Christian School,33.194116,-87.449972,school,way/620520330
+Flatwoods Elementary School,33.243556,-87.622411,school,way/620736513
+Taylorville Primary School,33.122774,-87.53932,school,way/620738416
+Englewood Elementary School,33.112889,-87.560274,school,way/620738417
+Bobby Miller Activity Center,33.122336,-87.537785,community_centre,way/620759853
+Paul W. Bryant High School,33.157443,-87.456011,school,way/620990868
+Eastwood Middle School,33.160665,-87.453388,school,way/620990869
+Crestmont Elementary School,33.233597,-87.590384,school,way/638098386
+Mcdonald Hughes Community Center,33.183386,-87.576337,community_centre,way/645871860
+Lakeview Fire Station 2,33.270709,-87.079696,fire_station,way/666552446
+McKenzie Court Community Center,33.189716,-87.580222,community_centre,way/685534314
+Weaver-Bolden Branch Library,33.189556,-87.579733,library,way/685534315
+North River Christian Academy,33.235881,-87.548483,school,way/702572603
+Romulus Volunteer Fire Department,33.147882,-87.751424,fire_station,way/727626791
+Tuscaloosa Bible Institute,33.24624,-87.575272,school,way/787837392
+School (w810579200),33.265396,-87.513545,school,way/810579200
+Vestavia Elementary School,33.245698,-87.569033,school,way/811539412
+Northport Fire Station No. 2,33.260074,-87.57263,fire_station,way/812409326
+McDonald Hughes Community Center,33.193205,-87.486676,community_centre,way/824740915
+Southside Elementary School,33.155317,-87.501803,school,way/827170683
+Woodland Forest Elementary School,33.151646,-87.473333,school,way/836651433
+Holt Elementary School,33.226554,-87.48301,school,way/841117784
+Holt Senior Center,33.237318,-87.484347,community_centre,way/841966233
+Mayfield Fire Department,33.481629,-87.795724,fire_station,way/845117197
+School (w992925034),33.211642,-87.282177,school,way/992925034
+School (w993064062),33.259774,-87.315168,school,way/993064062
+Buhl Elementary School,33.25591,-87.751954,school,way/993767586
+Northport Intermediate School,33.308505,-87.612531,school,way/998589384
+School (w1068573263),33.054279,-87.588637,school,way/1068573263
+Fire Station (w1092452474),33.299948,-87.651334,fire_station,way/1092452474
+Stillman Heights Educational Center,33.194287,-87.586332,school,way/1113514873
+Fosters-Ralph Fire Protection District - Ralph Station,33.043272,-87.767048,fire_station,way/1388333790
+Buhl VFD,33.256483,-87.752767,fire_station,way/1412322282
+Town Of Coker Volunteer Fire Department,33.245339,-87.684709,fire_station,way/1517760564
+Montgomery Volunteer Fire Department,33.397829,-87.71216,fire_station,way/1517792733
+Station 2 Carroll's Creek VFD,33.360216,-87.581658,fire_station,way/1517792735
+G.G. Hardin Community Center,33.251963,-87.330496,community_centre,way/1517792741
+Elrod VFD,33.255679,-87.792623,fire_station,way/1517817263
+Romulus Fire Department,33.138877,-87.766264,fire_station,way/1517817264
+Vance Activity Building,33.159829,-87.259297,community_centre,way/1517817267
+Hagler Community Center,33.036411,-87.338981,community_centre,way/1517817268
+Holt High School,33.23598,-87.487548,school,way/1532459223

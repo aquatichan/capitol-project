@@ -1,0 +1,44 @@
+name,lat,lon,type,osm
+Montezuma Academy,31.308226,-86.446624,school,node/358920249
+Andalusia High School,31.314645,-86.471017,school,node/358943492
+Opp Middle School,31.287058,-86.251427,school,node/358943746
+Geneva County Grammar School,31.09851,-86.69968,school,node/358949874
+Grace Christian Academy,31.007958,-86.329668,school,node/358960468
+Wallace Junior College,31.321938,-86.451903,school,node/358978520
+Church Street Elementary School,31.308782,-86.491069,school,node/358979515
+Woodson Middle School,31.327948,-86.483292,school,node/358979789
+Florala Elementary School,31.007958,-86.325779,school,node/358979794
+Carolina School,31.227951,-86.513012,school,node/358992065
+Douglas MacArthur State Technical Institute,31.307112,-86.254396,school,node/358996386
+George Washington Carver Junior High School,31.015457,-86.33078,school,node/358998608
+Fleeta Junior High School,31.329612,-86.244951,school,node/358998756
+W S Harlan Junior High School,31.016013,-86.357447,school,node/358998816
+Pleasant Home High School,31.158508,-86.612457,school,node/358999288
+Union Grove Fire Department,31.31629,-86.24212,fire_station,node/367931213
+Opp City Fire Department,31.284132,-86.255356,fire_station,node/367931225
+River Falls Volunteer Fire Department,31.348576,-86.535109,fire_station,node/367931227
+Andalusia Fire Department,31.30825,-86.483526,fire_station,node/367931248
+Red Oak Area Volunteer Fire Department,31.140808,-86.460696,fire_station,node/367931263
+Florala Rescue Squad,31.00497,-86.328716,fire_station,node/367931281
+Babbie Volunteer Fire Department,31.313911,-86.328359,fire_station,node/367931282
+Florala Fire Department,31.00028,-86.330555,fire_station,node/367931305
+Onycha Volunteer Fire Department,31.228604,-86.277272,fire_station,node/367931306
+Heath Volunteer Fire Department,31.360264,-86.468221,fire_station,node/367931307
+Libertyville Fire Department,31.241241,-86.462978,fire_station,node/367931330
+Lockhart Volunteer Fire Department,31.011995,-86.349414,fire_station,node/367931344
+Andalusia Junior High School,31.314655,-86.471733,school,node/7291737904
+Rose Hill Volunteer Fire Department,31.449862,-86.324804,fire_station,way/421545716
+Buck Creek Volunteer Fire Department,31.478641,-86.577603,fire_station,way/422471610
+Pleasant Home School,31.158367,-86.612477,school,way/611675739
+School (w780926781),31.31568,-86.470293,school,way/780926781
+School (w990148128),31.01546,-86.356403,school,way/990148128
+Florala High School,31.002296,-86.336781,school,way/1291751056
+Opp Public Library,31.304637,-86.25434,library,way/1344408997
+Andalusia Public Library,31.306678,-86.483288,library,way/1344409086
+Florala Public Library,31.005593,-86.326849,library,way/1344409273
+Fire Station (w1363682904),31.241278,-86.462961,fire_station,way/1363682904
+Straughn School,31.387755,-86.416166,school,way/1382616907
+Kiwanis Covington County Fair Community Center,31.280843,-86.481679,community_centre,way/1384131473
+Red Level School,31.40261,-86.612944,school,relation/19059636
+School (r19059645),31.415228,-86.613945,school,relation/19059645
+Andalusia Elementary School,31.285073,-86.502597,school,relation/19094277

@@ -1,0 +1,71 @@
+name,lat,lon,type,osm
+Bailey School,34.725091,-91.917361,school,node/358967037
+Bethlehem School,34.943144,-91.830416,school,node/358967757
+Britt School,34.735647,-92.055699,school,node/358968227
+Broadview School,34.702037,-91.788746,school,node/358968242
+Brownsville School,34.819535,-91.879305,school,node/358968363
+Central School,34.57565,-91.895693,school,node/358969083
+Eagle School,34.726758,-91.950418,school,node/358970434
+Fairview School,34.864256,-91.89264,school,node/358970763
+Macedonia School,34.513151,-91.912915,school,node/358974879
+Midway School,34.915922,-92.000977,school,node/358975454
+Oak Grove School,34.617871,-91.864304,school,node/358977343
+Oak Grove School,34.669536,-91.980418,school,node/358977345
+Oakdale School,34.907589,-91.820138,school,node/358977425
+Pinewood School,34.657315,-91.754578,school,node/358978250
+Union School,34.830367,-91.980697,school,node/358982407
+Union Star School,34.720369,-91.959862,school,node/358982430
+Woodlawn School,34.922867,-91.874862,school,node/358983898
+Ward Elementary School,35.030087,-91.955143,school,node/358991261
+Lonoke Primary School,34.775921,-91.907919,school,node/358991346
+Lonoke Elementary School,34.777917,-91.910476,school,node/358991350
+Lonoke Junior High School,34.779813,-91.895139,school,node/358991355
+Carlisle High School,34.786752,-91.738596,school,node/358991365
+Carlisle Elementary School,34.786017,-91.738846,school,node/358991367
+England Elementary School,34.540279,-91.962502,school,node/358991433
+England High School,34.543381,-91.955299,school,node/358991438
+Humnoke Elementary School,34.545095,-91.758744,school,node/358991475
+Humnoke High School,34.545095,-91.757911,school,node/358991477
+Lonoke Middle School,34.779687,-91.895262,school,node/359023905
+England Middle School,34.545075,-91.956246,school,node/359023906
+Cabot Middle School North,34.983053,-91.996513,school,node/359023910
+Ward Central Elementary School,35.011288,-91.960245,school,node/359023916
+Southern Paramedic Service - Carlisle,34.781081,-91.746998,fire_station,node/367128653
+Austin Fire Department Station 2,34.997957,-91.982413,fire_station,node/367129055
+Butlerville Volunteer Fire Department,34.975122,-91.834937,fire_station,node/367129191
+Carlisle Volunteer Fire Department,34.782711,-91.747931,fire_station,node/367129231
+Campground Sylvania And Mount Zion Volunteer Fire Department 1,34.95253,-91.957486,fire_station,node/367129240
+Coy Fire Department,34.541048,-91.87559,fire_station,node/367129390
+East Pulaski Volunteer Fire Department 1,34.764905,-92.072444,fire_station,node/367129536
+Humnoke Volunteer Fire Department,34.545419,-91.758973,fire_station,node/367129848
+Keo Volunteer Fire Department,34.602665,-92.010726,fire_station,node/367129912
+Lonoke Volunteer Fire Station,34.783612,-91.89802,fire_station,node/367129968
+Mountain Springs Volunteer Fire Station 2,35.055852,-92.047329,fire_station,node/367130120
+Mountain Springs Volunteer Fire Station 1,35.034835,-92.073329,fire_station,node/367130121
+South Bend Fire Department Station 2,34.827072,-91.980912,fire_station,node/367130267
+Ward Volunteer Fire Department Station 2,35.014678,-91.960709,fire_station,node/367130461
+Ward Volunteer Fire Department Station 1,35.029681,-91.950433,fire_station,node/367130462
+Tri - Community Volunteer Fire Department Main Station,34.937204,-91.888648,fire_station,node/367130504
+Tri - Community Volunteer Fire Department Station 2,34.906915,-91.870761,fire_station,node/367130505
+Cabot Public Library,34.974834,-92.025048,library,node/5278703843
+Community Centre (n5885451565),34.785949,-91.745501,community_centre,node/5885451565
+Library (n5885451566),34.786357,-91.745914,library,node/5885451566
+Stagecoach Elementary,34.955465,-91.985218,school,way/264995942
+Cabot Fire Station,34.974913,-92.015878,fire_station,way/266615808
+Arlene Cherry Memorial Library,34.976283,-92.012031,library,way/266616914
+Cabot High School,34.972817,-92.009031,school,way/273726310
+School (w288253196),34.978556,-92.004857,school,way/288253196
+Lonoke High School,34.778992,-91.905286,school,way/548643200
+Fire Station (w588825372),34.938746,-92.012895,fire_station,way/588825372
+Moutain Springs Elementary,35.010187,-92.065867,school,way/612775230
+Cabot Community Center,34.975761,-92.009153,community_centre,way/638434151
+School (w672206571),34.777911,-91.911925,school,way/672206571
+School (w672206572),34.775782,-91.907589,school,way/672206572
+School (w672206573),34.779742,-91.91356,school,way/672206573
+School (w672208465),34.782068,-91.881216,school,way/672208465
+Campground Sylvania And Mount Zion Volunteer Fire Department 2,34.908222,-91.942223,fire_station,way/677558256
+Austin Fire Department,34.997743,-91.984459,fire_station,way/1090725373
+Cabot Fire Department,34.981862,-92.063593,fire_station,way/1091244488
+England Volunteer Fire Department,34.544875,-91.971019,fire_station,way/1229697275
+South Bend Fire Department Station 1,34.848828,-92.050572,fire_station,way/1362114176
+South Bend Fire Department Station 3,34.866649,-91.979038,fire_station,way/1503242839

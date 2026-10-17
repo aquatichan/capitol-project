@@ -1,0 +1,29 @@
+name,lat,lon,type,osm
+Hazelwood High School,34.683423,-87.410301,school,node/358914865
+Lawrence Center School,34.680646,-87.292242,school,node/358918109
+Tennessee Valley Junior High School,34.630925,-87.171405,school,node/358929962
+East Lawrence Middle School,34.567385,-87.173241,school,node/358949358
+Hatton Elementary School,34.562593,-87.417801,school,node/358949394
+Hatton High School,34.561204,-87.415301,school,node/358949397
+Hazelwood Elementary School,34.681757,-87.408356,school,node/358949399
+Hubbard Elementary School,34.681201,-87.309743,school,node/358949404
+Lawrence County High School,34.475668,-87.298207,school,node/358989159
+Lawrence County Christian School,34.482873,-87.359744,school,node/358992366
+Moulton Elementary School,34.47718,-87.29015,school,node/358992384
+Mount Hope High School,34.447318,-87.482802,school,node/358998952
+C C Smith Elementary School,34.541482,-87.517804,school,node/358999096
+Bill Stewart Activity Center,34.472318,-87.28002,school,node/359001695
+Speake School,34.417537,-87.171958,school,node/359001703
+East Lawrence High School,34.56649,-87.173688,school,node/492153658
+East Lawrence Elementary School,34.56984,-87.173097,school,node/492154032
+Lockheed Fire Dept / Emergency Response,34.66098,-87.337379,fire_station,node/1041603519
+Chalybeate Volunteer Fire Department,34.566085,-87.225379,fire_station,node/6257355699
+East Lawrence Center for the Aging,34.564809,-87.166651,community_centre,node/6257395693
+East Lawrence Aging Nutritional Center,34.564617,-87.166678,community_centre,node/6257395694
+Speake vol. Fire & Resceu Station #1,34.416753,-87.168341,fire_station,node/9453085662
+Moulton Elementary,34.477158,-87.290409,school,way/501845959
+Courtland High School,34.667644,-87.301759,school,way/1282547559
+Town Creek Public Library and Community Center,34.682529,-87.406235,library,way/1344404924
+Courtland Public Library,34.665942,-87.310712,library,way/1344405019
+Lawrence County Public Library,34.476215,-87.293647,library,way/1347197961
+Moulton Middle School,34.475393,-87.290549,school,way/1427444642

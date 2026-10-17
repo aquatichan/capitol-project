@@ -1,0 +1,10 @@
+name,lat,lon,type,osm
+Anderson Volunteer Fire Department,64.342444,-149.191634,fire_station,node/1379017304
+School (n1404742501),63.392506,-148.895426,school,node/1404742501
+Healy Community Center,63.870391,-149.006371,community_centre,node/2711802054
+Healy Volunteer Fire Department,63.870579,-149.005599,fire_station,node/2711802059
+Tri-Valley Community Library,63.873031,-149.014077,library,node/5474681793
+Cantwell Community Library,63.392629,-148.895344,library,node/13012264918
+McKinley Community Center,63.65116,-148.811979,community_centre,way/275600348
+Tri-Valley School,63.872898,-149.013821,school,way/521809163
+School (w1093212014),64.342495,-149.187377,school,way/1093212014

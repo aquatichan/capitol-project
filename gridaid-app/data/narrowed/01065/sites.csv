@@ -1,0 +1,21 @@
+name,lat,lon,type,osm
+Bethlehem School,32.750687,-87.765567,school,node/358906342
+Flatwood School,32.820962,-87.751122,school,node/358911458
+Rosenwald School,32.799852,-87.780289,school,node/358926845
+Sawyerville Elementary School,32.72652,-87.737233,school,node/358999071
+Moundville Volunteer Fire Department,32.998337,-87.630354,fire_station,node/2681642267
+Akron Senior Citizens Community Center,32.878369,-87.743853,community_centre,node/13350365364
+Akron Public Library,32.877722,-87.741739,library,node/13350368458
+Akron Volunteer Fire Department,32.877694,-87.741036,fire_station,node/13350368461
+Friendship Volunteer Fire Department,32.792839,-87.50707,fire_station,node/13796666752
+Moundville Community Center,32.99024,-87.623898,community_centre,node/13798501101
+Sawyerville Volunteer Fire Department,32.751045,-87.727767,fire_station,node/13980622185
+Moundville Public Library,32.997273,-87.628556,library,way/634048155
+Moundville Elementary School,33.000735,-87.631117,school,way/701423207
+Hale County High School,32.998842,-87.62026,school,way/701453747
+Greensboro Public East School,32.707893,-87.588089,school,way/915589981
+Hale County Library,32.703954,-87.593103,library,way/915660349
+Boardman Elementary School,32.701797,-87.600894,school,way/925265360
+Southern Academy,32.699862,-87.583898,school,way/932980406
+Stewart - Havana Volunteer Fire Department Station 2,32.894445,-87.620234,fire_station,way/1017831271
+Newbern Public Libary,32.598581,-87.533292,library,way/1093678243

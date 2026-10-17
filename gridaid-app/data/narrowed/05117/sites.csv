@@ -1,0 +1,24 @@
+name,lat,lon,type,osm
+Hickory Plains School,35.000088,-91.737359,school,node/358972604
+Thurman School,34.978977,-91.782916,school,node/358981840
+Des Arc Elementary School,34.972379,-91.517915,school,node/358989209
+DeValls Bluff Elementary School,34.781728,-91.457446,school,node/358989214
+DeValls Bluff High School,34.781847,-91.456814,school,node/358989216
+Hazen Elementary School,34.784339,-91.579289,school,node/358989230
+Hazen High School,34.784263,-91.580692,school,node/358989233
+Southern Paramedic Service - Hazen,34.779495,-91.579564,fire_station,node/367128648
+Brown Grove Volunteer Fire Department,34.908487,-91.655277,fire_station,node/367129208
+Des Arc Volunteer Fire Department,34.976308,-91.4949,fire_station,node/367129332
+Crossroads Volunteer Fire Department,34.938458,-91.72095,fire_station,node/367129401
+De Valls Bluff Volunteer Fire Department,34.785582,-91.457807,fire_station,node/367129439
+Hazen Volunteer Fire Department,34.781269,-91.58147,fire_station,node/367129707
+Northside Volunteer Fire Department,35.062016,-91.53969,fire_station,node/367130044
+Oak Prairie Volunteer Fire Station,34.920682,-91.5635,fire_station,node/367130068
+Peppers Lake Fire Department,34.739682,-91.426251,fire_station,node/367130247
+Slovak Volunteer Fire Department,34.645865,-91.579236,fire_station,node/367130273
+Sandhill Fire Station,35.008987,-91.435145,fire_station,node/367130374
+Ulm Fire Department,34.577564,-91.464238,fire_station,node/367130415
+Des Arc High School,34.978937,-91.500916,school,way/673705634
+Biscoe Volunteer Fire Station,34.819555,-91.405616,fire_station,way/1068025204
+School (w1443096946),34.782041,-91.457361,school,way/1443096946
+Tollville Volunteer Fire Department,34.716286,-91.535673,fire_station,way/1503150890

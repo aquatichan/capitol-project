@@ -1,0 +1,43 @@
+name,lat,lon,type,osm
+Central School,34.100653,-93.119062,school,node/358969079
+Goz Junior High School,34.121485,-93.062117,school,node/358998184
+Central Primary School,34.123338,-93.060437,school,node/358998208
+Amity Elementary School,34.267876,-93.460184,school,node/358998280
+Amity High School,34.266209,-93.469351,school,node/358998283
+Gurdon High School,33.909157,-93.188385,school,node/358998293
+Gurdon Middle School,33.910659,-93.150726,school,node/358998295
+Perritt Elementary School,34.11343,-93.073784,school,node/359022076
+Louisa Perritt Primary School,34.113217,-93.073736,school,node/359024223
+Goza Middle School,34.120785,-93.062966,school,node/359024224
+Cabe Middle School,33.908237,-93.191168,school,node/359024225
+Centerpoint Intermediate School,34.265201,-93.465323,school,node/359024418
+Amity Volunteer Fire Department,34.264511,-93.460287,fire_station,node/367129004
+Alpine Volunteer Fire Department,34.22891,-93.378095,fire_station,node/367129014
+Arkadelphia Fire Station 1,34.121247,-93.053919,fire_station,node/367129073
+Arkadelphia Fire Station 2,34.12248,-93.080208,fire_station,node/367129075
+Caddo Valley Volunteer Fire Department,34.184696,-93.066782,fire_station,node/367129187
+Degray Rural Volunteer Fire Station,34.175113,-93.147719,fire_station,node/367129325
+East Clark County Volunteer Fire Department,34.06438,-92.932186,fire_station,node/367129356
+Curtis Fire Department,33.998407,-93.129378,fire_station,node/367129412
+Gurdon Fire Station,33.922183,-93.150024,fire_station,node/367129752
+Gum Springs Volunteer Fire Department,34.060002,-93.095474,fire_station,node/367129754
+Hollywood Fire Station,34.103162,-93.236019,fire_station,node/367129866
+Kansas Road Volunteer Fire Department,33.860389,-92.996274,fire_station,node/367129915
+Okolona Fire Station,34.001054,-93.337651,fire_station,node/367130059
+Whelen Springs Fire Station,33.83094,-93.125997,fire_station,node/367130785
+Clark County Library,34.120652,-93.05434,library,node/367130955
+Riley-Hickingbotham Library,34.125651,-93.052117,library,node/367130957
+Huie Library,34.126106,-93.058763,library,node/367130958
+Fire Station (w305734551),34.001201,-93.337647,fire_station,way/305734551
+Fire Station (w305734579),34.001045,-93.337658,fire_station,way/305734579
+Sturgis Children & Youth Center,34.121279,-93.05614,community_centre,way/399529476
+Arkadelphia Senior High School,34.123097,-93.097182,school,way/953058955
+Fire Station 2,34.122501,-93.0802,fire_station,way/1073578474
+School (w1137862713),34.120714,-93.062929,school,way/1137862713
+School (w1137862714),34.121835,-93.061844,school,way/1137862714
+School (w1137936593),34.122188,-93.068368,school,way/1137936593
+Fire Station (w1203281860),34.17512,-93.147714,fire_station,way/1203281860
+Fire Station (w1217189819),33.998374,-93.129382,fire_station,way/1217189819
+School (w1360730613),33.908091,-93.190663,school,way/1360730613
+Beirne Rural Volunteer Fire Department,33.887654,-93.204733,fire_station,way/1372004599
+School (r16389124),34.113119,-93.073785,school,relation/16389124

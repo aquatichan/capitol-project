@@ -1,0 +1,38 @@
+name,lat,lon,type,osm
+North Heights School,33.457902,-94.032966,school,node/358977022
+Orr School,33.430125,-94.042132,school,node/358977672
+Daniels School,33.432238,-94.041211,school,node/358994410
+Garland Elementary School,33.366792,-93.720735,school,node/358994431
+Genoa Central High School,33.373424,-93.874327,school,node/358994438
+Vera Kilpatrick Elementary School,33.455867,-94.031763,school,node/358994474
+Carver School,33.426767,-94.018196,school,node/359011692
+Genoa Central Elementary School,33.376539,-93.880025,school,node/359021849
+Fairview Elementary School,33.438699,-94.035002,school,node/359021883
+Gary E Cobb Middle School,33.376633,-93.881615,school,node/359024281
+Edward D Trice Elementary School,33.466001,-94.021282,school,node/359024285
+Booker Bridge Fire Department,33.281812,-93.810291,fire_station,node/367129158
+Genoa Volunteer Fire Department,33.383688,-93.914864,fire_station,node/367129690
+Mandeville Volunteer Fire Department,33.48281,-93.962769,fire_station,node/367129953
+Pleasant Hill Fire Department,33.306855,-94.002059,fire_station,node/367130148
+Satelite Fire Department,33.351349,-93.829751,fire_station,node/367130377
+Texarkana Fire Department Station 2,33.448555,-94.031217,fire_station,node/367130485
+Texarkana Arkansas Fire Department Station 4,33.427162,-93.999204,fire_station,node/367130486
+Trinity Volunteer Fire Department,33.371385,-94.000766,fire_station,node/367130506
+Arkansas High School,33.43726,-94.025446,school,way/559606535
+Booker T Washington High School,33.42806,-94.02152,school,way/947998626
+Fouke Fire Department,33.260919,-93.884438,fire_station,way/949562397
+Fouke Elementary School,33.263965,-93.880633,school,way/949566093
+Paulette Smith Middle School,33.263908,-93.88186,school,way/949566098
+Fouke High School,33.263915,-93.883441,school,way/949566108
+Doddridge Volunteer Fire Department,33.089174,-93.905015,fire_station,way/953807637
+Texarkana Arkansas Fire Department Station 1,33.423756,-94.039671,fire_station,way/1080997268
+College Hill Elementary School,33.417996,-94.017156,school,way/1338909399
+Union Elementary School,33.404658,-94.033033,school,way/1338909407
+College Hill Middle School,33.407349,-94.027094,school,way/1338909408
+North Heights Junior High School,33.454412,-94.019221,school,way/1347344636
+The Salvation Army Herbert B Wren Fellowship Hall,33.425286,-94.040321,community_centre,way/1529183372
+Texarkana Arkansas Fire Department Station 5,33.478451,-94.0112,fire_station,way/1529951721
+Arkansas Middle School,33.476,-94.031604,school,way/1535247750
+Garland Fire Department,33.35965,-93.709799,fire_station,way/1562621030
+Bright Star Volunteer Fire Department,33.124806,-93.996022,fire_station,relation/12842725
+Texarkana Regional Airport Fire Station,33.451039,-93.987725,fire_station,relation/20994150

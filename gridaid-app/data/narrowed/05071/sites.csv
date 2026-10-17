@@ -1,0 +1,59 @@
+name,lat,lon,type,osm
+Mulberry Grove School,35.684526,-93.461017,school,node/358976473
+Clarksville Elementary School,35.461195,-93.482963,school,node/358998520
+Clarksville Junior High School,35.460785,-93.488584,school,node/358998525
+Lamar Elementary School,35.435267,-93.396153,school,node/358998573
+Oark Elementary School,35.688411,-93.577407,school,node/358998582
+Oark High School,35.688491,-93.576536,school,node/358998585
+Westside Elementary School,35.439067,-93.67225,school,node/358998601
+Westside High School,35.4419,-93.65415,school,node/358998604
+Beech Grove School,35.63897,-93.224343,school,node/359006910
+Bluff Spring School,35.70397,-93.256566,school,node/359007223
+Gillian School,35.612304,-93.427127,school,node/359008186
+Minnow Creek School,35.529804,-93.383792,school,node/359008781
+Mount Pleasant School,35.638971,-93.473795,school,node/359008943
+Mount Pleasant School,35.672026,-93.381292,school,node/359008946
+Mount Vernon School,35.55036,-93.427683,school,node/359008957
+Mount Zion School,35.559527,-93.455461,school,node/359008979
+Oak Grove School,35.644248,-93.435461,school,node/359009218
+Pleasant Ridge School,35.564526,-93.391848,school,node/359009498
+Red Oak School,35.530082,-93.282122,school,node/359009577
+Stillwell School,35.515285,-93.470595,school,node/359009897
+Strawberry School,35.543415,-93.355458,school,node/359009921
+Summerland School,35.53397,-93.251566,school,node/359009941
+Union School,35.634526,-93.329624,school,node/359010031
+Woods Mountain School,35.582582,-93.348513,school,node/359010194
+Michie School,35.480083,-93.473795,school,node/359014634
+New Life Christian School,35.470084,-93.516019,school,node/359014937
+Clarksville Adult Education Center,35.480083,-93.473518,school,node/359014954
+Lamar Middle School,35.433352,-93.394936,school,node/359014973
+Coal Hill Volunteer Fire Department,35.438245,-93.674736,fire_station,node/367129262
+Johnson County Rural Fire Department 1 (Mount Vernon),35.530007,-93.428787,fire_station,node/367129798
+Johnson County Rural Fire District #3 Station 3,35.554121,-93.317261,fire_station,node/367129799
+Johnson County Rural Fire Department 10,35.690454,-93.572043,fire_station,node/367129800
+Johnson County Rural Fire Department 1 Substation,35.551367,-93.427747,fire_station,node/367129801
+Johnson County Rural Fire Department 2 Substation (Harmony),35.549197,-93.560312,fire_station,node/367129802
+Johnson County Rural Fire Department 2 (Woodland),35.516675,-93.51638,fire_station,node/367129803
+Johnson County Rural Fire Department 4,35.43117,-93.61494,fire_station,node/367129804
+Johnson County Rural Fire Department 3 Substation,35.538618,-93.244716,fire_station,node/367129806
+Lamar Volunteer Fire Station,35.445052,-93.393687,fire_station,node/367129882
+Knoxville Fire Sub Station,35.387265,-93.350483,fire_station,node/367129905
+Knoxville Volunteer Fire Department,35.37927,-93.36586,fire_station,node/367129906
+Johnson County Rural Fire District 3,35.513945,-93.353151,fire_station,node/367129924
+Johnson County Rural Fire Department Station 11,35.610227,-93.692604,fire_station,node/367129925
+Johnson County Rural Fire Department 9 (Spadra),35.426476,-93.525476,fire_station,node/367129926
+Johnson County Rural Fire Department 8 (Hunt),35.532388,-93.656024,fire_station,node/367129927
+Johnson County Rural Fire Department 7 (Lutherville),35.484508,-93.277317,fire_station,node/367129928
+Johnson County Rural Fire Department 6,35.637705,-93.442446,fire_station,node/367129929
+Johnson County Rural Fire Department 5 (Flat Rock),35.357854,-93.315762,fire_station,node/367129930
+Johnson County Rural Fire District #3 Station 2,35.520379,-93.283546,fire_station,node/12523083782
+Clarksville Volunteer Fire Department,35.470573,-93.468266,fire_station,way/769178194
+Robson Library,35.476223,-93.46722,library,way/769180504
+Holman-Lutherville Community Center,35.483723,-93.279279,community_centre,way/778967720
+Westside School,35.434239,-93.61653,school,way/973367647
+Clarksville High School,35.464015,-93.504924,school,way/1083920962
+Clarksville Primary School,35.46105,-93.504435,school,way/1083920964
+RFD 1,35.511979,-93.471266,fire_station,way/1207844692
+Fire Station (w1228949634),35.530019,-93.428834,fire_station,way/1228949634
+Fire Station (w1238387194),35.690475,-93.572051,fire_station,way/1238387194
+RFD 2 Station 2,35.549281,-93.560635,fire_station,way/1369765961

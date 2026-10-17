@@ -1,0 +1,78 @@
+name,lat,lon,type,osm
+Bell Meade School,35.083148,-90.269541,school,node/358967363
+Bruins School,34.903707,-90.366488,school,node/358968371
+Buck Lake School,35.202867,-90.422879,school,node/358968424
+Chatfield School,35.016205,-90.38621,school,node/358969153
+Dunbar High School,35.262588,-90.454547,school,node/358970399
+Ebony School,35.191757,-90.257596,school,node/358970518
+Friendship School,35.027593,-90.373432,school,node/358971121
+McNeil School,35.232311,-90.34621,school,node/358975369
+New Mount Zion School,34.860375,-90.400378,school,node/358976887
+Pilgrim Rest School,35.17009,-90.410656,school,node/358978048
+Roberta Island School,35.207312,-90.254263,school,node/358979236
+Smith Perkins School,35.206756,-90.389545,school,node/358981047
+Snowden School,34.964262,-90.338154,school,node/358981092
+Walnut Grove School,34.893708,-90.308153,school,node/358982923
+Walnut Ridge School,35.178423,-90.433157,school,node/358982944
+Wonder High School,35.137035,-90.163983,school,node/358983851
+Bragg Elementary School,35.155437,-90.191444,school,node/359003160
+Crawfordsville Elementary School,35.229663,-90.340221,school,node/359003184
+Crawfordsville High School,35.229455,-90.338929,school,node/359003189
+Earle Elementary School,35.271319,-90.470853,school,node/359003196
+Earle High School,35.276409,-90.462543,school,node/359003202
+Earle Middle School,35.271198,-90.471492,school,node/359003204
+Steudlein Learning Center,35.164253,-90.187498,school,node/359003349
+West Junior High School,35.155321,-90.192915,school,node/359003369
+Wonder Elementary School,35.136316,-90.167105,school,node/359003385
+Wonder Junior High School,35.136606,-90.164914,school,node/359003387
+Wedlock Elementary School,35.100092,-90.313708,school,node/359011044
+Avondale Elementary School,35.162577,-90.207811,school,node/359021790
+Jackson Elementary School,35.142148,-90.155384,school,node/359021920
+Maddox Elementary School,35.153979,-90.15676,school,node/359021938
+J S Phelix Elementary School,35.222867,-90.202873,school,node/359021974
+Richland Elementary School,35.154282,-90.208864,school,node/359021984
+Dunbar Elementary School,35.271476,-90.470936,school,node/359023847
+Maddux Elementary School,35.153946,-90.157278,school,node/359023851
+Dunbar Middle School,35.263066,-90.454405,school,node/359024457
+Anthonyville Volunteer Fire Department,35.040112,-90.339192,fire_station,node/367129002
+Earle Fire Station,35.270649,-90.464174,fire_station,node/367129360
+Crawfordsville Volunteer Fire Station,35.2264,-90.326235,fire_station,node/367129392
+Heafer East Black Oak Volunteer Fire Department,35.366408,-90.358377,fire_station,node/367129708
+Jericho Fire Department,35.288241,-90.228775,fire_station,node/367129782
+Horseshoe Lake Volunteer Fire Department,34.913781,-90.307595,fire_station,node/367129834
+West Memphis Fire Department Station 1,35.147786,-90.176197,fire_station,node/367130448
+West Memphis Fire Department Station 5,35.153812,-90.20148,fire_station,node/367130449
+West Memphis Fire Department Out of Service Station,35.153826,-90.154676,fire_station,node/367130450
+Sunset Fire Department,35.222332,-90.204871,fire_station,node/367130476
+West Memphis Fire Department Station 4,35.13888,-90.162145,fire_station,node/367130790
+Earle Community Center,35.275329,-90.479553,community_centre,node/5885364241
+Gilmore Library,35.412546,-90.280762,library,node/13401905301
+Edmondson Library,35.102697,-90.308356,library,node/14110345566
+Faulk Elementary School,35.135634,-90.20522,school,way/271212308
+West Memphis High School,35.147671,-90.19914,school,way/303644442
+Weaver Elementary School,35.154516,-90.168924,school,way/318775643
+Richland Elementary,35.154438,-90.209302,school,way/380820990
+Maddux Elementary,35.154467,-90.156491,school,way/383798480
+Marion Junior High School,35.192045,-90.196477,school,way/518708110
+Marion Middle School,35.195568,-90.199348,school,way/518708132
+Marion High School,35.195585,-90.195329,school,way/518708133
+Marion Fire Department Station 2,35.193351,-90.193588,fire_station,way/518708225
+School (w623163922),35.274578,-90.48073,school,way/623163922
+Eugene Woods Civic Center,35.144942,-90.189217,community_centre,way/812692487
+Bragg Elementry,35.154939,-90.191475,school,way/1125229968
+West Jr. High,35.154921,-90.192805,school,way/1125229969
+St Michael's Catholic School,35.150809,-90.184057,school,way/1126805382
+School (w1130736845),35.271214,-90.470489,school,way/1130736845
+J W Rich Girl's Club,35.165939,-90.196527,community_centre,way/1303570948
+West Memphis Boy's Club,35.156904,-90.185237,community_centre,way/1303570949
+West Memphis Library,35.14683,-90.178012,library,way/1303575027
+Fire Station (w1449434667),35.193179,-90.193599,fire_station,way/1449434667
+School (w1452111859),35.213537,-90.200326,school,way/1452111859
+Library (w1452111861),35.215538,-90.198688,library,way/1452111861
+Marion Fire Department Station 1,35.213783,-90.203368,fire_station,way/1452111865
+Marion Elementary School,35.213604,-90.199663,school,way/1460117999
+Fire Station (w1460120908),35.226421,-90.325858,fire_station,way/1460120908
+School (w1461327624),35.379871,-90.254831,school,way/1461327624
+Turrell Volunteer Fire Department,35.372354,-90.259662,fire_station,way/1461327630
+Gilmore Volunteer Fire Department,35.410883,-90.279165,fire_station,way/1461329540
+Edmondson Volunteer Fire Department,35.10319,-90.308283,fire_station,way/1551340784

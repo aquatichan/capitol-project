@@ -1,0 +1,37 @@
+name,lat,lon,type,osm
+De Witt High School,34.277044,-91.349843,school,node/358970230
+Eastside School,34.501764,-91.540406,school,node/358970474
+Holman High School,34.507319,-91.558462,school,node/358972955
+Hopewell School,34.376767,-91.141784,school,node/358973193
+De Witt Middle School,34.2976,-91.342065,school,node/358992742
+Gillett Elementary School,34.114237,-91.382612,school,node/358992788
+Gillett High School,34.114547,-91.382815,school,node/358992790
+Grand Prairie Christian Academy,34.501208,-91.560962,school,node/358992795
+Holy Rosary School,34.485669,-91.561579,school,node/358992836
+Humphrey Elementary School,34.422874,-91.702353,school,node/358992843
+Phillips Community College,34.27233,-91.349537,school,node/358992937
+Stuttgart Middle School,34.484541,-91.55985,school,node/358993029
+Saint Johns School,34.481486,-91.556795,school,node/359013363
+Northside Elementary School,34.512875,-91.550961,school,node/359021955
+Westside Elementary School,34.294822,-91.339843,school,node/359022030
+Dewitt High School,34.277277,-91.34948,school,node/359024185
+Stuttgart Junior High School,34.476683,-91.557765,school,node/359024192
+Almyra Volunteer Fire Department,34.405672,-91.415431,fire_station,node/367128990
+Alcorn Fire Station,34.372407,-91.649156,fire_station,node/367129041
+Casscoe Fire Station,34.523783,-91.318739,fire_station,node/367129227
+Crocketts Bluff Volunteer Fire Department,34.443909,-91.258205,fire_station,node/367129394
+Gillett Fire Station,34.117148,-91.379285,fire_station,node/367129678
+Humphrey Volunteer Fire Department Substation 2,34.41831,-91.705932,fire_station,node/367129847
+One Horse Volunteer Fire Department Substation,34.261897,-91.557909,fire_station,node/367130201
+One Horse Volunteer Fire Department,34.221367,-91.493912,fire_station,node/367130202
+Tichnor Fire Station,34.14068,-91.270612,fire_station,node/367130525
+Stuttgart Public Library,34.482567,-91.558849,library,node/367130951
+Humphrey Volunteer Fire Substation 1,34.421449,-91.704481,fire_station,node/367131559
+Stuttgart Fire Department,34.491326,-91.553137,fire_station,node/5282673485
+Lutheran School,34.499039,-91.551006,school,way/116254214
+Park Avenue Elementary School,34.492269,-91.54179,school,way/546665271
+Stuttgart High School,34.47649,-91.557421,school,way/1201431057
+Saint Charles Fire Station,34.374517,-91.135857,fire_station,way/1460824903
+Fire Station (w1485806924),34.421473,-91.704516,fire_station,way/1485806924
+DeWitt Public Library;De Witt Public Library,34.297139,-91.335483,library,way/1568307412
+DeWitt Fire Station,34.29667,-91.33542,fire_station,way/1568307413

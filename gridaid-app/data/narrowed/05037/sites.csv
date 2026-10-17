@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Campbell School,35.209255,-90.561217,school,node/358968675
+Rolfe School,35.180645,-90.650942,school,node/358979448
+Tilton School,35.315919,-90.995953,school,node/358981874
+Cross County High School,35.403974,-90.806784,school,node/358991878
+Vanndale Elementary School,35.314281,-90.773771,school,node/358991956
+Wynne High School,35.229529,-90.782613,school,node/358991969
+Wynne Intermediate School,35.232049,-90.780881,school,node/358991973
+Wynne Primary School,35.234258,-90.778723,school,node/358991975
+Wynne Junior High School,35.242107,-90.777853,school,node/358991983
+Burr School,35.363141,-90.578996,school,node/359011642
+Bay Village Fire Department,35.446227,-90.674877,fire_station,node/367129144
+Parkin Volunteer Fire Department,35.266998,-90.558216,fire_station,node/367130236
+Vanndale Volunteer Fire Department,35.313219,-90.773619,fire_station,node/367130402
+Cross County Library,35.224181,-90.788779,library,node/367130654
+Community Centre (n5885256805),35.227982,-90.796008,community_centre,node/5885256805
+Wynne Scout Hut,35.232135,-90.788969,community_centre,way/779735789
+School (w1165981100),35.399293,-90.993943,school,way/1165981100
+Hickory Ridge Volunteer Fire Station,35.401883,-90.996364,fire_station,way/1165981101
+School (w1457922580),35.314263,-90.774034,school,way/1457922580
+Cross County Library,35.402976,-90.752996,library,way/1476581445
+Fire Station (w1476581467),35.40201,-90.755432,fire_station,way/1476581467
+Fire Station (w1483586633),35.242852,-91.031933,fire_station,way/1483586633
+Wynne Senior Citizens Center,35.221236,-90.785709,community_centre,way/1550861344
+Wynne Fire Department,35.231361,-90.785675,fire_station,way/1550861352

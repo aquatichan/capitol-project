@@ -1,0 +1,13 @@
+name,lat,lon,type,osm
+Bayside Fire Department,57.825348,-152.355168,fire_station,node/3655674134
+Main Elementary,57.795274,-152.391622,school,node/7773686281
+Child Development Center,57.740277,-152.499167,school,node/11081590805
+Kodiak High School,57.79354,-152.394381,school,node/12634501469
+Coast Guard Fire & Rescue,57.748741,-152.496013,fire_station,way/238688013
+Karluk School,57.562447,-154.43686,school,way/245239919
+Ouzinkie School,57.922552,-152.507285,school,way/245270124
+Akhiok School,56.946802,-154.173267,school,way/592806014
+Kodiak Public Library,57.792156,-152.398294,library,way/595256038
+School (w889348382),57.747133,-152.497158,school,way/889348382
+Coast Guard Base Kodiak Fire And Rescue,57.748285,-152.495214,fire_station,way/889350686
+North Star Elementary,57.821581,-152.365363,school,way/1537595769

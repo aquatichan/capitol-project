@@ -1,0 +1,88 @@
+name,lat,lon,type,osm
+Assumption School,32.434367,-87.034911,school,node/358905567
+Berlin Normal School,32.200697,-86.949152,school,node/358906040
+Brantley High School,32.424179,-86.960961,school,node/358906922
+Crossroad School,32.081811,-86.946651,school,node/358909733
+Old Dallas Academy School,32.407831,-87.02276,community_centre,node/358909900
+East Dallas School,32.274084,-86.988701,school,node/358910529
+El Bethel School,32.465691,-87.091936,school,node/358910810
+Gloss School,32.312084,-87.229993,school,node/358912831
+Harrell Crossroads School,32.429303,-87.209439,school,node/358914540
+Hope School,32.255418,-87.065267,school,node/358916149
+Hopewell School,32.113477,-87.00943,school,node/358916300
+Industrial School,32.489024,-86.89971,school,node/358916701
+Jerusalem School,32.385693,-86.971655,school,node/358917070
+John the Baptist School,32.303195,-87.206382,school,node/358917134
+Keith High School,32.291806,-87.235827,school,node/358917467
+King School,32.350693,-86.919153,school,node/358917657
+Martin Station School,32.310139,-87.298606,school,node/358919493
+Molette Bend School,32.18792,-87.141656,school,node/358920217
+Morning Star School,32.450413,-87.161104,school,node/358920374
+Mount Arara School,32.222085,-86.909151,school,node/358920480
+Mount Leveton School,32.242363,-87.099989,school,node/358920728
+Mount Olive School,32.252362,-86.951653,school,node/358921038
+Mount Olive School,32.404581,-87.245828,school,node/358921040
+Mount Zion School,32.421247,-87.089436,school,node/358921500
+New Hope School,32.34486,-87.094435,school,node/358922128
+Providence School,32.236808,-87.248604,school,node/358925480
+Saint Elizabeths School,32.417359,-87.027212,school,node/358927509
+Sand Ridge School,32.348194,-87.022211,school,node/358928149
+Shiloh High School,32.289862,-87.014988,school,node/358928776
+Shiloh Junior High School,32.413192,-87.126381,school,node/358928778
+Silome School,32.251807,-87.187492,school,node/358928864
+Sister Springs School,32.328981,-86.949148,school,node/358928951
+Tilden School,32.092923,-87.148044,school,node/358930240
+Tyler Union School,32.325752,-86.890221,school,node/358930601
+Union Grove School,32.424333,-87.047926,school,node/358930771
+Union Grove School,32.424858,-87.241939,school,node/358930774
+Five Points Elementary School,32.24403,-87.227215,school,node/358963860
+Dallas County Area Vocational School,32.372915,-87.016656,school,node/358964249
+Pine Flat School,32.652909,-86.922767,school,node/358967073
+Alabama Academy,32.424858,-87.018045,school,node/358970623
+Baker School,32.411803,-87.020268,school,node/358970628
+Hunter School,32.179031,-86.954985,school,node/358974320
+Mount Calvary School,32.063479,-87.131376,school,node/358975350
+Thomas School,32.412914,-87.006934,school,node/358978159
+Tipton High School,32.370415,-87.016378,school,node/358978188
+Tremont School,32.411526,-87.026379,school,node/358978219
+Salem Elementary School,32.34986,-87.26055,school,node/358980419
+Dallas County Resource Learning Center,32.420136,-86.967488,school,node/358980458
+Dallas Christian School,32.456524,-87.00749,school,node/358980479
+Shiloh Elementary School,32.289028,-87.013877,school,node/358981820
+Cedar Park Elementary School,32.443747,-87.025546,school,node/358983032
+Meadowview Christian School,32.405692,-87.062491,school,node/358983050
+Meadowview Elementary School,32.402637,-87.066935,school,node/358983054
+Morgan Academy,32.389883,-87.077031,school,node/358983058
+Valley Grande Elementary School,32.497357,-86.983323,school,node/358983073
+Annemanie School,32.051812,-87.039152,school,node/358988067
+Dallas County High School,32.661697,-86.929535,school,node/358993340
+J E Terry Elementary School,32.653464,-86.925267,school,node/358993345
+Byrd Elementary School,32.411095,-87.03097,school,node/358998590
+Clark Elementary School,32.412081,-87.017767,school,node/358998636
+Edgewood Elementary School,32.431942,-87.029187,school,node/358998721
+Knox Elementary School,32.415692,-87.028323,school,node/358998877
+Southside High School,32.326785,-86.929244,school,node/358999124
+Library (n2398629196),32.419804,-87.031357,library,node/2398629196
+Bruce K Craig,32.361197,-86.986628,school,node/4567881311
+Joshua House,32.366885,-86.987225,community_centre,node/4567907708
+Tyler Volunteer Fire Dept.,32.316053,-86.886483,fire_station,node/4567931061
+Old Armory Community Center,32.393454,-87.070384,community_centre,node/4687793454
+Fire Station (n4688025719),32.420184,-87.023733,fire_station,node/4688025719
+Summerville Volunteer Fire Station 2,32.47525,-87.113098,fire_station,node/13758896914
+Southside Primary School,32.365473,-86.985924,school,way/474858162
+Selma Dallas County Public Library,32.409491,-87.020233,library,way/830469590
+R. B. Hudson Middle School,32.422169,-87.033533,school,way/849389431
+Selma High School,32.428424,-87.021457,school,way/849389440
+School (w988716986),32.412276,-87.018184,school,way/988716986
+School (w992019266),32.424871,-86.960825,school,way/992019266
+School (w992763080),32.361189,-86.986351,school,way/992763080
+School (w994982505),32.411044,-87.031077,school,way/994982505
+Payne Elementary School,32.420713,-87.02095,school,way/999085371
+School (w1000625602),32.443473,-87.025685,school,way/1000625602
+East End Elementary School,32.406433,-87.003282,school,way/1070340648
+School (w1184854114),32.43211,-87.029368,school,way/1184854114
+School (w1184854115),32.43151,-87.029354,school,way/1184854115
+School (w1184854116),32.432826,-87.029445,school,way/1184854116
+School (w1184854117),32.432752,-87.029178,school,way/1184854117
+Selma Fire Department,32.414733,-87.00655,fire_station,way/1356541843
+Sophia P. Kingston Elementary School,32.413594,-87.007519,school,way/1356541844

@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Pension Mountain School,36.295071,-93.599356,school,node/358977906
+Berryville Elementary School,36.369481,-93.575186,school,node/359005091
+Berryville High School,36.36951,-93.574909,school,node/359005095
+Eureka Springs Elementary School,36.381623,-93.732284,school,node/359005159
+Berryville Middle School,36.368902,-93.575011,school,node/359023642
+Eureka Springs Middle School,36.382618,-93.733802,school,node/359023643
+Berryville Fire Department,36.368654,-93.569978,fire_station,node/367129097
+Eureka Springs Fire Department Station 4,36.397039,-93.71281,fire_station,node/367129552
+Grassy Knob Volunteer Fire Department,36.405521,-93.834059,fire_station,node/367129653
+Green Forest Volunteer Fire Department,36.33414,-93.43029,fire_station,node/367129658
+Inspiration Point Volunteer Fire Department Main Station,36.44308,-93.796129,fire_station,node/367129820
+Inspiration Point Volunteer Fire Department Substation,36.470754,-93.841221,fire_station,node/367129822
+Holiday Island Volunteer Fire Department Station 2,36.453486,-93.720538,fire_station,node/367129855
+Holiday Island Volunteer Fire Department Station 3,36.488871,-93.775426,fire_station,node/367129856
+Holiday Island Volunteer Fire Department Station 1,36.482647,-93.752705,fire_station,node/367129858
+Holiday Island Volunteer Fire Department Station 4,36.475594,-93.774629,fire_station,node/367129861
+Oak Grove Volunteer Fire Department Station 2,36.456019,-93.440063,fire_station,node/367130069
+Oak Grove Volunteer Fire Department Station 1,36.455992,-93.436415,fire_station,node/367130070
+South Carroll County Volunteer Fire Department Station 1,36.20422,-93.4792,fire_station,node/367130265
+South Carroll County Volunteer Fire Department Substation,36.178983,-93.404604,fire_station,node/367130325
+Holiday Island Fire Department,36.479734,-93.750365,fire_station,node/367130684
+Main Stage Creative Community,36.403108,-93.735788,community_centre,node/12745304859
+Berryville Public Library,36.363493,-93.564766,library,node/14106092965
+Eureka Springs Carnegie Public Library,36.407577,-93.73666,library,way/159809347
+Clear Spring School,36.408,-93.745154,school,way/360957182
+Eureka Springs Community Center,36.398058,-93.745554,community_centre,way/707402546
+Eureka Springs Public Schools,36.381152,-93.733083,school,way/710049914
+Eureka Springs High School,36.381515,-93.734667,school,way/1283708357
+Green Forest Elementary School,36.331174,-93.432145,school,way/1328671851
+Green Forest Intermediate School,36.329854,-93.432758,school,way/1328698125
+Eureka Springs Fire & EMS Station #3,36.400897,-93.739215,fire_station,way/1544585362
+Green Forest Public Library,36.335719,-93.434267,library,way/1551564574
+Green Forest High School,36.329316,-93.434558,school,relation/18218705

@@ -1,0 +1,73 @@
+name,lat,lon,type,osm
+Willow Fire Station 12-1,61.740178,-150.050652,fire_station,node/1237426934
+Trapper Creek Public Library,62.307776,-150.23887,library,node/3006129336
+Fire Station (n3006129342),62.307781,-150.238482,fire_station,node/3006129342
+Redington High School,61.501543,-149.702639,school,node/3927359591
+Houston Volunteer Fire Department,61.63132,-149.804477,fire_station,node/4993661002
+Fire Station (n5917189714),61.586282,-149.361038,fire_station,node/5917189714
+Phillips PSB 3-3,61.628716,-149.050866,fire_station,node/9586113728
+Alvin S. Okeson Library,61.579428,-149.240451,library,node/13804963704
+Meadow Lakes / Pittman Fire Station,61.628727,-149.512604,fire_station,way/176728900
+MSB Public Safety Building,61.583916,-149.451942,fire_station,way/228024307
+Talkeetna Fire Department Station 11 - 1,62.318762,-150.106912,fire_station,way/281268819
+Daniel M. Contini Fire Station,61.600198,-149.117732,fire_station,way/352421818
+Palmer Senior Center,61.594642,-149.111981,community_centre,way/352648271
+Pioneer Peak Elementary School,61.602479,-149.242154,school,way/353359421
+Library (w379988006),61.58295,-149.440902,library,way/379988006
+School (w389537400),61.588853,-149.431163,school,way/389537400
+School (w389548587),61.60848,-149.303371,school,way/389548587
+Snowshoe Elementary School,61.530794,-149.502005,school,way/389548617
+School (w389548637),61.539806,-149.81858,school,way/389548637
+School (w389548655),61.53692,-149.006558,school,way/389548655
+School (w389548675),61.610499,-149.385978,school,way/389548675
+School (w389548732),61.549518,-149.324371,school,way/389548732
+School (w389555204),61.627209,-149.359982,school,way/389555204
+School (w389568878),61.540174,-149.613055,school,way/389568878
+School (w389568905),61.610676,-149.621843,school,way/389568905
+Teeland Middle School,61.611275,-149.363287,school,way/389592388
+Central Mat-Su Fire Station 51,61.559091,-149.249291,fire_station,way/389605443
+School (w389803977),61.7418,-150.045866,school,way/389803977
+Butte Fire Department,61.544951,-149.032976,fire_station,way/443816092
+Willow Public Library,61.745059,-150.051684,library,way/509979814
+Colony Schools,61.606658,-149.216474,school,way/567650697
+Old Fire Station,61.530534,-149.607832,fire_station,way/601465515
+School (w627057616),61.60234,-149.241946,school,way/627057616
+Cottonwood Creek Action School,61.588578,-149.363562,school,way/628725845
+Colony Middle School,61.608908,-149.220045,school,way/631188844
+Colony High School,61.608271,-149.212684,school,way/631191366
+Palmer Public Library,61.607076,-149.113371,library,way/631356842
+Matanuska-Susitna Borough School District,61.61197,-149.099284,school,way/631743765
+Tanaina Elementary School,61.607966,-149.45418,school,way/636456568
+Twindly Bridge Charter School,61.614413,-149.449302,school,way/637350143
+Wasilla Public Library,61.583703,-149.43084,library,way/638915028
+Central Mat-Su Fire Station 52,61.614981,-149.255151,fire_station,way/639208488
+Sutton Public Library,61.711011,-148.876864,library,way/672198924
+Palmer High School,61.60424,-149.137163,school,way/934888502
+Mat-su Day School,61.605702,-149.350899,school,way/936997874
+Birchtree Charter School,61.598461,-149.272213,school,way/954419854
+Academy Charter School,61.608576,-149.096355,school,way/955447716
+Iditarod Elementary School,61.590172,-149.438842,school,way/956998696
+Fire Station (w961233075),61.569943,-149.704187,fire_station,way/961233075
+Valley Pathway High School,61.590777,-149.166468,school,way/961803472
+Burchell High School,61.580358,-149.494454,school,way/969615406
+Greater Palmer Fire Service Area Station 32,61.649804,-149.112745,fire_station,way/971256770
+Alaska Operating Engineers Employers Training Center,61.638741,-149.218554,school,way/983726378
+Fire Station 51,61.562065,-149.285201,fire_station,way/984816564
+Sutton Volunteer Fire Department,61.709777,-148.894642,fire_station,way/988204251
+Sutton Elementary School,61.715933,-148.879847,school,way/988204257
+Butte Voulenteer Fire Department - Station 2-2,61.485599,-148.899009,fire_station,way/1002473175
+Susitna Valley Junior/Senior High School,62.131967,-150.043957,school,way/1021285519
+Talkeetna Fire Department Station 11 - 2,62.135505,-150.042771,fire_station,way/1021285534
+Talkeetna Public Library,62.300364,-150.084633,library,way/1032698166
+Fire Station (w1050708952),61.610909,-149.626151,fire_station,way/1050708952
+Palmer Middle School,61.593411,-149.107354,school,way/1058450116
+Mat-Su Career and Technical High School,61.60839,-149.363169,school,way/1059933447
+Central Mat-Su Fire Station 62,61.531123,-149.606843,fire_station,way/1087619511
+School (w1187681695),61.501337,-149.699572,school,way/1187681695
+The Altitude,62.554089,-150.221009,community_centre,way/1189436821
+School (w1212800369),61.588336,-149.771778,school,way/1212800369
+School (w1245387240),61.586385,-149.339547,school,way/1245387240
+Central Mat-Su Fire Station 66,61.528479,-149.504268,fire_station,way/1282344026
+Big Lake Public Library,61.547525,-149.819944,library,way/1339757812
+Glacier View School,61.793498,-147.725248,school,way/1349131509
+Talkeetna Elementary School,62.317248,-150.108054,school,relation/20352849

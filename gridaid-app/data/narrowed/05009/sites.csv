@@ -1,0 +1,54 @@
+name,lat,lon,type,osm
+Oak Grove School,36.256737,-93.094065,school,node/358977350
+Plumly School,36.234793,-93.24768,school,node/358978609
+Bergman Elementary School,36.313758,-93.016469,school,node/359005265
+Central Elementary School,36.229511,-93.112677,school,node/359005302
+Harrison Christian Academy,36.252849,-93.119344,school,node/359005374
+Lead Hill Elementary School,36.406458,-92.908232,school,node/359005389
+North Arkansas Community College,36.219531,-93.087749,school,node/359005409
+Omaha Elementary School,36.449236,-93.19601,school,node/359005435
+Omaha High School,36.448364,-93.196084,school,node/359005440
+Valley Springs Elementary School,36.159093,-92.99388,school,node/359005476
+Valley Springs High School,36.158385,-92.994829,school,node/359005481
+Twin Lakes School,36.247571,-93.110177,school,node/359013849
+Bergman High School,36.314353,-93.017083,school,node/359021813
+Eagle Heights Elementary School,36.236212,-93.098993,school,node/359021872
+Forest Heights Elementary School,36.218402,-93.123507,school,node/359021888
+Lead Hill High School,36.406458,-92.908502,school,node/359021933
+Skyline Heights Elementary School,36.238681,-93.121567,school,node/359021996
+Woodland Heights Elementary School,36.218402,-93.101006,school,node/359022039
+Omaha Middle School,36.449421,-93.195293,school,node/359023652
+Valley Springs Middle School,36.157724,-92.99233,school,node/359024448
+Bergman Fire Department Station 2,36.336212,-93.008765,fire_station,node/367129101
+Bergman Fire Station 1,36.300757,-93.023557,fire_station,node/367129103
+Capps - Batavia Fire Station,36.259983,-93.229671,fire_station,node/367129229
+Capps - Batavia Fire Department Station 1,36.237316,-93.187001,fire_station,node/367129235
+Capps - Batavia Fire Department Station 3,36.29786,-93.184261,fire_station,node/367129236
+Cottonwood Fire Department Station 1,36.314237,-93.117353,fire_station,node/367129284
+Diamond City Fire Station,36.455493,-92.917688,fire_station,node/367129338
+Cottonwood Fire Department Station 2,36.348738,-93.138404,fire_station,node/367129373
+Hill Top Fire Department Station 2,36.153894,-93.228897,fire_station,node/367129701
+Hill Top Fire Department Station 1,36.149069,-93.253175,fire_station,node/367129702
+Harmon Fire Department Station 2,36.19061,-92.966101,fire_station,node/367129734
+Harmon Fire Department Station 1,36.21326,-92.921633,fire_station,node/367129735
+Harrison Fire Department Station 2,36.249868,-93.120035,fire_station,node/367129748
+Harrison Fire Department Station 1,36.228975,-93.110321,fire_station,node/367129750
+Lead Hill Fire Department,36.418189,-92.912395,fire_station,node/367129873
+Krooked Kreek Volunteer Fire Department Southern Hills Substation,36.20346,-93.122522,fire_station,node/367129901
+Krooked Kreek Fire Station Gaither,36.143668,-93.17144,fire_station,node/367129903
+Krooked Kreek Volunteer Fire Department,36.140189,-93.124062,fire_station,node/367129904
+Omaha Fire Department,36.453545,-93.188194,fire_station,node/367130056
+Valley Springs Fire Department Station 4,36.154015,-92.906414,fire_station,node/367130435
+Valley Springs Fire Department Station 3,36.197055,-93.044965,fire_station,node/367130436
+Valley Springs Fire Department Station 2,36.155765,-92.993341,fire_station,node/367130437
+Zinc Volunteer Fire Department,36.288609,-92.916766,fire_station,node/367130749
+F.S. Garrison Stadium & Cash Center,36.240908,-93.131741,school,way/501501925
+Boone County Library,36.230029,-93.109557,library,way/1060180863
+Harrison Fire Department Station 3,36.263194,-93.151264,fire_station,way/1060189249
+School (w1098114854),36.40577,-92.908175,school,way/1098114854
+Alpena Volunteer Fire Department,36.29522,-93.289708,fire_station,way/1328585509
+Alpena Community Center,36.294936,-93.292277,community_centre,way/1328585747
+Valley Springs Fire Department Station 1,36.137636,-92.975928,fire_station,way/1379149857
+Valley Springs School District,36.158788,-92.993246,school,way/1475087829
+School (w1475097460),36.314565,-93.016957,school,way/1475097460
+School (w1475097464),36.313932,-93.021049,school,way/1475097464

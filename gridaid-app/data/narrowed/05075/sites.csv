@@ -1,0 +1,41 @@
+name,lat,lon,type,osm
+Count School,35.962573,-91.164016,school,node/358969875
+White Oak School,36.088125,-90.914286,school,node/358983461
+Lynn Elementary School,36.010043,-91.253393,school,node/358991742
+Lynn High School,36.010104,-91.252726,school,node/358991744
+Black Rock Elementary School,36.10961,-91.102851,school,node/358991758
+Hoxie Elementary School,36.05167,-90.981586,school,node/358991766
+Hoxie High School,36.051493,-90.980594,school,node/358991769
+Walnut Ridge High School,36.062387,-90.957244,school,node/358991773
+Walnut Ridge Elementary School,36.06282,-90.954877,school,node/358991776
+Walnut Ridge Middle School,36.061182,-90.954564,school,node/358991778
+Strawberry High School,35.96535,-91.322354,school,node/358991784
+Strawberry Elementary School,35.965859,-91.323338,school,node/358991793
+Clover Bend High School,35.982017,-91.094291,school,node/359001098
+Black Rock High School,36.109947,-91.103517,school,node/359023675
+River Valley High School,35.965906,-91.321798,school,node/359023677
+Hillcrest High School,35.96588,-91.321647,school,node/359024426
+Hillcrest Junior High School,36.009859,-91.252723,school,node/359024427
+River Valley Elementary School,35.965223,-91.322358,school,node/359024443
+Alicia Volunteer Fire Station,35.893426,-91.08357,fire_station,node/367129038
+Black Rock Volunteer Fire Department,36.108554,-91.098083,fire_station,node/367129170
+Clover Bend Volunteer Fire Department,35.981509,-91.093827,fire_station,node/367129265
+Lynn Volunteer Fire Department,36.007693,-91.257206,fire_station,node/367129962
+Ravenden Volunteer Fire Department,36.234021,-91.252094,fire_station,node/367130169
+Smithville Volunteer Fire Department,36.080118,-91.305168,fire_station,node/367130271
+Sedgwick Volunteer Fire Department,36.001663,-90.896315,fire_station,node/367130369
+Saffell Volunteer Fire Department,35.912833,-91.290023,fire_station,node/367130393
+Walnut Ridge Fire Department Station 3,36.066633,-90.954488,fire_station,node/367130459
+Strawberry Volunteer Fire Department,35.967615,-91.320376,fire_station,node/367130495
+Walnut Ridge Fire Department Station #1,36.084454,-90.958349,fire_station,node/4837168947
+Lawrence County Library,36.069173,-90.95599,library,way/899193794
+School (w1272642444),36.060662,-90.956001,school,way/1272642444
+Imboden Volunteer Fire Station,36.1983,-91.185883,fire_station,way/1292714538
+Imboden Housing Authority,36.201298,-91.175119,community_centre,way/1292746971
+Sloan-Hendrix School District,36.200066,-91.186046,school,way/1292892126
+Imboden Public Library,36.199404,-91.169086,library,way/1292895834
+Walnut Ridge Fire Department Station 2,36.124362,-90.926453,fire_station,way/1292977349
+School (w1420327195),36.010494,-91.253212,school,way/1420327195
+School (w1420685517),36.051985,-90.982066,school,way/1420685517
+Fire Station (w1459960596),36.084922,-91.069722,fire_station,way/1459960596
+Fire Station (w1476238448),36.049607,-90.97934,fire_station,way/1476238448

@@ -1,0 +1,21 @@
+name,lat,lon,type,osm
+Monroe Academy,34.907316,-91.1204,school,node/358975549
+Holly Grove Elementary School,34.601092,-91.196961,school,node/358991099
+Holly Grove High School,34.598443,-91.200058,school,node/358991101
+Brinkley High School,34.877187,-91.195332,school,node/358991118
+Clarendon High School,34.695531,-91.306218,school,node/358991156
+Clarendon Elementary School,34.693967,-91.305264,school,node/358991159
+C B Partee Elementary School,34.876483,-91.19818,school,node/359021970
+Brinkley Middle School,34.877188,-91.195335,school,node/359024410
+East Monroe County Rural Fire Department Station 1,34.772221,-91.163911,fire_station,node/367129543
+East Monroe County Fire Department Station 2,34.691678,-91.140186,fire_station,node/367129545
+Maddox Bay Volunteer Fire Department,34.51896,-91.184755,fire_station,node/367129947
+Roe Volunteer Fire Department,34.631049,-91.386509,fire_station,node/367130185
+School (w670472774),34.600906,-91.196676,school,way/670472774
+School (w672182470),34.598714,-91.200007,school,way/672182470
+Brinkley Fire Department,34.89746,-91.193839,fire_station,way/1127631559
+Smith Memorial Library,34.595385,-91.200209,library,way/1451782066
+Holly Grove Community Center,34.595258,-91.200924,community_centre,way/1451782069
+Holly Grove Fire Department,34.596037,-91.201386,fire_station,way/1451782081
+Library (w1452141256),34.888365,-91.194283,library,way/1452141256
+Clarendon Volunteer Fire Department,34.692722,-91.315114,fire_station,way/1460828860

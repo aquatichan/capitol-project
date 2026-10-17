@@ -1,0 +1,26 @@
+name,lat,lon,type,osm
+Greer Junior High School,31.644047,-87.234985,school,node/358913639
+Beatrice Elementary School,31.737655,-87.206375,school,node/358948958
+Blacksher School,31.301004,-87.501376,school,node/358948978
+J F Shields High School,31.732933,-87.196653,school,node/358949026
+Monroe County High School,31.48389,-87.333776,school,node/358949049
+Monroeville Academy,31.475164,-87.340818,school,node/358975234
+Monroe Senior High School,31.772931,-87.486104,school,node/358999321
+Monroe County Area Vocational Center,31.484021,-87.334559,school,node/359003083
+Monroe County Board of Education,31.518497,-87.316777,school,node/359003094
+Uriah Volunteer Fire Department,31.30444,-87.504994,fire_station,node/367931240
+Goodway Volunteer Fire Department,31.33679,-87.425084,fire_station,node/367931246
+North Baldwin - South Monroe Fire Department,31.304819,-87.694412,fire_station,node/367931272
+Frisco City Volunteer Fire / Rescue Department,31.432445,-87.401014,fire_station,node/367931322
+Middle School,31.434031,-87.407134,school,way/1030875053
+Excel High School,31.43285,-87.341939,school,way/1032056601
+C P Carmichael Alternative School,31.483509,-87.335199,school,way/1067942763
+Monroeville Elementary School,31.521798,-87.32457,school,way/1070373268
+Monroeville Middle School,31.523815,-87.329976,school,way/1070373311
+Monroe County Public Library,31.528292,-87.322896,library,way/1070373317
+Monroeville Fire Department Station 1,31.526276,-87.322211,fire_station,way/1070373320
+Union School,31.536382,-87.353931,school,way/1070373373
+Monroeville Fire Station Number 2,31.501617,-87.323566,fire_station,way/1070373435
+Excel Volunteer Fire Department,31.427184,-87.341222,fire_station,way/1262327040
+Excel Community Center,31.427103,-87.342653,community_centre,way/1262327041
+Fire Station (w1525956713),31.50411,-87.395916,fire_station,way/1525956713

@@ -1,0 +1,20 @@
+name,lat,lon,type,osm
+Dewey School,36.416731,-91.559308,school,node/358970283
+Mammoth Spring Elementary School,36.491397,-91.539196,school,node/358994350
+Mammoth Spring High School,36.490779,-91.541007,school,node/358994353
+Salem Elementary School,36.35564,-91.816254,school,node/358994358
+Salem High School,36.359188,-91.816579,school,node/358994360
+Viola Elementary School,36.394812,-91.986522,school,node/358994367
+Viola High School,36.395345,-91.985152,school,node/358994370
+Agnos Glencoe Heart Volunteer Fire Department,36.286743,-91.729152,fire_station,node/367129017
+Byron Volunteer Fire Department,36.323414,-91.959362,fire_station,node/367129189
+Camp Volunteer Fire Department,36.413902,-91.73294,fire_station,node/367129237
+Gepp Volunteer Fire Department,36.388029,-92.104408,fire_station,node/367129677
+Mammoth Springs Volunteer Fire Station,36.495004,-91.539542,fire_station,node/367129954
+Nine Mile Ridge Volunteer Fire Department,36.344378,-91.5463,fire_station,node/367130009
+Morriston Fire Department Station 1,36.265854,-91.788082,fire_station,node/367130105
+Salem Volunteer Fire Department,36.37154,-91.823017,fire_station,node/367130386
+Saddle Fire Station,36.373071,-91.624876,fire_station,node/367130392
+Viola Volunteer Fire Department,36.393491,-91.982631,fire_station,node/367130398
+Sturkie Volunteer Fire Department,36.456808,-91.878573,fire_station,node/367130492
+Morriston Fire Department Old Field Station 2,36.276416,-91.757381,fire_station,way/961348957

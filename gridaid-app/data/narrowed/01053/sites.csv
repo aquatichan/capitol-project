@@ -1,0 +1,55 @@
+name,lat,lon,type,osm
+Freemanville School,31.062957,-87.490816,school,node/358911853
+Freemanville School,31.087401,-87.520262,school,node/358911858
+Escambia Career Readiness Center,31.115455,-87.095248,school,node/358944370
+Escambia County High School,31.007126,-87.486648,school,node/358944372
+Escambia County Training School,31.030736,-87.479148,school,node/358944377
+Wallace School,31.210729,-87.226365,school,node/358944629
+Racheal-Patterson School,31.017959,-87.494148,school,node/358976934
+Canoe Elementary School,31.030459,-87.407201,school,node/358980319
+McCall Junior High School,31.059902,-87.171361,school,node/358998918
+A C Moore Elementary School,31.017959,-87.491926,school,node/358998938
+W S Neal High School,31.090734,-87.056635,school,node/358998967
+North Brewton Elementary School,31.194897,-87.054693,school,node/358998979
+Oak Grove Junior High School,31.115455,-87.096359,school,node/358998992
+Southern Normal High School,31.135177,-87.046636,school,node/358999115
+Flomaton Fire Chief's Office,31.019613,-87.252135,fire_station,node/367930829
+Nokomis Volunteer Fire Department,31.001048,-87.58878,fire_station,node/367931175
+Flomaton Fire Department,30.999919,-87.2625,fire_station,node/367931214
+Atmore Fire Department,31.025204,-87.491914,fire_station,node/367931215
+Appleton Fire Department,31.221375,-87.119864,fire_station,node/367931250
+Poarch Fire Department,31.098241,-87.553852,fire_station,node/367931254
+Flomaton Fire Department,31.019604,-87.252202,fire_station,node/367931257
+Brewton Fire Department,31.112841,-87.073707,fire_station,node/367931258
+McCall Fire Department,31.069298,-87.157394,fire_station,node/367931268
+Boykin-Damascus Volunteer Fire Department,31.168538,-86.866182,fire_station,node/367931308
+Wallace Volunteer Fire Department,31.207081,-87.176118,fire_station,node/367931309
+Pineview-Foshee Volunteer Fire Department,31.129182,-87.280676,fire_station,node/367931310
+Escambia County Fire / Rescue,31.102296,-87.05161,fire_station,node/367931312
+Huxford Volunteer Fire Department,31.220806,-87.462188,fire_station,node/367931316
+East Brewton Fire Department,31.095403,-87.062054,fire_station,node/367931317
+Brooklyn Volunteer Fire Department,31.236148,-86.778741,fire_station,node/367931320
+McCullough Volunteer Fire Department,31.166179,-87.530739,fire_station,node/367931324
+Friendship Volunteer Fire Department,31.032613,-87.177114,fire_station,node/367931327
+Bradley Volunteer Fire Department,31.033162,-86.72705,fire_station,node/367931333
+Poarch Creek Indians Fire Station #2,31.108989,-87.490275,fire_station,node/12994948942
+W.S. Neal Middle School,31.085815,-87.065063,school,node/13784682146
+Rachel Patterson Elementary School,31.018145,-87.503793,school,node/13784724014
+Pollard-McCall Junior High School,31.061247,-87.169899,school,node/13821196628
+School (n13946498376),31.045971,-87.49468,school,node/13946498376
+Escambia County Junior High School,31.015193,-87.485222,school,way/206621801
+Flomaton Public Library,31.001242,-87.261477,library,way/317302887
+Brewton Middle School,31.15452,-87.058654,school,way/466550997
+School (w992265757),31.119571,-87.070272,school,way/992265757
+Brewton Public Library,31.120564,-87.071032,library,way/1343899945
+Atmore Public Library,31.022277,-87.485542,library,way/1343900008
+Poarch Creek Community Center,31.098098,-87.562998,community_centre,way/1353848105
+Fire Station (w1414158763),31.108946,-87.490277,fire_station,way/1414158763
+School (w1480460480),31.11793,-87.073242,school,way/1480460480
+T.R. Miller High School,31.136229,-87.071459,school,way/1480460481
+Huxford Elementary School,31.224645,-87.462788,school,way/1499197074
+T.R. Miller High School,31.138288,-87.069996,school,relation/20236033
+Brewton Elementary School,31.119527,-87.07003,school,relation/20236034
+Turtle Point Science Center,31.008818,-87.273439,school,relation/21026634
+Flomaton High School,31.006055,-87.269136,school,relation/21026635
+Flomaton Elementary School,31.004,-87.268757,school,relation/21026636

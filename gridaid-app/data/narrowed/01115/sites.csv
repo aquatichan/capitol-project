@@ -1,0 +1,53 @@
+name,lat,lon,type,osm
+Chandler Mountain School,33.943431,-86.254145,school,node/358997338
+Coal City School,33.659824,-86.278311,school,node/358997345
+Mount Zion School,33.485662,-86.349423,school,node/358997585
+New Life School,33.571771,-86.232754,school,node/358997597
+South Saint Clair School,33.596492,-86.2822,school,node/358997689
+Coosa Valley Elementary School,33.538161,-86.287477,school,node/358998148
+Moody High School,33.605659,-86.462483,school,node/358998268
+Moody Junior High School,33.596214,-86.497484,school,node/358998271
+Saint Clair County High School,33.677324,-86.397759,school,node/358998328
+Pell City High School,33.584326,-86.294465,school,node/358998341
+Seventh Day Adventist Junior Academy,33.577048,-86.434704,school,node/358998400
+Ragland High School,33.741766,-86.151641,school,node/358998475
+Steele Junior High School,33.941352,-86.202386,school,node/358998481
+Odenville Elementary School,33.67928,-86.397278,school,node/7075426086
+Odenville Middle School,33.677951,-86.3977,school,node/7075426087
+Friendship Fire Department,33.725794,-86.348509,fire_station,node/7075443894
+Odenville Intermediate School,33.678379,-86.39922,school,node/7075443985
+Moody Junior High School,33.60925,-86.45955,school,node/8663785615
+Moody Middle School,33.607219,-86.46244,school,node/8663785616
+Riverside Community Center,33.605022,-86.203605,community_centre,node/10278727235
+Odenville Middle School,33.677603,-86.399386,school,node/12331090181
+Springville Public Library,33.775598,-86.470505,library,way/240657696
+Davis Lake Fire Department,33.770537,-86.47166,fire_station,way/240666040
+Pell City Public Library,33.587694,-86.285576,library,way/288861639
+Pell City Public Library,33.578316,-86.274685,library,way/384931917
+School (w385347405),33.583969,-86.295338,school,way/385347405
+Mccain Memorial Public Library,33.846275,-86.271379,library,way/407222153
+School (w455881936),33.598523,-86.318197,school,way/455881936
+Pleasant Hill Fire & Rescue,33.815791,-86.377212,fire_station,way/477799138
+Springville High School,33.784895,-86.440229,school,way/909081043
+Saint Clair County High School,33.702809,-86.372783,school,way/909200662
+Eden Career Technical Center,33.783014,-86.276564,school,way/923089403
+Ashville High School,33.819107,-86.267181,school,way/928028064
+Margaret Elementary,33.675385,-86.484181,school,way/934333453
+"Moody Middle, Junior High, and High Schools",33.608894,-86.46099,school,way/934912215
+Springville Middle School,33.778055,-86.467736,school,way/934981982
+Springville Elementary School,33.778847,-86.46874,school,way/934981983
+School (w1117523955),33.577371,-86.286572,school,way/1117523955
+School (w1117636235),33.594207,-86.310661,school,way/1117636235
+School (w1150228025),33.560576,-86.266239,school,way/1150228025
+School (w1150228032),33.561882,-86.274965,school,way/1150228032
+School (w1150803965),33.538335,-86.287752,school,way/1150803965
+Margaret Fire Department,33.682836,-86.477224,fire_station,way/1211986696
+Odenville Elementary - Middle School,33.677918,-86.397569,school,way/1332889158
+Odenville Elementary,33.67907,-86.397644,school,way/1332891533
+Doris Stanley Memorial Library,33.593862,-86.494642,library,way/1336653960
+Springville Public Library,33.774236,-86.473296,library,way/1343617927
+Odenville Public Library,33.681193,-86.396621,library,way/1343617990
+Steele Public Library,33.944511,-86.198985,library,way/1347200146
+Ragland Public Library,33.743923,-86.144167,library,way/1347200241
+The Depot,33.781629,-86.435497,community_centre,way/1354526818
+Springville High School,33.784395,-86.43861,school,relation/3247058

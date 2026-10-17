@@ -1,0 +1,56 @@
+name,lat,lon,type,osm
+Bethlehem School,34.46677,-90.61205,school,node/358967752
+Coffee Creek School,34.450657,-90.917058,school,node/358969580
+Gumbottom School,34.468434,-90.925948,school,node/358971905
+Saint Luke School,34.437604,-90.623994,school,node/358979958
+Saint Marys School,34.493713,-90.69372,school,node/358980031
+Turner School,34.470101,-91.000116,school,node/358982134
+Miller Junior High School,34.556212,-90.660377,school,node/358999296
+Barton Elementary School,34.552318,-90.766922,school,node/358999411
+Barton High School,34.552321,-90.767361,school,node/358999415
+Helena Crossing Elementary School,34.496492,-90.612606,school,node/358999444
+United States National River Academy,34.399774,-90.645278,school,node/358999483
+Morning Star School,34.322048,-90.84372,school,node/359006212
+Oneida Junior High School,34.481768,-90.779556,school,node/359013313
+Rollingwall School,34.599267,-90.697332,school,node/359020538
+Elaine Volunteer Fire Department,34.308201,-90.854352,fire_station,node/367129574
+Lakeview Fire Department,34.416172,-90.798779,fire_station,node/367129879
+Lexa Rural Volunteer Fire Department,34.602021,-90.750886,fire_station,node/367130000
+South Phillips County Volunteer Fire Station 1,34.180571,-90.968287,fire_station,node/367130324
+Wabash Volunteer Fire Department,34.388661,-90.8292,fire_station,node/367130395
+Watkins Corner Volunteer Fire Department,34.468414,-90.957661,fire_station,node/367130471
+West Helena Public Library,34.543686,-90.637229,library,node/367130970
+Helena Public Library,34.528671,-90.59152,library,node/367130974
+School (w1168425808),34.538656,-90.650863,school,way/1168425808
+Barton Rural Fire Station,34.548296,-90.768693,fire_station,way/1281360130
+School (w1300106993),34.562114,-90.916235,school,way/1300106993
+Elaine Public Library,34.308248,-90.852713,library,way/1429026581
+Phillips County Public Library,34.528632,-90.591539,library,way/1429038622
+Helena Community Center,34.531095,-90.589003,community_centre,way/1429060295
+Bessie Hunt Education Center,34.522158,-90.586371,community_centre,way/1429064617
+School (w1430089307),34.523156,-90.589964,school,way/1430089307
+School (w1435515774),34.544121,-90.626092,school,way/1435515774
+School (w1436233046),34.529488,-90.592079,school,way/1436233046
+School (w1436235256),34.534273,-90.619705,school,way/1436235256
+Beech Crest Elementary School,34.545046,-90.633174,school,way/1436244627
+School (w1436244644),34.557389,-90.660367,school,way/1436244644
+Mid-Delta Community Consortium,34.554892,-90.913151,community_centre,way/1436258215
+Marvell Library,34.557241,-90.913456,library,way/1436258297
+Lewis Library,34.546117,-90.616841,library,way/1450114565
+School (w1450116765),34.541263,-90.636076,school,way/1450116765
+South Phillips County Volunteer Fire Department Station 2,34.220397,-90.951079,fire_station,way/1450921280
+School (w1460147933),34.534356,-90.589137,school,way/1460147933
+Mid-Delta Head Start,34.534866,-90.591217,school,way/1460147936
+Fire Station (w1460148078),34.529657,-90.585835,fire_station,way/1460148078
+School (w1460802469),34.558399,-90.911289,school,way/1460802469
+Tri-County Genealogy Society,34.555816,-90.910759,library,way/1460802511
+School (w1460802538),34.55089,-90.907259,school,way/1460802538
+Marvell Fire Department,34.556868,-90.914032,fire_station,way/1460813621
+Marvell Rural Volunteer Fire Department,34.558721,-90.924403,fire_station,way/1460813622
+School (w1460813625),34.569982,-90.912026,school,way/1460813625
+Boys Girls & Adult Community Center,34.556547,-90.90241,community_centre,way/1460813643
+Helena Housing Authority Community Center,34.532863,-90.589724,community_centre,way/1495940884
+West Helena Fire Station,34.544392,-90.64577,fire_station,way/1536038670
+DeSoto School,34.560709,-90.63943,school,way/1555344954
+Fern Hill Fire Station,34.536255,-90.609044,fire_station,way/1557374898
+KIPP Delta,34.524076,-90.586539,school,relation/20961980

@@ -1,0 +1,33 @@
+name,lat,lon,type,osm
+Conyers Spring School,35.965072,-91.73181,school,node/358969735
+Gid School,35.976461,-91.85598,school,node/358971308
+Lower Bone School,35.990627,-91.740422,school,node/358974645
+Izard County Christian School,35.960628,-91.759589,school,node/358985071
+Mount Pleasant Public Schools,35.96285,-91.753755,school,node/358985082
+Calico Rock Elementary School,36.117559,-92.135077,school,node/358999983
+Izard County Consolidated Elementary School,36.156952,-91.839717,school,node/359000011
+Izard County Consolidated High School,36.154941,-91.923586,school,node/359000014
+Melbourne Elementary School,36.06118,-91.907928,school,node/359000029
+Melbourne High School,36.06174,-91.910709,school,node/359000032
+Mount Pleasant Elementary School,35.96308,-91.752155,school,node/359000036
+Mount Pleasant High School,35.963252,-91.752773,school,node/359000039
+Ozarka College,36.054006,-91.89649,school,node/359000063
+Allison Sylamore Volunteer Fire Station 3,35.944266,-92.107288,fire_station,node/367129031
+Calico Rock Volunteer Fire Department,36.125533,-92.129976,fire_station,node/367129250
+Franklin Volunteer Fire Department,36.172725,-91.776328,fire_station,node/367129664
+Guion Volunteer Fire Department,35.92491,-91.939968,fire_station,node/367129757
+Horseshoe Bend Volunteer Fire Department,36.221337,-91.761194,fire_station,node/367129836
+Melbourne Volunteer Fire Department - Old Station,36.062344,-91.90479,fire_station,node/367130077
+Melbourne Volunteer Fire Department Station 1,36.059151,-91.8604,fire_station,node/367130078
+Mount Pleasant Fire Department,35.96289,-91.756499,fire_station,node/367130131
+Pineville Volunteer Fire Department,36.161372,-92.10896,fire_station,node/367130141
+Oxford Volunteer Fire Department,36.225211,-91.928226,fire_station,node/367130217
+Franklin Volunteer Fire And Rescue - Violet Hill,36.153677,-91.840236,fire_station,node/367130721
+Ruthie Mountain Volunteer Fire Department - Mount Zion Station,36.013342,-92.072858,fire_station,node/367130724
+Zion Volunteer Fire Department,36.080151,-91.7756,fire_station,node/367130746
+School (w299963691),35.928055,-91.941052,school,way/299963691
+Calico Rock High School,36.122564,-92.126737,school,way/451439588
+School (w511251565),36.061821,-91.909325,school,way/511251565
+School (w689721988),36.068679,-91.836513,school,way/689721988
+School (w689723107),35.962809,-91.752837,school,way/689723107
+Fire Station (w1134831384),36.125549,-92.129995,fire_station,way/1134831384

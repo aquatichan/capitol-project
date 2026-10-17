@@ -1,0 +1,37 @@
+name,lat,lon,type,osm
+Leslie Elementary School,35.835566,-92.555586,school,node/359006050
+Leslie High School,35.836116,-92.555025,school,node/359006055
+Marshall Elementary School,35.906623,-92.634327,school,node/359006061
+Marshall High School,35.909125,-92.659082,school,node/359006078
+Saint Joe Elementary School,36.028975,-92.799017,school,node/359006107
+Saint Joe High School,36.028474,-92.798334,school,node/359006109
+Witts Springs Elementary School,35.77108,-92.866079,school,node/359006116
+Witts Springs High School,35.770356,-92.866002,school,node/359006120
+Blanco School,35.938965,-92.823501,school,node/359007178
+Bohannon School,35.815633,-92.778222,school,node/359007238
+Brown School,35.968964,-92.775722,school,node/359007377
+Buroak School,35.936187,-92.7685,school,node/359007488
+Cane Branch School,35.986465,-92.931004,school,node/359007544
+Cooper School,35.84841,-92.765722,school,node/359007808
+Dry Creek School,35.895632,-92.904614,school,node/359007966
+Hall School,35.92341,-92.890447,school,node/359008285
+Happy Hollow School,35.760634,-92.810168,school,node/359008297
+Horn Mountain School,35.923966,-92.938504,school,node/359008425
+Manes Town School,35.953131,-92.849613,school,node/359008704
+Shady Grove School,35.996464,-92.813223,school,node/359009751
+Slicker School,35.877577,-92.835446,school,node/359009805
+Wasson School,35.8448,-92.89517,school,node/359010076
+Welcome Home School,35.763967,-92.769611,school,node/359010094
+Harriet / Rock / Cozahome Fire Department,36.028663,-92.54562,fire_station,node/367129732
+Landis Fire Station,35.91198,-92.429115,fire_station,node/367129875
+Marshall Fire Department,35.90886,-92.627991,fire_station,node/367129933
+Morning Star Fire Department,35.969419,-92.598563,fire_station,node/367130113
+Oxley Volunteer Fire Department,35.842302,-92.453716,fire_station,node/367130218
+Pindall Gilbert and Saint Joe Volunteer Fire Department,36.025446,-92.796379,fire_station,node/367130254
+Snowball Fire Station,35.906881,-92.824993,fire_station,node/367130269
+South Mountain Fire Department,35.83911,-92.658406,fire_station,node/367130321
+Welcome Home Fire Department,35.78577,-92.748722,fire_station,node/367130445
+Witts Springs Volunteer Fire Department,35.776015,-92.865331,fire_station,node/367130797
+School (w630010464),35.909439,-92.658083,school,way/630010464
+Leslie Fire Department,35.834232,-92.555997,fire_station,way/778979264
+Dr. Charles D. Daniel Civic Center,35.914687,-92.657515,community_centre,way/779735549

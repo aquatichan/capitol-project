@@ -1,0 +1,42 @@
+name,lat,lon,type,osm
+Calhoun Heights School,33.254851,-93.229889,school,node/358968580
+Damascus High School,33.261517,-93.002386,school,node/358970156
+Macedonia School,33.160687,-93.316836,school,node/358974875
+Westside School,33.347347,-93.308226,school,node/358983318
+Woodard School,33.227907,-93.443507,school,node/358983872
+Waldo Elementary School,33.355125,-93.29406,school,node/358989077
+Walker Elementary School,33.224852,-93.223778,school,node/358989573
+Walker High School,33.225654,-93.224279,school,node/358989578
+Taylor Elementary School,33.099546,-93.4578,school,node/358989624
+Taylor High School,33.099072,-93.45672,school,node/358989627
+Emerson Elementary School,33.098552,-93.19681,school,node/358989652
+Emerson High School,33.098427,-93.197323,school,node/358989654
+Waldo High School,33.356235,-93.293499,school,node/358989697
+Westside School,33.267072,-93.255168,school,node/359014046
+East-West Elementary School,33.262434,-93.226976,school,node/359024299
+Walker Pre-K Center,33.226018,-93.223945,school,node/359024450
+Columbia County Paramedic Service,33.265447,-93.238092,fire_station,node/367128605
+Bussey - Sharman Fire Station,33.160736,-93.425037,fire_station,node/367129190
+Calhoun Community Volunteer Fire Department,33.165427,-93.093891,fire_station,node/367129258
+Four Communities Volunteer Fire Department Substation,33.293531,-93.124598,fire_station,node/367129673
+Four Communities Volunteer Fire Department Station 1,33.302337,-93.057733,fire_station,node/367129674
+Highway 79 South Fire Department,33.194508,-93.213275,fire_station,node/367129700
+Macedonia / Dorcheat Fire Station 1,33.163126,-93.316621,fire_station,node/367129948
+Magnolia Fire Department,33.268607,-93.238959,fire_station,node/367129951
+Macedonai / Dorcheat Fire Station 2,33.208095,-93.304082,fire_station,node/367129961
+McNeil Fire Station,33.348323,-93.210323,fire_station,node/367130074
+Mount Vernon Volunteer Fire Department,33.329674,-93.373628,fire_station,node/367130135
+Rudd Crossing Volunteer Fire Department,33.280853,-93.334745,fire_station,node/367130346
+Walkerville Volunteer Fire Department,33.067794,-93.316123,fire_station,node/367130406
+Waldo Fire Department,33.35316,-93.295258,fire_station,node/367130409
+Taylor Volunteer Fire Department,33.101036,-93.462114,fire_station,node/367130480
+Columbia Christian School,33.281125,-93.203479,school,way/450578361
+Magnolia High School,33.278956,-93.221611,school,way/837564937
+Columbia County Library,33.285946,-93.236656,library,way/838395644
+Magale Library,33.291592,-93.236025,library,way/838810823
+Magnolia Middle School,33.270041,-93.234058,school,way/1153458605
+Central Elementary School,33.270096,-93.23599,school,way/1153458606
+East End Elementary School,33.272071,-93.222908,school,way/1153470157
+Magnolia Kindergarten Center,33.272646,-93.221977,school,way/1153470158
+Emerson Volunteer Fire Department,33.098763,-93.191878,fire_station,way/1266618334
+Village Volunteer Fire Department,33.265291,-93.055417,fire_station,way/1510023894

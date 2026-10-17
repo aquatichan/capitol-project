@@ -1,0 +1,19 @@
+name,lat,lon,type,osm
+Woodlawn School,33.966212,-92.040974,school,node/358983894
+Kingsland Elementary School,33.861953,-92.300097,school,node/358990968
+Kingsland High School,33.862152,-92.300938,school,node/358990970
+Rison Elementary School,33.954292,-92.187564,school,node/358990974
+Rison High School,33.954271,-92.188205,school,node/358990977
+Woodlawn Elementary School,33.966745,-92.041545,school,node/359024240
+Woodlawn High School,33.967472,-92.041528,school,node/359024242
+County Line Volunteer Fire Department,33.723309,-92.162885,fire_station,node/367129377
+Highway 35 Volunteer Fire Department,33.87499,-92.124456,fire_station,node/367129703
+Kingsland Volunteer Fire Department,33.859538,-92.295168,fire_station,node/367129909
+Rison Volunteer Fire Department,33.957432,-92.188456,fire_station,node/367130190
+Pansy Volunteer Fire Department,33.846485,-92.01873,fire_station,node/367130226
+Rye Volunteer Fire Department,33.746312,-91.998452,fire_station,node/367130391
+Y Fire Department- Substation,34.062074,-92.207512,fire_station,node/367130752
+Y Fire Department,34.027153,-92.276346,fire_station,node/367130755
+Woodlawn Fire Station 1,33.967227,-92.036309,fire_station,node/367130761
+School (w1451749426),33.861401,-92.300903,school,way/1451749426
+New Edinburg Volunteer Fire Station,33.759029,-92.240613,fire_station,way/1513548023

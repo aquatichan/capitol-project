@@ -1,0 +1,22 @@
+name,lat,lon,type,osm
+Delight Elementary School,34.029124,-93.500512,school,node/358997515
+Delight High School,34.028721,-93.49976,school,node/358997520
+Kirby Elementary School,34.248863,-93.641244,school,node/358997536
+Kirby High School,34.248261,-93.639551,school,node/358997539
+Murfreesboro Elementary School,34.057651,-93.687954,school,node/358997553
+Murfreesboro High School,34.057923,-93.686126,school,node/358997555
+Miller School,34.311218,-93.926583,school,node/359008763
+Pleasant Hill School,34.287607,-93.903526,school,node/359009494
+Antoine Volunteer Fire Department,34.035058,-93.420666,fire_station,node/367129078
+Delight Rural Volunteer Fire Department,34.030902,-93.504054,fire_station,node/367129328
+Daisy Volunteer Fire Department,34.237222,-93.7409,fire_station,node/367129417
+Glenwood Fire Department,34.327466,-93.551132,fire_station,node/367129609
+Kirby Volunteer Fire Station,34.247638,-93.641443,fire_station,node/367129907
+Lodi Volunteer Fire Station,34.313156,-93.716269,fire_station,node/367129966
+New Hope Fire Department,34.229661,-93.879632,fire_station,node/367130013
+Nathan Volunteer Fire Department,34.10566,-93.814224,fire_station,node/367130021
+Murfreesboro Fire Station,34.061147,-93.691258,fire_station,node/367130124
+Centerpoint Elementary School,34.292174,-93.514222,school,way/1338860693
+Centerpoint High School,34.286612,-93.510518,school,way/1338860701
+School (w1475137063),34.057628,-93.688194,school,way/1475137063
+School (w1475137064),34.05741,-93.685859,school,way/1475137064

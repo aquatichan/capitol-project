@@ -1,0 +1,45 @@
+name,lat,lon,type,osm
+Baldwin Elementary School,36.047194,-90.493634,school,node/358997728
+Delaplaine Elementary School,36.235372,-90.722214,school,node/358997806
+Delaplaine High School,36.233956,-90.722613,school,node/358997810
+Elmwood Elementary School,36.057847,-90.480661,school,node/358997835
+Lafe Elementary School,36.204787,-90.510662,school,node/358997921
+Crowley Ridge College,36.066847,-90.585256,school,node/358997965
+Crowleys Ridge Academy,36.057847,-90.558442,school,node/358997967
+Greene County Technical Junior High School,36.063402,-90.553441,school,node/358997983
+Marmaduke Elementary School,36.193387,-90.395115,school,node/358997988
+Marmaduke High School,36.19331,-90.394487,school,node/358997992
+Oak Grove Elementary School,36.118843,-90.511804,school,node/358997999
+Ram Academy,36.071194,-90.478617,school,node/358998003
+Paragould High School,36.05711,-90.50868,school,node/358998008
+Saint Marys School,36.058803,-90.487756,school,node/358998034
+Stanford Elementary School,36.095346,-90.662334,school,node/358998046
+Stanford High School,36.09618,-90.662334,school,node/358998049
+West Elementary School,36.064513,-90.553719,school,node/358998070
+Woodrow Wilson Elementary School,36.055983,-90.479117,school,node/358998084
+South Elementary School,36.00757,-90.53233,school,node/359012118
+East Elementary School,36.051458,-90.405659,school,node/359012372
+Tech High School,36.063958,-90.553441,school,node/359013736
+Greene County Tech High School,36.063736,-90.553628,school,node/359023668
+Greene County Tech Junior High School,36.066408,-90.556413,school,node/359023670
+Oak Grove Middle School,36.119903,-90.512188,school,node/359023671
+Paragould Junior High School,36.057422,-90.50965,school,node/359023673
+Greene County Tech Intermediate School,36.066796,-90.554965,school,node/359023674
+School of the 21st Century,36.060842,-90.482654,school,node/359024445
+Delaplaine Volunteer Fire Department,36.230909,-90.725298,fire_station,node/367129330
+Lafe Volunteer Fire Department,36.204172,-90.513432,fire_station,node/367129900
+Northeast Greene County Volunteer Fire Department,36.117757,-90.425568,fire_station,node/367130051
+Oak Grove Heights Volunteer Fire Department,36.124795,-90.509235,fire_station,node/367130071
+Paragould Fire Department Station 3,36.065193,-90.558041,fire_station,node/367130228
+South Greene County Fire Department,35.987597,-90.546622,fire_station,node/367130327
+Paragould Fire Department Station 2,36.056667,-90.475556,fire_station,node/367130744
+Western Greene County Volunteer Fire Department,36.067084,-90.67214,fire_station,node/367130788
+Wright Memorial Library,36.057291,-90.50094,library,node/367130956
+Library (n2104360354),36.065507,-90.588587,library,node/2104360354
+Marmaduke Fire Station,36.186623,-90.382841,fire_station,node/5646712366
+School (w323356933),36.192508,-90.394238,school,way/323356933
+Community Centre (w591429162),36.196251,-90.38802,community_centre,way/591429162
+Ruins of Marmaduke Community Center,36.188131,-90.382735,community_centre,way/591429168
+Fire Station (w1160485692),36.063679,-90.503625,fire_station,way/1160485692
+School (w1429441549),36.071477,-90.478686,school,way/1429441549
+Fire Station Number 2,36.056757,-90.488204,fire_station,way/1462918463

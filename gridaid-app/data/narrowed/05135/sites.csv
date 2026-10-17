@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Liberty School,35.976461,-91.694031,school,node/358974416
+Maxville School,35.992572,-91.577361,school,node/358975142
+Mennonite School,36.421175,-91.404859,school,node/358975411
+Pleasant Valley School,35.944517,-91.689031,school,node/358978593
+Evening Shade Elementary School,36.072712,-91.617355,school,node/359000572
+Evening Shade High School,36.073469,-91.617493,school,node/359000576
+Highland High School,36.262563,-91.530901,school,node/359000585
+Highland Middle School,36.262827,-91.534126,school,node/359000588
+Poughkeepsie Elementary School,36.072848,-91.467914,school,node/359000608
+Poughkeepsie High School,36.072848,-91.467359,school,node/359000611
+Williford Elementary School,36.251868,-91.361275,school,node/359000615
+Williford High School,36.252389,-91.361875,school,node/359000620
+Cherokee Elementary School,36.261965,-91.540866,school,node/359023646
+Ash Flat Volunteer Fire Department,36.225018,-91.606644,fire_station,node/367129094
+Cave City Volunteer Fire Station,35.945995,-91.54826,fire_station,node/367129222
+Center Volunteer Fire Department,36.152191,-91.51119,fire_station,node/367129292
+Cherokee Village Waketa Fire Department,36.280232,-91.54543,fire_station,node/367129302
+Evening Shade Volunteer Fire Station,36.071164,-91.62151,fire_station,node/367129556
+Grange / Calamine Volunteer Fire Department Main Station,35.981227,-91.434552,fire_station,node/367129607
+Hardy Fire Department,36.316466,-91.48624,fire_station,node/367129763
+Martin Creek Volunteer Fire Department,36.32171,-91.324749,fire_station,node/367129934
+Poughkeepsie Volunteer Fire Department,36.077755,-91.478206,fire_station,node/367130166
+Ozark Acres Volunteer Fire Department,36.303394,-91.389664,fire_station,node/367130220
+Sidney Fire Department,36.004344,-91.663078,fire_station,node/367130278
+Wirth Volunteer Fire Department,36.431075,-91.406323,fire_station,node/367130795
+Williford Volunteer Fire Department,36.253219,-91.357694,fire_station,node/367130803
+The Cave City Library,35.940521,-91.548376,library,node/12752973738
+Fire Station (w628671814),36.071065,-91.621461,fire_station,way/628671814
+Cave City High School,35.950163,-91.545523,school,way/1311201229
+Cave City High School,35.951196,-91.549782,school,way/1376393482
+Cave City Elementary School,35.952397,-91.550368,school,way/1376393484
+School (w1421709807),36.26222,-91.532882,school,way/1421709807
+School (w1421711317),36.261818,-91.540463,school,way/1421711317

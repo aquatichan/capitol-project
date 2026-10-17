@@ -1,0 +1,65 @@
+name,lat,lon,type,osm
+Alma Intermediate School,35.493697,-94.240489,school,node/358999491
+Cedarville Elementary School,35.573079,-94.365881,school,node/358999517
+Christian Life Academy,35.471068,-94.356755,school,node/358999523
+City Heights Elementary School,35.446848,-94.357801,school,node/358999531
+Mountainburg Elementary School,35.630644,-94.172146,school,node/358999606
+Mountainburg High School,35.635006,-94.167756,school,node/358999608
+Parkview Elementary School,35.449944,-94.353608,school,node/358999636
+Stepping Stone School,35.490087,-94.20993,school,node/358999674
+Van Buren School Number 43,35.497866,-94.402991,school,node/359020866
+Marvin Elementary School,35.515341,-94.052717,school,node/359021941
+King Elementary School,35.440978,-94.339704,school,node/359022083
+Mountainburg Middle School,35.631053,-94.171654,school,node/359023758
+Northridge Middle School,35.477299,-94.359432,school,node/359023763
+James R Tate Elementary School,35.428922,-94.277309,school,node/359023766
+Alma Volunteer Fire Department Station 1,35.476759,-94.220564,fire_station,node/367128991
+Alma Fire Department Station 4,35.493263,-94.181339,fire_station,node/367128993
+Alma Fire Department Station 3,35.492117,-94.239771,fire_station,node/367128995
+Alma Fire Department Station 2,35.492472,-94.224036,fire_station,node/367128996
+Bond Special Dean Springs And Rudy District 1 Rudy Fire Station,35.525315,-94.269738,fire_station,node/367129153
+Bond Special Dean Springs And Rudy District 1 Bond Special Fire Station,35.497368,-94.305048,fire_station,node/367129168
+Bond Special Dean Springs And Rudy District 1 Dean Springs Fire Station,35.535984,-94.180378,fire_station,node/367129169
+Dyer Fire Station,35.492381,-94.138235,fire_station,node/367129347
+Mountainburg Fire District 3,35.633975,-94.169298,fire_station,node/367130125
+Rural Fire District 6 Station 1,35.450156,-94.275219,fire_station,node/367130329
+Rural Fire District 5 Webber Creek,35.525428,-94.428175,fire_station,node/367130330
+Rural Fire District 5 Station 43,35.492387,-94.390916,fire_station,node/367130331
+Rural Fire District 8 Station 4,35.73243,-94.025231,fire_station,node/367130334
+Rural Fire District 8 Station 1,35.752896,-94.115267,fire_station,node/367130335
+Rural Fire District 7 Redhill Fire Station 2,35.468918,-94.161551,fire_station,node/367130336
+Rural Fire District 7 Kibler Fire Station 1,35.434228,-94.222939,fire_station,node/367130337
+Rural Fire District 4 Cedarville,35.572485,-94.363989,fire_station,node/367130338
+Rural Fire District 3 Locke,35.666443,-94.073465,fire_station,node/367130339
+Rural Fire District 3 Graphic,35.573525,-94.143898,fire_station,node/367130340
+Rural Fire District 3 Chester,35.678719,-94.178412,fire_station,node/367130341
+Rural Fire District 5 Figure Five,35.517075,-94.354961,fire_station,node/367130342
+Rural Fire District 4 Station 88,35.607318,-94.272126,fire_station,node/367130344
+Rural Fire District 4 Cove City,35.679018,-94.343834,fire_station,node/367130345
+Rural Fire District 2 Station 2,35.508996,-94.108307,fire_station,node/367130351
+Rural Fire District 2 Station 3,35.560111,-94.050966,fire_station,node/367130352
+Rural Fire District 2 Station 1,35.497381,-94.052273,fire_station,node/367130354
+Rural Fire District 9 Station 1,35.648335,-94.394889,fire_station,node/367130387
+Van Buren Fire Department Station 3,35.440285,-94.32851,fire_station,node/367130419
+Van Buren Fire Department Station 2,35.44568,-94.355766,fire_station,node/367130420
+Van Buren Fire Department Station 1,35.468008,-94.385313,fire_station,node/367130421
+Turner Station Volunteer Fire Department,35.599755,-94.115009,fire_station,node/367130514
+Van Buren Public Library,35.437327,-94.343866,library,node/5659716357
+Central Elementary School,35.446891,-94.334836,school,way/252149568
+Butterfield Trail Middle School,35.439763,-94.347015,school,way/252150591
+School (w627848913),35.630649,-94.172075,school,way/627848913
+Alma Middle School,35.48921,-94.214782,school,way/629905324
+Alma High School,35.474112,-94.221344,school,way/629905639
+Van Buren High School,35.459653,-94.337535,school,way/629906209
+Butterfield Distrct 5 Volunteer Fire Department Dora Station,35.450993,-94.441161,fire_station,way/1083644328
+Van Buren High School Coleman Freshman Academy,35.460201,-94.349619,school,way/1083656450
+Alma Primary School,35.489803,-94.200371,school,way/1083664912
+Rena Elementary School,35.468101,-94.373136,school,way/1162510033
+Mulberry Public Library,35.497725,-94.051748,library,way/1180051219
+Alma Public Library,35.4782,-94.221337,library,way/1215912007
+School (w1276746599),35.477342,-94.359384,school,way/1276746599
+Oliver Springs Elementary School,35.477475,-94.348614,school,way/1302599835
+Van Buren Fire Department Station 4,35.472446,-94.342356,fire_station,way/1302772884
+Butterfield District 5 Volunteer Fire Department,35.570234,-94.425642,fire_station,way/1351852635
+Alma Fire Station,35.482859,-94.221532,fire_station,way/1358531748
+Mulberry High School,35.500148,-94.055377,school,way/1457575091

@@ -1,0 +1,5 @@
+name,lat,lon,type,osm
+Ports of Call Seamen's Center,59.454182,-135.319872,community_centre,node/5615576730
+Skagway Fire Department,59.462671,-135.303256,fire_station,node/13988480589
+Skagway Public Library,59.457732,-135.314146,library,way/290055346
+Skagway City School,59.463076,-135.307587,school,way/476403192

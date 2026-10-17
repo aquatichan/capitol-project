@@ -1,0 +1,33 @@
+name,lat,lon,type,osm
+Bailey School,33.652609,-91.464289,school,node/358967032
+Enon School,33.599276,-91.710962,school,node/358970640
+Selma Junior High School,33.673164,-91.565958,school,node/358980580
+Youngs School,33.579555,-91.460955,school,node/358984122
+University of Arkansas at Monticello,33.590387,-91.813187,school,node/359011456
+Drew High School,33.592054,-91.80652,school,node/359011905
+Whaley School,33.632608,-91.790964,school,node/359014051
+Drew Central Elementary School,33.592199,-91.808394,school,node/359014334
+Monticello High School,33.61183,-91.811751,school,node/359014431
+City Park School,33.618164,-91.798186,school,node/359014434
+Wilmar Elementary School,33.631219,-91.927079,school,node/359014559
+Wilmar High School,33.631219,-91.927635,school,node/359014564
+Monticello Elementary School,33.606899,-91.813581,school,node/359024273
+Monticello Middle School,33.609879,-91.812748,school,node/359024276
+Drew Central High School,33.592049,-91.806521,school,node/359024277
+Collins Cominto Fire Station 1,33.532157,-91.565528,fire_station,node/367129260
+Collins Cominto Fire Station 2,33.547334,-91.615659,fire_station,node/367129261
+Clear Creek Volunteer Fire Department,33.759024,-91.917044,fire_station,node/367129316
+Ladelle Volunteer Fire Department Station 1,33.451096,-91.793064,fire_station,node/367129899
+Lacey Volunteer Fire Department Station 2,33.455052,-91.845954,fire_station,node/367129902
+Monticello Fire Department Station 2,33.598119,-91.812222,fire_station,node/367130094
+Monticello Fire Department Station 1,33.628766,-91.791894,fire_station,node/367130095
+Selma Volunteer Fire Department,33.695094,-91.567733,fire_station,node/367130295
+Winchester Fire Station,33.774659,-91.474982,fire_station,node/367130801
+Wilmar Fire Department,33.628926,-91.935321,fire_station,node/367130805
+Monticello Intermediate School,33.610016,-91.809561,school,node/2349650103
+Southeast Arkanas Regional Library (Future Home),33.637318,-91.790021,library,node/2349898983
+University Library,33.590305,-91.813466,library,node/2349910382
+Southeast Arkansas Regional Library,33.626057,-91.790889,library,node/2349984093
+Community Centre (n5886002084),33.62955,-91.779778,community_centre,node/5886002084
+School (w623234833),33.617572,-91.797562,school,way/623234833
+School (w672170236),33.632222,-91.927494,school,way/672170236

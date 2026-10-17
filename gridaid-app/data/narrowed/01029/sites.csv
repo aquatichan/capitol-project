@@ -1,0 +1,11 @@
+name,lat,lon,type,osm
+Cleburne County Vocational School,33.598441,-85.484122,school,node/358965352
+Ranburne High School,33.523166,-85.34634,school,node/358965396
+Heflin Training School,33.658995,-85.575236,school,node/358988962
+Pleasant Grove Junior High School,33.523442,-85.634958,school,node/358996572
+Fire Station (n11147368191),33.7724,-85.3815,fire_station,node/11147368191
+Cleburne County High School,33.647579,-85.57302,school,way/391144466
+School (w988405509),33.597425,-85.482398,school,way/988405509
+Heflin Fire Department,33.654249,-85.582667,fire_station,way/1017014793
+Heflin - Lucile Morgan Public Library,33.643946,-85.588166,library,way/1347342614
+Fruithurst Elementary School,33.732424,-85.435881,school,way/1507997448

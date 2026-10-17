@@ -1,0 +1,181 @@
+name,lat,lon,type,osm
+Berkley Junior High School,34.637868,-86.443043,school,node/358906038
+Central Junior High School,34.765646,-86.454989,school,node/358908303
+Conyers-Rosenwald School,34.700922,-86.358598,school,node/358909289
+Evangel School,34.739813,-86.640272,school,node/358911035
+Hurricane School,34.826478,-86.412766,school,node/358916570
+Plevna Elementary School,34.961199,-86.409434,school,node/358924883
+Saint Ruth School,34.901755,-86.581661,school,node/358927951
+Berkley Center Head Start School,34.634812,-86.443043,school,node/358965812
+Ed White Middle School,34.759813,-86.636661,school,node/358966024
+Huntsville Equitation School,34.753701,-86.440822,school,node/358966136
+Meridianville Junior High School,34.847867,-86.570549,school,node/358966227
+New Hope School,34.540645,-86.39832,school,node/358966263
+Owens Cross Roads Elementary School,34.588146,-86.456099,school,node/358966298
+Holy Family School,34.734094,-86.603012,school,node/358966351
+West End Early Childhood Education Center,34.724535,-86.599993,school,node/358966443
+West Huntsville Elementary School,34.714813,-86.606938,school,node/358966447
+New Sharon Junior High School,34.955365,-86.640552,school,node/358976022
+Oakwood College,34.755369,-86.654995,school,node/358976191
+Huntsville Fire & Rescue Station 2,34.749888,-86.577647,fire_station,node/358977031
+Roger B Chaffee Elementary School,34.654813,-86.574992,school,node/358998629
+Davis Hills Elementary School,34.770924,-86.608605,school,node/358998684
+Jones Valley Elementary School,34.69648,-86.554436,school,node/358998868
+Lakewood Elementary School,34.772313,-86.590549,school,node/358998883
+McDonnell Elementary School,34.689813,-86.616383,school,node/358998921
+Ridgecrest Elementary School,34.701202,-86.622494,school,node/358999040
+Drake State Technical College Extension,34.732948,-86.585392,school,node/667429508
+Green Gate School,34.74725,-86.581235,school,node/924671401
+Buchhorn MiddleSchool,34.872013,-86.45438,school,node/967622083
+Fletcher E. Seldon Educational Center,34.730535,-86.607281,school,node/996351455
+Monrovia Volunteer Fire/Rescue Station 2,34.796449,-86.772064,fire_station,node/1338520224
+Toney Volunteer Fire Department - Station 3,34.874584,-86.713446,fire_station,node/2962179933
+Peridot Montessori School,34.733037,-86.703761,school,node/4672014672
+Moores Mill VFD #4,34.797499,-86.49115,fire_station,node/6652607230
+Moores Mill VFD #1,34.84033,-86.518248,fire_station,node/6652607324
+Moores Mill VFD #2,34.811945,-86.507245,fire_station,node/6652610307
+Buckhorn High School,34.870312,-86.455034,school,node/7165136345
+Sanford Library,34.749605,-86.512401,library,node/8853984667
+Huntsville Fire/Rescue Station 8,34.778585,-86.582335,fire_station,node/11769036141
+Alabama School of Cybertechnology and Engineering,34.725419,-86.655083,school,node/11774835467
+Dr. Robert Shurney Legacy Center,34.76005,-86.610134,community_centre,node/12461902052
+Blossomwood Elementary School,34.723429,-86.567136,school,way/54147783
+Highlands Elementary School,34.758364,-86.631912,school,way/54149367
+Huntsville High School,34.714487,-86.585336,school,way/56181618
+School (w56181631),34.71517,-86.606241,school,way/56181631
+Westlawn Middle School,34.715129,-86.625601,school,way/56181649
+Martin Luther King Jr. Elementary,34.765515,-86.570944,school,way/56182885
+Providence Classical School,34.735857,-86.579368,school,way/56191603
+Annie C. Merts Building,34.734053,-86.57772,school,way/56191604
+School (w56191605),34.73411,-86.577721,school,way/56191605
+Chapman P-8 School,34.75171,-86.557457,school,way/56196247
+Morris P-8 School,34.711812,-86.635775,school,way/56221707
+Davis Hills Elementary School,34.76932,-86.608587,school,way/56248043
+Rolling Hills Elementary School,34.788992,-86.607255,school,way/56676439
+Madison County High School,34.703352,-86.374311,school,way/56730633
+Monte Sano Elementary School,34.736719,-86.530631,school,way/56946182
+School (w59538488),34.783116,-86.596735,school,way/59538488
+Montview Elementary School,34.755845,-86.606404,school,way/59588971
+Mill Creek Elementary School,34.701979,-86.771974,school,way/73905027
+School (w76699069),34.698221,-86.750437,school,way/76699069
+Sonnie Hereford Elementary,34.733138,-86.606445,school,way/79258164
+Randolph School - Drake Campus,34.706317,-86.558112,school,way/82596813
+Challenger Elementary and Middle Schools,34.611008,-86.546794,school,way/82604860
+M. Louis Salmon Library,34.729731,-86.640045,library,way/87450644
+Huntsville - Madison County Public Library,34.722797,-86.589613,library,way/100305529
+Discovery Middel School,34.740907,-86.74239,school,way/188492034
+Field House,34.718862,-86.744452,school,way/188511583
+School (w188511584),34.718131,-86.741961,school,way/188511584
+Fire Station (w213150872),34.757694,-86.714874,fire_station,way/213150872
+Monrovia Middle School,34.791491,-86.715329,school,way/213153317
+Randolph School - Garth Campus,34.695736,-86.551699,school,way/265973110
+West Madison Pre-K Center,34.72088,-86.751773,school,way/304099987
+Columbia Elementary School,34.734198,-86.766065,school,way/310268532
+Harvest Elementary School,34.847573,-86.746966,school,way/323346992
+Williams P-8 School,34.628611,-86.726497,school,way/383805325
+Lake Forest Clubhouse,34.644033,-86.730332,community_centre,way/384251335
+Fire Station 11,34.64745,-86.734562,fire_station,way/384251346
+Huntsville Fire Station #1,34.725549,-86.598732,fire_station,way/384817217
+School (w385266403),34.848227,-86.56865,school,way/385266403
+Fire Station (w385774896),34.778547,-86.582284,fire_station,way/385774896
+School (w387221811),34.739509,-86.432964,school,way/387221811
+J.F. Drake Learning Resources Center (LRC),34.783558,-86.570198,library,way/388522584
+Huntsville Fire Station #3,34.713768,-86.626525,fire_station,way/390232692
+School (w390311475),34.720758,-86.601416,school,way/390311475
+Huntsville Inner City Learning Center,34.720699,-86.601333,school,way/390311483
+Central School,34.764695,-86.454973,school,way/399982936
+Madison County Career Technical Center,34.785333,-86.521534,school,way/401060563
+Mt. Carmel Elementary School,34.793288,-86.488806,school,way/401293802
+Riverton Intermediate School,34.79618,-86.489498,school,way/401293803
+Grace Lutheran School,34.697786,-86.583346,school,way/405349734
+Children's House of Montessori,34.710201,-86.591962,school,way/405473124
+Huntsville Public - Cavalry Hills Branch,34.738412,-86.612735,library,way/405539843
+Alpha Tau Omega,34.725533,-86.636,community_centre,way/413730453
+Heritage Elementary School,34.720106,-86.783821,school,way/440357202
+Huntsville Fire and Rescue Station 7,34.59597,-86.567635,fire_station,way/468854806
+Madison Fire Station #1,34.699749,-86.742874,fire_station,way/475709132
+Hogan Family YMCA,34.696916,-86.735494,community_centre,way/475902572
+Madison County Fire Station #1,34.693922,-86.751646,fire_station,way/475936958
+School (w477966374),34.68823,-86.74581,school,way/477966374
+Madison Community Center,34.722695,-86.777596,community_centre,way/479395275
+School (w479822871),34.734516,-86.779407,school,way/479822871
+Huntsville Fire Station #17,34.660768,-86.475848,fire_station,way/479919586
+Huntsville Fire Department Station 6,34.701434,-86.602401,fire_station,way/481881075
+Fire Station (w483490131),34.645968,-86.77174,fire_station,way/483490131
+Community Centre (w484258481),34.659235,-86.718269,community_centre,way/484258481
+New Market Volunteer Fire Department,34.906109,-86.428141,fire_station,way/486426417
+Madison Fire House #2,34.737104,-86.740595,fire_station,way/510237147
+Endeavor Elementary School,34.789072,-86.783623,school,way/597801105
+Legacy Elementary School,34.795119,-86.742536,school,way/597802115
+Madison Cross Roads Elementary School,34.922232,-86.712271,school,way/597810051
+Walnut Grove Elementary School,34.944689,-86.498555,school,way/597812442
+Discovery Middle School,34.741441,-86.743387,school,way/597870238
+Monrovia Public Library,34.811423,-86.716329,library,way/599004850
+Monrovia Community Center,34.811053,-86.716143,community_centre,way/599004855
+Rainbow Elementary School,34.75126,-86.734294,school,way/599026561
+Providence Elementary School,34.760767,-86.697415,school,way/599030178
+Horizon Elementary School,34.705422,-86.714309,school,way/599046119
+Huntsville Junior High School,34.723862,-86.576213,school,way/599891961
+School (w603515029),34.643978,-86.548418,school,way/603515029
+Darren M. Spurlock Fire Station,34.650226,-86.672664,fire_station,way/610943665
+Huntsville Public - Madison Branch Library,34.710831,-86.744124,library,way/612795745
+Harvest Volunteer Fire Department,34.816235,-86.762713,fire_station,way/681651485
+Harvest Volunteer Fire Department,34.833526,-86.713985,fire_station,way/681665855
+The Preserve on the Flint Club House,34.849506,-86.459935,community_centre,way/695704361
+Moores Mill VFD #3,34.825631,-86.475887,fire_station,way/707990045
+Sandra Moon Community Complex,34.661275,-86.538222,community_centre,way/712445728
+Triana Public Library,34.582549,-86.734053,library,way/766582174
+Jemison HS / McNair JHS,34.786256,-86.613213,school,way/775874808
+Tillman D. Hill Public Library,34.935098,-86.573182,library,way/1009012445
+Hazel Green Volunteer Fire Station,34.93237,-86.570804,fire_station,way/1054886579
+South Huntsville Public Library,34.662366,-86.538454,library,way/1111873939
+Journey Middle School,34.686079,-86.746729,school,way/1148109467
+Mountain Gap P-8,34.626212,-86.547552,school,way/1288155855
+Huntsville Fire & Rescue Station 19,34.613911,-86.490574,fire_station,way/1289742001
+Station 12,34.727991,-86.657054,fire_station,way/1301922527
+Big Cove Volunteer Fire Department,34.660465,-86.490022,fire_station,way/1339880739
+Oakwood Academy Elementary,34.758345,-86.659931,school,way/1339965292
+New Hope Public Library,34.536769,-86.394511,library,way/1347195970
+Gurley Public Library,34.696434,-86.371715,library,way/1347196015
+North Huntsville Public Library,34.76041,-86.610216,library,way/1347196456
+Triana Fire Station,34.583326,-86.741954,fire_station,way/1347610246
+Westminster Christian Academy,34.759878,-86.676696,school,way/1349031958
+Harvest Fire Department,34.857506,-86.748514,fire_station,way/1417216568
+Pebble Creek Community Club House,34.612986,-86.74695,community_centre,way/1420021888
+Madison Fire Station #4,34.672238,-86.742063,fire_station,way/1535008809
+Alabama School of Cyber Technology and Engineering,34.723986,-86.653656,school,way/1547810273
+School (r5832693),34.71512,-86.625538,school,relation/5832693
+Cavalry Hill Community Center,34.738797,-86.611338,community_centre,relation/6078180
+Columbia High School,34.723367,-86.699236,school,relation/6104639
+Liberty Middle School,34.733665,-86.779251,school,relation/7062823
+Monrovia Elementary School,34.785068,-86.715126,school,relation/7578825
+Randolph School,34.70059,-86.554811,school,relation/17658643
+Hampton Cove Elementary School,34.662234,-86.479027,school,relation/18362182
+Goldsmith-Schiffman Elementary School,34.626617,-86.490801,school,relation/18362816
+Ardent Preschool and Daycare,34.672812,-86.553613,school,relation/18368321
+Sparkman High School,34.835369,-86.717489,school,relation/18371418
+Whitesburg Christian Academy,34.669546,-86.569398,school,relation/18483665
+Farley Elementary School,34.597144,-86.563479,school,relation/18484417
+Virgil I. Grissom High School,34.642046,-86.576477,school,relation/18498994
+Columbia High School,34.724788,-86.69939,school,relation/18502573
+Saint John Paul II Catholic High School,34.709381,-86.695855,school,relation/18511071
+Madison Academy,34.703876,-86.704468,school,relation/18511073
+James I. Dawson Elementary School,34.772864,-86.641916,school,relation/18511330
+Holy Spirit Catholic School,34.690193,-86.572323,school,relation/18512493
+Montessori School of Huntsville,34.597719,-86.548958,school,relation/18512506
+Lincoln Elementary School,34.745461,-86.583009,school,relation/18514208
+Big Cove Christian Acadamy,34.668247,-86.489354,school,relation/18519486
+Thomas W. Davidson Senior Center,34.703094,-86.600628,community_centre,relation/19190853
+Bob Jones High School,34.720301,-86.744406,school,relation/19205800
+Lee High School,34.754832,-86.576376,school,relation/19271402
+Valley Fellowship Christian Academy,34.726528,-86.615725,school,relation/19406821
+Huntsville City Schools Central Office,34.759498,-86.593253,school,relation/19426515
+Meridianville Middle School,34.892498,-86.575813,school,relation/19922797
+Moores Mill Intermediate School,34.905348,-86.525105,school,relation/19923186
+Lynn Fanning Elementary School,34.889245,-86.519442,school,relation/19923285
+School (r19938560),34.888588,-86.517451,school,relation/19938560
+Riverton Elementary School,34.82561,-86.477554,school,relation/19939020
+New Market School,34.909185,-86.424062,school,relation/19950482
+Hazel Green High School,34.935803,-86.567268,school,relation/19950875
+Sparkman Middle School,34.868513,-86.713256,school,relation/19987632
+Whitesburg P-8,34.673434,-86.570078,school,relation/20270473

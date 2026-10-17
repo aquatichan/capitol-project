@@ -1,0 +1,140 @@
+name,lat,lon,type,osm
+Baldwin Junior High School,32.372916,-86.305247,school,node/358905699
+Bellinger Hill Elementary School,32.361528,-86.305247,school,node/358905997
+Bellingrath Junior High School,32.344861,-86.308858,school,node/358905999
+Big Zion School,32.112645,-86.400525,school,node/358906541
+Capitol Heights Elementary School,32.383471,-86.279413,school,node/358907793
+George Washington Carver High School,32.350695,-86.324692,school,node/358907899
+Catoma Elementary School,32.312616,-86.444755,school,node/358907937
+Chilton Elementary School,32.370752,-86.310811,school,node/358908498
+Arthur Cook School,32.437914,-86.273858,school,node/358909305
+Dozier School,32.413193,-86.133575,school,node/358910349
+Dunbar High School,32.042926,-86.212463,school,node/358910453
+Dungee School,32.349305,-86.441084,school,node/358910465
+Gilmer School,32.261531,-86.075516,school,node/358912728
+Goode Street Elementary School,32.362639,-86.313303,school,node/358913057
+Guys Village School,32.064869,-86.385247,school,node/358913870
+Highland Gardens Elementary School,32.399027,-86.279135,school,node/358915587
+Hugh Street School,32.360972,-86.332192,school,node/358916491
+MacMillan Elementary School,32.376249,-86.330525,school,node/358919130
+McClurkin School,32.310697,-86.048015,school,node/358919669
+McLean Junior High School,32.232642,-86.358302,school,node/358919834
+Mount Pleasant School,32.250977,-86.001624,school,node/358921143
+Our Lady of Fatima School,32.367083,-86.131075,school,node/358922944
+W B Paterson School,32.382083,-86.294969,school,node/358923230
+Pine Grove School,32.274031,-86.169963,school,node/358924055
+Rives School,32.375694,-86.31997,school,node/358926235
+Tankersley School,32.141811,-86.356357,school,node/358929867
+Zion Hill School,32.083202,-86.268299,school,node/358932123
+Crump Elementary School,32.313751,-86.259689,school,node/358959567
+Hampton Hall Training Center,32.309306,-86.395527,school,node/358959725
+Happy Hollow School,32.364305,-86.261079,school,node/358959727
+Harris School,32.356529,-86.047183,school,node/358959736
+Harrison Elementary School,32.325973,-86.302746,school,node/358959738
+Heritage School,32.320973,-86.31358,school,node/358959750
+Hooper Academy,32.257363,-86.359692,school,node/358959781
+Jones Law School,32.375694,-86.304413,school,node/358959816
+Madison Park Elementary School,32.430137,-86.21969,school,node/358959895
+McInnis School,32.289585,-86.261634,school,node/358959907
+McLemore School,32.396527,-86.182743,school,node/358959912
+Montgomery County High School,32.046259,-86.223575,school,node/358959936
+Pineview Manor School,32.39236,-86.24469,school,node/358960059
+Pintlala Elementary School,32.175977,-86.371358,school,node/358960064
+Romeo and Juliet School,32.393471,-86.258579,school,node/358960102
+South Montgomery County Academy,31.993205,-86.199962,school,node/358960182
+Starke University School,32.374305,-86.287191,school,node/358960200
+Trinity Lutheran School,32.36125,-86.316914,school,node/358960240
+University Center School,32.377083,-86.316636,school,node/358960255
+Alabama Police Academy,32.405411,-86.264222,school,node/358967180
+Arrington School,32.152923,-86.170796,school,node/358967200
+Auburn University at Montgomery,32.370972,-86.177187,school,node/358967202
+Booker T Washington Junior High School,32.371527,-86.299136,school,node/358967235
+Brewbaker Elementary School,32.320382,-86.219433,school,node/358967242
+Brewbaker Junior High School,32.321387,-86.218775,school,node/358967244
+Central Area Vocational Center,32.369583,-86.299969,school,node/358967298
+Faulkner University,32.362916,-86.270246,school,node/358974097
+Sidney Lanier High School,32.355694,-86.310247,school,node/358974563
+Lomax School,32.346528,-86.36247,school,node/358974873
+Peterson Elementary School,32.379305,-86.334137,school,node/358975089
+Phillips School,32.142923,-86.304134,school,node/358976470
+C W Trenholm School,32.387638,-86.396361,school,node/358978224
+Bear Elementary School,32.336806,-86.271634,school,node/358998548
+Davis Elementary School,32.340972,-86.315802,school,node/358998687
+Fews Elementary School,32.35875,-86.313858,school,node/358998749
+Loveless Elementary School,32.365694,-86.323859,school,node/358998897
+Troy University,32.376389,-86.31093,school,node/1420524558
+Fire Station (n1591382752),32.310589,-86.358502,fire_station,node/1591382752
+Park Crossing High School,32.313981,-86.173977,school,node/2412205587
+Loveless Academic Magnet Program,32.331034,-86.247214,school,node/8677676160
+Montgomery Preparatory Academy for Career Technologies,32.329714,-86.246939,school,node/8677676221
+Brewbaker Technology Magnet High School,32.324026,-86.219186,school,node/8685865622
+Fire Station 9,32.328796,-86.24383,fire_station,node/11772857581
+Montgomery City-County Public Library - Juliette Hampton Mor,32.372527,-86.305462,library,way/128681744
+Seth Johnson Elementary School,32.316724,-86.283855,school,way/187463798
+Southlawn Elementary School,32.301969,-86.341435,school,way/187491993
+Air University Library,32.385226,-86.345485,library,way/320564536
+Squadron Officer School,32.384025,-86.346751,school,way/320564542
+Bellingrath Park,32.346239,-86.310333,school,way/460118088
+Peace and Justice Memorial Center,32.372569,-86.313949,community_centre,way/687884866
+School (w691570294),32.425326,-86.288037,school,way/691570294
+School (w691570357),32.424547,-86.288272,school,way/691570357
+School (w691570358),32.42463,-86.288133,school,way/691570358
+Resurrection Catholic School,32.42429,-86.287953,school,way/691570362
+Montgomery Fire Department Station 6,32.366911,-86.286868,fire_station,way/828303734
+Ida Belle Young Library Tower,32.367745,-86.177629,library,way/967478886
+School (w987764028),32.313429,-86.445505,school,way/987764028
+School (w990990378),32.336992,-86.270832,school,way/990990378
+School (w1006530161),32.384288,-86.282516,school,way/1006530161
+Community Centre (w1022420090),32.359291,-86.372571,community_centre,way/1022420090
+Mc Intrye Community Center,32.359754,-86.332089,community_centre,way/1221655312
+School (w1221659328),32.357721,-86.231771,school,way/1221659328
+Montgomery City-County Public Library - Coliseum Boulevard B,32.400107,-86.258853,library,way/1346908525
+Montgomery City-County Public Library - Bertha P. Williams L,32.359192,-86.317133,library,way/1346908826
+Montgomery City-County Public Library - Rufus A. Lewis Regio,32.347151,-86.338099,library,way/1346908876
+Governor`s Square Branch,32.329133,-86.248881,library,way/1346909067
+El Lowder Regional Library,32.34365,-86.195369,library,way/1346909206
+Montgomery City-County Public Library- Hampstead Branch,32.312316,-86.187368,library,way/1346909425
+Pike Road Branch,32.347811,-86.090925,library,way/1346910648
+Ramer Branch Library,32.051698,-86.218226,library,way/1347349199
+Pintlala Branch Library,32.176057,-86.372103,library,way/1347349344
+Macon East Academy,32.301617,-86.01231,school,way/1396688387
+Community Centre (w1457046397),32.389922,-86.255984,community_centre,way/1457046397
+Dalraida Elementary School,32.389991,-86.244101,school,way/1502996059
+Community Centre (w1505241614),32.350849,-86.104285,community_centre,way/1505241614
+Alabama Christian Academy,32.387452,-86.218213,school,relation/12652575
+Levi Watkins Learning Center,32.36475,-86.293559,library,relation/17824094
+G. W. Carver High School,32.349623,-86.325096,school,relation/19972435
+Thelma S. Morris Elementary School,32.367119,-86.328258,school,relation/19972447
+Montgomery Catholic High School,32.339991,-86.215811,school,relation/20458432
+Montgomery Academy,32.356915,-86.24528,school,relation/20458568
+Trinity Presbyterian School,32.353744,-86.235772,school,relation/20458570
+Vaughn Road Elementary School,32.347928,-86.234107,school,relation/20458572
+School (r20461215),32.345738,-86.231703,school,relation/20461215
+Montgomery Academy,32.35198,-86.260305,school,relation/20461425
+Johnson Abernathy Graetz High School,32.342835,-86.262953,school,relation/20461471
+Dannelly Elementary School,32.343294,-86.259121,school,relation/20461474
+School (r20461636),32.330762,-86.247215,school,relation/20461636
+Forest Avenue Elementary School,32.361054,-86.285605,school,relation/20461709
+School (r20462068),32.355473,-86.310494,school,relation/20462068
+James W. Wilson Jr Elementary School,32.305416,-86.150108,school,relation/20501866
+School (r20501868),32.311516,-86.133551,school,relation/20501868
+Halcyon Elementary School,32.352823,-86.163614,school,relation/20501890
+School (r20502112),32.390206,-86.179188,school,relation/20502112
+School (r20512368),32.320637,-86.219059,school,relation/20512368
+Saint James School,32.337714,-86.207277,school,relation/20512415
+School (r20574420),32.348704,-86.335121,school,relation/20574420
+Floyd Magnet Middle School,32.376524,-86.290456,school,relation/20575952
+Highland Avenue Elementary School,32.371659,-86.281252,school,relation/20576060
+Flowers Elementary School,32.366223,-86.251194,school,relation/20576084
+Chisholm Elementary School,32.418899,-86.27934,school,relation/20578991
+Capitol Heights Middle School,32.383354,-86.271425,school,relation/20579063
+Morningview Elementary School,32.389601,-86.267262,school,relation/20579064
+Percy Julian High School,32.378087,-86.271128,school,relation/20579202
+Goodwyn Middle School,32.3798,-86.24531,school,relation/20579214
+Dozier Elementary School,32.37716,-86.210954,school,relation/20579469
+Holy Cross Episcopal School,32.321897,-86.19872,school,relation/20584772
+Wares Ferry Elementary School,32.400386,-86.19035,school,relation/20585834
+Pike Road High School,32.356378,-86.102555,school,relation/20600268
+School (r20603665),32.285638,-86.103956,school,relation/20603665
+Martin Luther King Elementary School,32.309421,-86.384408,school,relation/20641956
+Southlawn Elementary School,32.30208,-86.348394,school,relation/20642072

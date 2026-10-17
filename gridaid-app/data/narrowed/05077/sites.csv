@@ -1,0 +1,23 @@
+name,lat,lon,type,osm
+Bowman School,34.775097,-90.801779,school,node/358968099
+Carver School,34.775097,-90.952895,school,node/358968836
+Gill School,34.878151,-90.913727,school,node/358971354
+Saint Austin School,34.826207,-90.825113,school,node/358979795
+Saint Marys Missionary Church School,34.892596,-90.48538,school,node/358980028
+Walls School,34.84454,-90.881226,school,node/358982846
+Lee Academy,34.788986,-90.794001,school,node/358988068
+Lee High School,34.784267,-90.780392,school,node/358988070
+Anna Strong Elementary School,34.769267,-90.769282,school,node/358988082
+Anna Strong Middle School,34.768987,-90.767612,school,node/358988085
+Nunnally Elementary School,34.775097,-90.763445,school,node/358988091
+Whitten Elementary School,34.776753,-90.763354,school,node/358988094
+Moro Elementary School,34.792319,-90.989007,school,node/358988164
+Aubrey Rural Volunteer Fire Station,34.718244,-90.900013,fire_station,node/367129089
+Lee County Volunteer Fire Department,34.774237,-90.756767,fire_station,node/367129874
+Moro Fire Department,34.79522,-90.991491,fire_station,node/367130106
+Rondo Fire Station,34.660163,-90.822889,fire_station,node/367130356
+School (w670481252),34.792387,-90.989077,school,way/670481252
+School (w670484084),34.768432,-90.769124,school,way/670484084
+Lee County Library,34.773288,-90.760241,library,way/998728670
+Spring Grove School,34.885582,-90.792793,school,way/1303803462
+Marianna Volunteer Fire Department,34.77417,-90.756517,fire_station,way/1451777140

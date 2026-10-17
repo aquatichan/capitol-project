@@ -1,0 +1,40 @@
+name,lat,lon,type,osm
+Caldwell Elementary School,35.072569,-90.815549,school,node/359021346
+Crowleys Ridge Vocational Technical School,35.039813,-90.767056,school,node/359021351
+Calvary Christian High School,35.02648,-90.779278,school,node/359021354
+Calvary Christian Elementary School,35.024814,-90.789279,school,node/359021357
+Stewart Elementary School,35.011025,-90.797894,school,node/359021375
+Central Elementary School,35.029125,-90.798938,school,node/359021376
+Central Primary School,35.018147,-90.789556,school,node/359021378
+Forrest City High School,35.020219,-90.794497,school,node/359021382
+Forrest City Middle School,35.019814,-90.790668,school,node/359021386
+Madison-Butler Elementary School,35.010925,-90.725665,school,node/359021387
+Wheatley High School,34.919261,-91.111511,school,node/359021392
+Wheatley Elementary School,34.917872,-91.111511,school,node/359021394
+Forrest Hills Elementary School,35.006931,-90.797158,school,node/359021400
+Hughes Elementary School,34.95065,-90.473157,school,node/359021401
+Hughes High School,34.950678,-90.472977,school,node/359021403
+Davis School,35.019538,-90.43649,school,node/359021460
+Derossitt School,35.066202,-90.682609,school,node/359021463
+Lake Grove School,35.139813,-90.435935,school,node/359021493
+Lincoln High School,35.008703,-90.796223,school,node/359021494
+Saint Lukes Church School,34.921484,-90.452601,school,node/359021563
+Section Thirteen School,35.047037,-90.4076,school,node/359021571
+Willow Bend School,35.103147,-90.438434,school,node/359021649
+Evans Elementary School,34.960926,-90.782334,school,node/359021880
+Palestine-Wheatley Middle School,34.912928,-91.106938,school,node/359023896
+Madison Elementary School,35.007477,-90.769782,school,node/359023897
+Forrest City Junior High School,35.019748,-90.790705,school,node/359023899
+Mildred Jackson Elementary School,34.944063,-90.473583,school,node/359024437
+Colt Volunteer Fire Department,35.132042,-90.806191,fire_station,node/367129274
+Madison Fire Department,35.013446,-90.725117,fire_station,node/367129950
+Wheatley Fire Department,34.91274,-91.109887,fire_station,node/367130783
+Widener Community Center,35.023506,-90.684265,community_centre,node/12950652859
+Palestine-Wheatley High School,34.965709,-90.917783,school,way/505226567
+Forrest City Public Library,35.006385,-90.783148,library,way/505427983
+Forrest City Fire Department,35.010939,-90.786881,fire_station,way/505436208
+Colt Fire Department,35.132184,-90.805839,fire_station,way/1050860050
+Palestine Fire Station,34.97583,-90.902588,fire_station,way/1153631387
+Palestine-Wheatley Elementary School,34.969938,-90.904823,school,way/1160264618
+Widener Volunteer Fire Department,35.023769,-90.683778,fire_station,way/1283915681
+Caldwell Fire Department,35.07218,-90.816838,fire_station,way/1327164315

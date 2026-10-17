@@ -1,0 +1,141 @@
+name,lat,lon,type,osm
+Black Jack School,36.188687,-93.914086,school,node/358967884
+Burkshed School,36.215353,-93.911308,school,node/358968492
+Hickory Flat School,36.209242,-93.950198,school,node/358972545
+Monitor School,36.205077,-94.084368,school,node/358975547
+Pilgrims Rest School,36.182854,-93.978254,school,node/358978076
+Round Mountain School,36.062856,-94.032978,school,node/358979648
+Elkins Elementary School,36.006532,-94.007651,school,node/358998862
+Elkins High School,36.00449,-94.009946,school,node/358998864
+Lincoln Elementary School,35.956117,-94.421886,school,node/358998991
+Lincoln High School,35.955524,-94.422717,school,node/358998994
+Lincoln Middle School,35.955439,-94.421885,school,node/358998996
+Oak Grove School,35.829526,-94.146315,school,node/358999032
+Prairie Grove Elementary School,35.984245,-94.32583,school,node/358999050
+West Fork Elementary School,35.92477,-94.19316,school,node/358999209
+West Fork High School,35.921376,-94.191166,school,node/358999212
+West Fork Middle School,35.922472,-94.191716,school,node/358999215
+Winslow Elementary School,35.795506,-94.127845,school,node/358999231
+Winslow High School,35.796506,-94.127851,school,node/358999235
+Elkins Middle School,36.004946,-94.009905,school,node/359023680
+Prairie Grove Upper Elementary School,35.985333,-94.321274,school,node/359023691
+Prairie Grove Middle School,35.985719,-94.318854,school,node/359023692
+Boston Mountain Fire Department Station 3,35.817346,-94.188319,fire_station,node/367129219
+Boston Mountain Fire Department Station 2,35.814545,-94.131004,fire_station,node/367129220
+Cincinnati Volunteer Fire Station 2,36.038274,-94.508752,fire_station,node/367129311
+Evansville Fire Department,35.801597,-94.496188,fire_station,node/367129554
+Elkins Volunteer Fire Department,36.000456,-94.010315,fire_station,node/367129577
+Goshen Fire Station 3,36.10241,-94.077449,fire_station,node/367129598
+Goshen Fire Station 1,36.10102,-93.988833,fire_station,node/367129617
+Goshen Fire Department Station 2,36.144263,-94.035037,fire_station,node/367129619
+Hogeye Volunteer Fire Department Station 2,35.977124,-94.222974,fire_station,node/367129857
+Lincoln Volunteer Fire Department,35.949658,-94.422711,fire_station,node/367130007
+Nob Hill Fire Department Station 1,36.181791,-93.997754,fire_station,node/367130010
+Nob Hill Fire Station 2,36.165926,-94.044643,fire_station,node/367130011
+Nob Hill Fire Station 4,36.214341,-93.911856,fire_station,node/367130036
+Nob Hill Fire Station 3,36.21946,-94.013541,fire_station,node/367130037
+Morrow Volunteer Fire Department,35.859613,-94.436073,fire_station,node/367130110
+West Fork Volunteer Fire Department Station 1,35.92355,-94.190391,fire_station,node/367130451
+West Fork Volunteer Fire Department Station 3,35.996841,-94.173309,fire_station,node/367130452
+Wedington Fire Department Station 1,36.076629,-94.290966,fire_station,node/367130467
+Sunset Volunteer Fire Department,35.811832,-94.012712,fire_station,node/367130477
+Strickler Volunteer Fire Department,35.831739,-94.311764,fire_station,node/367130494
+Whitehouse Volunteer Fire Department,35.895369,-94.039794,fire_station,node/367130781
+Wheeler Fire Department,36.114834,-94.260394,fire_station,node/1125693427
+Wedington Fire Department Station 2,36.108592,-94.333,fire_station,node/1125788347
+Prairie Grove Public Library,35.971681,-94.330613,library,node/12146673132
+Fire Station (n13113052214),36.177419,-93.925612,fire_station,node/13113052214
+Greenland Public Library,35.996831,-94.17314,library,node/13360425501
+Fire Station (n14108207304),35.978079,-94.490155,fire_station,node/14108207304
+David W. Mullins Library,36.068681,-94.173831,library,way/449256609
+Fayetteville Christian School,36.088917,-94.130647,school,way/466485379
+Yvonne Richardson Community Center,36.061313,-94.155826,community_centre,way/467548679
+Fayetteville Public Library,36.061549,-94.164997,library,way/468931335
+American Legion,36.050763,-94.140949,community_centre,way/475693173
+Fayetteville Senior Activity and Wellness Center,36.052897,-94.159489,community_centre,way/476813119
+Round Mountain Volunteer Fire Department,36.060675,-94.053319,fire_station,way/479975825
+Fayetteville Boys & Girls Club,36.072573,-94.216064,community_centre,way/493152808
+Northwest Arkansas Education Service Cooperative,36.042507,-94.253141,school,way/496567767
+Ledbetter Intermediate School,36.043847,-94.252863,school,way/496800964
+Greenland Middle School,35.995715,-94.173332,school,way/499566269
+Greenland Elementary School,35.9965,-94.171504,school,way/499566458
+Fayetteville High School,36.058209,-94.174267,school,way/501885076
+Ramay Junior High School,36.05803,-94.190546,school,way/502223112
+Woodland Junior High School,36.08695,-94.157498,school,way/502224294
+McNair Middle School,36.08907,-94.11739,school,way/502227152
+Vandergriff Elementary School,36.09013,-94.116839,school,way/502227153
+Owl Creek School,36.069637,-94.219955,school,way/502228238
+Holt Middle School,36.095611,-94.21479,school,way/502228835
+Root Elementary School,36.080977,-94.140896,school,way/502509227
+Washington Elementary School,36.069279,-94.159489,school,way/502509784
+Butterfield Trail Elementary School,36.10653,-94.132052,school,way/502510354
+Happy Hollow Elementary School,36.060274,-94.129782,school,way/502510805
+Holcomb Elementary School,36.105522,-94.206113,school,way/502510996
+Asbell Elementary School,36.082488,-94.187567,school,way/502512498
+Leverett Elementary School,36.074707,-94.176423,school,way/503000554
+The New School,36.096614,-94.155676,school,way/507876053
+Jefferson Center,36.055832,-94.15753,school,way/507985453
+"Jerry ""Pop"" Williams Elementary School",36.054485,-94.23475,school,way/523014966
+Tontitown Fire Department,36.175762,-94.231865,fire_station,way/533012089
+Prairie Grove Fire Department,35.974674,-94.315104,fire_station,way/546713116
+Fayetteville Fire Department,36.062488,-94.16342,fire_station,way/551974261
+Fayetteville Fire Station 2,36.074687,-94.175121,fire_station,way/592226214
+Fayetteville Virtual Academy,36.058066,-94.132361,school,way/635839648
+Fayetteville Fire Station 7,36.076613,-94.218339,fire_station,way/641436228
+Farmington High School,36.026265,-94.248268,school,way/651787845
+Springdale Fire Department Station 2,36.152981,-94.150046,fire_station,way/732178769
+Helen Tyson Middle School,36.15526,-94.177342,school,way/738085055
+John Tyson Elementary School,36.162814,-94.152342,school,way/738091933
+Linda Childers Knapp Elementary School,36.161132,-94.111177,school,way/743767616
+J.O. Kelly Middle School,36.164492,-94.112164,school,way/744232281
+Harp Elementary School,36.160196,-94.09683,school,way/744473300
+George Elementary School,36.159107,-94.128285,school,way/746277270
+George Junior High School,36.156457,-94.128352,school,way/746277271
+Lakeside Junior High School,36.15726,-94.087958,school,way/747471977
+Don Tyson School of Innovation,36.159605,-94.083464,school,way/749969234
+Walter Turnbow Elementary School,36.153668,-94.079177,school,way/749970733
+Springdale Fire Station 6,36.171534,-94.183186,fire_station,way/750628580
+Walker Elementary School,36.170577,-94.173621,school,way/752095954
+Shiloh Christian School,36.168947,-94.154647,school,way/754342279
+Southwest Junior High School,36.169685,-94.152418,school,way/754342293
+Jones Elementary School,36.175096,-94.124039,school,way/763005996
+Springdale Fire Department Station 5,36.167265,-94.111531,fire_station,way/766520007
+Parson Hills Elementary School,36.172866,-94.106548,school,way/768837871
+Springdale Fire Department Station 1,36.182095,-94.130783,fire_station,way/775582882
+Lee Elementary School,36.179462,-94.133908,school,way/781345042
+Springdale Public Library,36.180895,-94.14241,library,way/796282852
+Archer Learning Center,36.17896,-94.140586,school,way/798566706
+Springdale High School,36.184349,-94.14124,school,way/799485294
+Westwood Elementary School,36.182704,-94.150759,school,way/803168147
+Central Junior High School,36.187935,-94.162715,school,way/813438170
+Bernice Young Elementary School,36.185267,-94.205202,school,way/823024234
+Hellstern Middle School,36.185321,-94.218004,school,way/825084611
+Har-Ber High School,36.184076,-94.214759,school,way/825084613
+Springdale Fire Department Station 7,36.187551,-94.218977,fire_station,way/825259806
+Springdale Fire Station 4,36.193271,-94.167651,fire_station,way/830415102
+Monitor Elementary School,36.202364,-94.085642,school,way/833000825
+Elmdale Elementary School,36.190644,-94.148521,school,way/833242780
+Bayyari Elementary School,36.20327,-94.109399,school,way/845135207
+Springdale Fire Department Station 3,36.20615,-94.136385,fire_station,way/851344599
+Fayetteville Fire Station 6,36.054417,-94.188359,fire_station,way/861243333
+Fayetteville Fire Station 5,36.104874,-94.120935,fire_station,way/861243334
+Fayetteville Fire Station 4,36.112861,-94.149119,fire_station,way/861243335
+Fayetteville Fire Station 3,36.052247,-94.135482,fire_station,way/861243336
+Thurman G. Smith Elementary School,36.201334,-94.172829,school,way/874500824
+Haas Hall Academy,36.121637,-94.143429,school,way/880433802
+Fayetteville Montesorri School,36.094429,-94.156049,school,way/892903507
+Johnson Fire Department,36.132542,-94.168735,fire_station,way/979734133
+Wheeler Fire Department Station 3,36.113926,-94.207096,fire_station,way/1039690341
+Prairie Grove High School,35.981128,-94.324202,school,way/1099661560
+Fayetteville Fire Station 9,36.039579,-94.165894,fire_station,way/1155605510
+John L Colbert Middle School,36.0552,-94.218308,school,way/1251886891
+Fayetteville Fire Station 8,36.086678,-94.190807,fire_station,way/1276291492
+Sonora Middle School,36.163198,-94.047398,school,way/1303029790
+Sonora Elementary School,36.163479,-94.050254,school,way/1303029791
+Farmington Freshman Academy,36.040104,-94.253506,school,way/1321925772
+Farmington Junior High School,36.040713,-94.252961,school,way/1321925773
+Farmington Middle School,36.041857,-94.256615,school,way/1368482333
+Farmington Public Library,36.039933,-94.24871,library,way/1368482351
+Bob Folsom Elementary School,36.034395,-94.255405,school,way/1368491424
+Elkins Senior Activity & Wellness Center,36.000405,-94.00974,community_centre,way/1558979141
+Greenland High School,35.994464,-94.172404,school,relation/7325071

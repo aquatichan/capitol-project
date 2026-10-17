@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Oakland School,36.45951,-92.57572,school,node/358977481
+Flippin Elementary School,36.280863,-92.600595,school,node/358991017
+Flippin High School,36.280174,-92.600089,school,node/358991020
+Yellville-Summit High School,36.240927,-92.689879,school,node/358991053
+Yellville-Summit Elementary School,36.23926,-92.689709,school,node/359022043
+Flippin Middle School,36.280028,-92.598402,school,node/359023653
+Yellville-Summit Middle School,36.240873,-92.68928,school,node/359023654
+Bruno-Pyatt Elementary School,36.21332,-92.86277,school,node/359023656
+Bruno-Pyatt High School,36.213218,-92.86277,school,node/359023657
+Pyatt Rural Fire And Defense Association,36.263606,-92.844338,fire_station,node/367128557
+Bull Shoals Volunteer Fire Department Station,36.384272,-92.581279,fire_station,node/367129194
+Bruno Volunteer Fire Protection District,36.1441,-92.778167,fire_station,node/367129207
+Flippin Fire Department,36.278133,-92.59725,fire_station,node/367129444
+Lakeway Rural Volunteer Fire Station 1,36.332082,-92.774366,fire_station,node/367129880
+Lakeway Volunteer Fire Department Substation,36.336667,-92.865484,fire_station,node/367129881
+Oakland - Promise Land Volunteer Fire Department Station 2,36.426323,-92.536769,fire_station,node/367130065
+Oakland - Promise Land Volunteer Fire Department Station 1,36.458886,-92.575771,fire_station,node/367130066
+Ralph Caney Rural Fire Protection Unit,36.168372,-92.674458,fire_station,node/367130171
+Ralph Caney Rural Fire Protection,36.10879,-92.622299,fire_station,node/367130172
+Pyatt Rural Volunteer Fire Department Substation,36.209679,-92.831219,fire_station,node/367130176
+Rea Valley Volunteer Fire Department,36.220806,-92.550408,fire_station,node/367130184
+Peel Volunteer Fire Department,36.435677,-92.770449,fire_station,node/367130241
+Peel Volunteer Fire Department Substation,36.43362,-92.823932,fire_station,node/367130248
+Pine Mountain Volunteer Fire Department Substation,36.350026,-92.675066,fire_station,node/367130257
+Pine Mountain Volunteer Fire Department,36.411143,-92.663885,fire_station,node/367130260
+Summitt Volunteer Fire Department,36.250768,-92.690435,fire_station,node/367130472
+Rea Valley Fire Station 2,36.210338,-92.501046,fire_station,node/367130727
+Lakeway Rural Volunteer Fire Substation 2,36.364528,-92.85688,fire_station,node/367131558
+Marrion county senior center,36.283032,-92.614587,community_centre,node/14097842401
+Yellville Volunteer Fire Department,36.229756,-92.685248,fire_station,way/430215607
+Fairview Rural Volunteer Fire Department,36.333881,-92.605107,fire_station,way/1299080006
+School (w1442542478),36.281023,-92.598826,school,way/1442542478
+School (w1474901629),36.23956,-92.688878,school,way/1474901629

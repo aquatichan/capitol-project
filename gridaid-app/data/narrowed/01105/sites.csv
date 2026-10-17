@@ -1,0 +1,25 @@
+name,lat,lon,type,osm
+Hinton School,32.485135,-87.431389,school,node/358915822
+Perry School,32.610687,-87.316943,school,node/358923547
+White Hill School,32.406248,-87.455833,school,node/358931588
+Marion Academy,32.606799,-87.334999,school,node/358970461
+Suttle School,32.553189,-87.189995,school,node/358978054
+West High School,32.66641,-87.386722,school,node/358978634
+Oak Grove School,32.691519,-87.131661,school,node/358989681
+Provewell School,32.680686,-87.217497,school,node/358989949
+Marion Elementary School,32.634576,-87.321943,school,node/358993725
+Marion Baptist Academy,32.637076,-87.330832,school,node/358994211
+East Perry High School,32.576244,-87.193607,school,node/358998708
+Heiberger Elementary School,32.782906,-87.277499,school,node/358999388
+Pinetucky Volunteer Fire Department,32.820446,-87.116178,fire_station,node/13618123097
+Oakmulgee Creek Volunteer Fire Department,32.647234,-87.096632,fire_station,node/13758923959
+East Perry Volunteer Fire Department,32.734967,-87.116888,fire_station,node/13758982263
+Sprott Volunteer Fire Department,32.699536,-87.201409,fire_station,node/13759014484
+Cunningham Community Center,32.519483,-87.371634,community_centre,node/13759105608
+Robert Bowling Library,32.629247,-87.315171,library,way/321399650
+Marion - Perry County Public Library,32.634169,-87.318899,library,way/962774231
+Marion Fire Department,32.632189,-87.318264,fire_station,way/1056683307
+Francis Marion High School,32.63094,-87.335332,school,way/1058224471
+Uniontown Public Library,32.450288,-87.51408,library,way/1082140835
+Uniontown Elementary School,32.445322,-87.515361,school,way/1084361649
+Hatch High School,32.443988,-87.518131,school,way/1084958701

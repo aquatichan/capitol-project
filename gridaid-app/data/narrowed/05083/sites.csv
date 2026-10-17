@@ -1,0 +1,58 @@
+name,lat,lon,type,osm
+Union School,35.181204,-93.99826,school,node/358982411
+Whiteoak School,35.185092,-93.916868,school,node/358983526
+Paris Middle School,35.296493,-93.721685,school,node/358996772
+Scranton High School,35.361317,-93.541014,school,node/358996793
+Magazine High School,35.149488,-93.801788,school,node/358996924
+Magazine Elementary School,35.150379,-93.801817,school,node/358996926
+Booker T Washington School,35.340643,-93.737973,school,node/359007253
+Brown School,35.075092,-93.754642,school,node/359007376
+Lick Creek School,35.092037,-93.834367,school,node/359008595
+Mount Pisgah School,35.21148,-93.845477,school,node/359008924
+New Subiaco Academy,35.298603,-93.633182,school,node/359009126
+Pleasant Hill School,35.175091,-93.764641,school,node/359009497
+Saint Joseph School,35.291547,-93.733072,school,node/359009693
+Shady Grove School,35.119815,-93.846589,school,node/359009750
+Liberty School,35.197588,-93.510188,school,node/359010461
+New Blaine School,35.285086,-93.42185,school,node/359014659
+Saint Scholastica School,35.303138,-93.464051,school,node/359014681
+Earl Prairie District School Number 66,35.103681,-94.008403,school,node/359020668
+J D Leftwich High School,35.150366,-93.801373,school,node/359023857
+Paris Elementary School,35.29142,-93.714533,school,node/359023861
+Ratcliff Rural Fire Deparment,35.309136,-93.883128,fire_station,node/367128556
+Booneville City Fire Department,35.138869,-93.922758,fire_station,node/367129159
+Booneville City Fire Department,35.134302,-93.92116,fire_station,node/367129160
+Blue Mountain Volunteer Fire Station,35.129992,-93.711822,fire_station,node/367129175
+Caulksville Volunteer Fire Department,35.301731,-93.865683,fire_station,node/367129221
+Corley Mountain Rural Fire Department Substation 2,35.174558,-93.620833,fire_station,node/367129276
+Corley Mountain Rural Fire Department Substation 3,35.221308,-93.572328,fire_station,node/367129277
+Corley Mountain Rural Fire Department Station 1,35.340314,-93.741174,fire_station,node/367129278
+Delaware Volunteer Fire Department,35.284442,-93.298168,fire_station,node/367129331
+Driggs Fire And Rescue Station,35.238722,-93.77246,fire_station,node/367129354
+Golden City Volunteer Fire Department,35.073147,-93.95561,fire_station,node/367129622
+Grayson Volunteer Fire Department Station 1,35.049721,-93.865058,fire_station,node/367129657
+Ione Volunteer Fire Department,35.061943,-94.049775,fire_station,node/367129824
+Magazine City Volunteer Fire Department,35.153967,-93.806958,fire_station,node/367129949
+New Blaine Rural Fire Department Shoal Creek Station,35.302899,-93.464724,fire_station,node/367130017
+New Blaine Rural Fire Department Station 1,35.287258,-93.424364,fire_station,node/367130018
+Midway Rural Fire Department,35.291947,-93.527412,fire_station,node/367130103
+Paris Fire Department,35.292939,-93.727974,fire_station,node/367130230
+Roseville Rural Volunteer Fire Department Station 2,35.310099,-93.735583,fire_station,node/367130359
+Roseville Rural Fire Department Station 1,35.38226,-93.775579,fire_station,node/367130362
+Scranton Fire Department Station 2,35.361702,-93.471853,fire_station,node/367130365
+Subiaco Crossroads Fire Department,35.329049,-93.631557,fire_station,node/367130497
+Subiaco / Crossroads Rural Fire Department Station 2,35.292924,-93.633155,fire_station,node/367130498
+Sugar Grove Fire Department,35.081925,-93.800505,fire_station,node/367130503
+Logan County Library,35.141644,-93.924628,library,node/367130959
+Ratcliff Rural Fire Substation,35.246426,-93.9165,fire_station,node/367131564
+Community Centre (n5899859622),35.34088,-93.738159,community_centre,node/5899859622
+Community Centre (n5899865362),35.238556,-93.772323,community_centre,node/5899865362
+Boyd T & Mollie Gattis Logan County Library,35.289465,-93.728873,library,node/14108658761
+Paris Elementary School,35.295031,-93.718107,school,way/117439060
+Booneville Elementary School,35.143852,-93.925402,school,way/450147478
+Paris High School,35.297613,-93.706558,school,way/450148815
+Scranton Elementary School,35.361456,-93.538118,school,way/1173766207
+Booneville Middle School,35.14612,-93.916088,school,way/1212848771
+Booneville High School,35.146666,-93.911646,school,way/1212848772
+Blue Mtn. Volunteer Fire Department,35.129998,-93.711695,fire_station,way/1282265131
+Scranton Fire Department Station 1,35.359405,-93.536399,fire_station,way/1513110309

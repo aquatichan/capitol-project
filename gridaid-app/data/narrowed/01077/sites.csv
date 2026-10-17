@@ -1,0 +1,60 @@
+name,lat,lon,type,osm
+Confluence School,34.851197,-87.223628,school,node/358909266
+McGee School,34.924807,-87.548358,school,node/358919796
+Mount Zion School,34.848699,-87.870588,school,node/358921502
+Ray School,34.785366,-87.765586,school,node/358925704
+Rhodesville School,34.87092,-87.866699,school,node/358958989
+East End High School,34.810643,-87.299186,school,node/358964974
+Elgin Cross Roads Elementary School,34.846753,-87.391689,school,node/358964996
+Sweet Gum School,34.990638,-87.41391,school,node/358978061
+Cloverdale Junior High School,34.94703,-87.780029,school,node/358998642
+Oakland Junior High School,34.845921,-87.794475,school,node/358999343
+Anderson Junior High School,34.924529,-87.267518,school,node/358999386
+High School Library,34.96268,-87.521208,library,node/6399303498
+Elemetary School Library,34.963032,-87.52286,library,node/6399303499
+Saint Joseph Regional Catholic School,34.805199,-87.663402,school,node/13027758890
+Center Star Fire Department Station #2,34.893167,-87.471192,fire_station,node/13834375855
+Florence High School,34.835916,-87.66429,school,way/83058669
+W. C. Handy School,34.798559,-87.690293,school,way/83058681
+Burrell Slater Community Educational Center,34.796508,-87.683956,school,way/83058684
+Weeden Elementary School,34.819671,-87.642506,school,way/83077401
+Florence Middle School,34.810221,-87.671217,school,way/83077677
+Florence Senior Center,34.814688,-87.711624,community_centre,way/83095096
+Sam C Harlan Elementary School,34.832785,-87.68338,school,way/83096832
+Kilby Elementary School,34.806362,-87.682228,school,way/83096835
+Florence Christian Academy,34.831144,-87.630012,school,way/360367058
+Lauderdale County High School,34.828829,-87.289247,school,way/440087303
+Collier Library,34.808373,-87.679162,library,way/443666508
+Florence-Lauderdale Public Library,34.803682,-87.674307,library,way/444644608
+Florence Fire Station No. 2,34.840741,-87.593588,fire_station,way/444943274
+Hibbett Middle School,34.822343,-87.695495,school,way/445074498
+Wilson School,34.926413,-87.671954,school,way/445724469
+Royal Avenue Recreation Center,34.809297,-87.668513,community_centre,way/446355744
+Underwood-Petersville Volunteer Fire Station,34.872304,-87.694192,fire_station,way/446702307
+Underwood Elementary School,34.872386,-87.695083,school,way/446703774
+Forrest Hills Elementary,34.848007,-87.676025,school,way/446884745
+Florence Fire Department Headquarters Station 1,34.797855,-87.671591,fire_station,way/452314096
+Rogersville Public Library,34.824684,-87.291835,library,way/454894026
+Shoals Christian School,34.848989,-87.695993,school,way/455390180
+Florence Fire Department Station 5,34.841595,-87.675931,fire_station,way/458098096
+Florence Fire Department Station 3,34.819097,-87.681332,fire_station,way/458103382
+Florence Fire Department Station 4,34.817809,-87.635582,fire_station,way/458111353
+Brooks High School,34.857095,-87.494477,school,way/465015415
+Brooks Elementary School,34.864371,-87.530545,school,way/465017743
+Waterloo High School,34.918221,-88.064785,school,way/465209484
+Mid-Lauderdale Volunteer Fire Department,34.874251,-87.622063,fire_station,way/506479852
+Riverhill School,34.838751,-87.64819,school,way/632561037
+Lexington Public Library,34.968187,-87.371497,library,way/640578062
+Lexington School,34.967791,-87.374125,school,way/640578174
+Oakland Volunteer Fire Department,34.840748,-87.798105,fire_station,way/647472553
+Center Star Fire Department,34.850529,-87.453208,fire_station,way/649557771
+Elgina Volunteer Fire Station #1,34.851591,-87.394116,fire_station,way/649576740
+Killen Public Library,34.859754,-87.540751,library,way/650289253
+Killen Volunteer Fire Department,34.860043,-87.541094,fire_station,way/650289428
+Greenhill Volunteer Fire Department Station #2,34.929243,-87.536193,fire_station,way/653509265
+Central School,34.89703,-87.798128,school,way/654311962
+Rogers School,34.961681,-87.52263,school,way/655088362
+Allen Thornton Career Technical Center,34.861832,-87.442644,school,way/725984535
+Little Angel Day School,34.816391,-87.683086,school,way/1538474106
+Mars Hill Bible School,34.847138,-87.658175,school,relation/6638899
+Broadway Recreation Center,34.820647,-87.638486,community_centre,relation/14287257

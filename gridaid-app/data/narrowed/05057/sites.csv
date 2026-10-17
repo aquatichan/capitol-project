@@ -1,0 +1,50 @@
+name,lat,lon,type,osm
+Antioch School,33.786502,-93.521843,school,node/358966803
+Blevins Training School,33.843724,-93.576845,school,node/358967930
+Columbus High School,33.769562,-93.778793,school,node/358969663
+Douglas School,33.669009,-93.831295,school,node/358970355
+Guernsey High School,33.658174,-93.690458,school,node/358971856
+Guernsey School,33.664286,-93.722125,school,node/358971859
+Patmos School,33.513176,-93.5499,school,node/358977834
+Rosewald School,33.681506,-93.589344,school,node/358979557
+University of Arkansas Experiment Station,33.709283,-93.558788,school,node/358982495
+Williams Chapel School,33.502621,-93.672957,school,node/358983712
+Lincoln High School,33.767339,-93.694624,school,node/358991518
+Lincoln Elementary School,33.767061,-93.695458,school,node/358991521
+Blevins Elementary School,33.873497,-93.573698,school,node/358991536
+Blevins High School,33.874771,-93.572257,school,node/358991538
+Saratoga Elementary School,33.747577,-93.899139,school,node/358991584
+Saratoga High School,33.747568,-93.898522,school,node/358991586
+University of Arkansas Community College At Hope,33.642062,-93.579344,school,node/358991594
+Hope High School,33.652311,-93.585904,school,node/358991599
+School of Hope,33.661506,-93.585733,school,node/358991630
+Spring Hill High School,33.585294,-93.650935,school,node/358991714
+Spring Hill Elementary School,33.584858,-93.651258,school,node/358991716
+Brookwood School,33.66595,-93.584344,school,node/359011618
+Poisley School,33.667895,-93.602122,school,node/359013101
+Yeager High School,33.662617,-93.5849,school,node/359014098
+Blevins School Number 2,33.898723,-93.637124,school,node/359020626
+Garland Elementary School,33.662062,-93.596567,school,node/359021902
+William Jefferson Clinton Primary School,33.662676,-93.563745,school,node/359024246
+Yerger Junior High School,33.662947,-93.585539,school,node/359024252
+Beryl Henry Upper Elementary School,33.647493,-93.588462,school,node/359024253
+Blevins Volunteer Fire Department,33.872205,-93.57505,fire_station,node/367129173
+Bingen Volunteer Fire Department,33.978516,-93.784676,fire_station,node/367129180
+Columbus Fire Department,33.775381,-93.796189,fire_station,node/367129275
+Deann Volunteer Fire Department,33.780003,-93.561566,fire_station,node/367129326
+Crossroads Volunteer Fire Department,33.723657,-93.719306,fire_station,node/367129399
+Guernsey Volunteer Fire Department,33.657488,-93.690928,fire_station,node/367129756
+McCaskill Volunteer Fire Department,33.947431,-93.689898,fire_station,node/367130084
+Ozan Volunteer Fire Department,33.84941,-93.723584,fire_station,node/367130219
+Perrytown Volunteer Fire Department,33.700694,-93.527582,fire_station,node/367130251
+Springhill Volunteer Fire Department,33.588908,-93.649813,fire_station,node/367130303
+Southeast Volunteer Fire Department,33.647043,-93.548219,fire_station,node/367130318
+Hempstead County Library,33.664006,-93.5924,library,node/367130657
+Yancy Volunteer Fire Department,33.851804,-93.816377,fire_station,node/367130753
+Community Centre (n5899540402),33.685456,-93.582387,community_centre,node/5899540402
+Community Centre (n5899547242),33.916543,-93.64023,community_centre,node/5899547242
+Washington Fire Department,33.775307,-93.68265,fire_station,way/898599663
+Fulton Volunteer Fire Department,33.61362,-93.815285,fire_station,way/952806203
+Hope Fire Department,33.669003,-93.588757,fire_station,way/952813006
+Patmos Volunteer Fire Department,33.511992,-93.5668,fire_station,way/1253791855
+Saratoga Volunteer Fire Department,33.745181,-93.896716,fire_station,way/1366475333

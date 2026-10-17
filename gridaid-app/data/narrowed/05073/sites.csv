@@ -1,0 +1,22 @@
+name,lat,lon,type,osm
+Bunkham School,33.123187,-93.723788,school,node/358968475
+Wagoner School,33.313182,-93.661011,school,node/358982730
+Walker Creek School,33.119021,-93.512952,school,node/358982799
+Bradley Elementary School,33.101295,-93.659994,school,node/358993282
+Bradley High School,33.100837,-93.661951,school,node/358993285
+Lewisville High School,33.358458,-93.588233,school,node/358993289
+Lewisville Middle School,33.361792,-93.579066,school,node/358993291
+Stamps Elementary School,33.363458,-93.493231,school,node/358993294
+Stamps High School,33.364014,-93.492954,school,node/358993299
+Lafayette County West Elementary School,33.358703,-93.587807,school,node/359024293
+Lafayette County Middle School,33.35808,-93.588214,school,node/359024295
+Lafayette County East Elementary School,33.363212,-93.493695,school,node/359024296
+Lafayette County High School,33.369871,-93.481085,school,node/359024298
+Bradley Fire Station,33.098457,-93.657099,fire_station,node/367129214
+Lake Erling Volunteer Fire Department,33.044399,-93.531313,fire_station,node/367129898
+Mars Hill Volunteer Fire Department,33.259466,-93.532393,fire_station,node/367129932
+Midway Boyd Hill Fire Station,33.450221,-93.617363,fire_station,node/367130098
+River Bend Volunteer Fire Department,33.129501,-93.74505,fire_station,node/367130187
+Stamps Volunteer Fire Department,33.360484,-93.498644,fire_station,node/367130297
+Walker Creek Fire Department,33.122073,-93.512883,fire_station,node/367130405
+Lewisville Volunteer Fire Station,33.355914,-93.581154,fire_station,way/1254198269

@@ -1,0 +1,23 @@
+name,lat,lon,type,osm
+Belk Junior High School,33.640945,-87.9328,school,node/358951080
+Bobo High School,33.878716,-87.824467,school,node/358951110
+Fayette Academy,33.71622,-87.831408,school,node/358951133
+West Highland High School,33.68511,-87.840019,school,node/358978639
+Covin Elementary School,33.67011,-87.908355,school,node/358998672
+Kirkland Junior High School,33.803163,-87.895023,school,node/358998873
+Newtonville Elementary School,33.543446,-87.822794,school,node/358998974
+Wayside Junior High School,33.872883,-87.891136,school,node/358999223
+Hubbertville Volunteer Fire Department,33.850502,-87.734291,fire_station,node/457304280
+Berry Volunteer Fire Department,33.659182,-87.604164,fire_station,node/3111716361
+Library (n3250022079),33.659732,-87.599719,library,node/3250022079
+Mount Vernon Volunteer Fire Department,33.734006,-87.908932,fire_station,node/13265635508
+Walnut Hill Volunteer Fire Department,33.584921,-87.813956,fire_station,node/13265740362
+Fayette Elementary School,33.687553,-87.825643,school,way/625863489
+Fayette Middle School,33.688923,-87.82589,school,way/625863490
+Fayette County High School,33.703169,-87.821143,school,way/625863491
+Berry High School,33.663356,-87.598525,school,way/671620643
+Berry Elementary School,33.664288,-87.601805,school,way/671620644
+Hubbertville School,33.830559,-87.742004,school,way/671620645
+Fayette Senior Center,33.686127,-87.833243,community_centre,way/1184775599
+Fayette County Memorial Library,33.688085,-87.830437,library,way/1343605719
+Canaan Junior High School,33.607367,-87.784159,school,way/1467970965

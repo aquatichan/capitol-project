@@ -1,0 +1,22 @@
+name,lat,lon,type,osm
+Bradley High School,33.623997,-92.06125,school,node/358968164
+Child School,33.478725,-92.291812,school,node/358969206
+Jersey School,33.434838,-92.304034,school,node/358973642
+Warren High School,33.618206,-92.063807,school,node/358990160
+Warren Middle School,33.626913,-92.069011,school,node/358990162
+Eastside Elementary School,33.62122,-92.056528,school,node/359021876
+Westside Elementary School,33.612887,-92.078473,school,node/359022029
+Thomas C Brunson Elementary School,33.612859,-92.077826,school,node/359024280
+Banks Volunteer Fire Department,33.57731,-92.270212,fire_station,node/367129046
+Bradley County Volunteer Fire Department,33.616028,-92.063432,fire_station,node/367129215
+County Line Volunteer Fire Station 1,33.704818,-92.1404,fire_station,node/367129379
+Godfrey Volunteer Fire Station,33.247309,-92.089685,fire_station,node/367129633
+Hermitage Rural Fire Department,33.449291,-92.17387,fire_station,node/367129724
+Jersey Rural Fire Department,33.372316,-92.28635,fire_station,node/367129780
+Pleasantville Rural Volunteer Fire Department,33.551008,-92.192448,fire_station,node/367130144
+Warren Fire Station 1,33.616034,-92.063455,fire_station,node/367130455
+Warren Fire Station 2,33.613962,-92.082304,fire_station,node/367130458
+Sumpter Rural Fire Station,33.485579,-92.050208,fire_station,node/367130473
+School (w202457002),33.4528,-92.170366,school,way/202457002
+Hermitage High School,33.452669,-92.172124,school,way/1461707291
+Hermitage Elementary School,33.453375,-92.176608,school,way/1461708850

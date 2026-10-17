@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Branch High School,35.596469,-91.286239,school,node/358968184
+Eastside School,35.728688,-91.186793,school,node/358970476
+Kenyon School,35.800631,-91.223461,school,node/358973912
+Pleasant Valley School,35.866186,-91.15457,school,node/358978590
+Pond Switch School,35.769243,-91.18346,school,node/358978648
+Rutherford School,35.563692,-91.154569,school,node/358979735
+Grubbs Elementary School,35.650079,-91.071512,school,node/358992145
+Grubbs High School,35.650634,-91.071789,school,node/358992147
+Newport High School,35.601063,-91.272788,school,node/358992156
+Newport Junior High School,35.601178,-91.272478,school,node/358992160
+Swifton Elementary School,35.824794,-91.126787,school,node/358992175
+Swifton High School,35.825075,-91.127345,school,node/358992177
+Tuckerman Elementary School,35.73526,-91.201778,school,node/358992181
+Tuckerman High School,35.736158,-91.200903,school,node/358992185
+Albright Elementary School,35.600133,-91.271419,school,node/359021778
+Gibbs Albright Elementary School,35.599702,-91.271652,school,node/359023752
+Diaz Volunteer Fire Department,35.637237,-91.26556,fire_station,node/367129339
+Eight Mile Fire Department Station,35.425857,-91.10964,fire_station,node/367129525
+Eight Mile Fire Department Station - Storage Garage,35.42734,-91.109384,fire_station,node/367129532
+Erwin Volunteer Fire Department,35.564406,-91.228742,fire_station,node/367129572
+Grubbs Volunteer Fire Department,35.65138,-91.074772,fire_station,node/367129759
+Newport Fire Department,35.61722,-91.251397,fire_station,node/367130015
+R And I Volunteer Fire Department,35.528284,-91.268035,fire_station,node/367130173
+Richwood Volunteer Fire Station,35.561462,-91.108169,fire_station,node/367130189
+Weldon Volunteer Fire Department,35.447393,-91.230287,fire_station,node/367130446
+Swifton Volunteer Fire Department,35.824334,-91.131919,fire_station,node/367130483
+Newport Fire Department Ambulance,35.617234,-91.251391,fire_station,node/367130763
+Tuckerman Volunteer Fire Department,35.731373,-91.200662,fire_station,node/367130764
+Tuckerman City Library,35.731651,-91.200127,library,node/13306814526
+School (w901873067),35.620782,-91.23164,school,way/901873067
+W.A. Billingsley Memorial Library,35.604751,-91.282373,library,way/1336497764
+Newport Fire Station No. 3,35.64144,-91.179011,fire_station,way/1450767290
+Jacksonport Volunteer Fire Station,35.639025,-91.30917,fire_station,way/1450912956

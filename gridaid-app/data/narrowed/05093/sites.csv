@@ -1,0 +1,88 @@
+name,lat,lon,type,osm
+Blackwater School,35.801742,-90.177039,school,node/358967901
+Box Elder School,35.98146,-90.151761,school,node/358968121
+Brown School,35.908961,-90.209263,school,node/358968303
+Hatcher School,35.669523,-90.232319,school,node/358972285
+Lost Cane School,35.800321,-90.128306,school,node/358974593
+Milligan Ridge School,35.781464,-90.258709,school,node/358975507
+Pawheen School,35.975904,-90.213152,school,node/358977859
+Red Line School,35.6998,-90.222318,school,node/358979021
+Shady Bend School,35.734521,-90.195095,school,node/358980602
+Shady Grove School,35.832297,-90.177595,school,node/358980705
+Shawnee School,35.510082,-90.125092,school,node/358980748
+Stillman School,35.637857,-90.24843,school,node/358981351
+Union Valley School,35.739617,-90.123395,school,node/358982444
+West Elementary School,35.701757,-89.986097,school,node/358992358
+Osceola Junior High School,35.699518,-89.978418,school,node/358992365
+Rivercrest High School,35.612738,-90.106963,school,node/358992383
+Missco School,35.685078,-90.256486,school,node/359001388
+West Ridge Elementary School,35.683967,-90.257875,school,node/359001519
+East Elementary School,35.698688,-89.964527,school,node/359021874
+Shawnee Elementary School,35.498416,-90.158427,school,node/359021995
+Blytheville C B Emergency Squad,35.929437,-89.904419,fire_station,node/367128714
+Burdette Volunteer Fire Department,35.817317,-89.940995,fire_station,node/367129195
+Milligan Ridge Volunteer Fire Department,35.804405,-90.230837,fire_station,node/367130102
+Luxora Public Library,35.757551,-89.929607,library,node/13419285756
+Leachville Public Library,35.937509,-90.258502,library,node/13802447338
+ANC Library,35.899351,-89.920903,library,node/14235330206
+Blytheville Primary School,35.905727,-89.915002,school,way/297124219
+School (w297445478),35.937828,-89.898375,school,way/297445478
+School (w297446080),35.932082,-89.912206,school,way/297446080
+School (w394524416),35.925407,-90.255743,school,way/394524416
+Osceola High School,35.707837,-90.014408,school,way/436748241
+North Elementary School,35.70611,-89.989678,school,way/436748244
+School (w629640413),35.701876,-89.986647,school,way/629640413
+School (w629645332),35.698616,-89.964788,school,way/629645332
+Osceola Senior Citizens Center,35.711579,-89.969592,community_centre,way/992599287
+Osceola Municipal Building,35.703107,-89.970733,community_centre,way/992600165
+Rosenwald Center,35.711173,-89.969961,community_centre,way/992600821
+Dell Community Center,35.859221,-90.042695,community_centre,way/1160694864
+Ramey Activity Center,35.96,-89.959022,community_centre,way/1427545571
+Gosnell School,35.962526,-89.967401,school,way/1428333703
+Dorris Marks Village Library,35.960758,-89.960083,library,way/1428333763
+Community Centre (w1428404831),35.956982,-89.965699,community_centre,way/1428404831
+Blytheville Public Library,35.929017,-89.90874,library,way/1428770154
+Community Centre (w1428788355),35.925319,-89.903838,community_centre,way/1428788355
+KIPP Academy,35.937555,-89.917739,school,way/1429564342
+Blytheville Fire Department Station No. 1,35.926973,-89.90065,fire_station,way/1430679688
+School (w1431382616),35.916342,-89.801993,school,way/1431382616
+Manila Public Library,35.878823,-90.166962,library,way/1434059096
+Community Centre (w1434064114),35.70307,-89.968746,community_centre,way/1434064114
+School (w1435182937),35.926856,-89.919371,school,way/1435182937
+KIPP Blytheville,35.908185,-89.919929,school,way/1435182958
+Harrison Learning Center,35.919075,-89.91037,community_centre,way/1435183027
+School (w1436481551),35.917378,-89.902017,school,way/1436481551
+School (w1436481615),35.918545,-89.910946,school,way/1436481615
+Osceola Public Library,35.703124,-89.971273,library,way/1446332717
+School (w1446332725),35.69934,-89.977807,school,way/1446332725
+Osceola Middle School,35.703941,-89.975738,school,way/1446332726
+Manila City Library,35.880784,-90.16656,library,way/1450744038
+Manila Fire Department,35.879477,-90.173296,fire_station,way/1450744070
+School (w1450744086),35.878217,-90.157557,school,way/1450744086
+Etowah Fire Volunteer Department,35.727326,-90.237237,fire_station,way/1450935053
+Blytheville Fire Department Station 3,35.960708,-89.950578,fire_station,way/1450938574
+Armorel Volunteer Fire Department,35.920495,-89.797772,fire_station,way/1452739583
+Burdette Community Center,35.813341,-89.937163,community_centre,way/1452741200
+Keiser Fire Department,35.675371,-90.097007,fire_station,way/1452746626
+Keiser Public Library,35.675125,-90.097016,library,way/1452746628
+Wilson Volunteer Fire Department,35.566196,-90.046968,fire_station,way/1454779020
+Dyess Volunteer Fire Department,35.594743,-90.213666,fire_station,way/1454779067
+Blytheville Fire Department Station 2,35.927758,-89.925553,fire_station,way/1457893239
+Osceola Fire Department Station 2,35.699019,-89.982052,fire_station,way/1457907606
+Osceola Fire Department Station No. 1,35.704622,-89.967584,fire_station,way/1457907619
+Gosnell Fire Department Station No. 2,35.960494,-89.971791,fire_station,way/1458111125
+Joiner Fire Department;Joiner Volunteer Fire Department,35.508251,-90.148262,fire_station,way/1458117739
+School (w1458130610),35.753846,-89.933656,school,way/1458130610
+Birdsong Rural Volunteer Fire Department,35.458615,-90.262402,fire_station,way/1458138304
+School (w1460133123),35.592765,-90.212972,school,way/1460133123
+School (w1462952316),35.916133,-89.90341,school,way/1462952316
+Luxora Fire Station,35.757437,-89.929806,fire_station,way/1462970250
+School (w1498552269),35.908364,-89.915816,school,way/1498552269
+Leachville Community Center,35.932358,-90.252369,community_centre,way/1509629344
+Leachville Head Start Center,35.931291,-90.240914,school,way/1509629453
+Leachville Volunteer Fire Department,35.937048,-90.257053,fire_station,way/1509846237
+School (w1510740662),35.931619,-89.907472,school,way/1510740662
+School (w1530651898),35.711798,-89.969477,school,way/1530651898
+Dell Volunteer Fire Department,35.858231,-90.043876,fire_station,way/1543065169
+Leachville Fire Department,35.889907,-90.258125,fire_station,way/1558159854
+Keiser Head Start,35.672755,-90.09496,school,way/1561396165

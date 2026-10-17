@@ -1,0 +1,65 @@
+name,lat,lon,type,osm
+Hodge School,35.882574,-91.578194,school,node/358972800
+Oak Hill School,35.830353,-91.703474,school,node/358977393
+Pfeiffer School,35.823409,-91.579582,school,node/358977962
+Pine Hill School,35.920073,-91.717365,school,node/358978163
+Pine Springs School,35.910074,-91.600417,school,node/358978229
+Red Cut School,35.808965,-91.732642,school,node/358979002
+Reed School,35.798687,-91.597916,school,node/358979050
+Thompson School,35.884241,-91.633751,school,node/358981806
+Wolf School,35.917296,-91.659863,school,node/358983839
+Landmark Baptist Academy,35.789842,-91.652862,school,node/358984930
+Community School,35.773688,-91.627083,school,node/358984935
+North Arkansas Christian School,35.793824,-91.660161,school,node/358984992
+Batesville Senior High School,35.754244,-91.623749,school,node/358985008
+Batesville Junior High School,35.754797,-91.621528,school,node/358985013
+Gateway Vocational-Technical School,35.793965,-91.616805,school,node/358985016
+Batesville Intermediate School,35.776743,-91.646528,school,node/359003687
+Cord-Charlotte Elementary School,35.81939,-91.438337,school,node/359003711
+Cord-Charlotte High School,35.818542,-91.437902,school,node/359003715
+Cushman Elementary School,35.871316,-91.757207,school,node/359003718
+Cushman High School,35.871369,-91.75541,school,node/359003721
+Desha Elementary School,35.735355,-91.678195,school,node/359003732
+Midland Elementary School,35.588045,-91.759904,school,node/359003796
+Midland High School,35.5473,-91.624857,school,node/359003799
+Newark Elementary School,35.720252,-91.44536,school,node/359003804
+Newark High School,35.700356,-91.445689,school,node/359003808
+Oil Trough High School,35.648134,-91.459855,school,node/359003813
+Southside Elementary School,35.700348,-91.626058,school,node/359003837
+Southside High School,35.699936,-91.626773,school,node/359003840
+Sulphur Rock Elementary School,35.756963,-91.499741,school,node/359003842
+Sulphur Rock High School,35.755947,-91.499864,school,node/359003844
+University of Arkansas Agricultural Station,35.81702,-91.79431,school,node/359013904
+West Elementary School,35.777988,-91.654561,school,node/359014019
+Central Elementary School,35.770508,-91.64614,school,node/359022054
+East Elementary School,35.772855,-91.632639,school,node/359022055
+Eagle Mountain Elementary School,35.768304,-91.624179,school,node/359023745
+Southside Middle School,35.701543,-91.63106,school,node/359023747
+Batesville High School,35.754697,-91.624095,school,node/359023749
+Kindergarten Center,35.772786,-91.632717,school,node/359023751
+Cedar Ridge High School,35.721223,-91.44484,school,node/359024416
+Batesville Fire Station 1,35.770957,-91.65065,fire_station,node/367129067
+Bethesda Area Volunteer Fire Department,35.791111,-91.785795,fire_station,node/367129108
+Cord Fire Station,35.823096,-91.34597,fire_station,node/367129279
+Charlotte Fire Station,35.822209,-91.446493,fire_station,node/367129301
+Desha Volunteer Fire Department,35.736906,-91.680268,fire_station,node/367129333
+Cushman Volunteer Fire Department,35.871265,-91.753085,fire_station,node/367129418
+Floral Fire Station,35.587039,-91.755531,fire_station,node/367129442
+Newark Fire Station,35.696987,-91.444348,fire_station,node/367130014
+Northside Fire Station,35.816151,-91.597661,fire_station,node/367130047
+Oil Trough Fire Department,35.631253,-91.457412,fire_station,node/367130061
+Pleasant Plains Fire Department,35.550225,-91.622831,fire_station,node/367130151
+Southside Fire Station 3,35.646525,-91.67365,fire_station,node/367130310
+Southside Fire Station 1,35.715548,-91.634313,fire_station,node/367130315
+Southside Fire Station 2,35.698255,-91.590406,fire_station,node/367130316
+Ruddell Hill Volunteer Fire Department,35.769111,-91.701032,fire_station,node/367130347
+Union Hil l- Thida Fire Department,35.548713,-91.49195,fire_station,node/367130413
+Sulphur Rock Fire Station,35.75383,-91.499635,fire_station,node/367130474
+Northside Fire Department,35.792021,-91.611249,fire_station,node/367130699
+White River Regional Library,35.771419,-91.651305,library,node/367130988
+Fire Station (n10580559541),35.791322,-91.64767,fire_station,node/10580559541
+Batesville Community Center,35.763811,-91.632783,community_centre,node/13007466301
+Mabee-Simpson Library,35.777592,-91.625209,library,way/556125364
+Fire Station (w557470720),35.771101,-91.650842,fire_station,way/557470720
+School (w624501357),35.547364,-91.62424,school,way/624501357
+School (w1090623425),35.755429,-91.62443,school,way/1090623425

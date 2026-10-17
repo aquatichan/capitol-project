@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "gridaid-app.api.index:app"

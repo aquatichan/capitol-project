@@ -1,0 +1,80 @@
+name,lat,lon,type,osm
+Douglas School,34.517312,-93.062124,school,node/358970358
+Goldstein School,34.5087,-93.045735,school,node/358971476
+Lee School,34.504534,-93.052402,school,node/358974288
+Ramble School,34.524256,-93.051013,school,node/358978911
+Charles N Rix School,34.498423,-93.040179,school,node/358979221
+Saint Gabriels School,34.5037,-93.044346,school,node/358979824
+Saint Johns School,34.502063,-93.060977,school,node/358979915
+Saint Michaels School,34.500645,-93.042401,school,node/358980071
+Second Baptist School,34.500367,-93.06518,school,node/358980572
+Southwest Junior High School,34.486201,-93.074347,school,node/358981137
+Fountain Lake Elementary School,34.573872,-92.989572,school,node/358996993
+Fountain Lake High School,34.572999,-92.988184,school,node/358996996
+National Park College,34.512589,-93.119627,school,node/358996998
+Hot Springs World Class High School,34.475605,-93.069849,school,node/358997005
+Jessieville Elementary School,34.701136,-93.061945,school,node/358997011
+Jessieville High School,34.700164,-93.061787,school,node/358997015
+Lakeside Intermediate School,34.472128,-92.99788,school,node/358997023
+Park Elementary School,34.529256,-93.049346,school,node/358997036
+Valley School,34.50759,-93.275188,school,node/359010046
+Langston High School,34.504256,-93.042123,school,node/359012377
+"Arkansas School for Mathematics, Sciences, and the Arts",34.518688,-93.057417,school,node/359013368
+Gardner Elementary School,34.489534,-93.09157,school,node/359021901
+Oaklawn Elementary School,34.483423,-93.064624,school,node/359021963
+Lake Hamilton Elementary School,34.442885,-93.212118,school,node/359024100
+Lake Hamilton Junior High School,34.441505,-93.210789,school,node/359024109
+Lake Hamilton Intermediate School,34.445934,-93.213256,school,node/359024114
+Lake Hamilton High School,34.44114,-93.212114,school,node/359024120
+Lake Hamilton Primary School,34.44264,-93.216379,school,node/359024125
+Cutter-Morning Star Elementary School,34.50311,-92.990037,school,node/359024127
+Cutter-Morning Star High School,34.504412,-92.99016,school,node/359024130
+Gardner Magnet School,34.489552,-93.091357,school,node/359024134
+Oaklawn Magnet School,34.483297,-93.064477,school,node/359024136
+Park Magnet School,34.528187,-93.046856,school,node/359024140
+Langston Magnet School,34.504094,-93.041936,school,node/359024143
+Lakeside Primary School,34.472071,-92.999103,school,node/359024146
+Lakeside Middle School,34.475091,-92.992472,school,node/359024152
+Hot Springs Middle School,34.486111,-93.07398,school,node/359024156
+Hot Springs Village EMS,34.673187,-93.031673,fire_station,node/367128642
+Buckville Volunteer Fire Station 2,34.697281,-93.354195,fire_station,node/367129198
+Buckville Volunteer Fire Station 1,34.645161,-93.340563,fire_station,node/367129204
+Fountain Lake Fire Department Station 1,34.604089,-92.927839,fire_station,node/367129672
+Jessieville Fire Department Station 3,34.730567,-92.995546,fire_station,node/367129796
+Jessieville Fire Department Station 2,34.667498,-93.249882,fire_station,node/367129797
+Hot Springs Fire Department Station 7,34.472616,-93.025398,fire_station,node/367129839
+Hot Springs Fire Department Station 6,34.471294,-93.072196,fire_station,node/367129840
+Hot Springs Fire Department Station 4,34.485254,-93.095209,fire_station,node/367129841
+Hot Springs Fire Department Station 3,34.527832,-93.050866,fire_station,node/367129842
+Hot Springs Village Fire Department DeSoto Fire Station,34.673706,-93.033259,fire_station,node/367129844
+Hot Springs Village Fire Department Balboa Fire Station,34.626424,-92.893318,fire_station,node/367129846
+Lake Hamilton Fire Department Station 3,34.412012,-93.09598,fire_station,node/367129891
+Lake Hamilton Fire Department Station 2,34.40052,-93.066804,fire_station,node/367129892
+Lake Hamilton Fire Department Station 5,34.430751,-92.949122,fire_station,node/367129893
+Lake Hamilton Fire Department Station 4,34.422694,-92.982416,fire_station,node/367129894
+Lake Hamilton Fire Department Station 1,34.447379,-93.089583,fire_station,node/367129897
+Morning Star Fire Department Station 4,34.450634,-92.998598,fire_station,node/367130117
+Morning Star Fire Department Station 1,34.501517,-92.985356,fire_station,node/367130118
+Morning Star Fire Department Station 2,34.458324,-92.952059,fire_station,node/367130119
+Mountain Pine Volunteer Fire Station,34.57462,-93.170463,fire_station,node/367130122
+Piney Fire Department Station 4,34.58035,-93.153141,fire_station,node/367130137
+Piney Fire Department Station 1,34.513011,-93.124354,fire_station,node/367130140
+Piney Fire Department Station 3,34.517476,-93.336045,fire_station,node/367130142
+Piney Fire Department Station 2,34.510982,-93.220781,fire_station,node/367130143
+Seventy West Fire Department Station 6,34.440268,-93.14462,fire_station,node/367130289
+Seventy West Fire Department Station 4,34.400018,-93.229837,fire_station,node/367130291
+Seventy West Fire Department Station 5,34.431437,-93.282255,fire_station,node/367130292
+Seventy West Fire Department Station 2,34.445802,-93.189072,fire_station,node/367130293
+Seventy West Fire Department Station 3,34.472215,-93.254954,fire_station,node/367130294
+Seventy West Fire Department Station 1,34.457769,-93.155422,fire_station,node/367130296
+Garland County Library,34.498533,-93.038195,library,node/367130681
+Lake Hamilton Middle School,34.445784,-93.212128,school,node/4568844846
+Jessieville Fire Department Station 1,34.693578,-93.065671,fire_station,way/797196666
+Lonsdale Fire Department Station 1,34.5441,-92.811992,fire_station,way/828882112
+Coronado Center,34.649402,-92.98111,community_centre,way/886075433
+Coronado Center Library,34.649076,-92.981042,library,way/886075434
+Park Magnet School,34.48817,-93.074001,school,way/982909163
+Fire Station (w1022629995),34.505734,-93.052405,fire_station,way/1022629995
+Fountain Lake Fire Department Station 2,34.594942,-93.007965,fire_station,way/1109944385
+Ozark Bathhouse,34.512767,-93.053613,community_centre,way/1213679527
+Hot Springs Junior Academy,34.475343,-93.067225,school,way/1232033952

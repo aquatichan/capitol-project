@@ -1,0 +1,39 @@
+name,lat,lon,type,osm
+Mansfield Elementary School,35.059502,-94.24595,school,node/359000930
+Mansfield High School,35.061763,-94.2491,school,node/359000936
+Waldron Elementary School,34.901895,-94.112916,school,node/359001059
+Waldron Middle School,34.903547,-94.113979,school,node/359001068
+Bush School,34.834267,-94.122987,school,node/359007499
+Center Point School,34.932876,-94.077152,school,node/359007662
+Denton School,34.837323,-94.190766,school,node/359007919
+Evening Shade School,34.941209,-94.141042,school,node/359008023
+Jenkins School,34.853989,-94.059374,school,node/359008481
+Lamb School,34.872044,-94.010761,school,node/359008566
+Lone Elm School,34.94232,-94.027151,school,node/359008652
+Pleasant Hill School,34.904821,-94.124375,school,node/359009495
+Robson School,34.75788,-94.234102,school,node/359009614
+Shiloh School,34.760102,-94.182433,school,node/359009777
+Mansfield Middle School,35.062287,-94.248824,school,node/359024433
+Boles Volunteer Fire Department,34.780296,-94.048472,fire_station,node/367129166
+Blue Ball Volunteer Fire Station,34.956864,-93.71559,fire_station,node/367129172
+Highway 250 Rural Volunteer Fire Department,34.879731,-93.973237,fire_station,node/367129693
+Harvey Nola Volunteer Fire Station,34.867627,-93.760627,fire_station,node/367129743
+Haletown Volunteer Fire Department Station,34.914565,-93.848421,fire_station,node/367129774
+Hon Volunteer Fire Department,34.941636,-94.18479,fire_station,node/367129863
+Lake Hinkle Fire Station,34.857993,-94.305358,fire_station,node/367129888
+Mansfield Fire Station,35.061023,-94.250724,fire_station,node/367129941
+Nella Volunteer Fire Department,34.760922,-94.193594,fire_station,node/367130023
+Northwest Scott County Volunteer Fire Department Station 2,35.073287,-94.192462,fire_station,node/367130042
+Northwest Scott County Volunteer Fire Department Station 1,35.02371,-94.159567,fire_station,node/367130045
+Parks Volunteer Fire Department Substation,34.785229,-93.868086,fire_station,node/367130234
+Parks Volunteer Fire Department Station 1,34.803707,-93.959888,fire_station,node/367130235
+Waldron Rural Volunteer Fire Department Station 1,34.900615,-94.086792,fire_station,node/367130407
+Waldron Rural Volunteer Fire Department Station 2,34.927049,-94.014515,fire_station,node/367130408
+Waldron City Volunteer Fire Department,34.897275,-94.090395,fire_station,node/367130410
+State Line Cauthron Volunteer Fire Department Station,34.926101,-94.274888,fire_station,node/367130490
+State Line Bates Volunteer Fire Department,34.90792,-94.382887,fire_station,node/367130491
+Scott County Library,34.899269,-94.092744,library,node/367130976
+Waldron High School,34.900183,-94.115203,school,node/8335360700
+Waldron Public Schools,34.900514,-94.111968,school,way/1270291804
+Y - City Volunteer Fire Department,34.729125,-94.081644,fire_station,way/1346045968
+School (w1561872216),35.062779,-94.248313,school,way/1561872216

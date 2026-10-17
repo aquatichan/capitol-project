@@ -1,0 +1,81 @@
+name,lat,lon,type,osm
+Civitan School,34.562037,-92.572383,school,node/358969451
+Notre Dame School,34.566736,-92.59603,school,node/358977077
+Rural Dale School,34.550925,-92.780724,school,node/358979692
+Sardis School,34.530372,-92.410433,school,node/358980489
+Benton High School,34.563727,-92.57408,school,node/359000166
+Benton Junior High North Campus,34.56732,-92.57383,school,node/359000169
+Bryant Elementary School,34.606024,-92.497254,school,node/359000182
+East End Elementary School,34.552038,-92.339875,school,node/359000224
+Paron Elementary School,34.772916,-92.760824,school,node/359000305
+Paron High School,34.773167,-92.758615,school,node/359000308
+Pine Haven Elementary School,34.564503,-92.504541,school,node/359000310
+Salem Elementary School,34.623499,-92.552133,school,node/359000348
+State Youth Service Center,34.638982,-92.494047,school,node/359000373
+Angie Grant Elementary School,34.561483,-92.573771,school,node/359021783
+Bauxite High School,34.553434,-92.510811,school,node/359021803
+Caldwell Elementary School,34.566483,-92.606832,school,node/359021832
+Howard Perrin Elementary School,34.576204,-92.56905,school,node/359021973
+Perrin Elementary School,34.576184,-92.568951,school,node/359024076
+Benton Middle School,34.56587,-92.57135,school,node/359024081
+Springhill Elementary School,34.652919,-92.516868,school,node/359024084
+Collegeville Elementary School,34.619644,-92.504924,school,node/359024091
+Robert L Davis Elementary School,34.625476,-92.4138,school,node/359024094
+Bauxite Volunteer Fire Station 2,34.56071,-92.52632,fire_station,node/367129056
+Bauxite Volunteer Fire Department Station 1,34.555718,-92.520154,fire_station,node/367129058
+Benton Fire Department Station 4,34.600866,-92.590499,fire_station,node/367129111
+Benton Fire Department Station 2,34.593823,-92.553194,fire_station,node/367129115
+Benton Fire Department Station 3,34.555691,-92.544031,fire_station,node/367129116
+Bryant Fire Department Station 3,34.624786,-92.51267,fire_station,node/367129203
+Bryant Fire Department Station 2,34.592698,-92.490862,fire_station,node/367129205
+Bryant Fire Department Station 1,34.620484,-92.492654,fire_station,node/367129206
+Collegeville Volunteer Fire Station,34.648152,-92.476047,fire_station,node/367129263
+East End Volunteer Fire Department Station 3,34.548531,-92.30172,fire_station,node/367129365
+East End Volunteer Fire Department Station 2,34.572041,-92.365199,fire_station,node/367129367
+East End Volunteer Fire Department Station 1,34.551998,-92.337777,fire_station,node/367129369
+Crows Volunteer Fire Department,34.612587,-92.772374,fire_station,node/367129403
+Haskell Fire Department Sub Station,34.502716,-92.63105,fire_station,node/367129739
+Haskell Fire Department Station 1,34.509547,-92.642186,fire_station,node/367129741
+Lake Norrell Volunteer Fire Department Station 2,34.688605,-92.608403,fire_station,node/367129884
+Lake Norrell Volunteer Fire Department Station 1,34.719136,-92.63887,fire_station,node/367129889
+Lonsdale Fire Department Station 2,34.521489,-92.751809,fire_station,node/367129955
+Northeast Volunteer Fire Department District 19 Station 2,34.600827,-92.417761,fire_station,node/367130046
+Northeast Volunteer Fire Department District 19 Station 1,34.61199,-92.392401,fire_station,node/367130049
+Paron Fire Station 1,34.774275,-92.758704,fire_station,node/367130233
+Paron Fire Station 2,34.772313,-92.848889,fire_station,node/367130240
+Shaw Volunteer Fire Department,34.50757,-92.538421,fire_station,node/367130285
+Springhill Volunteer Fire Department,34.620945,-92.516181,fire_station,node/367130298
+Sardis Volunteer Fire Department,34.52957,-92.408106,fire_station,node/367130378
+Salem Fire Department Station 1,34.628672,-92.558924,fire_station,node/367130382
+Salem Fire Department Station 3,34.70543,-92.703435,fire_station,node/367130384
+Salem Fire Department Station 4,34.6132,-92.632578,fire_station,node/367130385
+Turtle Creek Volunteer Fire Department Station 1,34.532281,-92.64507,fire_station,node/367130516
+Turtle Creek Volunteer Fire Department Station 2,34.514582,-92.708632,fire_station,node/367130517
+Turtle Creek Volunteer Fire Department Station 3,34.553175,-92.668137,fire_station,node/367130518
+Traskwood Volunteer Fire Station,34.449189,-92.653408,fire_station,node/367130557
+Mauldin Fire Station,34.587871,-92.562383,fire_station,node/367130611
+Woodland Hills Volunteer Fire Department Station 2,34.610679,-92.471412,fire_station,node/367130760
+Woodland Hills Volunteer Fire Department Station 1,34.610198,-92.446627,fire_station,node/367130796
+Bryant Branch Saline County Public Library,34.598149,-92.488769,library,node/367130964
+Saline County Public Library,34.563426,-92.59155,library,node/367130965
+Fire Station (n775277150),34.614865,-92.500916,fire_station,node/775277150
+Mabel Boswell Memorial Library,34.60948,-92.495381,library,node/833361993
+Bryant High School,34.600886,-92.491227,school,node/7557832931
+Bryant Middle School,34.604295,-92.497294,school,node/7557832932
+School (n12372519465),34.556071,-92.34237,school,node/12372519465
+School (w668691144),34.555222,-92.511084,school,way/668691144
+Shannon Hills Volunteer Fire Department,34.624922,-92.391075,fire_station,way/951733052
+School (w971719377),34.625312,-92.413384,school,way/971719377
+Lake Norrell Fire Station,34.682842,-92.608634,fire_station,way/1065089056
+Fire Station (w1134534188),34.532391,-92.645067,fire_station,way/1134534188
+Fire Station (w1134534220),34.541683,-92.645612,fire_station,way/1134534220
+Hot Springs Village Fire Department Cortez Fire Station,34.671317,-92.963191,fire_station,way/1160628434
+School (w1191223936),34.616743,-92.394846,school,way/1191223936
+Fire Station (w1192973902),34.624899,-92.391162,fire_station,way/1192973902
+Saline County Library / Bob Herzfeld Memorial Library,34.580838,-92.570715,library,way/1218989740
+Mountain View Elementary,34.543434,-92.647669,school,way/1344414300
+Mountain View Middle School,34.545633,-92.647701,school,way/1416776144
+Benton Fire Department Station 1,34.561612,-92.586498,fire_station,way/1467035504
+Salem Fire Department Station 2,34.658439,-92.5854,fire_station,way/1551648499
+School (r17872059),34.602564,-92.494393,school,relation/17872059
+School (r18778754),34.564311,-92.570456,school,relation/18778754

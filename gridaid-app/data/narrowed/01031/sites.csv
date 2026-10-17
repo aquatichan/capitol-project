@@ -1,0 +1,38 @@
+name,lat,lon,type,osm
+Crossroad School,31.595442,-85.809387,school,node/358909731
+Mount Pleasant School,31.24795,-85.89216,school,node/358921140
+Basin School,31.34739,-86.130503,school,node/358946684
+Old Elba High School,31.416395,-86.064729,school,node/358946711
+Fairview School,31.237393,-86.045498,school,node/358946726
+Goodman Junior High School,31.282115,-85.994386,school,node/358946745
+Shady Grove School,31.507386,-86.10106,school,node/358946878
+Shiloh School,31.402667,-85.995499,school,node/358946883
+Union Academy,31.26045,-85.908272,school,node/358946901
+Coppinville High School,31.310727,-85.815215,school,node/358949924
+Dauphin Junior High School,31.336837,-85.85355,school,node/358984119
+Enterprise Junior High School,31.311004,-85.857994,school,node/358984138
+Harrand Creek Elementary School,31.336282,-85.814104,school,node/358984147
+Holly Hill Elementary School,31.338504,-85.845772,school,node/358984152
+Pinedale Elementary School,31.305449,-85.83716,school,node/358984187
+Rucker Boulevard Elementary School,31.326837,-85.817715,school,node/358984195
+College Street Elementary School,31.309893,-85.860216,school,node/358994602
+Coppinville Junior High School,31.31156,-85.838271,school,node/358994604
+Zion Chapel Senior High School,31.566551,-86.010225,school,node/358999275
+Enterprise Fire Department,31.312427,-85.852749,fire_station,node/367931234
+Kinston Volunteer Fire Department,31.224974,-86.173806,fire_station,node/367931335
+Fire Station (n11026289576),31.30488,-85.889439,fire_station,node/11026289576
+Fire Station (n14061569322),31.335657,-85.853943,fire_station,node/14061569322
+Hillcrest Elementary School,31.323424,-85.85314,school,way/231864241
+Elba Volunteer Fire Department,31.415123,-86.064825,fire_station,way/758214023
+Elba Senior Citizen's Center,31.414731,-86.064834,community_centre,way/779451020
+Elba City Schools,31.426138,-86.102988,school,way/785930142
+Coppinville Junior High School,31.296669,-85.87336,school,way/793030781
+Enterprise High School,31.328394,-85.871299,school,way/793030782
+School (w793510949),31.336501,-85.814144,school,way/793510949
+Elba Public Library,31.414824,-86.066342,library,way/906815607
+School (w985270134),31.566085,-86.009816,school,way/985270134
+Enterprise Public Library,31.314126,-85.852917,library,way/997268684
+Kinston High School,31.221295,-86.170474,school,way/1029370471
+Community Centre (w1316964961),31.342802,-86.131618,community_centre,way/1316964961
+New Brockton High School,31.379863,-85.937058,school,way/1531454863
+Fire Station (w1546418917),31.332491,-85.803174,fire_station,way/1546418917

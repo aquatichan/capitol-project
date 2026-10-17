@@ -1,0 +1,13 @@
+name,lat,lon,type,osm
+East Webster High School,33.621502,-88.080583,school,node/357990141
+Bedford School,33.781499,-88.194477,school,node/358905919
+Holly Grove School,33.555115,-88.084749,school,node/358915986
+Sulligent High School,33.898056,-88.129722,school,node/358942237
+Vernon Consolidated School,33.753721,-88.110307,school,node/358969880
+Millport Public Library,33.560825,-88.078327,library,node/4879633372
+Fire Station (n13948752099),33.901431,-88.13317,fire_station,node/13948752099
+Sulligent Public Library,33.899752,-88.13191,library,way/820202661
+Millport Public Library,33.561821,-88.080355,library,way/835632938
+Kennedy High School,33.588827,-87.987822,school,way/939550595
+Vernon - Mary Wallace Cobb Memorial Library,33.758194,-88.108584,library,way/1347198264
+South Lamar School,33.561566,-88.036109,school,way/1396493547

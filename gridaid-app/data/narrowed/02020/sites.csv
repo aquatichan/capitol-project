@@ -1,0 +1,168 @@
+name,lat,lon,type,osm
+Frontier Charter School,61.195749,-149.890966,school,node/561046923
+Fire Station (n622123612),61.395832,-149.515325,fire_station,node/622123612
+Birchwood Elementary School,61.375269,-149.53078,school,node/1726104636
+Eagle River Public Library,61.328816,-149.570758,library,node/1726117338
+Alaska State Library,61.21902,-149.888428,library,node/2649886137
+Gerrish Public Library,60.960138,-149.135744,library,node/4293826195
+Muldoon Library,61.211003,-149.730883,library,node/10790645577
+Chugiak Volunteer Fire Department Station 35,61.347722,-149.551028,fire_station,node/10841425207
+Asian Alaskan Cultural Center,61.176841,-149.924411,community_centre,node/10876704542
+Northeast Community Center,61.211133,-149.73086,community_centre,node/10964799247
+Atwood Resource Center Library and Archives,61.216269,-149.885563,library,node/10991329066
+Saint Paul's Corner Bookstore and Gifts,61.217409,-149.899339,library,node/10994950288
+Alaska State School For Deaf,61.194093,-149.776391,school,node/11170440046
+Chugiak-Eagle River Library,61.328581,-149.570544,library,node/13546686971
+Arctic Oasis Community Center,61.244804,-149.80743,community_centre,way/28579155
+School (w28581895),61.226995,-149.825244,school,way/28581895
+School (w28609713),61.187421,-149.925804,school,way/28609713
+Fire Station (w28610135),61.182368,-149.997154,fire_station,way/28610135
+Kincaid Park Chalet,61.154187,-150.055484,community_centre,way/28973670
+Tudor Elementary,61.174554,-149.850432,school,way/29329629
+Hanshew Middle School,61.130354,-149.830138,school,way/29356985
+Spring Hill Elementary School,61.133018,-149.829584,school,way/29358883
+School (w29358910),61.132508,-149.829925,school,way/29358910
+School (w29358935),61.132773,-149.829659,school,way/29358935
+Nothern Lights ABC School,61.16487,-149.836065,school,way/29414517
+Kasuun Elementary School,61.157824,-149.808002,school,way/29452092
+Stellar Secondary School,61.197365,-149.892638,school,way/56214322
+School (w71366192),61.140953,-149.787416,school,way/71366192
+School (w71366203),61.139641,-149.78128,school,way/71366203
+Eagle Crest Academy,61.179961,-149.839163,school,way/72508557
+School (w87901725),61.192412,-149.917076,school,way/87901725
+School (w87901731),61.192715,-149.915987,school,way/87901731
+School (w131316939),61.198124,-149.737998,school,way/131316939
+School (w131386384),61.193299,-149.761172,school,way/131386384
+Campbell Elementary School,61.154831,-149.90153,school,way/181379143
+Kincaid Elementary School,61.157249,-149.970878,school,way/182923873
+Chester Valley Elementary School,61.204698,-149.747014,school,way/182967058
+UAA/APU Consortium Library,61.190758,-149.818071,library,way/211058856
+O'Malley Elementary School,61.120196,-149.768426,school,way/220367878
+Airport Heights Elementary School,61.20702,-149.829968,school,way/221615562
+Girdwood Community Center,60.960246,-149.135734,community_centre,way/230257230
+Station 41 Girdwood VFD,60.960599,-149.135298,fire_station,way/230257238
+Polaris K-12 School Grounds,61.164486,-149.854037,school,way/233193447
+Alpenglow Elementary School,61.301586,-149.523896,school,way/243208614
+Gruening Middle School,61.307785,-149.548383,school,way/243208618
+Ravenwood Elementary School,61.305635,-149.505148,school,way/243208623
+Anchorage Fire Station 4,61.181367,-149.850246,fire_station,way/255758250
+Willard L. Bowman Elementary School,61.114984,-149.845717,school,way/284756247
+Huffman Elementary,61.11128,-149.808092,school,way/284757193
+North Star Elementary School,61.199792,-149.894261,school,way/320372634
+Campbell Creek Science Center,61.164126,-149.777325,community_centre,way/331839503
+Z. J. Loussac Public Library,61.18715,-149.878673,library,way/331842293
+Russian Jack Elementary School,61.201234,-149.798775,school,way/334502156
+Southern Alaska Carpenters Training Center,61.141383,-149.878008,school,way/361576477
+Gladys Wood Elementary School,61.157069,-149.935385,school,way/384932277
+Sand Lake Elementary School,61.152792,-149.953724,school,way/384932278
+Baxter Elementary School,61.193558,-149.761486,school,way/391846522
+Creekside Park Elementary,61.216017,-149.744624,school,way/391846524
+Susitna Elementary School,61.198097,-149.738153,school,way/391846526
+Ptarmigan Elementary School,61.214213,-149.765373,school,way/391846534
+Scenic Park Elementary,61.185449,-149.746705,school,way/391846540
+Begich Middle School,61.207827,-149.743813,school,way/391846542
+Wonder Park Elementary School,61.219442,-149.784671,school,way/431485976
+Fire Station 1,61.218257,-149.88238,fire_station,way/452333472
+Grace Christian School,61.107757,-149.818013,school,way/495661159
+Saint Elizabeth Ann Seton Catholic School,61.109446,-149.82786,school,way/495673190
+Bear Valley Elemetary School,61.083979,-149.749242,school,way/495803223
+Firestation 10,61.086258,-149.752234,fire_station,way/496086755
+Firestation 8,61.123502,-149.767668,fire_station,way/496598430
+Alaska Junior Academy,61.123753,-149.778611,school,way/496598451
+Clark Middle School,61.222046,-149.812226,school,way/506305671
+Fire Station15,61.118573,-149.934365,fire_station,way/519735980
+Bayshore Elementary School,61.125263,-149.939566,school,way/519735987
+Klatt Elementary School,61.112821,-149.909068,school,way/519776243
+School (w523794839),61.112792,-149.877058,school,way/523794839
+Ocean View Elementary School,61.113159,-149.876808,school,way/523794841
+School (w523811208),61.130408,-149.830715,school,way/523811208
+School (w523811209),61.114942,-149.844662,school,way/523811209
+Joint Base Elmendorf-Richardson Library,61.251705,-149.694185,library,way/616805483
+Firestation 14,61.179621,-149.762319,fire_station,way/623249111
+Bettye Davis East Anchorage High School,61.200615,-149.803477,school,way/627854914
+College Gate Elementary,61.192497,-149.783367,school,way/627854918
+Inlet View Elementary School,61.209692,-149.906246,school,way/678510184
+Chugach Optional Elementary School,61.209958,-149.890307,school,way/678511463
+Central Middle School,61.209187,-149.889429,school,way/678511464
+Denali Montessori Elementary School,61.213108,-149.881243,school,way/678511465
+Fairview Rec Center,61.212916,-149.861888,community_centre,way/726005935
+Spenard Rec Center,61.176516,-149.921221,community_centre,way/737382218
+Mountain View Library,61.223772,-149.809126,library,way/737383163
+Mountainview Boy's and Girl's Club,61.22624,-149.811177,community_centre,way/737383164
+Wonder Park Elementary,61.219484,-149.78531,school,way/737400271
+School (w737400273),61.141872,-149.939313,school,way/737400273
+Abbot Loop Elementary School,61.144075,-149.832586,school,way/737403829
+Firestation 3,61.217993,-149.809073,fire_station,way/737956254
+Firestation 6,61.209331,-149.746701,fire_station,way/737956256
+Firestation 7,61.14144,-149.951063,fire_station,way/737956257
+Firestation 11,61.316723,-149.571917,fire_station,way/737956259
+Firestation 12,61.148917,-149.857848,fire_station,way/737956260
+Station 31 Chugiak VFRD,61.374947,-149.505164,fire_station,way/737956261
+Tyson Elementary School,61.226423,-149.826298,school,way/759674825
+Chugiak High School,61.369893,-149.534931,school,way/759714044
+Dimond High School,61.142924,-149.935038,school,way/772561606
+Rilke Schule,61.16187,-149.848244,school,way/778052107
+Mountain View Elementary School,61.232139,-149.805868,school,way/778109863
+Eagle River High School,61.298388,-149.574738,school,way/778375025
+Robert Service High School,61.139272,-149.780258,school,way/778983952
+Goldenview Middle School,61.077845,-149.778082,school,way/778986181
+Willow Crest Elementary School,61.179845,-149.90346,school,way/778986484
+Whaley School,61.200576,-149.814441,school,way/779986945
+Anchorage Senior Activity Center,61.202816,-149.857512,community_centre,way/780009217
+Holy Rosary Academy,61.198375,-149.901088,school,way/780609565
+School (w785128092),61.191009,-149.764628,school,way/785128092
+Muldoon Elementary School,61.217893,-149.720164,school,way/786580784
+Lumen Christi High School,61.146975,-149.956058,school,way/788588191
+Government Hill Elementary School,61.233667,-149.870315,school,way/789683839
+Lidia Selkregg Chalet,61.206126,-149.788868,community_centre,way/791180630
+Anchor Lutheran School,61.147373,-149.893553,school,way/791500969
+Winterberry Charter School,61.194615,-149.792324,school,way/796564877
+Northwood Elementary,61.176465,-149.925894,school,way/800800615
+Anchorage Montessori School,61.175348,-149.926699,school,way/800800616
+Lake Hood Elementary,61.185393,-149.950799,school,way/800800621
+Turnagain Elementary School,61.194345,-149.948506,school,way/800800623
+Aquarian Charter School,61.192284,-149.918009,school,way/800825709
+Anchorage Co-Op Preschool,61.192797,-149.859678,school,way/800846523
+Benny Benson School,61.179234,-149.759148,school,way/800851948
+Homestead Elementary School,61.315059,-149.545837,school,way/810591592
+Eagle River Christian School,61.313497,-149.539598,school,way/810591593
+Eagle River Elementary School,61.319063,-149.569863,school,way/810591594
+School (w810598089),61.319234,-149.579508,school,way/810598089
+Eagle Academy Charter School,61.319294,-149.579254,school,way/812677974
+Fire Lake Elementary,61.345534,-149.549086,school,way/812883825
+Chugiak Elementary,61.400529,-149.46431,school,way/814315521
+Girdwood Elementary,60.968056,-149.127771,school,way/814619495
+Bartlett High School,61.23294,-149.732163,school,way/816676460
+Huffman,61.111112,-149.80829,school,way/818831707
+Anchorage Junior Academy,61.124395,-149.779089,school,way/818844307
+Rabbit Creek Elementary,61.096891,-149.835838,school,way/818844317
+Anchorage Waldorf School,61.191223,-149.764408,school,way/819558453
+Kincaid Elementary School,61.157293,-149.974541,school,way/828560616
+School (w828584273),61.210293,-149.758627,school,way/828584273
+Wendler Middle School,61.193339,-149.836087,school,way/834284456
+Romig Middle School,61.198275,-149.915918,school,way/834284462
+West Anchorage High School,61.199594,-149.916916,school,way/834284463
+Chinook Elementary School,61.142116,-149.939745,school,way/834288740
+Trailside Elementary School,61.140261,-149.78754,school,way/834288741
+Birchwood ABC Elementary School,61.374583,-149.531864,school,way/834293776
+Jane Mears Middle School,61.127511,-149.931383,school,way/843992448
+SAVE,61.169618,-149.874356,school,way/845865926
+Birchwood Christian School,61.403574,-149.469913,school,way/848165078
+Naqayeht'ana T'uh,61.205263,-149.888858,school,way/849895205
+Mirror Lake Middle School,61.428174,-149.423811,school,way/850250154
+Pacific Northern Academy,61.1321,-149.836284,school,way/890895867
+School (w896043536),61.161849,-149.848235,school,way/896043536
+Z. J. Loussac Community Building,61.202592,-149.885376,community_centre,way/913335135
+Firestation 5,61.186053,-149.924389,fire_station,way/933660359
+Sunflower Preschool,61.197839,-149.779428,school,way/964410838
+The Little Leaf Library,61.177831,-149.761169,library,way/1065960716
+Station 33 (Hill),61.415562,-149.428147,fire_station,way/1084938076
+Moose Crossing Community Center,61.237437,-149.725436,community_centre,way/1112252616
+Firestation 9,61.094891,-149.832958,fire_station,way/1321462924
+Rogers Park Elementary,61.194156,-149.855119,school,relation/20382697
+Williwaw Elementary School,61.211394,-149.797765,school,relation/20397240
+Taku Elementary School,61.15651,-149.869826,school,relation/20421732
+Nunaka Valley Elementary School,61.203688,-149.77489,school,relation/20445193
+Dr. Etheldra Davis Fairview Elementary,61.209675,-149.855566,school,relation/20462174
+South Anchorage High School,61.099541,-149.809605,school,relation/21032631
+Rilke Schule German Immersion School,61.190864,-149.836252,school,relation/21674101

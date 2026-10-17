@@ -1,0 +1,19 @@
+name,lat,lon,type,osm
+Conecuh County High School,31.297115,-87.031361,school,node/358942865
+Evergreen High School,31.434333,-86.943862,school,node/358942870
+Lyeffion Elementary School,31.524885,-87.016088,school,node/358942925
+Lyeffion High School,31.541829,-86.987477,school,node/358942929
+Mount Zion Junior High School,31.669047,-86.951646,school,node/358942957
+Repton High School,31.411555,-87.234703,school,node/358943025
+Sandy Grove School,31.285726,-86.851356,school,node/358943037
+Evergreen Elementary School,31.435721,-86.950806,school,node/358966489
+Marshall High School,31.423222,-86.951639,school,node/358966507
+Southside Elementary School,31.426555,-86.949695,school,node/358966514
+Sparta Academy,31.445999,-86.946918,school,node/358966517
+Nichburg Junior High School,31.480164,-87.136368,school,node/358969023
+Lenox - Springhill Fire Department,31.33682,-87.184148,fire_station,node/367931231
+Repton Volunteer Fire Department,31.409634,-87.248599,fire_station,node/367931236
+Sandcut Volunteer Fire Department,31.297811,-87.034439,fire_station,node/367931249
+Castleberry Volunteer Fire Department,31.300469,-87.02139,fire_station,node/367931275
+Range Volunteer Fire Department,31.317191,-87.236232,fire_station,node/367931283
+Evergreen - Conecuh County Public Library,31.434163,-86.952719,library,way/1343899925

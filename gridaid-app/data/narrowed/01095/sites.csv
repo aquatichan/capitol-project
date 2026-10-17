@@ -1,0 +1,52 @@
+name,lat,lon,type,osm
+Asbury School,34.362869,-86.141367,school,node/358905544
+Bean Rock School,34.45148,-86.464432,school,node/358905876
+Evans Elementary School,34.273362,-86.220112,school,node/358911051
+Highview School,34.244261,-86.275813,school,node/358915624
+Lakeview Heights School,34.347037,-86.310816,school,node/358917944
+Mount Pleasant School,34.503144,-86.306651,school,node/358921154
+New Prospect School,34.565365,-86.184148,school,node/358922239
+Albertville Middle School,34.260193,-86.206099,school,node/358953682
+Boaz Elementary School,34.202595,-86.159143,school,node/358953700
+Boaz High School,34.211788,-86.163947,school,node/358953703
+Claysville Junior High School,34.406757,-86.27026,school,node/358953738
+Douglas High School,34.176484,-86.321926,school,node/358953752
+Rice School,34.318428,-86.53499,school,node/358954047
+Saint Peters Parish School,34.375369,-86.30526,school,node/358960151
+Arab Elementary School,34.329284,-86.493761,school,node/358969515
+Arab High School,34.329538,-86.488877,school,node/358969519
+Arab Primary School,34.334907,-86.496655,school,node/358969522
+Douglas Elementary School,34.176206,-86.321093,school,node/358969542
+Marshall County Technical School,34.305371,-86.285814,school,node/358975043
+Sims School,34.295093,-86.303037,school,node/358977798
+Mobbs School,34.390371,-86.488044,school,node/358984370
+Fire Station (n11331860693),34.518534,-86.254621,fire_station,node/11331860693
+Albertville Chamber of Commerce,34.266298,-86.206702,community_centre,node/11838910141
+Boaz Middle School,34.213497,-86.161353,school,node/12123296743
+Arab Senior Center,34.328957,-86.497463,community_centre,node/13950334007
+School (w780946416),34.329625,-86.488927,school,way/780946416
+Arab Junior High School,34.312188,-86.510789,school,way/780948686
+School (w780961473),34.334905,-86.496471,school,way/780961473
+School (w780963542),34.329688,-86.493573,school,way/780963542
+School (w988420595),34.407395,-86.270531,school,way/988420595
+School (w988727659),34.206675,-86.177911,school,way/988727659
+School (w989738628),34.362061,-86.14012,school,way/989738628
+School (w991342152),34.211868,-86.157724,school,way/991342152
+Brindlee Mountain Primary School,34.399048,-86.446186,school,way/991343491
+Brindlee Mountain High School,34.377234,-86.421139,school,way/991343510
+Brindlee Mountain Elementary School,34.344443,-86.44369,school,way/991351019
+Cherokee Elementary School,34.321497,-86.332941,school,way/996656440
+Grant Public Library,34.52543,-86.253059,library,way/1080399664
+Fire Station (w1087946274),34.203058,-86.38539,fire_station,way/1087946274
+Pleasant Grove School,34.267787,-86.338569,school,way/1087952352
+Boaz Public Library,34.20144,-86.161403,library,way/1347199480
+Albertville Public Library,34.263946,-86.203312,library,way/1347199512
+Guntersville Public Library,34.348767,-86.303033,library,way/1347199524
+Arab Public Library,34.320828,-86.497282,library,way/1347200001
+Guntersville Elementary School,34.352784,-86.302819,school,way/1394852740
+Albertville High School,34.261751,-86.205286,school,way/1531107164
+Kate Duncan Smith DAR School,34.532879,-86.257427,school,relation/18393407
+Albertville Elementary School,34.252926,-86.22224,school,relation/19187628
+School (r19247491),34.3065,-86.286039,school,relation/19247491
+Guntersville High School,34.320503,-86.315059,school,relation/19247500
+Guntersville Middle School,34.358576,-86.312246,school,relation/19248178

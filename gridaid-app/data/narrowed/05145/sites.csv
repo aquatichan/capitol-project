@@ -1,0 +1,90 @@
+name,lat,lon,type,osm
+ASU Beebe - State Hall,35.070642,-91.895142,school,node/358966859
+Central High School,35.358416,-91.677082,school,node/358969061
+Morris Institute,35.274806,-91.863475,school,node/358975667
+Beebe Elementary School,35.065263,-91.896623,school,node/358998323
+Beebe High School,35.064344,-91.892864,school,node/358998326
+Beebe Junior High School,35.063641,-91.894504,school,node/358998329
+Bradford Elementary School,35.425666,-91.460785,school,node/358998332
+Bradford High School,35.425461,-91.459553,school,node/358998335
+Central Elementary School,35.357861,-91.677915,school,node/358998346
+Kensett Elementary School,35.23554,-91.675444,school,node/358998417
+Kensett High School,35.235641,-91.675136,school,node/358998419
+McRae Elementary School,35.11696,-91.824673,school,node/358998433
+McRae High School,35.116715,-91.823842,school,node/358998436
+Pangburn Elementary School,35.429197,-91.835229,school,node/358998441
+Pangburn High School,35.429324,-91.836104,school,node/358998443
+Rose Bud Elementary School,35.335232,-92.071664,school,node/358998458
+Rose Bud High School,35.33419,-92.071485,school,node/358998460
+Sunshine School,35.247585,-91.748749,school,node/359010702
+Beebe Middle School,35.065526,-91.893301,school,node/359023788
+Beebe Primary School,35.064854,-91.896568,school,node/359023789
+Beebe Intermediate School,35.065239,-91.894567,school,node/359023790
+White County Central Elementary School,35.357815,-91.677784,school,node/359023795
+White County Central High School,35.358318,-91.676953,school,node/359023799
+Kensett Middle School,35.235929,-91.674903,school,node/359023813
+Riverview High School,35.255014,-91.68926,school,node/359023815
+Albion Volunteer Fire Department,35.34111,-91.789253,fire_station,node/367129039
+Bald Knob Volunteer Fire Department Station 1,35.306187,-91.573911,fire_station,node/367129045
+Bald Knob Volunteer Fire Department Station 3,35.320566,-91.557454,fire_station,node/367129048
+Antioch Volunteer Fire Station,35.128756,-91.925186,fire_station,node/367129077
+Beebe Volunteer Fire Station,35.071598,-91.885339,fire_station,node/367129146
+Bradford Volunteer Fire Department,35.424526,-91.460801,fire_station,node/367129216
+Bradford Fire Department,35.421299,-91.452684,fire_station,node/367129217
+Center Hill Volunteer Fire Department,35.263047,-91.882532,fire_station,node/367129297
+Fairview Volunteer Fire Station,35.2829,-91.749511,fire_station,node/367129463
+Floyd Volunteer Fire Station 1,35.195271,-91.968743,fire_station,node/367129506
+Floyd Volunteer Fire Department Station 2,35.242178,-92.051283,fire_station,node/367129511
+Floyd Volunteer Fire Department Station 3,35.198194,-91.897983,fire_station,node/367129513
+El Paso Fire Station,35.125005,-92.095657,fire_station,node/367129521
+Georgetown Fire Department,35.127628,-91.454975,fire_station,node/367129676
+Higginson Volunteer Fire Department,35.196659,-91.713211,fire_station,node/367129695
+Higginson Volunteer Fire Department 2,35.197584,-91.713483,fire_station,node/367129698
+Hickory Flat Volunteer Fire Department,35.490663,-91.754171,fire_station,node/367129717
+Gum Springs Volunteer Fire Department,35.203319,-91.77817,fire_station,node/367129755
+Letona Volunteer Fire Station,35.362979,-91.833227,fire_station,node/367129870
+Kensett Volunteer Fire Department,35.232603,-91.666533,fire_station,node/367129911
+Joy Volunteer Fire Department,35.302328,-91.966274,fire_station,node/367129917
+North White County Volunteer Fire Department,35.375676,-91.675531,fire_station,node/367130055
+McRae Volunteer Fire Station,35.112808,-91.821417,fire_station,node/367130075
+McRae Volunteer Fire Station 2,35.114625,-91.821514,fire_station,node/367130076
+Pleasant Plains Volunteer Fire Department Station 2,35.527403,-91.609798,fire_station,node/367130150
+Rocky Point Volunteer Fire Department,35.324963,-91.623498,fire_station,node/367130197
+Opal Fire Department,35.097527,-91.998122,fire_station,node/367130204
+Pangburn Volunteer Fire Station,35.426917,-91.83741,fire_station,node/367130225
+Southeast White County Volunteer Fire Station,35.12334,-91.644341,fire_station,node/367130320
+Searcy Fire Station 3,35.247601,-91.773577,fire_station,node/367130370
+Russell Fire Department Station 1,35.361126,-91.508368,fire_station,node/367130388
+Russell Fire Department Station 2,35.362918,-91.510989,fire_station,node/367130389
+Velvet Ridge Volunteer Fire Department,35.414412,-91.576763,fire_station,node/367130399
+West Point Volunteer Fire Department,35.207438,-91.61289,fire_station,node/367130791
+Pangburn Public Library,35.426208,-91.837096,library,node/603373138
+Fire Station (n10134500813),35.25425,-91.697596,fire_station,node/10134500813
+Janett & Larry Crain Memorial Library,35.246054,-91.755989,library,node/12529471563
+Searcy Christian Academy,35.238185,-91.713594,school,node/12688048784
+Brackett Library,35.247293,-91.726173,library,way/226601998
+Bald Knob High School,35.316356,-91.571868,school,way/323166189
+Bald Knob Middle School,35.313431,-91.571274,school,way/323166190
+H.L. Lubker Elementary School,35.314764,-91.573449,school,way/323166196
+School (w628661559),35.064228,-91.894243,school,way/628661559
+School (w670713626),35.116501,-91.823801,school,way/670713626
+School (w670715819),35.255388,-91.689596,school,way/670715819
+Ahlf Junior High School,35.252517,-91.740181,school,way/1025048100
+Judsonia Volunteer Fire Department,35.273377,-91.630722,fire_station,way/1025843259
+Carmichael Community Center,35.240729,-91.742678,community_centre,way/1067761611
+McRae Elementary School,35.254427,-91.742321,school,way/1068072621
+Central Fire Station,35.243354,-91.741148,fire_station,way/1068369979
+Southwest Middle School,35.245408,-91.747739,school,way/1068372139
+Searcy High School,35.253605,-91.760008,school,way/1092670491
+Sidney Deener Elementary School,35.247263,-91.712457,school,way/1101358548
+Harding Academy,35.244723,-91.718294,school,way/1102720785
+Westside Elementary School,35.244296,-91.772951,school,way/1106163420
+West Point Elementary School,35.202064,-91.598742,school,way/1289691099
+School (w1361852596),35.333722,-92.070558,school,way/1361852596
+Rosebud Fire Department,35.331187,-92.068521,fire_station,way/1361852602
+Bald Knob Volunteer Fire Department Station 2,35.304666,-91.565829,fire_station,way/1411035779
+Judsonia Communtiy Building,35.272734,-91.638928,community_centre,way/1483628493
+Baldwin Memorial Library,35.273048,-91.639118,library,way/1483628494
+School (w1483628536),35.276553,-91.638053,school,way/1483628536
+Rogers Theological Library,35.247245,-91.725799,library,way/1513099685
+Garner Volunteer Fire Department,35.141965,-91.78721,fire_station,way/1528656226

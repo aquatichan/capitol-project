@@ -1,0 +1,26 @@
+name,lat,lon,type,osm
+Ada Hanna High School,34.155936,-88.130038,school,node/358905187
+Craft School,34.187599,-87.668358,school,node/358909583
+Old Union School,34.253709,-87.666415,school,node/358922876
+Phillips High School,34.279264,-87.697528,school,node/358923698
+Hackleburg High School,34.280668,-87.833822,school,node/358951723
+Winfield Elementary School,33.938771,-87.814053,school,node/358952048
+Winfield Middle School,33.932966,-87.811823,school,node/358952054
+Guin Elementary School,33.972048,-87.914749,school,node/358968908
+Buttahatchee Junior High School,34.168711,-87.819473,school,node/358998586
+Gravel Springs Junior High School,34.20038,-88.116427,school,node/358998803
+Glen Allen Volunteer Fire Department,33.914807,-87.740151,fire_station,node/457275234
+Hamilton Elementary School,34.133304,-88.001749,school,node/3431033600
+Hamilton Fire Department,34.138741,-87.995267,fire_station,node/3431049725
+Winfield Community Center,33.936543,-87.810091,community_centre,way/543822681
+Brilliant Fire Department,34.023987,-87.761568,fire_station,way/682799273
+Brilliant Elementary,34.026935,-87.762781,school,way/682821578
+Brilliant High School,34.019499,-87.763602,school,way/682821619
+Winfield City High School,33.941536,-87.820832,school,way/1007507788
+Winfield Fire Department,33.932924,-87.818506,fire_station,way/1007508262
+Guin Public Safety Annex,34.007973,-87.837122,fire_station,way/1227190779
+Hamilton - Clyde Nix Public Library,34.143721,-87.992727,library,way/1347197878
+Winfield Public Library,33.931126,-87.815493,library,way/1347198002
+Marion County High School,33.974313,-87.916556,school,way/1549461842
+Hamilton High School,34.138715,-87.992818,school,way/1555134953
+Hamilton Middle School,34.138357,-87.990897,school,way/1555134954

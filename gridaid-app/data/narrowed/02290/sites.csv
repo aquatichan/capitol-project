@@ -1,0 +1,32 @@
+name,lat,lon,type,osm
+Bettles Fire Station,66.921854,-151.508222,fire_station,node/6302004901
+Sidney Huntington School,64.7462,-156.878876,school,node/7818191275
+Fire Hall,64.326695,-158.723598,fire_station,node/11225972867
+Andrew K. Demoski School,64.717752,-158.108679,school,node/11225972868
+School (n11225972872),64.324627,-158.723808,school,node/11225972872
+Tanana Community/School Library,65.171186,-152.087729,library,node/13011114772
+Blackwell Community/School Library,62.649128,-160.194389,library,node/13012137254
+Innoko River Community/School and Tribal Library,62.654934,-159.532519,library,node/13012173136
+Takotna Community/School Library,62.988017,-156.061904,library,node/13012174258
+Holy Cross Community/School Library,62.200595,-159.768495,library,node/13012192098
+David Louis School/Community Library,62.905629,-160.065375,library,node/13012194792
+Top of the Kuskokwim Community/School Library,63.013546,-154.373939,library,node/13012217730
+Tanana Elementary and High School,65.171356,-152.087741,school,way/184719834
+Fire Station (w184719837),65.171458,-152.077829,fire_station,way/184719837
+School (w251425378),64.561922,-149.090925,school,way/251425378
+Fort Yukon School,66.564377,-145.25267,school,way/309915976
+Tsuk Taih School,66.650397,-143.727948,school,way/332412980
+McGrath Community Library,62.95012,-155.588505,library,way/338903804
+Nenana Public Library,64.56224,-149.094451,library,way/519190500
+Johnny Oldman School,66.045536,-154.258627,school,way/672943012
+Community Hall,66.044479,-154.255257,community_centre,way/672943064
+Bettles Field School,66.916458,-151.518896,school,way/672960813
+Dinook Tribal Hall,66.924644,-151.505855,community_centre,way/672960871
+Allakaket Community Hall,66.544804,-152.648312,community_centre,way/672970191
+Allakaket School,66.563642,-152.645034,school,way/672970209
+School (w1030302079),65.570774,-144.821806,school,way/1030302079
+Venetie Traditional Council,67.016453,-146.42218,community_centre,way/1076908084
+Nenana School,64.561916,-149.088473,school,way/1123249406
+Lake Minchumina Community Library,63.882606,-152.314892,library,way/1415943939
+Nulato Multi-Purpose Building,64.734369,-158.114452,community_centre,way/1489815436
+School (w1489816107),64.717508,-158.109878,school,way/1489816107

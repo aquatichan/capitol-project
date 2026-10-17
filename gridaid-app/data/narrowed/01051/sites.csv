@@ -1,0 +1,39 @@
+name,lat,lon,type,osm
+Central School,32.674297,-86.119967,school,node/358908296
+Mount Pisgah School,32.666241,-86.267193,school,node/358921079
+Southside School,32.527635,-85.894126,school,node/358929321
+Sweetwater School,32.628465,-86.131355,school,node/358929777
+Union Rosenwald School,32.596799,-86.283582,school,node/358930816
+Youngs Academy,32.606521,-86.110799,school,node/358932049
+Edgewood Academy,32.5468,-86.286082,school,node/358950195
+Elmore County Vocational School,32.550372,-86.215704,school,node/358950210
+Holtville High School,32.635687,-86.326361,school,node/358950260
+Ingram State Technical Institute,32.583466,-86.392196,school,node/358950267
+Millbrook Middle School,32.475969,-86.351083,school,node/358950329
+Robinson Primary School,32.511801,-86.373028,school,node/358950421
+Tallassee Elementary School,32.537357,-85.898015,school,node/358950506
+Tallassee High School,32.537079,-85.897181,school,node/358950509
+Lightwood Junior High School,32.700407,-86.377196,school,node/358998891
+Mount Canaan Elementary School,32.603465,-86.209691,school,node/358998948
+Sewell Memorial Junior High School,32.694296,-86.276083,school,node/358999078
+Sweetening Junior High School,32.556522,-86.369695,school,node/358999162
+Union Branch Junior High School,32.669853,-86.005518,school,node/358999179
+Eclectic Elementary School,32.628743,-86.02913,school,node/359002141
+Eclectic Volunteer Fire Department Fire Station Number One,32.634915,-86.034334,fire_station,node/367931129
+Millbrook Volunteer Fire Department,32.521267,-86.37485,fire_station,node/450168536
+Millbrook Fire Department,32.475589,-86.358757,fire_station,node/450168941
+Redland Elementary School,32.50257,-86.093801,school,node/2101703716
+Windermere VFD - Station #2,32.732754,-85.907361,fire_station,node/7683575551
+Windermere VFD - Station #1,32.751531,-85.90449,fire_station,node/7683575552
+Cheer Pro Athletics,32.501868,-86.387342,school,node/9661819583
+Wetumpka Middle School,32.547531,-86.221506,school,way/283003664
+Wetumpka Elementary School,32.548082,-86.214703,school,way/283003665
+Fire Station (w469430982),32.475584,-86.358798,fire_station,way/469430982
+Wetumpka High School,32.552491,-86.222135,school,way/765967362
+Millbrook Middle School,32.498247,-86.361918,school,way/768514760
+Stanhope-Elmore High School,32.49354,-86.36235,school,way/768514773
+School (w985544110),32.516581,-86.345303,school,way/985544110
+Eclectic Public Library,32.635855,-86.034619,library,way/1110690331
+Prattville Christian Academy,32.480612,-86.405265,school,way/1206036567
+Millbrook Public Library,32.476612,-86.362593,library,way/1344415447
+Wetumpka Public Library,32.535827,-86.20647,library,way/1347340520

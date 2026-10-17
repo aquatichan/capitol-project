@@ -1,0 +1,86 @@
+name,lat,lon,type,osm
+Weems School,31.292954,-85.120763,school,node/358931320
+Ashford High School,31.183827,-85.232351,school,node/358941459
+Madrid Junior High School,31.033515,-85.3966,school,node/358952923
+Webb Junior High School,31.260176,-85.27021,school,node/358952944
+Essie R Grimsley High School,31.177123,-85.229654,school,node/358998806
+Kinsey Fire Department,31.291103,-85.339872,fire_station,node/367931171
+Gordon Fire Department,31.143899,-85.095192,fire_station,node/367931224
+Pansey Volunteer Fire Department,31.154124,-85.17678,fire_station,node/367931230
+Rohobeth Volunteer Fire Department,31.124888,-85.450677,fire_station,node/367931235
+Lucy Volunteer Fire Department,31.035373,-85.098117,fire_station,node/367931266
+Southern Junction Volunteer Fire Department,31.032106,-85.469216,fire_station,node/367931293
+Webb Volunteer Fire Department,31.26215,-85.278345,fire_station,node/367931347
+Madrid Community Volunteer Fire Department,31.035698,-85.392957,fire_station,node/367931352
+Cowarts Volunteer Fire Department,31.201208,-85.304444,fire_station,node/10553295864
+Fire Station (n14038415506),31.116109,-85.275384,fire_station,node/14038415506
+Fire Station (n14041363534),31.05196,-85.303437,fire_station,node/14041363534
+Fire Station (n14050211324),31.234415,-85.363066,fire_station,node/14050211324
+"Carver School for Math, Science and Technology",31.19756,-85.391395,school,way/238346638
+Girard Primary School,31.240164,-85.420781,school,way/238346645
+Dothan 6th Grade Center,31.242833,-85.420729,school,way/238346646
+Grandview Elementary School,31.211553,-85.376317,school,way/238346647
+Head Start Center,31.231217,-85.40525,school,way/238346648
+Jerry Lee Faine Elementary School,31.234458,-85.371677,school,way/238346673
+Carver 9th Grade Academy,31.23654,-85.375261,school,way/282187292
+Community Centre (w319955122),31.239233,-85.440346,community_centre,way/319955122
+Westgate Christian School,31.240309,-85.436008,school,way/319957790
+Dothan Houston County Public Library - Westgate Branch,31.239891,-85.439059,library,way/326622345
+Dothan City Virtual School,31.209402,-85.395119,school,way/422715859
+Dothan Civic Center,31.224869,-85.390332,community_centre,way/440065402
+Taylor Senior Center,31.160819,-85.467911,community_centre,way/483736246
+Taylor Volunteer Fire Department,31.160015,-85.469673,fire_station,way/484005420
+Rehobeth Community Center,31.127582,-85.445717,community_centre,way/485369919
+Dothan High School,31.268553,-85.380977,school,way/510470540
+Dothan City Early Education Center,31.205207,-85.433715,school,way/548405279
+Dothan Montessori School,31.225011,-85.407051,school,way/548417225
+Dothan Preparatory Academy,31.208448,-85.395,school,way/548420059
+Beulah Land Christian Academy,31.232746,-85.391768,school,way/548421963
+PASS Academy,31.242967,-85.388451,school,way/548422777
+Houston Academy,31.245227,-85.449197,school,way/548423876
+Providence Christian School,31.257889,-85.472081,school,way/581191952
+Northside Methodist Academy,31.263418,-85.432517,school,way/631051647
+Rehobeth High School,31.121324,-85.457742,school,way/658584647
+Dothan Houston County Library,31.228654,-85.394625,library,way/674348069
+Heard Elementary School,31.220262,-85.427377,school,way/675486466
+Houston County Alternative School,31.227732,-85.392889,school,way/678813437
+Andrew Belle Community Center,31.23077,-85.379374,community_centre,way/681244827
+Houston County High School,31.294504,-85.11483,school,way/854072608
+Houston County Farm Center,31.193946,-85.374083,community_centre,way/946895056
+Dothan Fire Station 2,31.189214,-85.423414,fire_station,way/946895757
+Dothan Fire Station 4,31.192766,-85.377938,fire_station,way/946896483
+Houston County Career Academy,31.226119,-85.400908,school,way/946918997
+Dothan Fire Station 1,31.221219,-85.383598,fire_station,way/946919507
+Dothan Fire Station 8,31.239362,-85.486927,fire_station,way/946955659
+Dothan Fire Station 6,31.272808,-85.447748,fire_station,way/946982202
+Dothan Fire Station 9,31.268414,-85.398773,fire_station,way/946989242
+Dothan Fire Station 5,31.234304,-85.363181,fire_station,way/946994863
+Dothan Technology Center,31.268179,-85.38255,school,way/978285054
+Beverlye Intermediate School,31.194057,-85.35208,school,way/978575466
+Highlands Elementary School,31.22051,-85.487154,school,way/979470300
+Emmanuel Christian School,31.201,-85.438579,school,way/979470304
+School (w986722104),31.18275,-85.229071,school,way/986722104
+School (w991208563),31.176616,-85.229266,school,way/991208563
+Wicksburg High School,31.226064,-85.63394,school,way/992377393
+Selma Street Elementary School,31.209244,-85.415717,school,way/996758047
+Kelly Springs Elementary School,31.278497,-85.466354,school,way/996758049
+Morris Slingluff Elementary School,31.270429,-85.394957,school,way/996758050
+Dothan-Houston County Library System - Ashford Branch,31.183003,-85.23387,library,way/1102448392
+Ashford Volunteer Fire Department,31.183297,-85.234914,fire_station,way/1102448395
+Lovetown Voulnteer Fire Department,31.11611,-85.27528,fire_station,way/1217454070
+Cottonwood High School,31.057762,-85.301485,school,way/1231606118
+Cottonwood Voulnteer Fire Department,31.051949,-85.303525,fire_station,way/1238387134
+Dothan Fire Station 3,31.244066,-85.455307,fire_station,way/1252701880
+Dothan Fire Station 10,31.227883,-85.421858,fire_station,way/1252701881
+Ashford Fire Station,31.1727,-85.225373,fire_station,way/1256387291
+Hidden Lake Primary School,31.194388,-85.348562,school,way/1308672090
+Hodgesville Volunteer Fire Department,31.114618,-85.374665,fire_station,way/1323508440
+Bay Springs Fire Department,31.215907,-85.523461,fire_station,way/1323508444
+Fire Station (w1355829910),31.20124,-85.304297,fire_station,way/1355829910
+Vaughn-Blumberg Services,31.270937,-85.430915,community_centre,way/1498683644
+Northview Christian Church Academy,31.247879,-85.388997,school,way/1510703328
+Kinsey Fire Department,31.287434,-85.342108,fire_station,way/1539120065
+Rehobeth Elementary School,31.125254,-85.446461,school,way/1539500588
+Senior Center,31.200801,-85.307392,community_centre,way/1539737613
+Rossie Purcell Library,31.291487,-85.112044,library,way/1540054154
+Cottonwood Fire Department,31.052023,-85.304002,fire_station,relation/21113253

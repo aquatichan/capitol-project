@@ -1,0 +1,18 @@
+name,lat,lon,type,osm
+Blann School,33.427341,-92.455985,school,node/358967923
+Ebenezer School,33.368455,-92.467928,school,node/358970515
+Saint Lena School,33.498447,-92.35626,school,node/358979937
+Hampton Elementary School,33.537241,-92.462389,school,node/358991820
+Hampton High School,33.537329,-92.464013,school,node/358991822
+Caney Creek Volunteer Fire Department,33.61234,-92.504776,fire_station,node/367129234
+Chambersville Fire Department,33.747571,-92.430337,fire_station,node/367129307
+Harrell Volunteer Fire Department,33.511233,-92.399681,fire_station,node/367129733
+Hampton Fire Station,33.53734,-92.4707,fire_station,node/367129764
+Locust Bayou Fire Department,33.556383,-92.662046,fire_station,node/367129965
+Thornton  Fire Station,33.77552,-92.49152,fire_station,node/367130522
+Community Centre (n5890805245),33.579517,-92.512599,community_centre,node/5890805245
+Tinsman Community Center,33.62953,-92.356718,community_centre,node/14212259425
+Arkansas Law Enforcement Training Academy,33.631319,-92.726768,school,way/1476293546
+Arkansas Fire Training Academy,33.654988,-92.677957,school,way/1525324804
+Southern Arkansas University Tech,33.632843,-92.718183,school,way/1535978556
+Tinsman Volunteer Fire Department,33.629608,-92.356848,fire_station,way/1562003283

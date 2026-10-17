@@ -1,0 +1,53 @@
+name,lat,lon,type,osm
+Cave Street School,34.730089,-87.70003,school,node/358907962
+Colbert Heights School,34.669258,-87.700586,school,node/358908966
+Hope Haven School,34.723145,-87.719197,school,node/358916137
+Howell and Graves School,34.7337,-87.635584,school,node/358916404
+Lime Rock School,34.604537,-87.758365,school,node/358918556
+Underwood Heights Junior High School,34.62787,-87.742532,school,node/358930632
+Barton School,34.730923,-87.868367,school,node/358942259
+Brewster Elementary School,34.742867,-87.718364,school,node/358942278
+Fowler Elementary School,34.788143,-87.604472,school,node/358942417
+Leighton Elementary School,34.702034,-87.537249,school,node/358942486
+Leighton Middle School,34.702867,-87.528359,school,node/358942488
+Margerum School,34.766757,-88.071706,school,node/358942525
+Midway School,34.738144,-87.442246,school,node/358942535
+Muscle Shoals Vocational School,34.734534,-87.635862,school,node/358942569
+Southwest Elementary School,34.746865,-87.707988,school,node/358942707
+Trenholm High School,34.72509,-87.686141,school,node/358942728
+Underwood Heights Elementary School,34.578426,-87.74281,school,node/358942730
+Wilson Middle School,34.774255,-87.691696,school,node/358942791
+Littleville Elementary School,34.592593,-87.678919,school,node/358958725
+Muscle Shoals Headstart School,34.757589,-87.613917,school,node/358968868
+Allsboro Junior High School,34.688703,-88.110596,school,node/358969382
+Cherokee Vocational High School,34.754256,-87.958369,school,node/358969393
+Cherokee Elementary School,34.757034,-87.96837,school,node/358969414
+Barton Elementary School,34.735368,-87.893924,school,node/358969420
+Muscle Shoals Technical Institute,34.739754,-87.678103,school,node/358975766
+Brick Elementary School,34.785921,-87.510025,school,node/358998577
+Hatton Elementary School,34.755922,-87.484747,school,node/358998825
+New Bethel Elementary School,34.643147,-87.780588,school,node/358998972
+Spring Valley Elementary School,34.657869,-87.619473,school,node/358999277
+Fire Station (n4042791363),34.744161,-87.655534,fire_station,node/4042791363
+Glover Payne,34.756509,-87.968573,community_centre,node/7914030498
+Webster Elementary School,34.756921,-87.621842,school,way/83047731
+Colbert County High School,34.695898,-87.524885,school,way/83106322
+Muscle Shoals Middle School,34.742878,-87.650666,school,way/224406566
+Muscle Shoals Public Library,34.743813,-87.64493,library,way/224442157
+Southeast Elementary School,34.748538,-87.691925,school,way/224933705
+Helen Keller Public Library,34.737531,-87.70403,library,way/440215269
+Muscle Shoals High School,34.742637,-87.645805,school,way/474231836
+Highland Park Elementary School,34.738811,-87.662893,school,way/497436655
+Cherokee High School,34.765458,-87.963658,school,way/517789432
+Sheffield High School,34.76983,-87.689909,school,way/562775300
+R E Thompson Intermediate School,34.722047,-87.715069,school,way/599938084
+G. W. Trenholm Primary School,34.722955,-87.695294,school,way/599950785
+School (w599957145),34.767379,-87.693754,school,way/599957145
+Sheffield Public Library,34.761133,-87.698298,library,way/651581006
+Alabama Avenue School,34.764439,-87.701416,school,way/749178582
+School (w996659030),34.769655,-87.963474,school,way/996659030
+Muscle Shoals Fire Dept #3,34.744575,-87.619143,fire_station,way/1053088019
+Leighton Public Library,34.700617,-87.528793,library,way/1344404566
+Cherokee Public Library,34.756294,-87.971917,library,way/1347197842
+Deshler Middle School,34.738316,-87.696038,school,relation/21074359
+Deshler High School,34.739722,-87.700781,school,relation/21074360

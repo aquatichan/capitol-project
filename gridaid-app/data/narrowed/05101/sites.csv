@@ -1,0 +1,38 @@
+name,lat,lon,type,osm
+Deer Elementary School,35.826196,-93.208223,school,node/359005937
+Deer High School,35.82681,-93.20812,school,node/359005944
+Jasper Elementary School,36.005077,-93.190457,school,node/359005954
+Jasper High School,36.004517,-93.191287,school,node/359005960
+Mount Judea Elementary School,35.921601,-93.060475,school,node/359005981
+Mount Judea High School,35.921467,-93.059344,school,node/359005990
+Western Grove Elementary School,36.098386,-92.955884,school,node/359006038
+Western Grove High School,36.098964,-92.955452,school,node/359006041
+Atkinson School,35.971466,-93.097119,school,node/359006668
+Bens Branch School,35.931188,-92.986839,school,node/359006962
+Coopers Bluff School,35.879245,-93.158231,school,node/359007809
+Gum Spring School,35.940078,-93.165732,school,node/359008260
+Hamilton School,35.843134,-93.087952,school,node/359008288
+Juanita School,35.963409,-92.944338,school,node/359008499
+Lick Creek School,35.979243,-93.002673,school,node/359008597
+Loghall School,35.938411,-93.105453,school,node/359008648
+Macedonia School,35.853412,-93.114897,school,node/359008697
+Sweet Home School,35.882022,-93.016007,school,node/359009949
+Union Hill School,35.976744,-93.222678,school,node/359010028
+White House School,35.877022,-93.068507,school,node/359010118
+Cross Road School,35.877857,-93.197677,school,node/359011848
+Compton Volunteer Fire Department,36.102763,-93.299396,fire_station,node/367129272
+Deer Volunteer Fire Department Station,35.825467,-93.211574,fire_station,node/367129324
+Hasty Volunteer Fire Department,36.015163,-93.043646,fire_station,node/367129737
+Jasper Fire Station,36.009015,-93.18758,fire_station,node/367129778
+Lurton - Pelsor Volunteer Fire Department,35.771591,-93.077298,fire_station,node/367129960
+Mount Sherman Volunteer Fire Department - Shiloh Substation,35.993502,-93.320314,fire_station,node/367130128
+Mount Sherman Volunteer Fire Department - Low Gap Substation,36.004169,-93.313864,fire_station,node/367130129
+Mount Sherman Volunteer Fire Department,36.031484,-93.256416,fire_station,node/367130130
+Ponca Volunteer Fire Department,36.024687,-93.36506,fire_station,node/367130152
+Parthenon Fire Station,35.951274,-93.239608,fire_station,node/367130239
+The Old Western Grove Volunteer Fire Department,36.101265,-92.953638,fire_station,node/367130523
+Western Grove Volunteer Fire Department,36.108819,-92.960515,fire_station,node/367130789
+Jasper Fire Mockingbird Hill Substation,35.964104,-93.152554,fire_station,node/367131557
+Parthenon Volunteer Fire Wayton Substation,35.937913,-93.2561,fire_station,node/367131565
+School (w625129074),36.004699,-93.19129,school,way/625129074
+School (w1475091455),36.098561,-92.95594,school,way/1475091455

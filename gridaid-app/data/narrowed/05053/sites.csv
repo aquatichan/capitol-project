@@ -1,0 +1,23 @@
+name,lat,lon,type,osm
+Cooper School,34.306207,-92.565993,school,node/358969769
+Saint Paul School,34.222875,-92.290984,school,node/358980153
+Grapevine Elementary School,34.143988,-92.315428,school,node/358990293
+Poyen Elementary School,34.324368,-92.643671,school,node/358990299
+Poyen High School,34.325153,-92.643223,school,node/358990301
+Sheridan High School,34.311766,-92.407935,school,node/358990311
+Sheridan Freshman Academy,34.309816,-92.406544,school,node/358990314
+Cane Creek Volunteer Fire Department,34.444588,-92.356545,fire_station,node/367129233
+Calvert Township Volunteer Fire Station 2,34.221012,-92.437466,fire_station,node/367129252
+Calvert Township Volunteer Fire Department,34.202622,-92.408392,fire_station,node/367129254
+Center Grove Volunteer Fire Station,34.316501,-92.283564,fire_station,node/367129296
+Grapevine Volunteer Fire Department,34.147132,-92.313064,fire_station,node/367129600
+Leola Volunteer Fire Department,34.169754,-92.590884,fire_station,node/367129867
+Prattsville Volunteer Fire Department,34.314243,-92.55491,fire_station,node/367130161
+Poyen Volunteer Fire Station,34.324485,-92.640838,fire_station,node/367130167
+Palestine Community Volunteer Fire Department,34.413993,-92.459208,fire_station,node/367130223
+Sheridan Volunteer Fire Station,34.30459,-92.403068,fire_station,node/367130286
+Tull Volunteer Fire Department,34.447055,-92.577557,fire_station,node/367130511
+Community Centre (w683350858),34.294199,-92.41872,community_centre,way/683350858
+Fire Station (w967687858),34.324497,-92.640779,fire_station,way/967687858
+School (w1475197939),34.311954,-92.407196,school,way/1475197939
+School (w1546825005),34.44714,-92.575814,school,way/1546825005

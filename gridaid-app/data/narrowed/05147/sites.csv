@@ -1,0 +1,14 @@
+name,lat,lon,type,osm
+Conner High School,35.27953,-91.365128,school,node/358969721
+Pumpkin Bend School,35.297308,-91.109011,school,node/358978863
+Augusta Elementary School,35.284578,-91.355704,school,node/358990316
+McCrory Elementary School,35.260202,-91.193304,school,node/358990330
+McCrory High School,35.261331,-91.198028,school,node/358990332
+Augusta High School,35.283571,-91.355638,school,node/359011701
+Augusta Volunteer Fire Department,35.284681,-91.361268,fire_station,node/367129051
+Hunter Volunteer Fire Station,35.054214,-91.124409,fire_station,node/367129808
+McCrory Fire Department Station 1,35.251483,-91.199512,fire_station,node/367130085
+McCrory Fire Department Station 2,35.256081,-91.194779,fire_station,node/367130086
+Patterson Volunteer Fire Station,35.257368,-91.2352,fire_station,node/367130237
+Community Centre (w670742766),35.052381,-91.117978,community_centre,way/670742766
+Cotton Plant Volunteer Fire Department,35.004897,-91.253258,fire_station,way/1443825079

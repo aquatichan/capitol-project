@@ -1,0 +1,31 @@
+name,lat,lon,type,osm
+Deer Park School,31.218509,-88.336679,school,node/358910117
+East Calvert School,31.182396,-87.969443,school,node/358910557
+East Malcom School,31.201284,-87.984999,school,node/358910590
+Fairford School,31.165668,-88.113535,school,node/358911100
+Fields School,31.360168,-88.019724,school,node/358911339
+Reeds Chapel School,31.268504,-88.059169,school,node/358925712
+Roberts School,31.231005,-88.053613,school,node/358926313
+Sims Chapel School,31.232394,-88.146117,school,node/358928905
+McIntosh Academy,31.269615,-88.020834,school,node/358953205
+Fruitdale High School,31.343505,-88.405294,school,node/358953309
+Chatom Middle School,31.461832,-88.251678,school,node/358970101
+Chatom Elementary School,31.461832,-88.250567,school,node/358970104
+Washington County High School,31.457388,-88.268345,school,node/358970106
+Millry High School,31.640438,-88.314738,school,node/358970116
+Washington County Area Vocational Center,31.452666,-88.207232,school,node/358983916
+Leroy High School,31.501831,-87.971112,school,node/358998889
+Wagarville Elementary School,31.444333,-88.032503,school,node/358999331
+Epworth - Vinegar Bend Fire Department,31.260363,-88.415982,fire_station,node/367931279
+Deer Park - Shiloh Volunteer Fire Department,31.217616,-88.313544,fire_station,node/367931414
+Wagarville Volunteer Fire Department,31.442893,-88.036739,fire_station,node/367931429
+McIntosh Rescue Squad,31.267702,-88.029652,fire_station,node/2443797228
+McIntosh Fire Dept.,31.267138,-88.029319,fire_station,node/2443797236
+Leroy Volunteer Fire Dept.,31.501213,-87.969651,fire_station,node/2443797988
+McIntosh High School,31.25536,-88.024611,school,way/1150799184
+Pleasant View School,31.208258,-88.070909,school,way/1308568449
+Weaver School,31.250623,-88.081389,school,way/1308569270
+Washington County Public - Mcintosh Branch Library,31.264981,-88.019762,library,way/1346079942
+Washington County Public Library,31.459671,-88.243426,library,way/1347347658
+Fruitdale - Yellowpine Volunteer Fire Department,31.341318,-88.411516,fire_station,way/1530221192
+McIntosh Elementary School,31.282008,-88.032692,school,way/1559135161

@@ -1,0 +1,27 @@
+name,lat,lon,type,osm
+Liberty High School,33.478728,-88.171697,school,node/358918450
+Liberty School,33.479839,-88.170864,school,node/358918488
+Oak Ridge School,33.336232,-88.27309,school,node/358922623
+Aliceville High School,33.123333,-88.148333,school,node/358946926
+Big Creek School,33.255955,-88.159196,school,node/358946955
+C W Ladow Center,33.255121,-88.168085,school,node/358946975
+Rosewald School,33.240678,-88.258367,school,node/358979763
+Dancy Cochrane Memphis Volunteer Fire Department,33.012761,-88.292229,fire_station,node/13248208071
+Sapps Volunteer Fire Department,33.22201,-88.171927,fire_station,node/13254811990
+Reform Volunteer Fire Department,33.376803,-88.018026,fire_station,node/13265284428
+Kirk Fire Department,33.244759,-87.886741,fire_station,node/14022765968
+Carrollton Volunteer Fire Department,33.258445,-88.093386,fire_station,node/14031210154
+Pickens County High School,33.374641,-88.014536,school,way/762401524
+Reform Public Library,33.376432,-88.0158,library,way/762401755
+Reform Elementary School,33.376077,-88.026743,school,way/762402556
+Gordo Elementary School,33.324058,-87.90637,school,way/764266944
+Gordo High School,33.325121,-87.906007,school,way/764266945
+Gordo - Ruth Holliman Memorial Public Library,33.317794,-87.902618,library,way/764334049
+Pickens County Cooperative Library,33.262605,-88.094798,library,way/764459384
+Carrollton Public Library,33.258261,-88.094088,library,way/764494793
+Pickens County College and Career Center,33.259354,-88.093306,school,way/764494795
+Pickens Academy,33.253334,-88.090523,school,way/764497670
+Aliceville Fire Department,33.128662,-88.153441,fire_station,way/764502175
+Aliceville Public Library,33.128939,-88.146845,library,way/764506638
+Aliceville Elementary School,33.135949,-88.155753,school,way/764588919
+School (w985551059),33.123318,-88.147654,school,way/985551059

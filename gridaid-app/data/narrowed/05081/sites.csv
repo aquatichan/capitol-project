@@ -1,0 +1,40 @@
+name,lat,lon,type,osm
+Rosenwald School,33.579845,-94.022134,school,node/358979547
+Washington School,33.603178,-94.0163,school,node/358983060
+White Cliffs School,33.769286,-94.056859,school,node/358983402
+Ashdown High School,33.671383,-94.121026,school,node/358989349
+Burke Street Elementary School,33.673453,-94.125472,school,node/358989361
+Foremen Elementary School,33.71345,-94.395759,school,node/358989391
+Foreman High School,33.712813,-94.393846,school,node/358989393
+Winthrop Elementary School,33.830067,-94.354666,school,node/358989466
+Winthrop High School,33.82956,-94.354092,school,node/358989470
+Climax School,33.767894,-94.426039,school,node/359007734
+Miller School,33.789005,-94.389927,school,node/359008762
+Plainview School,33.895948,-94.454374,school,node/359009480
+King Rider School,33.837059,-94.45354,school,node/359012360
+L F Henderson Interm School,33.673426,-94.125173,school,node/359024259
+Foreman Elementary School,33.716228,-94.400482,school,node/359024260
+C D Franks Intermediate School,33.671303,-94.145817,school,node/359024261
+Margaret Daniels Primary School,33.670825,-94.146599,school,node/359024263
+Oscar Hamilton Elementary School,33.716111,-94.40038,school,node/359024438
+Arden Volunteer Fire Department,33.690389,-94.282886,fire_station,node/367129072
+Ashdown Fire Department Station 2,33.669018,-94.135743,fire_station,node/367129084
+Ashdown Fire Department Station 1,33.664465,-94.118583,fire_station,node/367129096
+Cerro Gordo Volunteer Fire Department,33.919798,-94.476008,fire_station,node/367129306
+Foreman Volunteer Fire Department,33.720137,-94.395416,fire_station,node/367129501
+East Ogden Volunteer Fire Department,33.583564,-94.030568,fire_station,node/367129548
+East Ogden Volunteer Fire Department,33.581972,-94.029902,fire_station,node/367129550
+Hicks Volunteer Fire Department,33.719267,-94.12538,fire_station,node/367129696
+Jacks Isle Volunteer Fire Station,33.713592,-94.056282,fire_station,node/367129829
+Ogden Volunteer Fire Department,33.584296,-94.048788,fire_station,node/367130062
+Oakhill Volunteer Fire Department,33.722566,-94.217164,fire_station,node/367130067
+Richmond Volunteer Fire Department,33.637928,-94.206089,fire_station,node/367130192
+Wallace Volunteer Fire Department,33.688882,-94.372733,fire_station,node/367130403
+Ashdown Library,33.67465,-94.129504,library,node/367130646
+Yarborough Fire Department Station 1,33.717203,-94.02118,fire_station,node/367130750
+Yarborough Fire Department Station 2,33.648107,-93.964811,fire_station,node/367130751
+Wilton Volunteer Fire Station,33.739251,-94.146598,fire_station,node/367130798
+Winthrop Fire Department,33.831435,-94.351583,fire_station,node/367130800
+Library (n14140681091),33.722571,-94.396633,library,node/14140681091
+Ashdown Junior High School,33.666198,-94.112338,school,way/909761696
+Alleene Fire Department,33.773008,-94.262037,fire_station,way/1363981033

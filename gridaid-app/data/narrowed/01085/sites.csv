@@ -1,0 +1,36 @@
+name,lat,lon,type,osm
+Bezziel Spring School,32.176532,-86.449138,school,node/358906408
+Dulaney School,32.289028,-86.790538,school,node/358910434
+Dutch Bend School,32.00848,-86.833037,school,node/358910511
+Farmersville School,32.089867,-86.898872,school,node/358911235
+Hales School,32.234308,-86.496362,school,node/358913994
+Hazley School,32.074591,-86.464972,school,node/358914873
+Lambert School,32.259029,-86.536919,school,node/358917973
+Lily School,32.119034,-86.476639,school,node/358918547
+Macedonia School,32.187364,-86.783315,school,node/358919218
+Marble Stone School,32.220142,-86.451361,school,node/358919360
+Morning Star School,32.337916,-86.629422,school,node/358920372
+Mount Clair School,32.080978,-86.761091,school,node/358920581
+Mount Zion School,32.288195,-86.720536,school,node/358921498
+Petronia School,32.228752,-86.789148,school,node/358923592
+Pine Flat School,32.095978,-86.841371,school,node/358923910
+Pleasant Hill School,32.299306,-86.51053,school,node/358924689
+Rock Creek School,32.277085,-86.501363,school,node/358926435
+Sandy Ridge School,32.012648,-86.457749,school,node/358928207
+Steep Creek School,32.180143,-86.481917,school,node/358929530
+Wood School,32.122921,-86.851371,school,node/358931895
+Central School,32.151254,-86.681645,school,node/358948620
+Fort Deposit Elementary School,31.990982,-86.582197,school,node/358948649
+Hayneville High School,32.181809,-86.578864,school,node/358948691
+Lowndes Academy,32.275695,-86.613033,school,node/358948722
+Calhoun School,32.05848,-86.551085,school,node/358948924
+Mount Lily School,32.205141,-86.765814,school,node/358975438
+Fort Deposit Academy,31.988482,-86.588308,school,node/358996940
+White Hall Elementary School,32.285417,-86.720814,school,node/358999317
+School (w991950156),32.151294,-86.681734,school,way/991950156
+School (w996486613),32.057675,-86.551978,school,way/996486613
+School (w1005411982),32.152704,-86.681402,school,way/1005411982
+Lowndes County High School,31.983601,-86.570419,school,way/1031953245
+Fort Deposit Public Library,31.987091,-86.578776,library,way/1344414815
+Hayneville - Lowndes County Public Library,32.184351,-86.579046,library,way/1344415044
+White Hall Public Library,32.291219,-86.716329,library,way/1344415166

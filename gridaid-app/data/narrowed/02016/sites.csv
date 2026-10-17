@@ -1,0 +1,14 @@
+name,lat,lon,type,osm
+Unalaska Fire Service,53.871024,-166.542077,fire_station,node/1673730129
+Fire Station,52.209094,-174.202926,fire_station,node/2600069260
+Yakov E. Netsvetov School,52.213026,-174.207021,school,node/2600093717
+Fire Station (w206318610),52.209106,-174.202987,fire_station,way/206318610
+Unalaska Public Library,53.87092,-166.531836,library,way/207320248
+Parks Culture and Recreation,53.87219,-166.531464,community_centre,way/207320263
+Fire Station (w335838628),56.601672,-169.547528,fire_station,way/335838628
+Fire Department,51.878295,-176.643395,fire_station,way/480788816
+Nikolski Community Center,52.940012,-168.857792,community_centre,way/503534276
+Nikolski School,52.939981,-168.859641,school,way/507865204
+Fire Station (w864826452),52.716889,174.101332,fire_station,way/864826452
+Amaknak Fire Hall,53.893995,-166.539995,fire_station,way/887846705
+Eagle's View Elementary School,53.868771,-166.522179,school,way/1125509047

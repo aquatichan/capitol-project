@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+Hickory Hill School,35.238971,-92.724886,school,node/358972598
+Lords School,35.227582,-92.734331,school,node/358974585
+Saint Elizabeth School,35.093581,-92.830677,school,node/358979815
+Union Chapel School,35.231748,-92.555437,school,node/358982209
+Sacred Heart School,35.152981,-92.740709,school,node/359000701
+Wonderview High School,35.289393,-92.785893,school,node/359000719
+Center School,35.390913,-92.710719,school,node/359007664
+Nemo Vista High School,35.368843,-92.563798,school,node/359021948
+Nemo Vista Elementary School,35.369723,-92.563113,school,node/359023820
+Wonderview Elementary School,35.289106,-92.786016,school,node/359023821
+Springfield Fire Deparment District 1,35.264857,-92.560803,fire_station,node/367128558
+Ada Valley Fire Station,35.107575,-92.871555,fire_station,node/367129021
+Birdtown Fire Station,35.306029,-92.594593,fire_station,node/367129182
+Center Ridge Fire Station,35.375508,-92.563672,fire_station,node/367129299
+Cleveland Fire Station,35.421932,-92.707801,fire_station,node/367129319
+Hillcreek Fire Station,35.213992,-92.619441,fire_station,node/367129854
+Morrilton Volunteer Fire Station 1,35.152117,-92.734818,fire_station,node/367130107
+Plummerville Volunteer Fire Department,35.158408,-92.641792,fire_station,node/367130147
+Oppelo Volunteer Fire Station,35.101805,-92.770352,fire_station,node/367130203
+Overcup Fire Station,35.225139,-92.69221,fire_station,node/367130215
+Sardis Fire Station,35.144055,-92.704206,fire_station,node/367130375
+Saint Vincent Fire Station,35.296406,-92.731993,fire_station,node/367130381
+Conway County Library,35.151195,-92.745721,library,node/367130975
+Morrilton Elementary School,35.16241,-92.739507,school,way/450356128
+Morrilton High School,35.164823,-92.733641,school,way/450356129
+Morrilton Intermediate School,35.172826,-92.737616,school,way/450356130
+Morrilton Junior High School,35.165803,-92.734847,school,way/450356131
+Morrilton Primary School,35.14731,-92.734266,school,way/450356132
+Library Complex,35.17358,-92.728153,library,way/943568341
+Petit Jean Fire Station,35.132061,-92.890708,fire_station,way/949811349
+Conway County Fire Dept District 2 Jerusalem,35.404502,-92.81902,fire_station,way/1071786174
+Morrilton Fire Department East,35.152211,-92.734898,fire_station,way/1266162399
+Menifee Fire Station,35.146075,-92.546389,fire_station,way/1308267974

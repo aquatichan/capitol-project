@@ -1,0 +1,28 @@
+name,lat,lon,type,osm
+Holly School,33.124844,-91.341504,school,node/358972889
+Ross Van Ness School,33.111789,-91.34817,school,node/358979592
+Morris-Booker Memorial College,33.53539,-91.439843,school,node/358991998
+Dermott Upper Elementary School,33.524557,-91.429009,school,node/358992018
+Dermott Elementary School,33.524693,-91.42859,school,node/358992020
+Dermott High School,33.521805,-91.428876,school,node/358992023
+Bellaire Academy,33.489002,-91.385674,school,node/358992029
+Central Middle School,33.321784,-91.286503,school,node/358992055
+Lakeside High School,33.325035,-91.310759,school,node/358992057
+Central Elementary School,33.338728,-91.28317,school,node/358992059
+Eudora Junior High School,33.119288,-91.261223,school,node/358992101
+Eudora High School,33.104842,-91.266782,school,node/358992103
+G C Johns Elementary School,33.105399,-91.265946,school,node/358992105
+Lakeside Lower Elementary School,33.323683,-91.314102,school,node/359024287
+Lakeside Upper Elementary School,33.323999,-91.313294,school,node/359024288
+Lakeside Middle School,33.324382,-91.31218,school,node/359024290
+G C Johns Lower Elementary School,33.119006,-91.261025,school,node/359024291
+Fawnwood Volunteer Fire Department,33.281718,-91.228387,fire_station,node/367129458
+Eudora Volunteer Fire Station,33.114641,-91.262644,fire_station,node/367129559
+Lake Village Volunteer Fire Department Station 2,33.310316,-91.29188,fire_station,node/367129883
+Lakeport Volunteer Fire Department,33.275772,-91.167584,fire_station,node/367129885
+Lake Village Volunteer Fire Station 1,33.331861,-91.28426,fire_station,node/367129886
+Eudora Senior Center,33.114996,-91.255379,community_centre,node/4226122336
+Dermott Middle School,33.523437,-91.42875,school,way/486541467
+Leonard Evans Memorial Library,33.525298,-91.434156,library,way/1513664345
+Dermott Senior Center,33.528456,-91.434595,community_centre,way/1513664351
+Dermott Volunteer Fire Station,33.528322,-91.43549,fire_station,way/1513664352

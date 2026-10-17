@@ -1,0 +1,30 @@
+name,lat,lon,type,osm
+Christian Valley School,31.414055,-87.890276,school,node/358908560
+Harper Middle School,31.508497,-87.913055,school,node/358914528
+Jackson Academy,31.53794,-87.908056,school,node/358916810
+Oak Grove School,31.390166,-87.756106,school,node/358922578
+Alma School,31.470997,-87.736661,school,node/358944040
+Bashi Academy,31.970681,-87.858681,school,node/358944063
+Coffeeville Elementary School,31.751111,-88.072778,school,node/358944118
+Grove Hill Academy,31.701268,-87.774722,school,node/358944163
+Jackson High School,31.513219,-87.894444,school,node/358944185
+Mackey Branch School,31.582937,-87.582493,school,node/358944197
+Morvin Junior High School,31.97293,-88.024456,school,node/358944214
+Thomasville Elementary School,31.918208,-87.736115,school,node/358944272
+Grove Hill Elementary School,31.702935,-87.764721,school,node/358944357
+Orange Hill School,31.717656,-87.737499,school,node/358994376
+Thomasville High School,31.885709,-87.736947,school,node/358994383
+Richman Pearson Hobson Technical College,31.888486,-87.745003,school,node/358996715
+Joe M Gillmore Elementary School,31.529052,-87.895277,school,node/358998788
+Coffeeville High School,31.761248,-88.088452,school,node/359007186
+Grove Hill Fire Department,31.708816,-87.774638,fire_station,node/1832370297
+Jackson Intermediate School,31.53087,-87.896233,school,node/2443464662
+Grove Hill Elementary School,31.709337,-87.791699,school,node/13908511310
+Lilly Valley School,31.440765,-87.756212,school,way/190639679
+School (w992814898),31.706201,-87.773434,school,way/992814898
+Coffeeville Public Library,31.758112,-88.08776,library,way/1162642477
+Thomasville Public Library,31.930016,-87.737786,library,way/1347347162
+Grove Hill Public Library,31.705583,-87.775444,library,way/1347347383
+Jackson - White Smith Memorial Library,31.512383,-87.894223,library,way/1347347458
+Fire Station (w1525952958),31.789522,-87.727899,fire_station,way/1525952958
+Clarke Prepatory School,31.734753,-87.762104,school,way/1525952961

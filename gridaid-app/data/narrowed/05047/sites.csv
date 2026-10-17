@@ -1,0 +1,34 @@
+name,lat,lon,type,osm
+County Line High School,35.307878,-93.918474,school,node/358969892
+Potts School,35.248981,-93.985759,school,node/358978696
+Rosenwall School,35.292591,-94.002148,school,node/358979551
+Webb City School,35.472585,-93.831586,school,node/358983152
+Altus-Denning Elementary School,35.437253,-93.763894,school,node/358994215
+Altus-Denning High School,35.437241,-93.762202,school,node/358994220
+County Line Elementary School,35.308737,-93.918065,school,node/358994269
+Ozark Elementary School,35.493141,-93.840197,school,node/358994300
+Ozark Junior High School,35.49281,-93.838209,school,node/358994310
+Pleasant View Elementary School,35.51765,-93.964887,school,node/358994315
+Pleasant View High School,35.517651,-93.965417,school,node/358994318
+Ozark Bible Institute,35.477863,-93.878809,school,node/359012877
+Elgin B Milton Elementary School,35.492585,-93.840752,school,node/359015016
+Ozark 7th Grade School,35.43687,-93.764128,school,node/359024440
+Altus Volunteer Fire Department,35.446371,-93.765307,fire_station,node/367129007
+Barnes Volunteer Fire Department,35.634871,-93.827402,fire_station,node/367129063
+Branch Volunteer Fire Department,35.306235,-93.955477,fire_station,node/367129213
+Cecil Volunteer Fire Department,35.439083,-93.947897,fire_station,node/367129224
+Oak Bend Etna Fire Department,35.363832,-93.856511,fire_station,node/367130043
+Pleasant View Volunteer Fire Department,35.518468,-93.963112,fire_station,node/367130145
+Ozark Volunteer Fire Department,35.489905,-93.833932,fire_station,node/367130221
+Ozark Volunteer Fire Department,35.490515,-93.859037,fire_station,node/367130222
+South Ozark - Webb City Fire Department,35.436782,-93.831636,fire_station,node/367130322
+Watalula Volunteer Fire Department,35.534325,-93.792943,fire_station,node/367130469
+Denning Community Center,35.429555,-93.756938,community_centre,node/5885388855
+Ozark High School,35.49285,-93.837904,school,node/12634098622
+Community Centre (w624775041),35.299007,-94.028205,community_centre,way/624775041
+Charleston Elementary School,35.296475,-94.046752,school,way/1071983972
+Charleston High School,35.296669,-94.044626,school,way/1071983973
+Library (w1071984003),35.296263,-94.044159,library,way/1071984003
+Charleston Volunteer Fire Department,35.296207,-94.02959,fire_station,way/1072136483
+Franklin County Senior Center,35.299664,-94.032835,community_centre,way/1074058460
+Cass Job Corps,35.688562,-93.817555,school,way/1389333073

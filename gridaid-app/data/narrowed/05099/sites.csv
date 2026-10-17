@@ -1,0 +1,24 @@
+name,lat,lon,type,osm
+Emmet Elementary School,33.726082,-93.467725,school,node/358989846
+Emmet High School,33.726601,-93.468048,school,node/358989848
+Prescott Elementary School,33.792398,-93.375989,school,node/358989936
+Prescott Middle School,33.802888,-93.370172,school,node/358989941
+Mcrae Middle School,33.803512,-93.370641,school,node/359024257
+Bodcaw Volunteer Fire Department,33.558551,-93.406858,fire_station,node/367129163
+Cale Fire Department,33.626731,-93.241798,fire_station,node/367129259
+Fairhills Fire Department,33.877048,-93.437686,fire_station,node/367129467
+Emmet Fire Station,33.72675,-93.470386,fire_station,node/367129565
+Laneburg Volunteer Fire Department Station 1,33.675598,-93.324533,fire_station,node/367129876
+Laneburg Volunteer Fire Department Station 2,33.662853,-93.359759,fire_station,node/367129877
+Nevada County Fire and Rescue Unit,33.80256,-93.379067,fire_station,node/367130016
+Prescott Fire Department,33.801812,-93.382182,fire_station,node/367130162
+Redland Fire Department,33.790425,-93.278511,fire_station,node/367130178
+Rosston Fire Station,33.593483,-93.278737,fire_station,node/367130360
+Willisville Volunteer Fire Department,33.516648,-93.29773,fire_station,node/367130802
+School (n13908438354),33.592039,-93.295686,school,node/13908438354
+Reader Volunteer Fire Department,33.751256,-93.106011,fire_station,way/307355919
+School (w623464967),33.803043,-93.370853,school,way/623464967
+Prescott High School,33.790342,-93.376535,school,way/624235346
+Prescott Schools,33.792229,-93.375558,school,way/1130572367
+Bluff City Volunteer Fire Department,33.717114,-93.132958,fire_station,way/1154157934
+Fire Station (w1387645017),33.801868,-93.38224,fire_station,way/1387645017

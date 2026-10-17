@@ -1,0 +1,37 @@
+name,lat,lon,type,osm
+Nuiqsut Trapper School,70.219532,-150.993925,school,node/1944120834
+Tuzzy Consortium Library,71.298083,-156.754548,library,node/3681554625
+Browerville #2 Fire Station,71.298954,-156.760553,fire_station,node/3683917626
+North Slope Borough Fire Station,71.298964,-156.760539,fire_station,node/7165106389
+Barrow Fire Station #1,71.289654,-156.7884,fire_station,node/11129488174
+Community Centre (n11133243357),71.287544,-156.787009,community_centre,node/11133243357
+Harold Kaveolook School,70.127468,-143.615975,school,node/12634218538
+Harold Kaveolook School/Community Library,70.127423,-143.616204,library,node/13011057773
+Meade River School/Community Library,70.481108,-157.418235,library,node/13011057775
+Alak School/Community Library,70.636295,-160.033159,library,node/13011072563
+Nuiqsut Trapper School/Community Library,70.219387,-150.994171,library,node/13011087667
+Kali Community/School Library,69.743076,-163.009575,library,node/13011087680
+Tikigaq School/Community Libary,68.349632,-166.736106,library,node/13011090181
+Nunamiut School/Community Library,68.139984,-151.738464,library,node/13011111879
+Nuiqsut Fire Station,70.216553,-151.000482,fire_station,way/183972723
+Eben Hopson Middle School,71.29873,-156.743628,school,way/368252323
+Fred Ipalook Elementary School,71.291181,-156.754442,school,way/368308284
+Barrow High School,71.289853,-156.766728,school,way/368309150
+Community Centre (w495729789),68.626716,-149.596307,community_centre,way/495729789
+Robert James Community Center,70.638177,-160.03283,community_centre,way/499549476
+Wainwright Fire Station,70.637924,-160.03246,fire_station,way/499553698
+Fire Station (w500249877),68.137948,-151.73876,fire_station,way/500249877
+Qalgi Center,68.34806,-166.734199,community_centre,way/500279573
+Point Hope Fire Station,68.348686,-166.731948,fire_station,way/500279586
+Community Centre (w500281515),70.482111,-157.423491,community_centre,way/500281515
+Fire Station (w500281517),70.481961,-157.42224,fire_station,way/500281517
+Tikigaq Recreation Center,68.350317,-166.736261,community_centre,way/500281542
+Anaktuvuk Pass Community Hall,68.141852,-151.735826,community_centre,way/568986968
+Anaktuvuk Pass Senior Center,68.142032,-151.734589,community_centre,way/568986969
+Kali Volunteer Fire Department,69.741968,-163.010478,fire_station,way/583794047
+Nunamiut School,68.139889,-151.738265,school,way/672977174
+Eben Hospen Middle School,71.298745,-156.743676,school,way/763250734
+Alak School,70.636275,-160.033875,school,way/849054487
+Kali School,69.742952,-163.009225,school,way/966258187
+Meeting Tent,68.627382,-149.59327,community_centre,way/1037423885
+Tikigaq School,68.349545,-166.735998,school,way/1366648373
