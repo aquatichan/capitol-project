@@ -1,0 +1,14 @@
+# Raw and intermediate data (about 35 MB). The API only reads backend/data.json.
+data/
+scripts/
+
+# Dependencies and build output. Vercel reinstalls them during the build.
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local tooling
+.vercel/
+.venv/
+__pycache__/
+.env*
