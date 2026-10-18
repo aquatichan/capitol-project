@@ -1,5 +1,5 @@
 # Raw and intermediate data (about 35 MB). The API only reads backend/data.json.
-data/
+/data/
 scripts/
 
 # Dependencies and build output. Vercel reinstalls them during the build.
