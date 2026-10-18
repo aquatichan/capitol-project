@@ -1,0 +1,56 @@
+/* ---------- the astronaut game on the planner's map (MapGame.jsx) ---------- */
+/* a layer the size of the map; only the astronaut takes the pointer, so the map works as before underneath */
+.mg { position: absolute; z-index: 4; inset: 0; pointer-events: none; overflow: hidden; }
+
+/* his tray, under the zoom buttons */
+.mg-dock { position: absolute; top: 114px; right: 10px; width: 56px; height: 76px; border: 1px solid rgba(0, 0, 0, 0.6); border-radius: 8px; background: rgba(8, 11, 16, 0.72); box-shadow: var(--well); }
+.mg-hint { position: absolute; z-index: 1; top: 196px; right: 10px; width: 150px; font: 400 11.5px/1.35 var(--sans); text-align: right; color: var(--ink-2); text-shadow: 0 1px 6px #000; pointer-events: none; }
+
+.mg-astro-free { position: absolute; z-index: 2; left: 0; top: 0; width: 48px; height: 64px; padding: 0; border: 0; background: none; cursor: grab; pointer-events: auto; touch-action: none; user-select: none; -webkit-user-select: none; will-change: transform; }
+.mg-astro-free:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 6px; }
+.mg-astro-free.is-drag { cursor: grabbing; }
+.mg-astro-free.is-placed { visibility: hidden; }
+.mg-bob { display: block; width: 100%; height: 100%; }
+.mg-bob svg, .mg-astro svg { display: block; width: 100%; height: 100%; overflow: visible; filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.7)); }
+.mg-astro-free.is-dock .mg-bob { animation: mg-float 3.2s ease-in-out infinite; }
+@keyframes mg-float { 0%, 100% { transform: translateY(-3px) rotate(-3deg); } 50% { transform: translateY(3px) rotate(3deg); } }
+
+/* on the map he is a pin; picking him up again starts over */
+.mg-pin { background: none; border: 0; cursor: grab; }
+.mg-astro { display: block; width: 100%; height: 100%; transform-origin: 50% 100%; }
+.mg-astro.land { animation: mg-land 0.9s cubic-bezier(.3, .7, .4, 1) both; }
+@keyframes mg-land { 0% { transform: rotate(18deg) scaleY(0.92); } 30% { transform: rotate(-10deg); } 55% { transform: rotate(5deg); } 78% { transform: rotate(-2deg); } 100% { transform: none; } }
+/* safe: lit visor and a warm glow. In danger: greyed out, slumped, inside a pulsing red ring */
+.mg-pin::before { content: ""; position: absolute; left: 50%; top: 58%; width: 84px; height: 84px; margin: -42px 0 0 -42px; border-radius: 50%; opacity: 0; transition: opacity 0.4s; pointer-events: none; }
+.mg-pin.is-safe::before { opacity: 1; background: radial-gradient(circle, rgba(255, 194, 74, 0.5), rgba(255, 194, 74, 0) 68%); animation: mg-glow 2s ease-in-out infinite; }
+.mg-pin.is-danger::before { opacity: 1; background: radial-gradient(circle, rgba(255, 106, 77, 0.55), rgba(255, 106, 77, 0) 68%); animation: mg-glow 2s ease-in-out infinite; }
+@keyframes mg-glow { 50% { transform: scale(1.12); } }
+.mg-visor { transition: fill 0.4s; }
+.mg-pin.is-safe .mg-visor { fill: #ffc24a; }
+.mg-pin.is-danger .mg-visor { fill: #1a1f27; }
+.mg-astro svg { transform-origin: 50% 100%; transition: transform 0.5s, filter 0.5s; }
+.mg-pin.is-danger .mg-astro svg { filter: grayscale(0.4) brightness(0.9) drop-shadow(0 0 6px rgba(255, 106, 77, 0.9)) drop-shadow(0 3px 4px rgba(0, 0, 0, 0.7)); }
+.mg-say { position: absolute; z-index: 1; left: 50%; bottom: calc(100% + 8px); transform: translateX(-50%); padding: 6px 10px; border-radius: 999px; font: 700 12.5px/1 var(--sans); white-space: nowrap; color: #0a0d12; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6); animation: mg-say 0.3s ease-out backwards; }
+.mg-say[hidden] { display: none; }
+.mg-pin.is-safe .mg-say { background: #eef2f6; }
+.mg-pin.is-danger .mg-say { background: var(--gap); }
+.leaflet-outage-pane.is-calm path { transition: fill-opacity 0.5s, stroke-opacity 0.5s; }
+@keyframes mg-say { from { transform: translateX(-50%) scale(0.4); opacity: 0; } }
+
+/* the storm and the line that says what happened */
+.mg-storm { position: absolute; left: 0; top: 0; }
+.mg-storm svg { display: block; width: 100%; height: 100%; animation: mg-spin 1.6s linear infinite reverse; }
+@keyframes mg-spin { to { transform: rotate(360deg); } }
+.mg-bar { position: absolute; z-index: 3; top: 10px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 6px; max-width: calc(100% - 300px); padding: 5px 6px 5px 14px; border-radius: 999px; background: rgba(12, 16, 22, 0.94); border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: var(--bevel); pointer-events: auto; }
+.mg-bar p { min-width: 0; margin-right: 6px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font: 500 12.5px/1.2 var(--sans); color: var(--ink); }
+.mg-bar button { flex: none; padding: 6px 11px; border-radius: 999px; background: var(--card-3); border: 1px solid rgba(0, 0, 0, 0.6); box-shadow: var(--key); font: 500 12px/1 var(--sans); color: var(--ink); }
+.mg-bar button:hover { background: #1f2733; }
+.mg-bar button:active { box-shadow: var(--well); }
+
+@media (max-width: 560px) {
+  .mg-bar { top: auto; bottom: 74px; max-width: calc(100% - 24px); }
+  .mg-hint { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mg-astro-free.is-dock .mg-bob, .mg-astro.land, .mg-storm svg, .mg-pin::before { animation: none !important; }
+}

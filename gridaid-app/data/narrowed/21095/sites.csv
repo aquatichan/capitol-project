@@ -1,0 +1,27 @@
+name,lat,lon,type,osm
+Beech Grove School,36.78731,-83.329905,school,node/358581120
+Hall High School,36.80481,-83.304348,school,node/358591121
+Little Creek School,36.797866,-83.207676,school,node/358596171
+Mill Creek School,36.765088,-83.144062,school,node/358598456
+Upper Cranks Creek School,36.799811,-83.142673,school,node/358609183
+Green Hills Elementary School,36.899726,-83.34768,school,node/358612059
+Laurel School,36.936202,-83.214897,school,node/358612437
+Nolansburg School,36.926758,-83.169895,school,node/358612889
+Rosspoint School,36.887867,-83.285457,school,node/358613221
+Reuben Branch School,36.917311,-83.375183,school,node/358613931
+Evarts Fire Department,36.86415,-83.193798,fire_station,node/8909402554
+Loyall Fire Department,36.853545,-83.349223,fire_station,node/9943541270
+Harlan County Christian School,36.91654,-83.190205,school,way/452815969
+Laurel House,36.947753,-83.182184,community_centre,way/601150374
+Pine Mountain Settlement School,36.948283,-83.182651,school,way/601150383
+School (w848570515),36.885302,-83.275723,school,way/848570515
+Evarts Elementary School,36.869231,-83.193358,school,way/856145284
+School (w856145285),36.850384,-83.223794,school,way/856145285
+School (w856145293),36.784307,-83.22972,school,way/856145293
+School (w1084174453),36.822155,-83.411735,school,way/1084174453
+Harlan Elementary School,36.847443,-83.316907,school,way/1085195573
+School (w1085195574),36.846489,-83.318384,school,way/1085195574
+School (w1085233143),36.970753,-82.976547,school,way/1085233143
+Rebecca Caudill Public Library,36.974939,-82.992377,library,way/1342266455
+Evarts Public Library,36.863789,-83.193205,library,way/1342266698
+Harlan County Public Library,36.847221,-83.320214,library,way/1342267170

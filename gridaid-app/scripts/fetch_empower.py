@@ -112,7 +112,7 @@ def main():
             if not features or rows >= total:
                 break
             offset += len(features)
-            time.sleep(0.5)  # be polite to the server
+            time.sleep(0.5)  
             page = fetch_page(offset, with_geometry)
 
     print(f"Saved {rows} ZIP codes to {OUT_NAME}")

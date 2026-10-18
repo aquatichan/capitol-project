@@ -1,0 +1,59 @@
+/* ---------- the logo ---------- */
+.logo { display: inline-flex; align-items: center; font-family: var(--f-logo); font-weight: 600; letter-spacing: -0.045em; line-height: 1; color: var(--ink); white-space: nowrap; }
+.logo-bolt { width: 0.36em; height: 0.68em; margin: 0 0.035em; overflow: visible; fill: var(--gap); animation: bolt 2.6s ease-in-out infinite; }
+@keyframes bolt {
+  0%, 100% { opacity: 1; filter: drop-shadow(0 0 0 rgba(224, 67, 27, 0)); }
+  50% { opacity: 0.86; filter: drop-shadow(0 0 0.07em rgba(224, 67, 27, 0.6)); }
+}
+.logo-img { display: block; height: 1em; width: auto; }
+.logo-rise { display: inline-grid; }
+/* the wordmark is cut at 54.6% of its width, in the gap between the d of Grid and the A; the halves are pulled apart */
+.lg-half { grid-area: 1 / 1; }
+.lg-grid { transform: translateX(-0.95em); }
+.lg-aid { transform: translateX(0.8em); }
+.lg-grid .logo-img { clip-path: inset(0 45.4% 0 0); }
+.lg-aid .logo-img { clip-path: inset(0 0 0 54.6%); }
+.lg-mask { display: inline-block; overflow: hidden; padding: 0.1em 0.05em 0.06em; margin: -0.1em -0.05em -0.06em; }
+.lg-ch { display: block; }
+.lg-bolt .lg-ch { display: flex; align-items: center; height: 1em; }
+
+/* ---------- the stage: hero + planner share one pinned screen ---------- */
+.stage { position: relative; background: transparent; overflow: hidden; overflow: clip; }
+.stage[data-motion="pin"] { height: 100svh; min-height: 680px; }
+.stage-laser { position: absolute; inset: 0; z-index: 1; pointer-events: none; }
+/* waiting for the intro: the wordmark sits below its mask and the names are hidden */
+.stage[data-intro="1"] .lg-ch { transform: translateY(115%); }
+.stage[data-intro="1"] .fx-in { opacity: 0; visibility: hidden; }
+
+.stage-hero { position: absolute; inset: 0; pointer-events: none; }
+.stage-hero > * { pointer-events: none; }
+.stage-hero a, .stage-hero button { pointer-events: auto; }
+
+/* the wordmark sits above the map window */
+.hero-logo { position: absolute; z-index: 4; left: 0; right: 0; top: clamp(60px, 10.5vh, 120px); margin: 0; display: flex; justify-content: center; font-size: clamp(76px, 12vw, 190px); will-change: transform; }
+
+.hero-lead-wrap { position: absolute; z-index: 4; left: 50%; bottom: 76px; width: min(58ch, calc(100% - 40px)); transform: translateX(-50%); text-align: center; }
+.hero-lead { font-size: clamp(13.5px, 1.05vw, 16px); line-height: 1.55; color: #f4f6f9; text-shadow: 0 1px 12px rgba(0, 0, 0, 0.9); }
+
+.hero-cue { position: absolute; z-index: 4; left: 0; right: 0; bottom: 18px; display: flex; justify-content: center; align-items: center; gap: 22px; }
+.skip { display: inline-block; text-decoration: none; font: 500 10.5px/1 var(--f-mono); letter-spacing: 0.08em; text-transform: uppercase; padding: 9px 13px; border: 1px solid var(--ink); background: var(--card); transition: background 0.15s, color 0.15s; }
+.skip:hover { background: var(--ink); color: var(--card); }
+.cue { display: inline-flex; align-items: center; gap: 10px; font: 500 10.5px/1 var(--f-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+.cue i { position: relative; width: 1px; height: 22px; background: var(--rule-3); overflow: hidden; }
+.cue i::after { content: ""; position: absolute; left: 0; top: -10px; width: 1px; height: 10px; background: var(--gap); animation: cue 1.6s cubic-bezier(.6, 0, .3, 1) infinite; }
+@keyframes cue { to { top: 22px; } }
+
+/* ---------- flow mode: small screens and reduced motion; hero is a plain block above the planner ---------- */
+.stage[data-motion="flow"] .stage-hero { position: relative; inset: auto; display: flex; flex-direction: column; align-items: center; gap: 22px; padding-bottom: 28px; min-height: min(78svh, 640px); justify-content: center; }
+.stage[data-motion="flow"] .hero-bar { position: relative; align-self: stretch; flex-wrap: wrap; }
+.stage[data-motion="flow"] .hero-logo { position: relative; top: auto; font-size: clamp(72px, 22vw, 170px); margin-top: clamp(16px, 5vh, 48px); }
+.stage[data-motion="flow"] .hero-lead-wrap { position: relative; left: auto; bottom: auto; transform: none; padding: 0 16px; }
+.stage[data-motion="flow"] .hero-cue { position: relative; inset: auto; }
+.stage[data-motion="flow"] .cue { display: none; }
+@media (max-width: 720px) {
+  .hero-bar { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .hero-nav { justify-content: flex-start; }
+}
+@media (max-width: 560px) {
+  .hero-nav { display: none; }
+}

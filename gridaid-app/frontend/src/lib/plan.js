@@ -3,7 +3,7 @@
 
 const RAD = Math.PI / 180;
 export const TARGETS = [80, 90, 95];
-export const KLIVE = 40;                       // how many centers the live greedy computes (for "budget needed")
+export const KLIVE = 300;                      // how many centers the live greedy computes (a big budget buys ~270 hookups)
 
 export function hav(lat1, lon1, lat2, lon2) {  // miles
   const x = Math.sin(((lat2 - lat1) * RAD) / 2) ** 2 +
@@ -114,7 +114,7 @@ function jitterCloud(county, seed) {                       // same model as buil
 export function evaluatePlan(county, D, sel, R, seed = 0) {
   const { zips, sites } = county, Z = zips.length;
   const w = zips.map((z) => z.w), tot = w.reduce((a, b) => a + b, 0) || 1;
-  const cnt = new Uint8Array(Z), lo = new Uint8Array(Z), hi = new Uint8Array(Z);
+  const cnt = new Uint16Array(Z), lo = new Uint8Array(Z), hi = new Uint8Array(Z);
   for (const s of sel)
     for (let z = 0; z < Z; z++) {
       const d = D[s * Z + z];

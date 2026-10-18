@@ -1,0 +1,50 @@
+:root {
+  color-scheme: dark;
+
+  /* space: near-black page, gunmetal panels, recessed screens, light ink */
+  --space: #030509;
+  --paper: #05070b;
+  --paper-2: #0b0f15;
+  --card: #10151c;
+  --card-2: #0a0d12;
+  --card-3: #171d26;
+  --ink: #e8ecf1;
+  --ink-2: #aeb8c4;
+  --ink-3: #7a8594;
+  --rule: rgba(255, 255, 255, 0.06);
+  --rule-2: rgba(255, 255, 255, 0.15);
+  --rule-3: rgba(255, 255, 255, 0.1);
+
+  /* one data hue on the map (dim to bright = more people) and one signal (out of reach) */
+  --blue-1: #16263b;
+  --blue-2: #1c3b62;
+  --blue-3: #23568a;
+  --blue-4: #3274b0;
+  --blue-5: #5596d1;
+  --blue-6: #8cbcea;
+  --gap: #ff6a4d;
+  --gap-d: #ff8b73;
+  --accent: #6cb6ff;
+  --signal: #ffc24a;
+
+  /* instrument colours: each kind of reading keeps one colour across the page */
+  --amber: #ffc24a;     /* centers, the night lights */
+  --cyan: #5fd3e8;      /* distance, lookups */
+  --green: #6fe3a5;     /* covered */
+  --violet: #b9a2ff;    /* money */
+
+  /* panel physics: lit from above, a hard edge underneath, readouts sunk into the face */
+  --bevel: inset 0 1px 0 rgba(255, 255, 255, 0.03), 0 0 0 1px rgba(0, 0, 0, 0.5), 0 12px 26px -18px rgba(0, 0, 0, 0.9);
+  --well: inset 0 2px 5px rgba(0, 0, 0, 0.7), inset 0 0 0 1px rgba(0, 0, 0, 0.55), 0 1px 0 rgba(255, 255, 255, 0.05);
+  --key: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.7), 0 2px 6px -2px rgba(0, 0, 0, 0.8);
+
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --f-display: var(--sans);
+  --f-body: var(--sans);
+  --f-logo: "Oxanium Variable", "Oxanium", "Arial Narrow", sans-serif;
+  --f-mono: var(--sans);
+
+  --gutter: 10px;
+  --g: 6px;
+  --r: 7px;
+}

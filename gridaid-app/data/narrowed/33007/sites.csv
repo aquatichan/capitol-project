@@ -1,0 +1,76 @@
+name,lat,lon,type,osm
+Blake School,44.606165,-71.440083,school,node/357718206
+Cates Hill School,44.511446,-71.186466,school,node/357718902
+Cone School,44.821993,-71.560642,school,node/357719336
+Cummings School,44.518668,-71.482027,school,node/357719609
+Dummer Plain School,44.614776,-71.313414,school,node/357720024
+East Whitefield School,44.400616,-71.554527,school,node/357720126
+Elm Ridge School,44.472836,-71.528416,school,node/357720245
+Doctor George S Emerson Elementary School,44.631442,-71.455083,school,node/357720270
+Gore School,44.464225,-71.483415,school,node/357721107
+Grand Vision School,44.853381,-71.461195,school,node/357721195
+Grange School,44.486447,-71.506471,school,node/357721200
+Great Rock School,44.49728,-71.505916,school,node/357721300
+Hamlin School,44.545056,-71.161189,school,node/357721545
+Hodgdon Hill School,44.555055,-71.28119,school,node/357722000
+Jewett School,44.589777,-71.1848,school,node/357722711
+Milan Hill School,44.579777,-71.232579,school,node/357724137
+Mohawk School,44.873937,-71.401193,school,node/357724325
+Mount Cabot School,44.487513,-71.472984,school,node/357724485
+Osburn School,44.34895,-71.607028,school,node/357725154
+Pine Grove School,44.320618,-71.560082,school,node/357725679
+Pontook School,44.613942,-71.237023,school,node/357726050
+South Columbia School,44.789771,-71.572587,school,node/357727607
+Stebbins Hill School,44.468391,-71.575918,school,node/357727830
+Union School,44.402004,-71.721199,school,node/357728526
+Bear Rock School,44.932825,-71.375914,school,node/357729250
+Brackett School,44.913936,-71.457583,school,node/357729254
+Bartlett Elementary School,44.468114,-71.18841,school,node/357729619
+Saint Josephs School,44.469321,-71.190102,school,node/357730710
+School Number 10,44.427837,-71.622308,school,node/357731242
+School Number 2,44.475336,-71.615086,school,node/357731246
+School Number 9,44.382004,-71.727033,school,node/357731253
+Jacobs Ladder School,44.38006,-71.614807,school,node/357740447
+Numismatic International Book Library,44.893936,-71.490362,library,node/366494937
+Northumberland Public Library,44.598732,-71.513949,library,node/366494938
+Gorham Public Library,44.387561,-71.176834,library,node/366494946
+William D Weeks Memorial Library,44.491023,-71.570791,library,node/366495001
+Randolph Public Library,44.375237,-71.282404,library,node/5835225817
+Whitefield Public Library,44.37393,-71.610724,library,node/7415806097
+Randolph Fire Station,44.370687,-71.264846,fire_station,node/8152032433
+Whitefield Fire Department,44.370578,-71.615126,fire_station,node/8156404964
+Jefferson Library,44.420367,-71.475848,library,node/8156938188
+Colebrook Fire Department,44.893837,-71.494967,fire_station,node/9893133895
+Bremer Pond Memorial Library,45.052127,-71.390467,library,node/9898119590
+Twin Mountain Fire Department,44.273248,-71.542824,fire_station,node/11351382886
+Berlin Fire Department,44.471598,-71.178576,fire_station,node/11552584263
+Community Centre (n12207783225),44.582997,-71.531895,community_centre,node/12207783225
+Dummer Public Library,44.609147,-71.202245,library,node/12731329591
+Errol Emergency Services,44.779825,-71.133183,fire_station,way/432827566
+Library (w432827574),44.7805,-71.135541,library,way/432827574
+Dalton Fire & Rescue,44.416071,-71.694311,fire_station,way/856533280
+Milan Village School,44.573774,-71.184553,school,way/857942838
+Pittsburg Fire Station,45.051055,-71.381118,fire_station,way/858337244
+Stark Volunteer Fire Department,44.596566,-71.413969,fire_station,way/858720401
+Berlin Elementary School,44.475258,-71.182184,school,way/865486551
+Jefferson Volunteer Fire Department,44.42179,-71.480079,fire_station,way/874729867
+Groveton High School,44.599619,-71.516817,school,way/1079321198
+Groveton Elementary School,44.598046,-71.51221,school,way/1079321203
+Pittsburg Ridge Runners Warming Hut,45.085177,-71.345518,community_centre,way/1104843983
+The Lancaster School,44.500279,-71.582449,school,way/1174664723
+Gorham Middle & High School,44.390261,-71.177848,school,way/1207257936
+The Whitefield School,44.366378,-71.602852,school,way/1216584851
+White Mountains Regional High School,44.418209,-71.602669,school,way/1216586202
+Edward Fenn Elementary School,44.389629,-71.183374,school,way/1216592437
+Errol Consolidated School,44.780746,-71.134922,school,way/1216594398
+Stark Village School,44.600308,-71.408412,school,way/1216600235
+Stratford Public School,44.748889,-71.625601,school,way/1216602802
+Colebrook Academy & Elementary School,44.891166,-71.500588,school,way/1216608371
+Stewartstown Community School,44.998945,-71.523455,school,way/1216614998
+Pittsburg School,45.05259,-71.389819,school,way/1216615637
+Berlin Public Library,44.47143,-71.178157,library,way/1243058417
+Shelburne Public Library,44.39942,-71.074489,library,way/1361736883
+Shelburne Fire Department,44.401888,-71.075103,fire_station,way/1361736885
+Heartwood Public Charter School,44.399723,-71.436497,school,way/1380001083
+Brown Elementary School,44.483578,-71.168118,school,way/1380304872
+Berlin Middle High School,44.48204,-71.19208,school,way/1380305721
